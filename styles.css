@@ -81,4 +81,12 @@
         color: red; /* Example: change color for visited links */
         text-decoration: underline; /* Underline for visited links */
     }
+
+    code {
+        font-family: 'Nunito', sans-serif;
+        padding: 2px 6px;
+        border-radius: 4px;
+        font-size: 0.95em;
+        color: red;
+    }
     
