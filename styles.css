@@ -89,4 +89,25 @@
         font-size: 0.95em;
         color: red;
     }
+
+    .kanji-grid {
+        display: grid;
+        grid-template-columns: repeat(10, 1fr);
+        gap: 10px;
+        padding: 1px;
+        text-align: center;
+        font-size: 2em;
+    }
+    
+    .kanji-grid span {
+        border: 1px solid #000;
+        padding: 10px;
+        background-color: #ffffee;
+    }
+    
+    .nav-line {
+        display: flex;
+        justify-content: space-between; /* Push items to left and right edges */
+        align-items: center;
+    }
     
