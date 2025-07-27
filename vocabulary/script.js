@@ -1,6 +1,7 @@
 let allWords = [];
 let filteredWords = [];
 let currentWord = {};
+const mistakeCounts = {};
 
 async function loadWords() {
     try {
@@ -68,8 +69,28 @@ function checkAnswer() {
     } else {
         result.textContent = `❌ Salah. Jawaban benar: ${currentWord.japanese}`;
         result.style.color = "red";
+        trackMistake(currentWord.indonesian);
+    }
+
+    updateMistakeSummary();
+}
+
+function trackMistake(word) {
+    if (mistakeCounts[word]) {
+        mistakeCounts[word]++;
+    } else {
+        mistakeCounts[word] = 1;
     }
 }
+
+function updateMistakeSummary() {
+    const summary = Object.entries(mistakeCounts)
+        .map(([word, count]) => `${word} : ${count}`)
+        .join('\n');
+
+    document.getElementById("mistake-summary").textContent = summary;
+}
+
 
 function toggleLevelFilters() {
     const filterDiv = document.getElementById("level-filters");
