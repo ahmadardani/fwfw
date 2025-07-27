@@ -2,6 +2,9 @@ let allWords = [];
 let filteredWords = [];
 let currentWord = {};
 const mistakeCounts = {};
+let questionMode = 'random';  // default
+let currentIndex = 0;
+
 
 async function loadWords() {
     try {
@@ -43,8 +46,14 @@ function filterWords() {
 
     filteredWords = allWords.filter(word => checkedLevels.includes(word.level));
 
+    if (questionMode === 'ordered') {
+        filteredWords.sort((a, b) => a.level.localeCompare(b.level));
+    }
+
+    currentIndex = 0;
     nextQuestion();
 }
+
 
 function nextQuestion() {
     document.getElementById("result").textContent = "";
@@ -55,9 +64,19 @@ function nextQuestion() {
         return;
     }
 
-    currentWord = filteredWords[Math.floor(Math.random() * filteredWords.length)];
+    if (questionMode === 'random') {
+        currentWord = filteredWords[Math.floor(Math.random() * filteredWords.length)];
+    } else if (questionMode === 'ordered') {
+        if (currentIndex >= filteredWords.length) {
+            currentIndex = 0; // Mulai ulang jika habis
+        }
+        currentWord = filteredWords[currentIndex];
+        currentIndex++;
+    }
+
     document.getElementById("indonesian-word").textContent = currentWord.indonesian;
 }
+
 
 function checkAnswer() {
     const userAnswer = document.getElementById("answer").value.trim();
@@ -104,5 +123,17 @@ function toggleLevelFilters() {
         toggleButton.textContent = "Tampilkan Pilihan Level";
     }
 }
+
+function setQuestionMode(mode) {
+    questionMode = mode;
+    currentIndex = 0;
+
+    if (questionMode === 'ordered') {
+        filteredWords.sort((a, b) => a.level.localeCompare(b.level));
+    }
+
+    nextQuestion();
+}
+
 
 window.onload = loadWords;
