@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Kuis Kosakata Jepang</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h2>Kuis Kosakata Jepang</h2>
+
+    <div class="question" id="question">Apa bahasa Jepang untuk: <b id="indonesian-word"></b>?</div>
+    <input type="text" id="answer" placeholder="Tulis dalam huruf Jepang (kanji/kana)">
+    <button onclick="checkAnswer()">Cek Jawaban</button>
+    <div class="result" id="result"></div>
+    <button onclick="nextQuestion()">Soal Berikutnya</button>
+
+    <br>
+    <br>
+
+    <button id="toggle-filters" onclick="toggleLevelFilters()">Tampilkan Pilihan Level</button>
+    <div id="level-filters" style="display: none; margin-top: 10px;">
+        <p><b>Pilih Level:</b></p>
+        <!-- Checkbox akan di-generate oleh JS -->
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

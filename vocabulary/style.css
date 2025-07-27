@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    background-color: #f1f1f1;
+}
+
+.container {
+    background: white;
+    padding: 30px;
+    max-width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+.question {
+    font-size: 24px;
+    margin: 20px 0;
+}
+
+input[type="text"] {
+    width: 95%;
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 5px;
+}
+
+.result {
+    margin-top: 15px;
+    font-weight: bold;
+}
