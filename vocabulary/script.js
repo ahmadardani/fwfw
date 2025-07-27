@@ -59,18 +59,23 @@ function nextQuestion() {
     document.getElementById("result").textContent = "";
     document.getElementById("answer").value = "";
 
+    const questionNumber = document.getElementById("question-number");
+
     if (filteredWords.length === 0) {
         document.getElementById("indonesian-word").textContent = "— (tidak ada soal)";
+        questionNumber.textContent = "";
         return;
     }
 
     if (questionMode === 'random') {
         currentWord = filteredWords[Math.floor(Math.random() * filteredWords.length)];
+        questionNumber.textContent = ""; // kosongkan jika mode acak
     } else if (questionMode === 'ordered') {
         if (currentIndex >= filteredWords.length) {
-            currentIndex = 0; // Mulai ulang jika habis
+            currentIndex = 0; // Mulai ulang jika sudah sampai akhir
         }
         currentWord = filteredWords[currentIndex];
+        questionNumber.textContent = `Soal ${currentIndex + 1} / ${filteredWords.length}`;
         currentIndex++;
     }
 
