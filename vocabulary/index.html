@@ -27,11 +27,13 @@
     </div>
 
     <!-- Tambahkan ini -->
-    <div style="margin-top: 10px;">
+    <button id="toggle-mode-options" onclick="toggleModeOptions()" style="margin-top: 10px;">Tampilkan Mode Soal</button>
+    <div id="mode-options" style="display: none; margin-top: 10px;">
         <p><b>Mode Soal:</b></p>
-        <button onclick="setQuestionMode('ordered')">Urut</button>
-        <button onclick="setQuestionMode('random')">Acak</button>
+        <button id="ordered-btn" onclick="setQuestionMode('ordered')">Urut</button>
+        <button id="random-btn" onclick="setQuestionMode('random')">Acak</button>
     </div>
+    
     <h3>Daftar Kesalahan</h3>
     <pre id="mistake-summary"></pre>
 </div>

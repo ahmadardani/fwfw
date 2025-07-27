@@ -17,6 +17,7 @@ async function loadWords() {
     } catch (error) {
         console.error('Gagal memuat wordlist.json:', error);
     }
+    document.getElementById("random-btn").classList.add("active-mode");
 }
 
 function generateLevelFilters() {
@@ -137,7 +138,34 @@ function setQuestionMode(mode) {
         filteredWords.sort((a, b) => a.level.localeCompare(b.level));
     }
 
+    const orderedBtn = document.getElementById("ordered-btn");
+    const randomBtn = document.getElementById("random-btn");
+
+    orderedBtn.classList.remove("active-mode");
+    randomBtn.classList.remove("active-mode");
+
+    if (mode === 'ordered') {
+        orderedBtn.classList.add("active-mode");
+    } else {
+        randomBtn.classList.add("active-mode");
+    }
+
     nextQuestion();
+}
+
+
+
+function toggleModeOptions() {
+    const modeDiv = document.getElementById("mode-options");
+    const toggleButton = document.getElementById("toggle-mode-options");
+
+    if (modeDiv.style.display === "none") {
+        modeDiv.style.display = "block";
+        toggleButton.textContent = "Sembunyikan Mode Soal";
+    } else {
+        modeDiv.style.display = "none";
+        toggleButton.textContent = "Tampilkan Mode Soal";
+    }
 }
 
 

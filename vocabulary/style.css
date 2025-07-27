@@ -45,3 +45,8 @@ button {
     margin-top: 15px;
     font-weight: bold;
 }
+
+.active-mode {
+    background-color: #007BFF;
+    color: white;
+}
