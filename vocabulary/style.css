@@ -27,7 +27,7 @@ input[type="text"] {
     width: 95%;
     font-size: 18px;
     padding: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 1px;
 }
 
 button {
@@ -46,7 +46,3 @@ button {
     font-weight: bold;
 }
 
-.active-mode {
-    background-color: #007BFF;
-    color: white;
-}

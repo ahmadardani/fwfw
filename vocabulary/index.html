@@ -13,8 +13,9 @@
 
     <div class="question" id="question">Apa bahasa Jepang untuk: <b id="indonesian-word"></b>?</div>
     <input type="text" id="answer" placeholder="Tulis dalam huruf Jepang (kanji/kana)">
-    <button onclick="checkAnswer()">Cek Jawaban</button>
     <div class="result" id="result"></div>
+    <br>
+    <button onclick="checkAnswer()">Cek Jawaban</button>
     <button onclick="nextQuestion()">Soal Berikutnya</button>
 
     <br>
@@ -36,6 +37,7 @@
     
     <h3>Daftar Kesalahan</h3>
     <pre id="mistake-summary"></pre>
+    <button onclick="startMistakeReview()">Ulangi Kata Salah</button>
 </div>
 
 <script src="script.js"></script>

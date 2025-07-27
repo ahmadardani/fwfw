@@ -4,6 +4,8 @@ let currentWord = {};
 const mistakeCounts = {};
 let questionMode = 'random';  // default
 let currentIndex = 0;
+let isReviewMode = false;
+let mistakeWords = [];
 
 
 async function loadWords() {
@@ -62,26 +64,34 @@ function nextQuestion() {
 
     const questionNumber = document.getElementById("question-number");
 
-    if (filteredWords.length === 0) {
+    let questionPool = isReviewMode ? mistakeWords : filteredWords;
+
+    if (questionPool.length === 0) {
         document.getElementById("indonesian-word").textContent = "— (tidak ada soal)";
         questionNumber.textContent = "";
         return;
     }
 
-    if (questionMode === 'random') {
-        currentWord = filteredWords[Math.floor(Math.random() * filteredWords.length)];
-        questionNumber.textContent = ""; // kosongkan jika mode acak
-    } else if (questionMode === 'ordered') {
-        if (currentIndex >= filteredWords.length) {
-            currentIndex = 0; // Mulai ulang jika sudah sampai akhir
+    if (questionMode === 'random' && !isReviewMode) {
+        currentWord = questionPool[Math.floor(Math.random() * questionPool.length)];
+        questionNumber.textContent = "";
+    } else {
+        if (currentIndex >= questionPool.length) {
+            currentIndex = 0;
+            if (isReviewMode) {
+                alert("Sesi ulangi kesalahan selesai.");
+                isReviewMode = false;
+                mistakeWords = [];
+            }
         }
-        currentWord = filteredWords[currentIndex];
-        questionNumber.textContent = `Soal ${currentIndex + 1} / ${filteredWords.length}`;
+        currentWord = questionPool[currentIndex];
         currentIndex++;
+        questionNumber.textContent = `Soal ${currentIndex} / ${questionPool.length}`;
     }
 
     document.getElementById("indonesian-word").textContent = currentWord.indonesian;
 }
+
 
 
 function checkAnswer() {
@@ -166,6 +176,25 @@ function toggleModeOptions() {
         modeDiv.style.display = "none";
         toggleButton.textContent = "Tampilkan Mode Soal";
     }
+}
+
+function startMistakeReview() {
+    // Ambil daftar kata yang pernah salah (berdasarkan indonesian word)
+    const mistakeKeys = Object.keys(mistakeCounts);
+    if (mistakeKeys.length === 0) {
+        alert("Tidak ada kesalahan yang tercatat.");
+        return;
+    }
+
+    // Ambil objek word dari allWords
+    mistakeWords = mistakeKeys
+        .map(word => allWords.find(w => w.indonesian === word))
+        .filter(Boolean); // Buang null jika ada
+
+    isReviewMode = true;
+    currentIndex = 0;
+
+    nextQuestion(); // mulai soal ulangi
 }
 
 
