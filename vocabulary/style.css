@@ -7,12 +7,18 @@ body {
 
 .container {
     background: #fff5ee;
-    padding: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
     max-width: 720px;
     width: 100%;
     margin: auto;
     border: 1px solid black;
     box-sizing: border-box;
+}
+
+hr {
+  border-top: 1px dashed black;
 }
 
 h2 {
@@ -66,7 +72,9 @@ button {
     }
 
     .container {
-        padding: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
         height: 100vh;
         overflow-y: auto;
         border-radius: 0;
