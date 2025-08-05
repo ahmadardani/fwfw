@@ -62,6 +62,15 @@ button {
     text-align: center;
 }
 
+.kanji {
+    margin-bottom: 10px; 
+    font-size: 30px; 
+    color: rgb(92, 62, 62);
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
 /* ==== RESPONSIVE HANYA UNTUK SMARTPHONE 720px KE BAWAH ==== */
 @media (max-width: 720px) {
     body > *:not(.container) {
@@ -96,3 +105,25 @@ button {
         font-size: 16px;
     }
 }
+
+    a {
+        color: black; /* Default text color for all links */
+        background-color: transparent; /* Default background for all links */
+        text-decoration: none; /* No underline by default for all links */
+    }
+    
+    a:hover {
+        /* This rule will still apply if you hover, but if you want *only* on click, you might remove this or modify */
+        text-decoration: underline; /* Underline on hover (you can adjust this if not desired) */
+        font-weight: bold;
+    }
+    
+    a:active {
+        text-decoration: underline; /* Underline when the link is being clicked */
+    }
+    
+    a:visited {
+        /* This applies to links that have already been clicked and visited */
+        color: black; /* Example: change color for visited links */
+        text-decoration: underline; /* Underline for visited links */
+    }

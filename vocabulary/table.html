@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Daftar Kosakata Jepang</title>
+  <link rel="stylesheet" href="table-style.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Daftar Kosakata Jepang</h2>
+    <hr>
+    <div id="table-container">
+      <!-- Bagian ini akan diisi otomatis oleh JavaScript -->
+    </div>
+  </div>
+
+  <script>
+    async function loadWordTable() {
+      try {
+        const response = await fetch('wordlist.json');
+        const wordList = await response.json();
+        const container = document.getElementById("table-container");
+
+        // Ambil semua level unik
+        const levels = [...new Set(wordList.map(word => word.level))];
+
+        levels.forEach(level => {
+          // Buat elemen h3 untuk setiap level
+          const heading = document.createElement("h3");
+          heading.textContent = level;
+          container.appendChild(heading);
+
+          // Buat tabel untuk level ini
+          const table = document.createElement("table");
+
+          const thead = document.createElement("thead");
+          thead.innerHTML = `
+            <tr>
+              <th>Bahasa Indonesia</th>
+              <th>Bahasa Jepang</th>
+              <th>Kanji</th>
+            </tr>
+          `;
+          table.appendChild(thead);
+
+          const tbody = document.createElement("tbody");
+
+          wordList
+            .filter(word => word.level === level)
+            .forEach(word => {
+              const row = document.createElement("tr");
+              row.innerHTML = `
+                <td>${word.indonesian}</td>
+                <td>${word.japanese}</td>
+                <td>${word.kanji || '-'}</td>
+              `;
+              tbody.appendChild(row);
+            });
+
+          table.appendChild(tbody);
+          container.appendChild(table);
+        });
+      } catch (error) {
+        console.error("Gagal memuat data:", error);
+      }
+    }
+
+    window.onload = loadWordTable;
+  </script>
+</body>
+</html>

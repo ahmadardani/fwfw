@@ -90,6 +90,15 @@ function nextQuestion() {
     }
 
     document.getElementById("indonesian-word").textContent = currentWord.indonesian;
+    const kanjiDiv = document.getElementById("kanji-word");
+    const showKanji = document.getElementById("toggle-kanji").checked;
+
+    if (showKanji && currentWord.kanji) {
+        kanjiDiv.textContent = `${currentWord.kanji}`;
+    } else {
+    kanjiDiv.textContent = "";
+    }
+    document.getElementById("kanji-word").textContent = "";
 }
 
 
@@ -97,6 +106,8 @@ function nextQuestion() {
 function checkAnswer() {
     const userAnswer = document.getElementById("answer").value.trim();
     const result = document.getElementById("result");
+    const kanjiDiv = document.getElementById("kanji-word");
+    const showKanji = document.getElementById("toggle-kanji").checked;
 
     if (userAnswer === currentWord.japanese) {
         result.textContent = "✅ Benar!";
@@ -105,6 +116,13 @@ function checkAnswer() {
         result.textContent = `❌ Salah. Jawaban benar: ${currentWord.japanese}`;
         result.style.color = "red";
         trackMistake(currentWord.indonesian);
+    }
+
+    // Tampilkan kanji hanya jika user mengaktifkan opsi dan kanji tersedia
+    if (showKanji && currentWord.kanji) {
+        kanjiDiv.textContent = `${currentWord.kanji}`;
+    } else {
+        kanjiDiv.textContent = "";
     }
 
     updateMistakeSummary();

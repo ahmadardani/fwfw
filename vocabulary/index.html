@@ -13,7 +13,7 @@
     <hr>
     <br>
     <p id="question-number" style="font-weight: bold; margin-bottom: 10px;"></p>
-
+    <div id="kanji-word" class="kanji"></div>
     <div class="question" id="question">Apa bahasa Jepangnya: <b id="indonesian-word"></b> ?</div>
     <input type="text" id="answer" placeholder="Tulis dalam huruf Jepang (Kana)">
     <div class="result" id="result"></div>
@@ -24,7 +24,7 @@
 
     <br>
     <br>
-
+    <hr>
     <button id="toggle-filters" onclick="toggleLevelFilters()">Tampilkan Pilihan Level</button>
     <div id="level-filters" style="display: none; margin-top: 10px;">
         <p><b>Pilih Level:</b></p>
@@ -37,7 +37,13 @@
         <p><b>Mode Soal:</b></p>
         <button id="ordered-btn" onclick="setQuestionMode('ordered')">Urut</button>
         <button id="random-btn" onclick="setQuestionMode('random')">Acak</button>
+
+        <p><b>Kanji:</b></p>
+    <label><input type="checkbox" id="toggle-kanji" checked onchange="nextQuestion()"> Lihat Kanji</label>
+        <p><b>Kosakata:</b></p>
+        <p><a href="table.html">Lihat Semua Kosakata</a></p>
     </div>
+
     
     <h3>Daftar Kesalahan</h3>
     <pre id="mistake-summary"></pre>
