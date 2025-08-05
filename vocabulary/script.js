@@ -28,12 +28,11 @@ function generateLevelFilters() {
 
     levels.forEach(level => {
         const label = document.createElement('label');
-        label.style.marginRight = '10px';
 
         const checkbox = document.createElement('input');
         checkbox.type = 'checkbox';
         checkbox.value = level;
-        checkbox.checked = true;
+        checkbox.checked = false; // default to unselected
         checkbox.addEventListener('change', filterWords);
 
         label.appendChild(checkbox);
@@ -42,6 +41,7 @@ function generateLevelFilters() {
         levelFilters.appendChild(label);
     });
 }
+
 
 function filterWords() {
     const checkedLevels = Array.from(document.querySelectorAll('#level-filters input:checked'))
@@ -67,7 +67,7 @@ function nextQuestion() {
     let questionPool = isReviewMode ? mistakeWords : filteredWords;
 
     if (questionPool.length === 0) {
-        document.getElementById("indonesian-word").textContent = "— (tidak ada soal)";
+        document.getElementById("indonesian-word").textContent = "— (Tidak ada level yang dipilih!)";
         questionNumber.textContent = "";
         return;
     }

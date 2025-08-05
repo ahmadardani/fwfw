@@ -7,7 +7,7 @@ body {
 
 .container {
     background: #fff5ee;
-    padding: 20px;
+    padding: 0 20px 20px 20px; /* No top padding */
     max-width: 720px;
     width: 100%;
     margin: auto;
@@ -98,7 +98,7 @@ a:visited {
     }
 
     .container {
-        padding: 15px;
+        padding: 0 20px 20px 20px; /* No top padding */
         border-radius: 0;
         box-sizing: border-box;
     }
@@ -117,3 +117,26 @@ a:visited {
     }
 }
 
+#level-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;              /* space between each label+checkbox */
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #fff5ee;
+    border-radius: 6px;
+}
+
+#level-filters label {
+    display: inline-flex;   /* force label + checkbox inline */
+    align-items: center;
+    padding: 6px 10px;
+    font-size: 14px;
+    background-color: #fff5ee;
+    white-space: nowrap;    /* prevent wrapping inside label */
+    cursor: pointer;
+}
+
+#level-filters input[type="checkbox"] {
+    margin-right: 6px;     /* space between checkbox and text */
+}
