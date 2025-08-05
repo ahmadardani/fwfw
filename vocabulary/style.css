@@ -7,9 +7,7 @@ body {
 
 .container {
     background: #fff5ee;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-bottom: 50px;
+    padding: 20px;
     max-width: 720px;
     width: 100%;
     margin: auto;
@@ -18,7 +16,7 @@ body {
 }
 
 hr {
-  border-top: 1px dashed black;
+    border-top: 1px dashed black;
 }
 
 h2 {
@@ -63,33 +61,46 @@ button {
 }
 
 .kanji {
-    margin-bottom: 10px; 
-    font-size: 30px; 
+    margin-bottom: 10px;
+    font-size: 30px;
     color: rgb(92, 62, 62);
     font-family: sans-serif;
     font-weight: bold;
     text-align: center;
 }
 
-/* ==== RESPONSIVE HANYA UNTUK SMARTPHONE 720px KE BAWAH ==== */
-@media (max-width: 720px) {
-    body > *:not(.container) {
-        display: none !important;
-    }
+a {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
 
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: black;
+    text-decoration: underline;
+}
+
+/* ==== RESPONSIVE FOR DEVICES <= 720px ==== */
+@media (max-width: 720px) {
     body {
-        padding: 0;
+        padding: 10px;
         margin: 0;
         background-color: #fff5ee;
     }
 
     .container {
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-bottom: 50px;
-        height: 100vh;
-        overflow-y: auto;
+        padding: 15px;
         border-radius: 0;
+        box-sizing: border-box;
     }
 
     h2 {
@@ -106,24 +117,3 @@ button {
     }
 }
 
-    a {
-        color: black; /* Default text color for all links */
-        background-color: transparent; /* Default background for all links */
-        text-decoration: none; /* No underline by default for all links */
-    }
-    
-    a:hover {
-        /* This rule will still apply if you hover, but if you want *only* on click, you might remove this or modify */
-        text-decoration: underline; /* Underline on hover (you can adjust this if not desired) */
-        font-weight: bold;
-    }
-    
-    a:active {
-        text-decoration: underline; /* Underline when the link is being clicked */
-    }
-    
-    a:visited {
-        /* This applies to links that have already been clicked and visited */
-        color: black; /* Example: change color for visited links */
-        text-decoration: underline; /* Underline for visited links */
-    }
