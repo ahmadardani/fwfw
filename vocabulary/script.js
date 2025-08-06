@@ -214,5 +214,17 @@ function startMistakeReview() {
     nextQuestion(); // mulai soal ulangi
 }
 
+function toggleMistakeSection() {
+    const section = document.getElementById("mistake-section");
+    const button = document.getElementById("toggle-mistakes");
+
+    if (section.style.display === "none") {
+        section.style.display = "block";
+        button.textContent = "Sembunyikan Daftar Kesalahan";
+    } else {
+        section.style.display = "none";
+        button.textContent = "Tampilkan Daftar Kesalahan";
+    }
+}
 
 window.onload = loadWords;

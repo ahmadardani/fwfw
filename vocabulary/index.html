@@ -38,8 +38,8 @@
     <div id="mode-options" style="display: none; margin-top: 10px;">
         <p><b>Mode Soal:</b></p>
         <div class="mode-choice">
-            <label><input type="radio" name="mode" value="ordered" onchange="setQuestionMode(this.value)"> Urut</label><br>
             <label><input type="radio" name="mode" value="random" checked onchange="setQuestionMode(this.value)"> Acak</label>
+            <label><input type="radio" name="mode" value="ordered" onchange="setQuestionMode(this.value)"> Urut</label><br>
         </div>
         <p><b>Kanji:</b></p>
     <label><input type="checkbox" id="toggle-kanji" checked onchange="nextQuestion()"> Lihat Kanji</label>
@@ -48,9 +48,13 @@
     </div>
 
     
+    <button id="toggle-mistakes" onclick="toggleMistakeSection()">Tampilkan Daftar Kesalahan</button>
+
+        <div id="mistake-section" style="display: none; margin-top: 15px;">
     <h3>Daftar Kesalahan</h3>
     <pre id="mistake-summary"></pre>
     <button onclick="startMistakeReview()">Ulangi Kata Salah</button>
+    </div>
 </div>
 
 <script src="script.js"></script>
