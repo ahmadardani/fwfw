@@ -166,17 +166,16 @@ function setQuestionMode(mode) {
         filteredWords.sort((a, b) => a.level.localeCompare(b.level));
     }
 
-    const orderedBtn = document.getElementById("ordered-btn");
-    const randomBtn = document.getElementById("random-btn");
-
-    orderedBtn.classList.remove("active-mode");
-    randomBtn.classList.remove("active-mode");
-
-    if (mode === 'ordered') {
-        orderedBtn.classList.add("active-mode");
-    } else {
-        randomBtn.classList.add("active-mode");
-    }
+    // Tambahkan visual indicator (opsional)
+    const radios = document.querySelectorAll('input[name="mode"]');
+    radios.forEach(radio => {
+        const label = radio.parentElement;
+        if (radio.checked) {
+            label.style.fontWeight = "bold";
+        } else {
+            label.style.fontWeight = "normal";
+        }
+    });
 
     nextQuestion();
 }

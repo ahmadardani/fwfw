@@ -37,9 +37,10 @@
     <button id="toggle-mode-options" onclick="toggleModeOptions()" style="margin-top: 10px;">Tampilkan Mode Soal</button>
     <div id="mode-options" style="display: none; margin-top: 10px;">
         <p><b>Mode Soal:</b></p>
-        <button id="ordered-btn" onclick="setQuestionMode('ordered')">Urut</button>
-        <button id="random-btn" onclick="setQuestionMode('random')">Acak</button>
-
+        <div class="mode-choice">
+            <label><input type="radio" name="mode" value="ordered" onchange="setQuestionMode(this.value)"> Urut</label><br>
+            <label><input type="radio" name="mode" value="random" checked onchange="setQuestionMode(this.value)"> Acak</label>
+        </div>
         <p><b>Kanji:</b></p>
     <label><input type="checkbox" id="toggle-kanji" checked onchange="nextQuestion()"> Lihat Kanji</label>
         <p><b>Kosakata:</b></p>

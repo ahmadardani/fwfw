@@ -140,3 +140,18 @@ a:visited {
 #level-filters input[type="checkbox"] {
     margin-right: 6px;     /* space between checkbox and text */
 }
+
+#mode-options .mode-choice {
+    display: flex;
+    gap: 3px;
+    flex-wrap: wrap;
+}
+
+#mode-options .mode-choice label {
+    display: inline-flex;
+    align-items: center;
+    font-size: 14px;
+    background-color: #fff5ee;
+    white-space: nowrap;
+    cursor: pointer;
+}
