@@ -13,13 +13,13 @@
   },
   {
     "indonesian": "Orang itu/beliau",
-    "japanese": "あの ひと／あの かた",
+    "japanese": "あの ひと/あの かた",
     "kanji": "あの人／あの方",
     "level": "Chapter 1"
   },
   {
     "indonesian": "Saudara-bapak-ibu",
-    "japanese": "ーさん",
+    "japanese": "～さん",
     "kanji": "",
     "level": "Chapter 1"
   },
@@ -32,7 +32,7 @@
   {
     "indonesian": "Orang",
     "japanese": "～じん",
-    "kanji": "～ひと",
+    "kanji": "～人",
     "level": "Chapter 1"
   },
   {

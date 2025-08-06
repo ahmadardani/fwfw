@@ -1,0 +1,422 @@
+[
+  {
+    "no": 1,
+    "kanji": "危ない",
+    "romaji": "abunai",
+    "hiragana": "あぶない",
+    "meaning": "dangerous"
+  },
+  {
+    "no": 2,
+    "kanji": "赤い",
+    "romaji": "akai",
+    "hiragana": "あかい",
+    "meaning": "red; crimson; scarlet​"
+  },
+  {
+    "no": 3,
+    "kanji": "明るい",
+    "romaji": "akarui",
+    "hiragana": "あかるい",
+    "meaning": "bright; light"
+  },
+  {
+    "no": 4,
+    "kanji": "甘い",
+    "romaji": "amai",
+    "hiragana": "あまい",
+    "meaning": "sweet; sweet-tasting; sugary; naive; indulgent"
+  },
+  {
+    "no": 5,
+    "kanji": "青い",
+    "romaji": "aoi",
+    "hiragana": "あおい",
+    "meaning": "blue; azure"
+  },
+  {
+    "no": 6,
+    "kanji": "新しい",
+    "romaji": "atarashii",
+    "hiragana": "あたらしい",
+    "meaning": "new; novel; fresh; recent; latest"
+  },
+  {
+    "no": 7,
+    "kanji": "暖かい",
+    "romaji": "atatakai",
+    "hiragana": "あたたかい",
+    "meaning": "warm"
+  },
+  {
+    "no": 8,
+    "kanji": "厚い",
+    "romaji": "atsui",
+    "hiragana": "あつい",
+    "meaning": "thick"
+  },
+  {
+    "no": 9,
+    "kanji": "暑い",
+    "romaji": "atsui",
+    "hiragana": "あつい",
+    "meaning": "hot; sultry"
+  },
+  {
+    "no": 10,
+    "kanji": "熱い",
+    "romaji": "atsui",
+    "hiragana": "あつい",
+    "meaning": "hot"
+  },
+  {
+    "no": 11,
+    "kanji": "小さい",
+    "romaji": "chiisai",
+    "hiragana": "ちいさい",
+    "meaning": "small; little; tiny"
+  },
+  {
+    "no": 12,
+    "kanji": "近い",
+    "romaji": "chikai",
+    "hiragana": "ちかい",
+    "meaning": "near; close"
+  },
+  {
+    "no": 13,
+    "kanji": "古い",
+    "romaji": "furui",
+    "hiragana": "ふるい",
+    "meaning": "old (not used for people)"
+  },
+  {
+    "no": 14,
+    "kanji": "太い",
+    "romaji": "futoi",
+    "hiragana": "ふとい",
+    "meaning": "fat; thick"
+  },
+  {
+    "no": 15,
+    "kanji": "早い",
+    "romaji": "hayai",
+    "hiragana": "はやい",
+    "meaning": "fast; early"
+  },
+  {
+    "no": 16,
+    "kanji": "速い",
+    "romaji": "hayai",
+    "hiragana": "はやい",
+    "meaning": "fast; quick; hasty; brisk"
+  },
+  {
+    "no": 17,
+    "kanji": "低い",
+    "romaji": "hikui",
+    "hiragana": "ひくい",
+    "meaning": "short, low"
+  },
+  {
+    "no": 18,
+    "kanji": "広い",
+    "romaji": "hiroi",
+    "hiragana": "ひろい",
+    "meaning": "spacious; vast; wide"
+  },
+  {
+    "no": 19,
+    "kanji": "欲しい",
+    "romaji": "hoshii",
+    "hiragana": "ほしい",
+    "meaning": "want"
+  },
+  {
+    "no": 20,
+    "kanji": "細い",
+    "romaji": "hosoi",
+    "hiragana": "ほそい",
+    "meaning": "thin; slender"
+  },
+  {
+    "no": 21,
+    "kanji": "忙しい",
+    "romaji": "isogashii",
+    "hiragana": "いそがしい",
+    "meaning": "busy"
+  },
+  {
+    "no": 22,
+    "kanji": "痛い",
+    "romaji": "itai",
+    "hiragana": "いたい",
+    "meaning": "painful; sore​"
+  },
+  {
+    "no": 23,
+    "kanji": "辛い",
+    "romaji": "karai",
+    "hiragana": "からい",
+    "meaning": "spicy"
+  },
+  {
+    "no": 24,
+    "kanji": "軽い",
+    "romaji": "karui",
+    "hiragana": "かるい",
+    "meaning": "light"
+  },
+  {
+    "no": 25,
+    "kanji": "可愛い",
+    "romaji": "kawaii",
+    "hiragana": "かわいい",
+    "meaning": "cute"
+  },
+  {
+    "no": 26,
+    "kanji": "黄色い",
+    "romaji": "kiiroi",
+    "hiragana": "きいろい",
+    "meaning": "yellow"
+  },
+  {
+    "no": 27,
+    "kanji": "汚い",
+    "romaji": "kitanai",
+    "hiragana": "きたない",
+    "meaning": "dirty"
+  },
+  {
+    "no": 28,
+    "kanji": "暗い",
+    "romaji": "kurai",
+    "hiragana": "くらい",
+    "meaning": "dark; gloomy; murky"
+  },
+  {
+    "no": 29,
+    "kanji": "黒い",
+    "romaji": "kuroi",
+    "hiragana": "くろい",
+    "meaning": "black"
+  },
+  {
+    "no": 30,
+    "kanji": "丸い",
+    "romaji": "marui",
+    "hiragana": "まるい",
+    "meaning": "round, circular"
+  },
+  {
+    "no": 31,
+    "kanji": "不味い",
+    "romaji": "mazui",
+    "hiragana": "まずい",
+    "meaning": "unpleasant"
+  },
+  {
+    "no": 32,
+    "kanji": "短い",
+    "romaji": "mijikai",
+    "hiragana": "みじかい",
+    "meaning": "short"
+  },
+  {
+    "no": 33,
+    "kanji": "難しい",
+    "romaji": "muzukashii",
+    "hiragana": "むずかしい",
+    "meaning": "difficult"
+  },
+  {
+    "no": 34,
+    "kanji": "長い",
+    "romaji": "nagai",
+    "hiragana": "ながい",
+    "meaning": "long (distance); long (time); lengthy"
+  },
+  {
+    "no": 35,
+    "kanji": "温い",
+    "romaji": "nurui",
+    "hiragana": "ぬるい",
+    "meaning": "luke warm"
+  },
+  {
+    "no": 36,
+    "kanji": "美味しい",
+    "romaji": "oishii",
+    "hiragana": "おいしい",
+    "meaning": "delicious"
+  },
+  {
+    "no": 37,
+    "kanji": "重い",
+    "romaji": "omoi",
+    "hiragana": "おもい",
+    "meaning": "heavy"
+  },
+  {
+    "no": 38,
+    "kanji": "面白い",
+    "romaji": "omoshiroi",
+    "hiragana": "おもしろい",
+    "meaning": "interesting"
+  },
+  {
+    "no": 39,
+    "kanji": "多い",
+    "romaji": "ooi",
+    "hiragana": "おおい",
+    "meaning": "many; numerous; a lot; large quantity; frequent"
+  },
+  {
+    "no": 40,
+    "kanji": "大きい",
+    "romaji": "ookii",
+    "hiragana": "おおきい",
+    "meaning": "big; large; great; important"
+  },
+  {
+    "no": 41,
+    "kanji": "遅い",
+    "romaji": "osoi",
+    "hiragana": "おそい",
+    "meaning": "slow; time-consuming; late"
+  },
+  {
+    "no": 42,
+    "kanji": "寒い",
+    "romaji": "samui",
+    "hiragana": "さむい",
+    "meaning": "cold"
+  },
+  {
+    "no": 43,
+    "kanji": "狭い",
+    "romaji": "semai",
+    "hiragana": "せまい",
+    "meaning": "narrow"
+  },
+  {
+    "no": 44,
+    "kanji": "白い",
+    "romaji": "shiroi",
+    "hiragana": "しろい",
+    "meaning": "white"
+  },
+  {
+    "no": 45,
+    "kanji": "少ない",
+    "romaji": "sukunai",
+    "hiragana": "すくない",
+    "meaning": "few; a little; scarce; insufficient; seldom"
+  },
+  {
+    "no": 46,
+    "kanji": "涼しい",
+    "romaji": "suzushii",
+    "hiragana": "すずしい",
+    "meaning": "refreshing, cool"
+  },
+  {
+    "no": 47,
+    "kanji": "高い",
+    "romaji": "takai",
+    "hiragana": "たかい",
+    "meaning": "high; tall; expensive; above average"
+  },
+  {
+    "no": 48,
+    "kanji": "楽しい",
+    "romaji": "tanoshii",
+    "hiragana": "たのしい",
+    "meaning": "enjoyable; fun"
+  },
+  {
+    "no": 49,
+    "kanji": "遠い",
+    "romaji": "tooi",
+    "hiragana": "とおい",
+    "meaning": "far"
+  },
+  {
+    "no": 50,
+    "kanji": "詰まらない",
+    "romaji": "tsumaranai",
+    "hiragana": "つまらない",
+    "meaning": "boring"
+  },
+  {
+    "no": 51,
+    "kanji": "冷たい",
+    "romaji": "tsumetai",
+    "hiragana": "つめたい",
+    "meaning": "cold to the touch"
+  },
+  {
+    "no": 52,
+    "kanji": "強い",
+    "romaji": "tsuyoi",
+    "hiragana": "つよい",
+    "meaning": "powerful"
+  },
+  {
+    "no": 53,
+    "kanji": "煩い",
+    "romaji": "urusai",
+    "hiragana": "うるさい",
+    "meaning": "noisy, annoying"
+  },
+  {
+    "no": 54,
+    "kanji": "薄い",
+    "romaji": "usui",
+    "hiragana": "うすい",
+    "meaning": "thin; weak"
+  },
+  {
+    "no": 55,
+    "kanji": "若い",
+    "romaji": "wakai",
+    "hiragana": "わかい",
+    "meaning": "young"
+  },
+  {
+    "no": 56,
+    "kanji": "悪い",
+    "romaji": "warui",
+    "hiragana": "わるい",
+    "meaning": "bad; poor; undesirable"
+  },
+  {
+    "no": 57,
+    "kanji": "易しい",
+    "romaji": "yasashii",
+    "hiragana": "やさしい",
+    "meaning": "easy, simple"
+  },
+  {
+    "no": 58,
+    "kanji": "安い",
+    "romaji": "yasui",
+    "hiragana": "やすい",
+    "meaning": "cheap; inexpensive"
+  },
+  {
+    "no": 59,
+    "kanji": "良い",
+    "romaji": "yoi/ii",
+    "hiragana": "よい/いい",
+    "meaning": "good"
+  },
+  {
+    "no": 60,
+    "kanji": "弱い",
+    "romaji": "yowai",
+    "hiragana": "よわい",
+    "meaning": "weak"
+  }
+]
