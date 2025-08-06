@@ -6,7 +6,7 @@ let questionMode = 'random';  // default
 let currentIndex = 0;
 let isReviewMode = false;
 let mistakeWords = [];
-
+let isAnswerCorrect = false;
 
 async function loadWords() {
     try {
@@ -227,4 +227,49 @@ function toggleMistakeSection() {
     }
 }
 
+function checkAnswer() {
+    const userAnswer = document.getElementById("answer").value.trim();
+    const result = document.getElementById("result");
+    const kanjiDiv = document.getElementById("kanji-word");
+    const showKanji = document.getElementById("toggle-kanji").checked;
+
+    if (userAnswer === currentWord.japanese) {
+        result.textContent = "✅ Benar!";
+        result.style.color = "green";
+        isAnswerCorrect = true; // <--- Di sini
+    } else {
+        result.textContent = `❌ Salah. Jawaban benar: ${currentWord.japanese}`;
+        result.style.color = "red";
+        trackMistake(currentWord.indonesian);
+        isAnswerCorrect = false; // <--- Di sini
+    }
+
+    // Tampilkan kanji jika aktif
+    if (showKanji && currentWord.kanji) {
+        kanjiDiv.textContent = `${currentWord.kanji}`;
+    } else {
+        kanjiDiv.textContent = "";
+    }
+
+    updateMistakeSummary();
+}
+
+
 window.onload = loadWords;
+
+document.addEventListener("DOMContentLoaded", () => {
+    const answerInput = document.getElementById("answer");
+
+    answerInput.addEventListener("keydown", function(event) {
+        if (event.key === "Enter") {
+            event.preventDefault();
+
+            if (!isAnswerCorrect) {
+                checkAnswer(); // Cek dulu kalau belum benar
+            } else {
+                nextQuestion(); // Kalau sudah benar, lanjut soal berikutnya
+                isAnswerCorrect = false; // Reset
+            }
+        }
+    });
+});
