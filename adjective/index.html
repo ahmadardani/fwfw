@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kuis Adjektiva Jepang</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Kuis Adjektiva Jepang</h2>
+
+
+        <hr>
+
+        <div class="question">
+            <div class="kanji" id="kanji-word"></div>
+            <p><b>Arti:</b> <span id="indonesian-word"></span></p>
+            <input type="text" id="answer" placeholder="Jawaban..." autocomplete="off">
+            <div class="result" id="result"></div>
+        </div>
+
+        <hr>
+
+        <button onclick="checkAnswer()">Cek Jawaban</button>
+        <button onclick="nextQuestion()">Soal Berikutnya</button>
+        <br>
+        <br>
+        <hr>
+<button onclick="toggleOptions()">Tampilkan Mode Soal</button>
+
+<div id="options-section" style="display: none;">
+    <div id="level-filters">
+        <p><b>Filter Jenis Adjektiva:</b></p>
+        <!-- Akan diisi otomatis dari JS -->
+    </div>
+
+    <div id="mode-options">
+        <p><b>Mode Soal:</b></p>
+        <div class="mode-choice">
+            <label><input type="radio" name="mode" value="random" checked onchange="questionMode='random';nextQuestion()"> Acak</label>
+            <label><input type="radio" name="mode" value="ordered" onchange="questionMode='ordered';filterWords()"> Urut</label>
+        </div>
+    </div>
+
+    <div id="form-options">
+        <p><b>Bentuk yang Diuji:</b></p>
+        <!-- Akan diisi otomatis dari JS -->
+    </div>
+
+    <div>
+        <p><b>Opsi Tampilan:</b></p>
+        <label><input type="checkbox" id="toggle-kanji" checked onchange="nextQuestion()"> Tampilkan Kanji</label>
+    </div>
+
+    <button onclick="startMistakeReview()">Ulangi Kesalahan</button>
+
+    <h2>Ringkasan Kesalahan</h2>
+    <pre id="mistake-summary"></pre>
+</div>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
