@@ -38,7 +38,9 @@ function initEventListeners() {
         });
     });
 
-    document.getElementById("submit-btn").addEventListener("click", checkAnswer);
+    document.getElementById("check-btn").addEventListener("click", checkAnswer);
+    document.getElementById("next-btn").addEventListener("click", nextQuestion);
+
     document.getElementById("answer-input").addEventListener("keypress", e => {
         if (e.key === "Enter") checkAnswer();
     });
@@ -63,10 +65,14 @@ function initEventListeners() {
     });
 }
 
+function nextQuestion() {
+    currentIndex++;
+    showQuestion();
+}
+
 function startQuiz() {
     const selectedGrammars = Array.from(document.querySelectorAll('input[name="grammar"]:checked')).map(cb => cb.value);
 
-    // Quiz area selalu terlihat
     document.getElementById("quiz-area").style.display = "block";
 
     if (selectedGrammars.length === 0) {
@@ -91,23 +97,21 @@ function startQuiz() {
     showQuestion();
 }
 
-
 function showNoGrammarMessage() {
     document.getElementById("question").textContent = "Tidak ada Grammar yang dipilih";
     document.getElementById("question-counter").textContent = "0/0";
-    document.getElementById("answer-input").value = ""; // Tetap ada, cuma dikosongkan
-    document.getElementById("answer-input").style.display = "block"; // Pastikan terlihat
-    document.getElementById("submit-btn").style.display = "block"; // Pastikan terlihat
+    document.getElementById("answer-input").value = "";
+    document.getElementById("answer-input").style.display = "block";
     document.getElementById("result").textContent = "";
 }
-
 
 function showQuestion() {
     if (currentIndex >= filteredDrills.length) {
         document.getElementById("question").textContent = "Latihan selesai!";
         document.getElementById("question-counter").textContent = `${filteredDrills.length}/${filteredDrills.length}`;
         document.getElementById("answer-input").style.display = "none";
-        document.getElementById("submit-btn").style.display = "none";
+        document.getElementById("check-btn").style.display = "none";
+        document.getElementById("next-btn").style.display = "none";
         return;
     }
 
@@ -115,8 +119,12 @@ function showQuestion() {
     document.getElementById("question").innerHTML = q.sentence;
     document.getElementById("answer-input").value = "";
     document.getElementById("result").textContent = "";
+
+    // Tombol selalu kelihatan
     document.getElementById("answer-input").style.display = "block";
-    document.getElementById("submit-btn").style.display = "block";
+    document.getElementById("check-btn").style.display = "inline-block";
+    document.getElementById("next-btn").style.display = "inline-block";
+
     document.getElementById("question-counter").textContent = `${currentIndex + 1}/${filteredDrills.length}`;
 }
 
@@ -127,11 +135,9 @@ function checkAnswer() {
     const q = filteredDrills[currentIndex];
 
     if (userAnswer === q.answer) {
-        document.getElementById("result").innerHTML = `✅ Benar!<br>(${q.translation})`;
-        currentIndex++;
-        showQuestion();
+        document.getElementById("result").innerHTML = `<span style="color:#32CD32;">Benar!</span><br><br>(${q.translation})`;
     } else {
-        document.getElementById("result").innerHTML = `❌ Salah! Coba lagi.<br>(${q.translation})`;
+        document.getElementById("result").innerHTML = `<span style="color:red;">Salah!<br><br>(${q.romaji})</span>`;
         if (!mistakes.includes(q)) mistakes.push(q);
     }
 }
@@ -141,8 +147,7 @@ function renderMistakes() {
     list.innerHTML = "";
     if (mistakes.length === 0) {
         list.innerHTML = "<li>Belum ada kesalahan</li>";
-    }
-    else {
+    } else {
         mistakes.forEach(m => {
             const li = document.createElement("li");
             li.innerHTML = `${m.sentence} → ${m.answer} (${m.translation})`;

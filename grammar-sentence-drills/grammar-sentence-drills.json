@@ -3,378 +3,441 @@
     "grammar": "⼀番",
     "sentence": "彼<b>がいちばん</b>働いた。",
     "translation": "He worked the hardest.",
-    "answer": "彼がいちばん働いた。"
+    "answer": "彼がいちばん働いた。",
+    "romaji": "kare ga ichiban hataraita"
   },
   {
     "grammar": "⼀番",
     "sentence": "秋が<b>⼀番</b>好きな季節です。",
     "translation": "Fall is my favorite season.",
-    "answer": "秋が⼀番好きな季節です。"
+    "answer": "秋が⼀番好きな季節です。",
+    "romaji": "aki ga ichiban suki na kisetsu desu."
   },
   {
     "grammar": "⼀番",
     "sentence": "私はブロッコリー<b>が⼀番</b>嫌いだ。",
     "translation": "I hate broccoli the most.",
-    "answer": "私はブロッコリーが⼀番嫌いだ。"
+    "answer": "私はブロッコリーが⼀番嫌いだ。",
+    "romaji": "watashi wa burokkorii ga ichiban kirai da."
   },
   {
     "grammar": "⼀番",
     "sentence": "午前中<b>が⼀番</b>調⼦がいい。",
     "translation": "I feel best in the morning.",
-    "answer": "午前中が⼀番調⼦がいい。"
+    "answer": "午前中が⼀番調⼦がいい。",
+    "romaji": "gozen chuu ga ichiban choushi ga ii."
   },
   {
     "grammar": "⼀番",
     "sentence": "<b>⼀番</b>前に座っている⼈は誰ですか︖",
     "translation": "Who is that sitting in the very front?",
-    "answer": "⼀番前に座っている⼈は誰ですか︖"
+    "answer": "⼀番前に座っている⼈は誰ですか︖",
+    "romaji": "ichiban mae ni suwatteiru hito wa dare desu ka?"
   },
   {
     "grammar": "⼀番",
     "sentence": "<b>⼀番</b>早く予約できる⽇はいつですか︖",
     "translation": "When is the earliest day we can make a reservation?",
-    "answer": "⼀番早く予約できる⽇はいつですか︖"
+    "answer": "⼀番早く予約できる⽇はいつですか︖",
+    "romaji": "ichiban hayaku yoyaku dekiru hi wa itsu desu ka?"
   },
   {
     "grammar": "⼀番",
     "sentence": "<b>⼀番</b>美しい花が<b>⼀番</b>早くしおれる。",
     "translation": "The most beautiful flowers are the first to fade.",
-    "answer": "⼀番美しい花が⼀番早くしおれる。"
+    "answer": "⼀番美しい花が⼀番早くしおれる。",
+    "romaji": "ichiban utsukushii hana ga ichiban hayaku shioreru."
   },
   {
     "grammar": "⼀番",
     "sentence": "兄弟で誰が<b>⼀番</b>背が⾼いですか。",
     "translation": "Who is the tallest among your siblings?",
-    "answer": "兄弟で誰が⼀番背が⾼いですか。"
+    "answer": "兄弟で誰が⼀番背が⾼いですか。",
+    "romaji": "kyoudai de dare ga ichiban se ga takai desu ka?"
   },
   {
     "grammar": "が – Subject Marker",
     "sentence": "明⽇は⾬<b>が</b>降る。",
     "translation": "It is going to rain tomorrow.",
-    "answer": "明⽇は⾬が降る。"
+    "answer": "明⽇は⾬が降る。",
+    "romaji": "ashita wa ame ga furu."
   },
   {
     "grammar": "が – Subject Marker",
     "sentence": "仕⽅<b>が</b>ない。",
     "translation": "It cannot be helped. (a common expression in Japanese)",
-    "answer": "仕⽅がない。"
+    "answer": "仕⽅がない。",
+    "romaji": "shikata ga nai."
   },
   {
     "grammar": "が – Subject Marker",
     "sentence": "コンビニ<b>が</b>近くにあります。",
     "translation": "There is a convenience store nearby.",
-    "answer": "コンビニが近くにあります。"
+    "answer": "コンビニが近くにあります。",
+    "romaji": "konbini ga chikaku ni arimasu."
   },
   {
     "grammar": "が – Subject Marker",
     "sentence": "彼は借⾦<b>が</b>ある。",
     "translation": "He is in debt.",
-    "answer": "彼は借⾦がある。"
+    "answer": "彼は借⾦がある。",
+    "romaji": "kare wa shakkin ga aru."
   },
   {
     "grammar": "が – Subject Marker",
     "sentence": "今⽇は、やること<b>が</b>たくさんある。",
     "translation": "There are a lot of things to do today.",
-    "answer": "今⽇は、やることがたくさんある。"
+    "answer": "今⽇は、やることがたくさんある。",
+    "romaji": "kyou wa, yaru koto ga takusan aru."
   },
   {
     "grammar": "が – However; but",
     "sentence": "彼は⾦はある<b>が</b>、バカな男だ。",
     "translation": "He has money, but he's a stupid man.",
-    "answer": "彼は⾦はあるが、バカな男だ。"
+    "answer": "彼は⾦はあるが、バカな男だ。",
+    "romaji": "kare wa kane wa aru ga, baka na otoko da."
   },
   {
     "grammar": "が – However; but",
     "sentence": "私は⽇本語を話すことはできます<b>が</b>、読むことはできません。",
     "translation": "I can speak Japanese, but I am not able to read it.",
-    "answer": "私は⽇本語を話すことはできますが、読むことはできません。"
+    "answer": "私は⽇本語を話すことはできますが、読むことはできません。",
+    "romaji": "watashi wa nihongo o hanasu koto wa dekimasu ga, yomu koto wa dekimasen."
   },
   {
     "grammar": "が – However; but",
     "sentence": "このカメラを買いたいです<b>が</b>お⾦<b>が</b>ない。",
     "translation": "I want to buy this camera, but I have no money..",
-    "answer": "このカメラを買いたいですがお⾦がない。"
+    "answer": "このカメラを買いたいですがお⾦がない。",
+    "romaji": "kono kamera o kaitai desu ga okane ga nai."
   },
   {
     "grammar": "が – However; but",
     "sentence": "恐れ⼊ります<b>が</b>、本⽇は満席です。",
     "translation": "I deeply apologize, but today we have no more seats available. (we are fully booked)",
-    "answer": "恐れ⼊りますが、本⽇は満席です。"
+    "answer": "恐れ⼊りますが、本⽇は満席です。",
+    "romaji": "osore irimasu ga, honjitsu wa manseki desu."
   },
   {
     "grammar": "か",
     "sentence": "何です<b>か</b>︖",
     "translation": "What?",
-    "answer": "何ですか︖"
+    "answer": "何ですか︖",
+    "romaji": "nan desu ka?"
   },
   {
     "grammar": "か",
     "sentence": "すみません、あなたも学⽣です<b>か</b>。",
     "translation": "Excuse me, are you also a student?",
-    "answer": "すみません、あなたも学⽣ですか。"
+    "answer": "すみません、あなたも学⽣ですか。",
+    "romaji": "sumimasen, anata mo gakusei desu ka."
   },
   {
     "grammar": "か",
     "sentence": "あなたの名前は何です<b>か</b>。",
     "translation": "What is your name?",
-    "answer": "あなたの名前は何ですか。"
+    "answer": "あなたの名前は何ですか。",
+    "romaji": "anata no namae wa nandesu ka."
   },
   {
     "grammar": "か",
     "sentence": "元気です<b>か</b>。",
     "translation": "How are you?",
-    "answer": "元気ですか。"
+    "answer": "元気ですか。",
+    "romaji": "genki desu ka."
   },
   {
     "grammar": "か",
     "sentence": "彼は何才です<b>か</b>。",
     "translation": "How old is he?",
-    "answer": "彼は何才ですか。"
+    "answer": "彼は何才ですか。",
+    "romaji": "kare wa nansai desu ka."
   },
   {
     "grammar": "か",
     "sentence": "⼤丈夫です<b>か</b>︖",
     "translation": "Are you alright?",
-    "answer": "⼤丈夫ですか︖"
+    "answer": "⼤丈夫ですか︖",
+    "romaji": "daijoubu desu ka?"
   },
   {
     "grammar": "か",
     "sentence": "私とお昼ご飯を⾷べません<b>か</b>︖",
     "translation": "Would you like to have lunch with me?",
-    "answer": "私とお昼ご飯を⾷べませんか︖"
+    "answer": "私とお昼ご飯を⾷べませんか︖",
+    "romaji": "watashi to ohiru gohan wo tabemasen ka?"
   },
   {
     "grammar": "か",
     "sentence": "どうしてこのことを知らないの<b>か</b>︖",
     "translation": "Why don't you know about this?",
-    "answer": "どうしてこのことを知らないのか︖"
+    "answer": "どうしてこのことを知らないのか︖",
+    "romaji": "doushite kono koto wo shiranai no ka?"
   },
   {
     "grammar": "か〜か",
     "sentence": "明⽇は⾬<b>か</b>どう<b>か</b>分からない。",
     "translation": "I'm not sure if it will rain or not tomorrow.",
-    "answer": "明⽇は⾬かどうか分からない。"
+    "answer": "明⽇は⾬かどうか分からない。",
+    "romaji": "ashita wa ame ka dou ka wakaranai."
   },
   {
     "grammar": "か〜か",
     "sentence": "お茶<b>か</b>コーヒーが飲みたい。",
     "translation": "I would like to drink tea or coffee.",
-    "answer": "お茶かコーヒーが飲みたい。"
+    "answer": "お茶かコーヒーが飲みたい。",
+    "romaji": "ocha ka koohii ga nomitai."
   },
   {
     "grammar": "か〜か",
     "sentence": "当たる<b>か</b>はずれる<b>か</b>。",
     "translation": "Hit or miss.",
-    "answer": "当たるかはずれるか。"
+    "answer": "当たるかはずれるか。",
+    "romaji": "ataru ka hazureru ka."
   },
   {
     "grammar": "か〜か",
     "sentence": "やる<b>か</b>やらない<b>か</b>早く決めてください。",
     "translation": "Please hurry up and decide if you are going to do it or not.",
-    "answer": "やるかやらないか早く決めてください。"
+    "answer": "やるかやらないか早く決めてください。",
+    "romaji": "yaru ka yaranai ka hayaku kimete kudasai."
   },
   {
     "grammar": "か〜か",
     "sentence": "来週の⽉曜⽇<b>か</b>⽕曜⽇に京都に⾏きます。",
     "translation": "I'm going to Kyoto next Monday or Tuesday.",
-    "answer": "来週の⽉曜⽇か⽕曜⽇に京都に⾏きます。"
+    "answer": "来週の⽉曜⽇か⽕曜⽇に京都に⾏きます。",
+    "romaji": "raishuu no getsuyoubi ka kayoubi ni kyouto ni ikimasu."
   },
   {
     "grammar": "か〜か",
     "sentence": "死ぬ<b>か</b>⽣きる<b>か</b>。",
     "translation": "Live or die.",
-    "answer": "死ぬか⽣きるか。"
+    "answer": "死ぬか⽣きるか。",
+    "romaji": "shinu ka ikiru ka."
   },
   {
     "grammar": "があります",
     "sentence": "⼈気<b>がある。</b>",
     "translation": "to be popular.",
-    "answer": "⼈気がある。"
+    "answer": "⼈気がある。",
+    "romaji": "ninki ga aru."
   },
   {
     "grammar": "があります",
     "sentence": "先⽉お⾦<b>が</b>ぜんぜん<b>なかった。</b>",
     "translation": "Last month I had no money.",
-    "answer": "先⽉お⾦がぜんぜんなかった。"
+    "answer": "先⽉お⾦がぜんぜんなかった。",
+    "romaji": "sengetsu okane ga zenzen nakatta."
   },
   {
     "grammar": "があります",
     "sentence": "へやにテレビ<b>があります。</b>",
     "translation": "I have a TV in my room.",
-    "answer": "へやにテレビがあります。"
+    "answer": "へやにテレビがあります。",
+    "romaji": "heya ni terebi ga arimasu."
   },
   {
     "grammar": "があります",
     "sentence": "⽇本の好きじゃないところ<b>はあります。</b>",
     "translation": "There are some things I don't like about Japan.",
-    "answer": "⽇本の好きじゃないところはあります。"
+    "answer": "⽇本の好きじゃないところはあります。",
+    "romaji": "nihon no suki janai tokoro ha arimasu"
   },
   {
     "grammar": "があります",
     "sentence": "このマンションにはへや<b>が</b>三つ<b>あります。</b>",
     "translation": "There are three rooms in this apartment.",
-    "answer": "このマンションにはへやが三つあります。"
+    "answer": "このマンションにはへやが三つあります。",
+    "romaji": "kono manshon niwa heya ga mitsu arimasu."
   },
   {
     "grammar": "があります",
     "sentence": "彼は⾦<b>がある</b>から新⾞が買える。",
     "translation": "He has money so he can buy a new car.",
-    "answer": "彼は⾦があるから新⾞が買える。"
+    "answer": "彼は⾦があるから新⾞が買える。",
+    "romaji": "kare wa kane ga aru kara shinsha ga kaeru."
   },
   {
     "grammar": "があります",
     "sentence": "今夜⽤事<b>がある</b>から⾏けない。",
     "translation": "I have things to do tonight so I can't go.",
-    "answer": "今夜⽤事があるから⾏けない。"
+    "answer": "今夜⽤事があるから⾏けない。",
+    "romaji": "konya youji ga aru kara ikenai."
   },
   {
     "grammar": "がいます",
     "sentence": "テーブルの下に猫<b>がいる。</b>",
     "translation": "There is a cat below the table",
-    "answer": "テーブルの下に猫がいる。"
+    "answer": "テーブルの下に猫がいる。",
+    "romaji": "teeburu no shita ni neko ga iru."
   },
   {
     "grammar": "がいます",
     "sentence": "あなたは彼⽒<b>がいる</b>の︖",
     "translation": "Do you have a boyfriend?",
-    "answer": "あなたは彼⽒がいるの︖"
+    "answer": "あなたは彼⽒がいるの︖",
+    "romaji": "anata wa kareshi ga iru no?"
   },
   {
     "grammar": "がいます",
     "sentence": "私には兄弟<b>がいない</b>んだ",
     "translation": "I don't have any siblings.",
-    "answer": "私には兄弟がいないんだ"
+    "answer": "私には兄弟がいないんだ",
+    "romaji": "watashi ni wa kyoudai ga inai nda."
   },
   {
     "grammar": "がいます",
     "sentence": "弟⼀⼈妹⼀⼈<b>がいます。</b>",
     "translation": "I have one younger brother and one younger sister.",
-    "answer": "弟⼀⼈妹⼀⼈がいます。"
+    "answer": "弟⼀⼈妹⼀⼈がいます。",
+    "romaji": "otouto hitori imouto hitori ga imasu."
   },
   {
     "grammar": "がいます",
     "sentence": "その部屋に⽝<b>がいる。</b>",
     "translation": "There is a dog in that room.",
-    "answer": "その部屋に⽝がいる。"
+    "answer": "その部屋に⽝がいる。",
+    "romaji": "sono heya ni inu ga iru."
   },
   {
     "grammar": "がいます",
     "sentence": "今学校にだれも<b>いません</b>",
     "translation": "There is no one at school right now",
-    "answer": "今学校にだれもいません"
+    "answer": "今学校にだれもいません",
+    "romaji": "ima gakkou ni daremo imasen."
   },
   {
     "grammar": "がいます",
     "sentence": "東京駅に観光者<b>が</b>いっぱい<b>いる。</b>",
     "translation": "There are a lot of tourists in Tokyo station.",
-    "answer": "東京駅に観光者がいっぱいいる。"
+    "answer": "東京駅に観光者がいっぱいいる。",
+    "romaji": "toukyou eki ni kankousha ga ippai iru."
   },
   {
     "grammar": "から - Because",
     "sentence": "明⽇テストがある<b>から</b>、今夜勉強つもりだ。",
     "translation": "Since I have a test tomorrow, I plan to study tonight",
-    "answer": "明⽇テストがあるから、今夜勉強つもりだ。"
+    "answer": "明⽇テストがあるから、今夜勉強つもりだ。",
+    "romaji": "ashita tesuto ga aru kara, konya benkyou tsumori da."
   },
   {
     "grammar": "から - Because",
     "sentence": "今朝テストがあった<b>から</b>、今はちょっとつかれた。",
     "translation": "I had a test this morning, so I’m a bit tired now.",
-    "answer": "今朝テストがあったから、今はちょっとつかれた。"
+    "answer": "今朝テストがあったから、今はちょっとつかれた。",
+    "romaji": "kesa tesuto ga atta kara, ima wa chotto tsukareta."
   },
   {
     "grammar": "だから - Because (Nouns and Na Adjective)",
     "sentence": "⼤事なしけん<b>だから</b>、がんばる︕",
     "translation": "This is a very important test, so I will do my best!",
-    "answer": "⼤事なしけんだから、がんばる︕"
+    "answer": "⼤事なしけんだから、がんばる︕",
+    "romaji": "daiji na shiken dakara, ganbaru!"
   },
   {
     "grammar": "だから - Because (Nouns and Na Adjective)",
     "sentence": "あの⼈はいつもとてもしずか<b>だから</b>、⼀度も話したことがない。",
     "translation": "That person is always really quiet, so I haven’t ever talked to them.",
-    "answer": "あの⼈はいつもとてもしずかだから、⼀度も話したことがない。"
+    "answer": "あの⼈はいつもとてもしずかだから、⼀度も話したことがない。",
+    "romaji": "ano hito wa itsumo totemo shizuka dakara, ichido mo hanashita koto ga nai."
   },
   {
     "grammar": "から - Because (I Adjective)",
     "sentence": "暑い<b>から</b>、窓を開けてください。",
     "translation": "It’s pretty hot, so could you please open the window?",
-    "answer": "暑いから、窓を開けてください。"
+    "answer": "暑いから、窓を開けてください。",
+    "romaji": "atsui kara, mado o akete kudasai."
   },
   {
     "grammar": "から - Because",
     "sentence": "天気がいい<b>から</b>、外に⾏きたい。",
     "translation": "Since the weather is nice, I want to go outside.",
-    "answer": "天気がいいから、外に⾏きたい。"
+    "answer": "天気がいいから、外に⾏きたい。",
+    "romaji": "tenki ga ii kara, soto ni ikitai."
   },
   {
     "grammar": "から - Because",
     "sentence": "私はすぐ戻る<b>から</b>、ここでちょっと待ってください。",
     "translation": "I'll return shortly, so please wait here just a moment.",
-    "answer": "私はすぐ戻るから、ここでちょっと待ってください。"
+    "answer": "私はすぐ戻るから、ここでちょっと待ってください。",
+    "romaji": "watashi wa sugu modoru kara, koko de chotto matte kudasai."
   },
   {
     "grammar": "から - From",
     "sentence": "このシャツは彼⼥<b>から</b>もらった。",
     "translation": "I got this shirt from my girlfriend.",
-    "answer": "このシャツは彼⼥からもらった。"
+    "answer": "このシャツは彼⼥からもらった。",
+    "romaji": "kono shatsu wa kanojo kara moratta."
   },
   {
     "grammar": "から - From",
     "sentence": "⽣まれた時<b>から</b>アメリカに住んでいる。",
     "translation": "I have been living in America since I was born.",
-    "answer": "⽣まれた時からアメリカに住んでいる。"
+    "answer": "⽣まれた時からアメリカに住んでいる。",
+    "romaji": "umareta toki kara amerika ni sundeiru."
   },
   {
     "grammar": "から - From",
     "sentence": "17時17時<b>から</b>アルバイトがある。アルバイトがある。",
     "translation": "I’ve got my part time job from 5pm.",
-    "answer": "17時からアルバイトがある。"
+    "answer": "17時からアルバイトがある。",
+    "romaji": "juu nana ji kara arubaito ga aru."
   },
   {
     "grammar": "から - From",
     "sentence": "これ<b>から</b>もよろしくお願いします。",
     "translation": "From now on, let's have a good relationship (I'll be counting on you).",
-    "answer": "これからもよろしくお願いします。"
+    "answer": "これからもよろしくお願いします。",
+    "romaji": "kore kara mo yoroshiku onegaishimasu."
   },
   {
     "grammar": "から - From",
     "sentence": "ここ<b>から</b>あの駅まで歩いてどれぐらいかかりますか︖",
     "translation": "How long does it talk to walk from here to that station?",
-    "answer": "ここからあの駅まで歩いてどれぐらいかかりますか︖"
+    "answer": "ここからあの駅まで歩いてどれぐらいかかりますか︖",
+    "romaji": "koko kara ano eki made aruite dore gurai kakarimasuka?"
   },
   {
     "grammar": "から - From",
     "sentence": "お店は何時<b>から</b>何時まで開いていますか︖",
     "translation": "What are the shop's opening hours?",
-    "answer": "お店は何時から何時まで開いていますか︖"
+    "answer": "お店は何時から何時まで開いていますか︖",
+    "romaji": "omise wa nanji kara nanji made aiteimasu ka?"
   },
   {
     "grammar": "くらい",
     "sentence": "アメリカにはどの<b>くらい</b>滞在しますか︖",
     "translation": "About how long will you stay in America?",
-    "answer": "アメリカにはどのくらい滞在しますか︖"
+    "answer": "アメリカにはどのくらい滞在しますか︖",
+    "romaji": "amerika ni wa dono kurai taizai shimasu ka?"
   },
   {
     "grammar": "くらい",
     "sentence": "どれ<b>くらい</b>⽇本に住んでいますか︖",
     "translation": "How long have you been living in Japan?",
-    "answer": "どれくらい⽇本に住んでいますか︖"
+    "answer": "どれくらい⽇本に住んでいますか︖",
+    "romaji": "dorekurai nihon ni sunde imasu ka?"
   },
   {
     "grammar": "ぐらい",
     "sentence": "たぶんこの⾬は１時間<b>ぐらい</b>でやむだろう。",
     "translation": "This rain will probably be over in about an hour or so.",
-    "answer": "たぶんこの⾬は１時間ぐらいでやむだろう。"
+    "answer": "たぶんこの⾬は１時間ぐらいでやむだろう。",
+    "romaji": "tabun kono ame wa ichijikan gurai de yamu darou."
   },
   {
     "grammar": "ぐらい",
     "sentence": "ここからあの駅まで歩いてどれ<b>ぐらい</b>かかりますか︖",
     "translation": "How long does it talk to walk from here to that station?",
-    "answer": "ここからあの駅まで歩いてどれぐらいかかりますか︖"
+    "answer": "ここからあの駅まで歩いてどれぐらいかかりますか︖",
+    "romaji": "koko kara ano eki made aruite dore gurai kakarimasuka?"
   },
   {
     "grammar": "ぐらい",
     "sentence": "ドアを開ける前にノック<b>ぐらい</b>してください。",
     "translation": "Before opening the door, please at least knock first.",
-    "answer": "ドアを開ける前にノックぐらいしてください。"
+    "answer": "ドアを開ける前にノックぐらいしてください。",
+    "romaji": "doa o akeru mae ni nokku gurai shite kudasai."
   }
 ]
