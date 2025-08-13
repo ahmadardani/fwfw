@@ -642,7 +642,7 @@
   {
     "kanji": "下手",
     "hiragana": "へた",
-    "meaning": "tidak terampil; buruk; canggung",
+    "meaning": "tidak pandai, tidak terampil;",
     "type": "na",
     "present negative (plain)": "へたじゃない",
     "past (plain)": "へただった",
@@ -662,7 +662,7 @@
   {
     "kanji": "本当",
     "hiragana": "ほんとう",
-    "meaning": "kebenaran; kenyataan; aktualitas; fakta",
+    "meaning": "benar, sungguh, (benarkah?), nyata, asli",
     "type": "na",
     "present negative (plain)": "ほんとうじゃない",
     "past (plain)": "ほんとうだった",
@@ -682,7 +682,7 @@
   {
     "kanji": "嫌",
     "hiragana": "いや",
-    "meaning": "tidak menyenangkan",
+    "meaning": "tidak mau, tidak usah, tidak menyenangkan",
     "type": "na",
     "present negative (plain)": "いやじゃない",
     "past (plain)": "いやだった",
@@ -702,7 +702,7 @@
   {
     "kanji": "上手",
     "hiragana": "じょうず",
-    "meaning": "terampil; terampil; mahir; pandai",
+    "meaning": "terampil; mahir; pandai",
     "type": "na",
     "present negative (plain)": "じょうずじゃない",
     "past (plain)": "じょうずだった",
@@ -712,7 +712,7 @@
   {
     "kanji": "結構",
     "hiragana": "けっこう",
-    "meaning": "luar biasa, cukup",
+    "meaning": "cukup, lumayan, baik",
     "type": "na",
     "present negative (plain)": "けっこうじゃない",
     "past (plain)": "けっこうだった",
@@ -842,7 +842,7 @@
   {
     "kanji": "失礼",
     "hiragana": "しつれい",
-    "meaning": "kasar, tidak sopan atau tidak beradab",
+    "meaning": "permisi, maaf, tidak sopan, kurang ajar",
     "type": "i but na",
     "present negative (plain)": "しつれいじゃない",
     "past (plain)": "しつれいだった",
