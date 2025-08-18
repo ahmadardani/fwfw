@@ -3,6 +3,7 @@ let filteredDrills = [];
 let currentIndex = 0;
 let mode = "random";
 let mistakes = [];
+let waitingNext = false;
 
 // Load JSON
 fetch("grammar-sentence-drills.json")
@@ -42,7 +43,14 @@ function initEventListeners() {
     document.getElementById("next-btn").addEventListener("click", nextQuestion);
 
     document.getElementById("answer-input").addEventListener("keypress", e => {
-        if (e.key === "Enter") checkAnswer();
+        if (e.key === "Enter") {
+            if (waitingNext) {
+                nextQuestion();
+                waitingNext = false;
+            } else {
+                checkAnswer();
+            }
+        }
     });
 
     document.getElementById("mistake-btn").addEventListener("click", () => {
@@ -68,6 +76,7 @@ function initEventListeners() {
 function nextQuestion() {
     currentIndex++;
     showQuestion();
+    waitingNext = false; // reset
 }
 
 function startQuiz() {
@@ -108,7 +117,8 @@ function showNoGrammarMessage() {
 function showQuestion() {
     if (currentIndex >= filteredDrills.length) {
         document.getElementById("question").textContent = "Latihan selesai!";
-        document.getElementById("question-counter").textContent = `${filteredDrills.length}/${filteredDrills.length}`;
+        document.getElementById("question-counter").textContent =
+            `${filteredDrills.length}/${filteredDrills.length}`;
         document.getElementById("answer-input").style.display = "none";
         document.getElementById("check-btn").style.display = "none";
         document.getElementById("next-btn").style.display = "none";
@@ -120,27 +130,36 @@ function showQuestion() {
     document.getElementById("answer-input").value = "";
     document.getElementById("result").textContent = "";
 
-    // Tombol selalu kelihatan
     document.getElementById("answer-input").style.display = "block";
     document.getElementById("check-btn").style.display = "inline-block";
     document.getElementById("next-btn").style.display = "inline-block";
 
-    document.getElementById("question-counter").textContent = `${currentIndex + 1}/${filteredDrills.length}`;
+    document.getElementById("question-counter").textContent =
+        `${currentIndex + 1}/${filteredDrills.length}`;
+
+    waitingNext = false; // reset setiap soal baru
 }
 
 function checkAnswer() {
     if (filteredDrills.length === 0) return;
 
-    const userAnswer = document.getElementById("answer-input").value.trim();
     const q = filteredDrills[currentIndex];
+    const rawUser = document.getElementById("answer-input").value;
 
-    if (userAnswer === q.answer) {
-        document.getElementById("result").innerHTML = `<span style="color:#32CD32;">Benar!</span><br><br>(${q.translation})`;
+    const correct = isCorrectAnswer(rawUser, q.answer);
+
+    if (correct) {
+        document.getElementById("result").innerHTML =
+            `<span style="color:#32CD32;">Benar!</span><br><br>(${q.translation})<br><small>Tekan Enter lagi untuk soal berikutnya.</small>`;
+        waitingNext = true; // tunggu Enter kedua untuk lanjut
     } else {
-        document.getElementById("result").innerHTML = `<span style="color:red;">Salah!<br><br>(${q.romaji})</span>`;
+        document.getElementById("result").innerHTML =
+            `<span style="color:red;">Salah!</span><br><br>(${q.romaji ?? ""})`;
         if (!mistakes.includes(q)) mistakes.push(q);
+        waitingNext = false; // tetap di soal ini
     }
 }
+
 
 function renderMistakes() {
     const list = document.getElementById("mistakes");
@@ -171,4 +190,27 @@ function shuffleArray(arr) {
         const j = Math.floor(Math.random() * (i + 1));
         [arr[i], arr[j]] = [arr[j], arr[i]];
     }
+}
+
+function normalizeForCompare(s) {
+    if (s == null) return "";
+    return String(s)
+        .normalize("NFKC")          // normalisasi Unicode
+        .replace(/\u2F00/g, "一")   // ⼀ (U+2F00 radical) → 一 (U+4E00 normal)
+        .trim()
+        .replace(/[\u200B-\u200D\uFEFF]/g, "") // hapus zero-width
+        .replace(/[\s\u3000\u00A0]/g, "")      // hapus spasi (termasuk ideographic)
+        .replace(/[。、，,．.！!？\?「」『』（）\(\)｛｝［］【】〈〉《》・；;：:"“”'`´]/g, "")
+        .toLowerCase();
+}
+
+function isCorrectAnswer(userRaw, correctRaw) {
+    const user = normalizeForCompare(userRaw);
+
+    // Bisa string tunggal atau array, atau dipisah dengan |
+    const candidates = Array.isArray(correctRaw)
+        ? correctRaw
+        : String(correctRaw).split("|").map(s => s.trim());
+
+    return candidates.some(ans => normalizeForCompare(ans) === user);
 }
