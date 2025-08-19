@@ -54,7 +54,7 @@ button.primary { border-color: var(--accent); }
 .slide-inner {
   display: inline-block;
   line-height: 1.2;
-  white-space: pre-wrap;
+  white-space: pre-wrap;  /* default */
   word-break: keep-all;
   max-width: 100%;
   max-height: 100%;
