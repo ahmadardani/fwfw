@@ -1,0 +1,121 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    background-color: #faebd7;
+    margin: 0;
+}
+
+.container {
+    background: #fff5ee;
+    padding: 0 20px 20px 20px;
+    max-width: 720px;
+    width: 100%;
+    margin: auto;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+    font-size: 1.5em;
+}
+
+input[type="text"] {
+    width: 100%;
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(92, 62, 62);
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+
+.result {
+    margin-top: 15px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+    gap: 10px;
+}
+
+.kanji-box {
+    border: 1px solid #333;
+    padding: 10px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.kanji-char {
+    font-size: 30px;
+    color: rgb(92, 62, 62);
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+#kanjiDetail {
+    margin-top: 20px;
+}
+
+.kanji-big {
+    font-size: 60px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.sentence-box {
+    border: 1px dashed #333;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fff;
+}
+
+.sentence-text {
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.toggle-btn {
+    font-size: 14px;
+    background-color: #333;
+    color: white;
+    padding: 6px 10px;
+    margin-right: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
+
+/* Responsive */
+@media (max-width: 720px) {
+    body {
+        padding: 10px;
+        margin: 0;
+        background-color: #fff5ee;
+    }
+    .container {
+        padding: 0 20px 20px 20px;
+    }
+    h2 {
+        font-size: 1.3em;
+    }
+    input[type="text"],
+    button {
+        font-size: 16px;
+    }
+}
