@@ -12,7 +12,7 @@ body {
 }
 
 hr {
-  border-top: 2px dashed #c37f7f;
+  border-top: 2px;
 }
 
 /* Simple layout spacing */
@@ -25,16 +25,23 @@ hr {
   max-width: 800px;
   margin: 24px auto 0 auto;
   padding: 10px 20px;            /* header tetap tipis */
-  background: #ffeedd;       
+  background: #ffffff;       
   color: #961f1d;            
-  border: 2px solid #c37f7f;   /* semua sisi termasuk bawah */
+  border-left: 2px solid #c37f7f;   /* semua sisi termasuk bawah */
+  border-top: 2px solid #c37f7f;
+  border-right: 2px solid #c37f7f;
 }
 
 .textbox-header h2 {
   margin: 0;
   font-size: 1.4rem;
-  text-align: center;
+  text-align: left;
   line-height: 1.2;
+  font-weight: 600;
+}
+
+.textbox-header h2 a{
+    font-weight: 500;
 }
 
 /* Textbox */
@@ -82,7 +89,9 @@ hr {
 
 /* Links outside the textbox use default styling */
 a {
-  color: #0645ad;
+color: red;
+  text-decoration: none;
+  font-weight: 600;
 }
 
 a:hover, a:focus {
