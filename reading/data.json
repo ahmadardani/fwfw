@@ -1,14 +1,260 @@
 [
   {
-    "kanji": "京",
-    "sentence": "京都は以前日本の首都でした。",
-    "translation": "Kyoto was formerly the capital of Japan.",
-    "reading help": "京都 (きょうと) は 以前 (いぜん) 日本 (にほん) の 首都 (しゅと) でした。"
+    "kanji": "同",
+    "sentence": "同じ方法で。",
+    "translation": "In an identical manner.",
+    "reading help": "同じ ( おなじ ) 方法 ( ほうほう ) で。"
   },
   {
-    "kanji": "日",
-    "sentence": "日本は美しい国です。",
-    "translation": "Japan is a beautiful country.",
-    "reading help": "日本 (にほん) は 美 (うつく) しい 国 (くに) です。"
+    "kanji": "同",
+    "sentence": "口頭による同意。",
+    "translation": "An oral agreement.",
+    "reading help": "口頭 ( こうとう ) に よる 同意 ( どうい ) 。"
+  },
+  {
+    "kanji": "同",
+    "sentence": "先生も同意見だ。",
+    "translation": "The doctor thinks so too.",
+    "reading help": "先生 ( せんせい ) も 同意見 ( どういけん ) だ。"
+  },
+  {
+    "kanji": "同",
+    "sentence": "文化的に同化する。",
+    "translation": "Assimilate culturally.",
+    "reading help": "文化的 ( ぶんかてき ) に 同化 ( どうか ) する。"
+  },
+  {
+    "kanji": "同",
+    "sentence": "無言の同意をした。",
+    "translation": "Gave silent consent.",
+    "reading help": "無言 ( むごん ) の 同意 ( どうい ) を した。"
+  },
+  {
+    "kanji": "同",
+    "sentence": "心から同意します。",
+    "translation": "I wholeheartedly agree.",
+    "reading help": "心から ( こころから ) 同意 ( どうい ) します。"
+  },
+  {
+    "kanji": "同",
+    "sentence": "同上の条件により。",
+    "translation": "In accordance with the abovementioned conditions.",
+    "reading help": "同上 ( どうじょう ) の 条件 ( じょうけん ) により。"
+  },
+  {
+    "kanji": "同",
+    "sentence": "自分と同じ国の出身の人。",
+    "translation": "A person from your own country.",
+    "reading help": "自分 ( じぶん ) と 同じ ( おなじ ) 国 ( くに ) の 出身 ( しゅっしん ) の 人 ( ひと ) 。"
+  },
+  {
+    "kanji": "同",
+    "sentence": "一年中いつも同じでした。",
+    "translation": "It was the same all year round.",
+    "reading help": "一年中 ( いちねんじゅう ) いつも 同じ ( おなじ ) でした。"
+  },
+  {
+    "kanji": "同",
+    "sentence": "おれが昨日見た同じ男性。",
+    "translation": "The same man I saw yesterday.",
+    "reading help": "おれ が 昨日 ( きのう ) 見 ( み ) た 同じ ( おなじ ) 男性 ( だんせい ) 。"
+  },
+  {
+    "kanji": "同",
+    "sentence": "ジキルとハイドは同一の人物である。",
+    "translation": "Jekyll and Hyde are one and the same person.",
+    "reading help": "ジキル と ハイド は 同一 ( どういつ ) の 人物 ( じんぶつ ) で ある。"
+  },
+  {
+    "kanji": "同",
+    "sentence": "先生は大体ぼくと同じくらいの身長です。",
+    "translation": "The teacher is about the same height as I.",
+    "reading help": "先生 ( せんせい ) は 大体 ( だいたい ) ぼく と 同じ ( おなじ ) くらい の 身長 ( しんちょう ) です。"
+  },
+  {
+    "kanji": "同",
+    "sentence": "だから一人前の男と同じように話をするんだぞ。",
+    "translation": "I'll talk to you in the same way as a man.",
+    "reading help": "だから 一人前 ( いちにんまえ ) の 男 ( おとこ ) と 同じ ( おなじ ) よう に 話 ( はなし ) を する ん だ ぞ。"
+  },
+  {
+    "kanji": "同",
+    "sentence": "目の前にいるのはマンチキンたちと同じくらいの大きさの小男でした。",
+    "translation": "Before them stood a little man about the same size as the Munchkins.",
+    "reading help": "目 ( め ) の 前 ( まえ ) に いる の は マンチキン たち と 同じ ( おなじ ) くらい の 大き ( おおき ) さ の 小男 ( こおとこ ) でした。"
+  },
+  {
+  "kanji": "事",
+  "sentence": "小金を大事にする人。",
+  "translation": "A great nurser of pennies.",
+  "reading help": "小金 ( こがね ) を 大事 ( だいじ ) に する 人 ( ひと ) 。"
+},
+{
+  "kanji": "事",
+  "sentence": "人の事に手を出すな。",
+  "translation": "Don't meddle in other people's affairs.",
+  "reading help": "人 ( ひと ) の 事 ( こと ) に 手 ( て ) を 出す ( だす ) な。"
+},
+{
+  "kanji": "事",
+  "sentence": "体を大事にしなさい。",
+  "translation": "Take good care of yourself.",
+  "reading help": "体 ( からだ ) を 大事 ( だいじ ) に し なさい。"
+},
+{
+  "kanji": "事",
+  "sentence": "なにか大事な話がある？",
+  "translation": "Do you have anything important to talk about?",
+  "reading help": "なに か 大事 ( だいじ ) な 話 ( はなし ) が ある？"
+},
+{
+  "kanji": "事",
+  "sentence": "明日は用事があります。",
+  "translation": "I have things to do tomorrow.",
+  "reading help": "明日 ( あした ) は 用事 ( ようじ ) が あります。"
+},
+{
+  "kanji": "事",
+  "sentence": "万事上手く行っています。",
+  "translation": "Everything is going well.",
+  "reading help": "万事 ( ばんじ ) 上手く ( うまく ) 行っ ( いっ ) て います。"
+},
+{
+  "kanji": "事",
+  "sentence": "お身体大事にして下さい。",
+  "translation": "Please take care of your health.",
+  "reading help": "お身体 ( からだ ) 大事 ( だいじ ) に して 下さい ( ください ) 。"
+},
+{
+  "kanji": "事",
+  "sentence": "事の成り行きを受け入れる。",
+  "translation": "Accept things the way they go.",
+  "reading help": "事 ( こと ) の 成り行き ( なりゆき ) を 受け入れる ( うけいれる ) 。"
+},
+{
+  "kanji": "事",
+  "sentence": "明日はとくに用事はないです。",
+  "translation": "Tomorrow I don't have anything in particular to do.",
+  "reading help": "明日 ( あした ) は とくに 用事 ( ようじ ) は ない です。"
+},
+{
+  "kanji": "事",
+  "sentence": "かれは無事だ、全く無事なんだ。",
+  "translation": "He is safe, he is quite safe.",
+  "reading help": "かれ は 無事 ( ぶじ ) だ、 全く ( まったく ) 無事 ( ぶじ ) なん だ。"
+},
+{
+  "kanji": "事",
+  "sentence": "どうぞご無事で行ってらっしゃい。",
+  "translation": "Do have a safe trip.",
+  "reading help": "どうぞ ご無事 ( ぶじ ) で 行っ ( いっ ) て らっしゃい。"
+},
+{
+  "kanji": "事",
+  "sentence": "人生にはもっと大事なことがある。",
+  "translation": "There are more important things in life.",
+  "reading help": "人生 ( じんせい ) に は もっと 大事 ( だいじ ) な こと が ある。"
+},
+{
+  "kanji": "事",
+  "sentence": "三田さんは大事を成した。",
+  "translation": "Mita-san achieved greatness.",
+  "reading help": "三田 ( みた ) さん は 大事 ( おおごと ) を 成し ( なし ) た。"
+},
+{
+  "kanji": "事",
+  "sentence": "田代さんは三回中国に行った事がある。",
+  "translation": "Tashiro-san has been to China three times.",
+  "reading help": "田代 ( たしろ ) さん は 三回 ( さんかい ) 中国 ( ちゅうごく ) に 行っ ( いっ ) た 事 ( こと ) が ある。"
+},
+{
+  "kanji": "事",
+  "sentence": "足立さんたちは全てを火事でなくした。",
+  "translation": "The Adachis lost everything in the fire.",
+  "reading help": "足立 ( あだち ) さんたち は 全て ( すべて ) を 火事 ( かじ ) で なくした。"
+},
+{
+  "kanji": "事",
+  "sentence": "言いたい事はなんでも言ってよろしい。",
+  "translation": "You can say whatever you want to.",
+  "reading help": "言い ( いい ) たい 事 ( こと ) は なん でも 言っ ( いっ ) て よろしい。"
+},
+{
+  "kanji": "事",
+  "sentence": "白川さんはその事について、それ以上話さなかった。",
+  "translation": "Shirakawa-san didn't say anything more about that matter.",
+  "reading help": "白川 ( しらかわ ) さん は その 事 ( こと ) について、 それ 以上 ( いじょう ) 話さ ( はなさ ) なかった。"
+},
+  {
+    "kanji": "自",
+    "sentence": "これは自明に正しい。",
+    "translation": "This is self-evidently true.",
+    "reading help": "これ は 自明 ( じめい ) に 正しい ( ただしい ) 。"
+  },
+  {
+    "kanji": "自",
+    "sentence": "白川さんは全く自信が無い。",
+    "translation": "Shirakawa-san has absolutely no confidence in herself.",
+    "reading help": "白川 ( しらかわ ) さん は 全く ( まったく ) 自信 ( じしん ) が 無い ( ない ) 。"
+  },
+  {
+    "kanji": "自",
+    "sentence": "丸でわたし自身がしたように。",
+    "translation": "As if I did it myself.",
+    "reading help": "丸 ( まる ) で わたし 自身 ( じしん ) が した よう に。"
+  },
+  {
+    "kanji": "自",
+    "sentence": "自らはたらける人が人の上に立つ。",
+    "translation": "Those who can work on their own initiative are leaders.",
+    "reading help": "自ら ( みずから ) はたらける 人 ( ひと ) が 人 ( ひと ) の 上 ( うえ ) に 立つ ( たつ ) 。"
+  },
+  {
+    "kanji": "自",
+    "sentence": "あなた自身を目立たなくして下さい。",
+    "translation": "Please make yourself inconspicuous.",
+    "reading help": "あなた 自身 ( じしん ) を 目立た ( めだた ) なく して 下さい ( ください ) 。"
+  },
+  {
+    "kanji": "自",
+    "sentence": "二人で一心に自活しようとしている。",
+    "translation": "The two of them are doing their best to support themselves.",
+    "reading help": "二人 ( ふたり ) で 一心に ( いっしんに ) 自活 ( じかつ ) しよう と して いる。"
+  },
+  {
+    "kanji": "自",
+    "sentence": "千代ちゃんはついに自らの行いを自白した。",
+    "translation": "Finally Chiyo-san confessed her conduct.",
+    "reading help": "千代 ( ちよ ) ちゃん は ついに 自ら ( みずから ) の 行い ( おこない ) を 自白 ( じはく ) した。"
+  },
+  {
+    "kanji": "自",
+    "sentence": "王さんはこの上なく自信があった。",
+    "translation": "Wang-san was supremely confident.",
+    "reading help": "王 ( ワン ) さん は この 上 ( うえ ) なく 自信 ( じしん ) が あった。"
+  },
+  {
+    "kanji": "自",
+    "sentence": "自信をもって正しい事をしなければいけない。",
+    "translation": "We must confidently do what is right.",
+    "reading help": "自信 ( じしん ) を もって 正しい ( ただしい ) 事 ( こと ) を しなければ いけない。"
+  },
+  {
+    "kanji": "自",
+    "sentence": "三川さん、そこにはご自身で行かれたのですか？",
+    "translation": "Mikawa-san, have you been there yourself?",
+    "reading help": "三川 ( みかわ ) さん、 そこ に は ご自身 ( じしん ) で 行か ( いか ) れた の です か？"
+  },
+  {
+    "kanji": "自",
+    "sentence": "田代さんは自らが行った事について自ら話さない。",
+    "translation": "Tashiro-san does not speak of the things he has done himself.",
+    "reading help": "田代 ( たしろ ) さん は 自ら ( みずから ) が 行っ ( おこなっ ) た 事 ( こと ) について 自ら ( みずから ) 話さ ( はなさ ) ない。"
+  },
+  {
+    "kanji": "自",
+    "sentence": "自信はないけど、田代さんはこの白書を自らの手で書いていないとおもう。",
+    "translation": "I can't be certain, but I think Tashiro-san did not write this white paper himself.",
+    "reading help": "自信 ( じしん ) は ない けど、 田代 ( たしろ ) さん は この 白書 ( はくしょ ) を 自ら ( みずから ) の 手 ( て ) で 書い ( かい ) て いない と おもう。"
   }
 ]

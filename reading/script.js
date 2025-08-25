@@ -1,67 +1,73 @@
-let kanjiData = [];
+let data = [];
 
+// Ambil data.json
 fetch("data.json")
   .then(res => res.json())
-  .then(data => {
-    kanjiData = data;
-  });
+  .then(json => data = json);
 
-function searchKanji() {
-  const keyword = document.getElementById("searchInput").value.trim();
-  const resultsDiv = document.getElementById("results");
-  const detailDiv = document.getElementById("kanjiDetail");
-  resultsDiv.innerHTML = "";
-  detailDiv.innerHTML = "";
+const searchInput = document.getElementById("search-input");
+const searchBtn = document.getElementById("search-btn");
+const searchArea = document.getElementById("search-area");
+const resultArea = document.getElementById("result-area");
+const backBtn = document.getElementById("back-btn");
+const kanjiTitle = document.getElementById("kanji-title");
+const sentencesDiv = document.getElementById("sentences");
 
-  if (!keyword) {
-    resultsDiv.innerHTML = "<p>Please enter a kanji.</p>";
-    return;
-  }
+// Search button
+searchBtn.addEventListener("click", () => {
+  const query = searchInput.value.trim();
+  if (!query) return;
 
-  const filtered = kanjiData.filter(item => item.kanji.includes(keyword));
-  if (filtered.length === 0) {
-    resultsDiv.innerHTML = "<p>No results found.</p>";
-    return;
-  }
+  const results = data.filter(item => item.kanji === query);
 
-  filtered.forEach((item, index) => {
-    const box = document.createElement("div");
-    box.className = "kanji-box";
-    box.innerHTML = `
-      <div class="kanji-char">${item.kanji}</div>
-      <button onclick="showDetail(${kanjiData.indexOf(item)})">View</button>
-    `;
-    resultsDiv.appendChild(box);
-  });
-}
-
-function showDetail(index) {
-  const item = kanjiData[index];
-  const detailDiv = document.getElementById("kanjiDetail");
-  detailDiv.innerHTML = `
-    <div class="kanji-big">${item.kanji}</div>
-  `;
-
-  // buat sentence box
-  const sentenceBox = document.createElement("div");
-  sentenceBox.className = "sentence-box";
-  sentenceBox.innerHTML = `
-    <div class="sentence-text">${item.sentence}</div>
-    <button class="toggle-btn" onclick="toggleContent(this, 'translation')">Show Translation</button>
-    <button class="toggle-btn" onclick="toggleContent(this, 'reading')">Show Reading</button>
-    <div id="translation" class="hidden"><b>Translation:</b> ${item.translation}</div>
-    <div id="reading" class="hidden"><b>Reading:</b> ${item['reading help']}</div>
-  `;
-  detailDiv.appendChild(sentenceBox);
-}
-
-function toggleContent(btn, type) {
-  const target = btn.parentElement.querySelector(`#${type}`);
-  if (target.classList.contains("hidden")) {
-    target.classList.remove("hidden");
-    btn.textContent = `Hide ${type.charAt(0).toUpperCase() + type.slice(1)}`;
+  if (results.length > 0) {
+    showResults(query, results);
   } else {
-    target.classList.add("hidden");
-    btn.textContent = `Show ${type.charAt(0).toUpperCase() + type.slice(1)}`;
+    alert("Kanji tidak ditemukan!");
   }
+});
+
+// Back button
+backBtn.addEventListener("click", () => {
+  resultArea.classList.add("hidden");
+  searchArea.classList.remove("hidden");
+  sentencesDiv.innerHTML = "";
+  searchInput.value = "";
+});
+
+// Tampilkan hasil
+function showResults(kanji, results) {
+  searchArea.classList.add("hidden");
+  resultArea.classList.remove("hidden");
+  kanjiTitle.textContent = `Hasil untuk: ${kanji}`;
+  sentencesDiv.innerHTML = "";
+
+  results.forEach((item, index) => {
+    const card = document.createElement("div");
+    card.classList.add("sentence-card");
+
+    card.innerHTML = `
+      <p><b>Kalimat:</b> ${item.sentence}</p>
+      <button class="toggle-btn" data-type="translation">Show Translation</button>
+      <button class="toggle-btn" data-type="reading">Show Reading Help</button>
+      <div id="extra-${index}"></div>
+    `;
+
+    sentencesDiv.appendChild(card);
+
+    // Event toggle
+    const buttons = card.querySelectorAll(".toggle-btn");
+    const extraDiv = card.querySelector(`#extra-${index}`);
+
+    buttons.forEach(btn => {
+      btn.addEventListener("click", () => {
+        const type = btn.getAttribute("data-type");
+        if (type === "translation") {
+          extraDiv.innerHTML = `<p><b>Translation:</b> ${item.translation}</p>`;
+        } else if (type === "reading") {
+          extraDiv.innerHTML = `<p><b>Reading Help:</b> ${item["reading help"]}</p>`;
+        }
+      });
+    });
+  });
 }

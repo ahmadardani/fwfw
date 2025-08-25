@@ -3,17 +3,24 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kanji Search</title>
+  <title>Kamus Kanji</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="container">
-    <h2>Kanji Search</h2>
-    <input type="text" id="searchInput" placeholder="Search Kanji...">
-    <button onclick="searchKanji()">Search</button>
+    <!-- Search Area -->
+    <div id="search-area">
+      <h2>Kanji Search</h2>
+      <input type="text" id="search-input" placeholder="Masukkan Kanji...">
+      <button id="search-btn">Search</button>
+    </div>
 
-    <div id="results" class="result"></div>
-    <div id="kanjiDetail"></div>
+    <!-- Result Area -->
+    <div id="result-area" class="hidden">
+      <button id="back-btn">← Back</button>
+      <h2 id="kanji-title"></h2>
+      <div id="sentences"></div>
+    </div>
   </div>
 
   <script src="script.js"></script>
