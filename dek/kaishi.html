@@ -1,35 +1,40 @@
 <!DOCTYPE html>
+<html lang="ja">
 <head>
-    <meta charset="UTF-8">
-    <title>All Kaishi</title>
-    <link href="/styles.css" rel="stylesheet" type="text/css" />
-    <style>
-        #searchInput {
-            width: 100%;
-            padding: 8px;
-            margin-bottom: 15px;
-            font-size: 16px;
-        }
+  <meta charset="UTF-8">
+  <title>All Kaishi</title>
+  <link href="/styles.css" rel="stylesheet" type="text/css" />
+  <style>
+    #searchInput {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 15px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
 
-        .sentence {
-            display: block;
-            margin: 5px 0;
-        }
+    .sentence {
+      display: block;
+      margin: 5px 0;
+    }
 
-        .hidden {
-            display: none;
-        }
-    </style>
+    .hidden {
+      display: none;
+    }
+  </style>
 </head>
 <body>
-<div class="container">
-    <div class="blog-post">
-        <h2>Anki Kaishi 1.5 K</h2>
-        <h3>All Kaishi</h3>
-        <p><a href="/index.html">[ Back ]</a></p>
-        <br>
-        <!-- Search box -->
-        <input type="text" id="searchInput" placeholder="Search a word (e.g. 日本語)" oninput="filterSentences()">
+  <!-- Header kotak -->
+  <div class="textbox-header">
+    <h2>Anki Kaishi 1.5 K</h2>
+  </div>
+
+  <!-- Isi kotak -->
+  <div class="textbox">
+    <p><a href="/index.html">[ Back ]</a></p>
+    <!-- Search box -->
+    <input type="text" id="searchInput" placeholder="Search a word (e.g. 日本語)" oninput="filterSentences()">
 
         <!-- Sentences go here -->
         <div id="sentenceList">
@@ -1537,20 +1542,20 @@
     </div>
 </div>
 
-<script>
+ <script>
     function filterSentences() {
-        const query = document.getElementById('searchInput').value.trim().toLowerCase();
-        const sentences = document.querySelectorAll('.sentence');
+      const query = document.getElementById('searchInput').value.trim().toLowerCase();
+      const sentences = document.querySelectorAll('.sentence');
 
-        sentences.forEach(sentence => {
-            const text = sentence.textContent.toLowerCase();
-            if (text.includes(query)) {
-                sentence.classList.remove('hidden');
-            } else {
-                sentence.classList.add('hidden');
-            }
-        });
+      sentences.forEach(sentence => {
+        const text = sentence.textContent.toLowerCase();
+        if (text.includes(query)) {
+          sentence.classList.remove('hidden');
+        } else {
+          sentence.classList.add('hidden');
+        }
+      });
     }
-</script>
+  </script>
 </body>
 </html>
