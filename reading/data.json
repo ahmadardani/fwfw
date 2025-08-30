@@ -256,5 +256,1013 @@
     "sentence": "自信はないけど、田代さんはこの白書を自らの手で書いていないとおもう。",
     "translation": "I can't be certain, but I think Tashiro-san did not write this white paper himself.",
     "reading help": "自信 ( じしん ) は ない けど、 田代 ( たしろ ) さん は この 白書 ( はくしょ ) を 自ら ( みずから ) の 手 ( て ) で 書い ( かい ) て いない と おもう。"
+  },
+  {
+    "kanji": "民",
+    "sentence": "国民性。",
+    "translation": "A national trait.",
+    "reading help": "国民性 ( こくみんせい ) 。"
+  },
+  {
+    "kanji": "民",
+    "sentence": "米国民。",
+    "translation": "American citizens.",
+    "reading help": "米 ( べい ) 国民 ( こくみん ) 。"
+  },
+  {
+    "kanji": "民",
+    "sentence": "市民会館。",
+    "translation": "Civic auditorium.",
+    "reading help": "市民 ( しみん ) 会館 ( かいかん ) 。"
+  },
+  {
+    "kanji": "民",
+    "sentence": "地元の住民。",
+    "translation": "The local citizens.",
+    "reading help": "地元 ( じもと ) の 住民 ( じゅうみん ) 。"
+  },
+  {
+    "kanji": "民",
+    "sentence": "スペイン国民。",
+    "translation": "The Spanish people.",
+    "reading help": "スペイン 国民 ( こくみん ) 。"
+  },
+  {
+    "kanji": "民",
+    "sentence": "政府の民政部門。",
+    "translation": "Civil branches of government.",
+    "reading help": "政府 ( せいふ ) の 民政 ( みんせい ) 部門 ( ぶもん ) 。"
+  },
+  {
+    "kanji": "民",
+    "sentence": "人民政府の機関。",
+    "translation": "Institutions of popular government.",
+    "reading help": "人民 ( じんみん ) 政府 ( せいふ ) の 機関 ( きかん ) 。"
+  },
+  {
+    "kanji": "民",
+    "sentence": "関根氏は民主党の支持者だ。",
+    "translation": "Mr. Sekine is a Democratic Party supporter.",
+    "reading help": "関根 ( せきね ) 氏 ( し ) は 民主党 ( みんしゅとう ) の 支持者 ( しじしゃ ) だ。"
+  },
+  {
+    "kanji": "民",
+    "sentence": "次回の会合の日時は民主的に決定された。",
+    "translation": "The date of the next meeting was decided democratically.",
+    "reading help": "次回 ( じかい ) の 会合 ( かいごう ) の 日時 ( にちじ ) は 民主的 ( みんしゅてき ) に 決定 ( けってい ) された。"
+  },
+  {
+    "kanji": "民",
+    "sentence": "井戸水を飲まないよう市が住民に注意をよびかける。",
+    "translation": "The city alerts all residents not to drink well water.",
+    "reading help": "井戸水 ( いどみず ) を 飲ま ( のま ) ない よう 市 ( し ) が 住民 ( じゅうみん ) に 注意 ( ちゅうい ) を よびかける。"
+  },
+  {
+    "kanji": "発",
+    "sentence": "明日は朝早く出発する。",
+    "translation": "Tomorrow we set off early in the morning.",
+    "reading help": "明日 ( あした ) は 朝 ( あさ ) 早く ( はやく ) 出発 ( しゅっぱつ ) する。"
+  },
+  {
+    "kanji": "発",
+    "sentence": "早川先生は二日後出発した。",
+    "translation": "Dr. Hayakawa left two days later.",
+    "reading help": "早川 ( はやかわ ) 先生 ( せんせい ) は 二日 ( ふつか ) 後 ( ご ) 出発 ( しゅっぱつ ) した。"
+  },
+  {
+    "kanji": "発",
+    "sentence": "早川先生は三日後に出発する。",
+    "translation": "Dr. Hayakawa is leaving in three days.",
+    "reading help": "早川 ( はやかわ ) 先生 ( せんせい ) は 三日 ( みっか ) 後 ( ご ) に 出発 ( しゅっぱつ ) する。"
+  },
+  {
+    "kanji": "発",
+    "sentence": "子牛は活発な足取りで走った。",
+    "translation": "The calf ran with a lively gait.",
+    "reading help": "子牛 ( こうし ) は 活発 ( かっぱつ ) な 足取り ( あしどり ) で 走っ ( はしっ ) た。"
+  },
+  {
+    "kanji": "発",
+    "sentence": "先日父が書いた本を発見した。",
+    "translation": "The other day I discovered a book written by my father.",
+    "reading help": "先日 ( せんじつ ) 父 ( ちち ) が 書い ( かい ) た 本 ( ほん ) を 発見 ( はっけん ) した。"
+  },
+  {
+    "kanji": "発",
+    "sentence": "去年早川さんの本が発行された。",
+    "translation": "Hayakawa-san's book came out last year.",
+    "reading help": "去年 ( きょねん ) 早川 ( はやかわ ) さん の 本 ( ほん ) が 発行 ( はっこう ) された。"
+  },
+  {
+    "kanji": "発",
+    "sentence": "30分早く出発すればよかったのに。",
+    "translation": "You should have left half an hour earlier.",
+    "reading help": "30分 ( ぷん ) 早く ( はやく ) 出発 ( しゅっぱつ ) すれば よかった のに。"
+  },
+  {
+    "kanji": "発",
+    "sentence": "クリップは百年以上前に発明された。",
+    "translation": "The paper clip was invented more than a hundred years ago.",
+    "reading help": "クリップ は 百年 ( ひゃくねん ) 以上 ( いじょう ) 前 ( まえ ) に 発明 ( はつめい ) された。"
+  },
+  {
+    "kanji": "発",
+    "sentence": "上海を発つところだった。",
+    "translation": "I was about to leave Shanghai.",
+    "reading help": "上海 ( シャンハイ ) を 発つ ( たつ ) ところ だった。"
+  },
+  {
+    "kanji": "発",
+    "sentence": "ミスを発見したら、部長に言って下さい。",
+    "translation": "If you find a mistake, please tell the division chief.",
+    "reading help": "ミス を 発見 ( はっけん ) したら、 部長 ( ぶちょう ) に 言っ ( いっ ) て 下さい ( ください ) 。"
+  },
+  {
+    "kanji": "発",
+    "sentence": "上海にはいつ発ちますか？",
+    "translation": "When are you heading to Shanghai?",
+    "reading help": "上海 ( シャンハイ ) に は いつ 発ち ( たち ) ます か？"
+  },
+  {
+    "kanji": "発",
+    "sentence": "パラフィンは以前は発光体として用いられた。",
+    "translation": "Paraffin was formerly used as an illuminant.",
+    "reading help": "パラフィン は 以前 ( いぜん ) は 発光体 ( はっこうたい ) として 用い ( もちい ) られた。"
+  },
+  {
+    "kanji": "発",
+    "sentence": "月は明るいは明るいですが、発光はしません。",
+    "translation": "The moon may be bright, but it does not emit light.",
+    "reading help": "月 ( つき ) は 明るい ( あかるい ) は 明るい ( あかるい ) です が、 発光 ( はっこう ) は しません。"
+  },
+  {
+    "kanji": "発",
+    "sentence": "本当は二十日金曜日、出発から七十九日目であったのに……",
+    "translation": "In fact it was really Friday, the twentieth, the seventy-ninth day only from his departure. . .",
+    "reading help": "本当は ( ほんとうは ) 二十日 ( はつか ) 金曜日 ( きんようび ) 、 出発 ( しゅっぱつ ) から 七十九日 ( ななじゅうくにち ) 目 ( め ) で あった のに……"
+  },
+  {
+    "kanji": "者",
+    "sentence": "中国東部の出身者。",
+    "translation": "Natives of Eastern China.",
+    "reading help": "中国 ( ちゅうごく ) 東部 ( とうぶ ) の 出身者 ( しゅっしんしゃ ) 。"
+  },
+  {
+    "kanji": "者",
+    "sentence": "七海さんは文学者だ。",
+    "translation": "Nanami is a woman of letters.",
+    "reading help": "七海 ( ななみ ) さん は 文学者 ( ぶんがくしゃ ) だ。"
+  },
+  {
+    "kanji": "者",
+    "sentence": "小海さんは全くのばか者だ。",
+    "translation": "Koumi-san is an absolute moron.",
+    "reading help": "小海 ( こうみ ) さん は 全く ( まったく ) の ばか者 ( もの ) だ。"
+  },
+  {
+    "kanji": "者",
+    "sentence": "学者の中で信者がすくない。",
+    "translation": "There are few believers among academics.",
+    "reading help": "学者 ( がくしゃ ) の 中 ( なか ) で 信者 ( しんじゃ ) が すくない。"
+  },
+  {
+    "kanji": "者",
+    "sentence": "「話者」とは、話す人を言う。",
+    "translation": "\"Washa\" just refers to the person who is speaking.",
+    "reading help": "「話者 ( わしゃ ) 」 と は、 話す ( はなす ) 人 ( ひと ) を 言う ( いう ) 。"
+  },
+  {
+    "kanji": "者",
+    "sentence": "ライオンはサバンナの王者だ。",
+    "translation": "The lion is the king of the savannah.",
+    "reading help": "ライオン は サバンナ の 王者 ( おうじゃ ) だ。"
+  },
+  {
+    "kanji": "者",
+    "sentence": "中国には百万長者がたくさんいる。",
+    "translation": "There are loads of millionaires in China.",
+    "reading help": "中国 ( ちゅうごく ) に は 百万長者 ( ひゃくまんちょうじゃ ) が たくさん いる。"
+  },
+  {
+    "kanji": "者",
+    "sentence": "安部さんは長いことよそ者あつかいされた。",
+    "translation": "Abe-san was long treated like an outsider.",
+    "reading help": "安部 ( あべ ) さん は 長い ( ながい ) こと よそ者 ( よそもの ) あつかい された。"
+  },
+  {
+    "kanji": "者",
+    "sentence": "本校はもともとプロテスタント信者の学校だった。",
+    "translation": "This school was originally for Protestants.",
+    "reading help": "本校 ( ほんこう ) は もともと プロテスタント 信者 ( しんじゃ ) の 学校 ( がっこう ) だった。"
+  },
+  {
+    "kanji": "者",
+    "sentence": "四十くらいの男の人が「本校の者です」と言って学校に入りこんだ。",
+    "translation": "A man of roughly forty years snuck into the school by claiming \"I'm from this school\".",
+    "reading help": "四十 ( よんじゅう ) くらい の 男 ( おとこ ) の 人 ( ひと ) が 「本校 ( ほんこう ) の 者 ( もの ) です」と 言っ ( いっ ) て 学校 ( がっこう ) に 入りこん ( はいりこん ) だ。"
+  },
+  {
+    "kanji": "地",
+    "sentence": "地元の物産。",
+    "translation": "Local products.",
+    "reading help": "地元 ( じもと ) の 物産 ( ぶっさん ) 。"
+  },
+  {
+    "kanji": "地",
+    "sentence": "花は草地をおおった。",
+    "translation": "Flowers carpeted the meadows.",
+    "reading help": "花 ( はな ) は 草地 ( くさち ) を おおった。"
+  },
+  {
+    "kanji": "地",
+    "sentence": "高地で成長する草木。",
+    "translation": "Plants that grow at high altitudes.",
+    "reading help": "高地 ( こうち ) で 成長 ( せいちょう ) する 草木 ( くさき ) 。"
+  },
+  {
+    "kanji": "地",
+    "sentence": "火山で作り出された地形。",
+    "translation": "Volcanically created landscape.",
+    "reading help": "火山 ( かざん ) で 作り出さ ( つくりださ ) れた 地形 ( ちけい ) 。"
+  },
+  {
+    "kanji": "地",
+    "sentence": "火は、心地よい音を出した。",
+    "translation": "The fire crackled cozily.",
+    "reading help": "火 ( ひ ) は、 心地よい ( ここちよい ) 音 ( おと ) を 出し ( だし ) た。"
+  },
+  {
+    "kanji": "地",
+    "sentence": "この土地は作物がよくできる。",
+    "translation": "This land crops well.",
+    "reading help": "この 土地 ( とち ) は 作物 ( さくもつ ) が よく できる。"
+  },
+  {
+    "kanji": "地",
+    "sentence": "パン生地にレーズンを入れる。",
+    "translation": "Work the raisins into the dough.",
+    "reading help": "パン 生地 ( きじ ) に レーズン を 入れる ( いれる ) 。"
+  },
+  {
+    "kanji": "地",
+    "sentence": "地面は足元がぐしょぐしょだった。",
+    "translation": "The ground was boggy under foot.",
+    "reading help": "地面 ( じめん ) は 足元 ( あしもと ) が ぐしょぐしょ だった。"
+  },
+  {
+    "kanji": "地",
+    "sentence": "両手で地面をたたき、立ち上がった。",
+    "translation": "I beat the ground with my hands, and got up.",
+    "reading help": "両手 ( りょうて ) で 地面 ( じめん ) を たたき、 立ち上がっ ( たちあがっ ) た。"
+  },
+  {
+    "kanji": "地",
+    "sentence": "話を別の見地から見よう。",
+    "translation": "Let's view the story from another perspective.",
+    "reading help": "話 ( はなし ) を 別 ( べつ ) の 見地 ( けんち ) から 見よ ( みよ ) う。"
+  },
+  {
+    "kanji": "地",
+    "sentence": "水は百五十日のあいだ地上にみなぎった。",
+    "translation": "And the waters prevailed upon the earth for a hundred and fifty days.",
+    "reading help": "水 ( みず ) は 百 ( ひゃく ) 五十 ( ごじゅう ) 日 ( にち ) の あいだ 地上 ( ちじょう ) に みなぎった。"
+  },
+  {
+    "kanji": "地",
+    "sentence": "地元チームには、十分なリードがあった。",
+    "translation": "The home team had a comfortable lead.",
+    "reading help": "地元 ( じもと ) チーム に は、 十分 ( じゅうぶん ) な リード が あった。"
+  },
+  {
+    "kanji": "地",
+    "sentence": "二月二十七日になって、地は全くかわいた。",
+    "translation": "In the second month, on the seven and twentieth day of the month, the earth was dried.",
+    "reading help": "二月 ( にがつ ) 二十七日 ( にじゅうしちにち ) に なって、 地 ( ち ) は 全く ( まったく ) かわいた。"
+  },
+  {
+    "kanji": "地",
+    "sentence": "顔をうつむかせて、目は地面を見つめていました。",
+    "translation": "With her head bowed and her eyes upon the ground.",
+    "reading help": "顔 ( かお ) を うつむかせて、 目 ( め ) は 地面 ( じめん ) を 見つめ ( みつめ ) て いました。"
+  },
+  {
+    "kanji": "合",
+    "sentence": "会合は先月行われた。",
+    "translation": "The meeting was held last month.",
+    "reading help": "会合 ( かいごう ) は 先月 ( せんげつ ) 行わ ( おこなわ ) れた。"
+  },
+  {
+    "kanji": "合",
+    "sentence": "二人の目線が合った。",
+    "translation": "Their eyes met.",
+    "reading help": "二人 ( ふたり ) の 目線 ( めせん ) が 合っ ( あっ ) た。"
+  },
+  {
+    "kanji": "合",
+    "sentence": "合意が全く無かった。",
+    "translation": "There was no meeting of minds.",
+    "reading help": "合意 ( ごうい ) が 全く ( まったく ) 無かっ ( なかっ ) た。"
+  },
+  {
+    "kanji": "合",
+    "sentence": "かなり気合が入ります。",
+    "translation": "I'm all revved up.",
+    "reading help": "かなり 気合 ( きあい ) が 入り ( はいり ) ます。"
+  },
+  {
+    "kanji": "合",
+    "sentence": "一同は顔を見合わせた。",
+    "translation": "We stared at each other.",
+    "reading help": "一同 ( いちどう ) は 顔 ( かお ) を 見合わせ ( みあわせ ) た。"
+  },
+  {
+    "kanji": "合",
+    "sentence": "明日山内さんと話し合うよ。",
+    "translation": "I'll talk to Yamauchi-san tomorrow.",
+    "reading help": "明日 ( あした ) 山内 ( やまうち ) さん と 話し合う ( はなしあう ) よ。"
+  },
+  {
+    "kanji": "合",
+    "sentence": "我々二人はとても気が合う。",
+    "translation": "We two are kindred souls.",
+    "reading help": "我々 ( われわれ ) 二人 ( ふたり ) は とても 気 ( き ) が 合う ( あう ) 。"
+  },
+  {
+    "kanji": "合",
+    "sentence": "合ってると思うよ、たぶん。",
+    "translation": "You could be right, I suppose.",
+    "reading help": "合っ ( あっ ) てる と 思う ( おもう ) よ、 たぶん。"
+  },
+  {
+    "kanji": "合",
+    "sentence": "あなたとは全く意見が合わない。",
+    "translation": "I do not agree with you at all.",
+    "reading help": "あなた と は 全く ( まったく ) 意見 ( いけん ) が 合わ ( あわ ) ない。"
+  },
+  {
+    "kanji": "合",
+    "sentence": "女子テニス部と合コンしようよ。",
+    "translation": "Let's have a pairing-up party with the girls' tennis club.",
+    "reading help": "女子 ( じょし ) テニス部 ( ぶ ) と 合コン ( ごうこん ) しよう よ。"
+  },
+  {
+    "kanji": "合",
+    "sentence": "わたしは父に背いてその会合に出た。",
+    "translation": "I attended the meeting though my father told me not to.",
+    "reading help": "わたし は 父 ( ちち ) に 背い ( そむい ) て その 会合 ( かいごう ) に 出 ( で ) た。"
+  },
+  {
+    "kanji": "合",
+    "sentence": "マリファナは合法化されるべきである。",
+    "translation": "Marijuana should be legalized.",
+    "reading help": "マリファナ は 合法化 ( ごうほうか ) される べき で ある。"
+  },
+  {
+    "kanji": "合",
+    "sentence": "学生でカフェテリアは込み合っていた。",
+    "translation": "The students overcrowded the cafeteria.",
+    "reading help": "学生 ( がくせい ) で カフェテリア は 込み合っ ( こみあっ ) て いた。"
+  },
+  {
+    "kanji": "合",
+    "sentence": "この件については明日話し合いましょう。",
+    "translation": "Let's talk about this tomorrow.",
+    "reading help": "この 件 ( けん ) について は 明日 ( あした ) 話し合い ( はなしあい ) ましょう。"
+  },
+  {
+    "kanji": "合",
+    "sentence": "他の全ての集合は、全体集合の一部である。",
+    "translation": "[Math] All other sets are subsets of the universal set.",
+    "reading help": "他 ( ほか ) の 全て ( すべて ) の 集合 ( しゅうごう ) は、 全体 ( ぜんたい ) 集合 ( しゅうごう ) の 一部 ( いちぶ ) で ある。"
+  },
+  {
+    "kanji": "合",
+    "sentence": "原口さんとの付き合いを止めた。",
+    "translation": "I stopped associating with Haraguchi-san.",
+    "reading help": "原口 ( はらぐち ) さん と の 付き合い ( つきあい ) を 止め ( やめ ) た。"
+  },
+  {
+    "kanji": "合",
+    "sentence": "かれらは電話でその件について話し合った。",
+    "translation": "They talked about it on the telephone.",
+    "reading help": "かれら は 電話 ( でんわ ) で その 件 ( けん ) について 話し合っ ( はなしあっ ) た。"
+  },
+  {
+    "kanji": "合",
+    "sentence": "王さんが日本人の女の子と付き合ってるって本当ですか？",
+    "translation": "Is it true that Wang-san is dating a Japanese girl?",
+    "reading help": "王 ( ワン ) さん が 日本人 ( にほんじん ) の 女の子 ( おんなのこ ) と 付き合っ ( つきあっ ) てる って 本当 ( ほんとう ) です か？"
+  },
+  {
+    "kanji": "合",
+    "sentence": "「水素化合物」とは、水素と他の元素の化合による二元化合物を言う。",
+    "translation": "A \"hydride\" is any binary compound formed by the union of hydrogen and other elements.",
+    "reading help": "「水素化合物 ( すいそかごうぶつ ) 」 と は、 水素 ( すいそ ) と 他 ( ほか ) の 元素 ( げんそ ) の 化合 ( かごう ) に よる 二元 ( にげん ) 化合物 ( かごうぶつ ) を 言う ( いう ) 。"
+  },
+  {
+    "kanji": "市",
+    "sentence": "朝市は早朝から川辺で行われる。",
+    "translation": "The morning market is held first thing at the riverside.",
+    "reading help": "朝市 ( あさいち ) は 早朝 ( そうちょう ) から 川辺 ( かわべ ) で 行わ ( おこなわ ) れる。"
+  },
+  {
+    "kanji": "市",
+    "sentence": "岡山市の人口は約七十万である。",
+    "translation": "The population of Okayama City is about 700,000.",
+    "reading help": "岡山市 ( おかやまし ) の 人口 ( じんこう ) は 約 ( やく ) 七十万 ( ななじゅうまん ) で ある。"
+  },
+  {
+    "kanji": "市",
+    "sentence": "土曜日に代々木でのみの市が行われる。",
+    "translation": "There's a flea market at Yoyogi on Saturday.",
+    "reading help": "土曜日 ( どようび ) に 代々木 ( よよぎ ) で のみの市 ( のみのいち ) が 行わ ( おこなわ ) れる。"
+  },
+  {
+    "kanji": "市",
+    "sentence": "去年高山さんの三女は市立高校に入学した。",
+    "translation": "Last year Takayama-san's third daughter entered the municipal high school.",
+    "reading help": "去年 ( きょねん ) 高山 ( たかやま ) さん の 三女 ( さんじょ ) は 市立 ( しりつ ) 高校 ( こうこう ) に 入学 ( にゅうがく ) した。"
+  },
+  {
+    "kanji": "市",
+    "sentence": "岡山の市電は高校生の通学につかわれています。",
+    "translation": "The streetcars in Okayama are used by the high schoolers to get to school.",
+    "reading help": "岡山 ( おかやま ) の 市電 ( しでん ) は 高校生 ( こうこうせい ) の 通学 ( つうがく ) に つかわれて います。"
+  },
+  {
+    "kanji": "市",
+    "sentence": "市長に言いたい事があればご意見ポストに入れて下さい。",
+    "translation": "To share your opinions with the mayor, please place them in the suggestions box.",
+    "reading help": "市長 ( しちょう ) に 言い ( いい ) たい 事 ( こと ) が あれば ご意見 ( いけん ) ポスト に 入れ ( いれ ) て 下さい ( ください ) 。"
+  },
+  {
+    "kanji": "市",
+    "sentence": "岡山大学は岡山市の最大の大学である。市立大学ではなく、国立大学である。",
+    "translation": "Okayama University is the largest university in the City of Okayama. It is not a municipal university but a national university.",
+    "reading help": "岡山大学 ( おかやまだいがく ) は 岡山 ( おかやま ) 市 ( し ) の 最大 ( さいだい ) の 大学 ( だいがく ) で ある。 市立 ( しりつ ) 大学 ( だいがく ) で は なく、 国立 ( こくりつ ) 大学 ( だいがく ) で ある。"
+  },
+  {
+    "kanji": "業",
+    "sentence": "手作業。",
+    "translation": "Manual labor.",
+    "reading help": "手作業 ( てさぎょう ) 。"
+  },
+  {
+    "kanji": "業",
+    "sentence": "作業草案。",
+    "translation": "A working draft.",
+    "reading help": "作業 ( さぎょう ) 草案 ( そうあん ) 。"
+  },
+  {
+    "kanji": "業",
+    "sentence": "工業生産高。",
+    "translation": "Industrial output.",
+    "reading help": "工業 ( こうぎょう ) 生産高 ( せいさんだか ) 。"
+  },
+  {
+    "kanji": "業",
+    "sentence": "不快な工業都市。",
+    "translation": "An ungracious industrial city.",
+    "reading help": "不快 ( ふかい ) な 工業 ( こうぎょう ) 都市 ( とし ) 。"
+  },
+  {
+    "kanji": "業",
+    "sentence": "米国の映画産業。",
+    "translation": "The film industry of the United States.",
+    "reading help": "米国 ( べいこく ) の 映画 ( えいが ) 産業 ( さんぎょう ) 。"
+  },
+  {
+    "kanji": "業",
+    "sentence": "生産的な共同作業。",
+    "translation": "A productive collaboration.",
+    "reading help": "生産的 ( せいさんてき ) な 共同 ( きょうどう ) 作業 ( さぎょう ) 。"
+  },
+  {
+    "kanji": "業",
+    "sentence": "公益事業を行う会社。",
+    "translation": "A company that performs a public service.",
+    "reading help": "公益 ( こうえき ) 事業 ( じぎょう ) を 行う ( おこなう ) 会社 ( かいしゃ ) 。"
+  },
+  {
+    "kanji": "業",
+    "sentence": "電気通信産業がのびはじめた。",
+    "translation": "The telecommunications industry started to pick up.",
+    "reading help": "電気 ( でんき ) 通信 ( つうしん ) 産業 ( さんぎょう ) が のびはじめた。"
+  },
+  {
+    "kanji": "業",
+    "sentence": "私がいない間も作業を続けなさい。",
+    "translation": "Keep on working while I'm away.",
+    "reading help": "私 ( わたし ) が いない 間 ( あいだ ) も 作業 ( さぎょう ) を 続け ( つづけ ) なさい。"
+  },
+  {
+    "kanji": "業",
+    "sentence": "人間業でこのようなことができましょうか？",
+    "translation": "What human contrivance could do that?",
+    "reading help": "人間業 ( にんげんわざ ) で この よう な こと が でき ましょう か？"
+  },
+  {
+    "kanji": "業",
+    "sentence": "名古屋は日本の主な商業と産業の中心の一つだ。",
+    "translation": "Nagoya is one of Japan's primary commercial and industrial centers.",
+    "reading help": "名古屋 ( なごや ) は 日本 ( にほん ) の 主 ( おも ) な 商業 ( しょうぎょう ) と 産業 ( さんぎょう ) の 中心 ( ちゅうしん ) の 一つ ( ひとつ ) だ。"
+  },
+  {
+    "kanji": "業",
+    "sentence": "テレビ番組を作るための映画会社同士の共同事業。",
+    "translation": "A joint venture between the film companies to produce TV shows.",
+    "reading help": "テレビ 番組 ( ばんぐみ ) を 作る ( つくる ) ため の 映画 ( えいが ) 会社 ( がいしゃ ) 同士 ( どうし ) の共同 ( きょうどう ) 事業 ( じぎょう ) 。"
+  },
+  {
+    "kanji": "業",
+    "sentence": "今では学校の近くにあるほとんどの店が土曜休業だ。",
+    "translation": "Most shops near the school are closed on Saturdays now.",
+    "reading help": "今 ( いま ) で は 学校 ( がっこう ) の 近く ( ちかく ) に ある ほとんど の 店 ( みせ ) が 土曜 ( どよう ) 休業 ( きゅうぎょう ) だ。"
+  },
+  {
+    "kanji": "業",
+    "sentence": "どれだけの作業がかかったかを聞いて、夏美さんは身を引いた。",
+    "translation": "Natsumi bowed out when she heard how much work was involved.",
+    "reading help": "どれ だけ の 作業 ( さぎょう ) が かかった か を 聞い ( きい ) て、 夏美 ( なつみ ) さん は 身 ( み ) を 引い ( ひい ) た。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "行方不明者。",
+    "translation": "A missing person.",
+    "reading help": "行方 ( ゆくえ ) 不明 ( ふめい ) 者 ( しゃ ) 。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "前方を見る。",
+    "translation": "See ahead.",
+    "reading help": "前方 ( ぜんぽう ) を 見る ( みる ) 。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "北東の方へ。",
+    "translation": "Toward the northeast.",
+    "reading help": "北東 ( ほくとう ) の 方 ( ほう ) へ。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "光電の方法で。",
+    "translation": "By photoelectric means.",
+    "reading help": "光電 ( こうでん ) の 方法 ( ほうほう ) で。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "法的な方法で。",
+    "translation": "In a legal manner.",
+    "reading help": "法的 ( ほうてき ) な 方法 ( ほうほう ) で。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "正当な方法で。",
+    "translation": "In a valid manner.",
+    "reading help": "正当 ( せいとう ) な 方法 ( ほうほう ) で。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "心休まる方法で。",
+    "translation": "In a soothing manner.",
+    "reading help": "心 ( こころ ) 休まる ( やすまる ) 方法 ( ほうほう ) で。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "自発的な方法で。",
+    "translation": "In a willing manner.",
+    "reading help": "自発的 ( じはつてき ) な 方法 ( ほうほう ) で。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "不信心な方法で。",
+    "translation": "In an impious manner.",
+    "reading help": "不信心 ( ふしんじん ) な 方法 ( ほうほう ) で。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "立方体に切られる。",
+    "translation": "Cut into cubes.",
+    "reading help": "立方体 ( りっぽうたい ) に 切ら ( きら ) れる。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "あなたの話し方が好き。",
+    "translation": "I like the way you talk.",
+    "reading help": "あなた の 話し方 ( はなしかた ) が 好き ( すき ) 。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "明らかに目立つ方法で。",
+    "translation": "In a clearly noticeable manner.",
+    "reading help": "明らか ( あきらか ) に 目立つ ( めだつ ) 方法 ( ほうほう ) で。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "母方のいとこが三人います。",
+    "translation": "I have three cousins on my mother's side.",
+    "reading help": "母方 ( ははかた ) の いとこ が 三人 ( さんにん ) います。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "話し方で正男さんだと分かる。",
+    "translation": "I can tell it's Masao by the way he speaks.",
+    "reading help": "話し方 ( はなしかた ) で 正男 ( まさお ) さん だ と 分かる ( わかる ) 。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "明子さんは後方をちらっと見た。",
+    "translation": "Akiko stole a rearward glance.",
+    "reading help": "明子 ( あきこ ) さん は 後方 ( こうほう ) を ちらっと 見 ( み ) た。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "活発であるか活気がある方法で。",
+    "translation": "In a spirited or lively manner.",
+    "reading help": "活発 ( かっぱつ ) で ある か 活気 ( かっき ) が ある 方法 ( ほうほう ) で。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "話者が正しいと信じている方法で。",
+    "translation": "In a manner that the speaker believes is correct.",
+    "reading help": "話者 ( わしゃ ) が 正しい ( ただしい ) と 信じ ( しんじ ) て いる 方法 ( ほうほう ) で。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "どちらの方が正しいと思いますか。",
+    "translation": "Which one do you think is correct?",
+    "reading help": "どちら の 方 ( ほう ) が 正しい ( ただしい ) と 思い ( おもい ) ます か。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "前もって予約しといた方がいいですよ。",
+    "translation": "You had better make a reservation in advance.",
+    "reading help": "前もって ( まえもって ) 予約 ( よやく ) し といた 方 ( ほう ) が いい です よ。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "ついに長人さんはその作り方を発見した。",
+    "translation": "At last Nagato found out how to make it.",
+    "reading help": "ついに 長人 ( ながと ) さん は その 作り方 ( つくりかた ) を 発見 ( はっけん ) した。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "田畑さんがいつも自分なりの方法を見付けます。",
+    "translation": "Tabata-san always finds his own way of doing things.",
+    "reading help": "田畑 ( たばた ) さん が いつも 自分 ( じぶん ) なり の 方法 ( ほうほう ) を 見付け ( みつけ ) ます。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "回りくどい言い方は止めてはっきり言ってよ！",
+    "translation": "Stop beating around the bush and give it to me straight!",
+    "reading help": "回りくどい ( まわりくどい ) 言い方 ( いいかた ) は 止め ( やめ ) て はっきり 言っ ( いっ ) て よ！"
+  },
+  {
+    "kanji": "方",
+    "sentence": "行き止まりとは一方からしか出入りのできない通りを言う。",
+    "translation": "A cul-de-sac is a street with only one way in or out.",
+    "reading help": "行き止まり ( いきどまり ) と は 一方 ( いっぽう ) から しか 出入り ( でいり ) の できない 通り ( とおり ) を 言う ( いう ) 。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "あなたの女の子についての話し方は、ものすごくいいと思うわ。",
+    "translation": "It is perfectly lovely the way you talk about girls.",
+    "reading help": "あなた の 女の子 ( おんなのこ ) について の 話し方 ( はなしかた ) は、 ものすごく いい と 思う ( おもう ) わ。"
+  },
+  {
+    "kanji": "方",
+    "sentence": "文法的には正しいのですが、ネイティブはこのような言い方はしません。",
+    "translation": "It's grammatically correct, but a native would never say it like that.",
+    "reading help": "文法的 ( ぶんぽうてき ) に は 正しい ( ただしい ) の です が、 ネイティブ は この よう な 言い方 ( いいかた ) は しません。"
+  },
+  {
+    "kanji": "回",
+    "sentence": "土をかき回す。",
+    "translation": "Stir the soil.",
+    "reading help": "土 ( つち ) を かき回す ( かきまわす ) 。"
+  },
+  {
+    "kanji": "回",
+    "sentence": "ハンドルを回す。",
+    "translation": "Rotate a handle.",
+    "reading help": "ハンドル を 回す ( まわす ) 。"
+  },
+  {
+    "kanji": "回",
+    "sentence": "カメラは回っていた。",
+    "translation": "The cameras were rolling.",
+    "reading help": "カメラ は 回っ ( まわっ ) て いた。"
+  },
+  {
+    "kanji": "回",
+    "sentence": "ダイアルを10に回す。",
+    "translation": "Turn the dial to 10.",
+    "reading help": "ダイアル を 10 に 回す ( まわす ) 。"
+  },
+  {
+    "kanji": "回",
+    "sentence": "そこまで手が回らない。",
+    "translation": "I can't possibly manage it.",
+    "reading help": "そこ まで 手 ( て ) が 回ら ( まわら ) ない。"
+  },
+  {
+    "kanji": "回",
+    "sentence": "木下さんは一日で三回も入金する。",
+    "translation": "Kinoshita-san makes a deposit even three times in a day.",
+    "reading help": "木下 ( きのした ) さん は 一日 ( いちにち ) で 三回 ( さんかい ) も 入金 ( にゅうきん ) する。"
+  },
+  {
+    "kanji": "回",
+    "sentence": "小田さんがずっとカメラを回した。",
+    "translation": "Oda-san kept on filming.",
+    "reading help": "小田 ( おだ ) さん が ずっと カメラ を 回し ( まわし ) た。"
+  },
+  {
+    "kanji": "回",
+    "sentence": "川田さんは月に二、三回ゴルフをする。",
+    "translation": "Kawada-san plays golf two or three times a month.",
+    "reading help": "川田 ( かわだ ) さん は 月 ( つき ) に 二 ( に ) 、 三回 ( さんかい ) ゴルフ を する。"
+  },
+  {
+    "kanji": "回",
+    "sentence": "東山さんはいつも回りくどいことをいう。",
+    "translation": "Higashiyama-san always speaks in a roundabout way.",
+    "reading help": "東山 ( ひがしやま ) さん は いつも 回りくどい ( まわりくどい ) こと を いう。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "仕事場。",
+    "translation": "A workplace.",
+    "reading help": "仕事場 ( しごとば ) 。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "下向き市場。",
+    "translation": "A falling market.",
+    "reading help": "下向き ( したむき ) 市場 ( しじょう ) 。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "楽しい場面。",
+    "translation": "A pleasant scene.",
+    "reading help": "楽しい ( たのしい ) 場面 ( ばめん ) 。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "私的な場所。",
+    "translation": "A private place.",
+    "reading help": "私的 ( してき ) な 場所 ( ばしょ ) 。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "安全な場所。",
+    "translation": "A safe place.",
+    "reading help": "安全 ( あんぜん ) な 場所 ( ばしょ ) 。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "銀市場の独占。",
+    "translation": "A monopoly on silver.",
+    "reading help": "銀市場 ( ぎんしじょう ) の 独占 ( どくせん ) 。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "有利な立場で。",
+    "translation": "In an advantageous position.",
+    "reading help": "有利 ( ゆうり ) な 立場 ( たちば ) で。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "後者の場合で。",
+    "translation": "In the latter case.",
+    "reading help": "後者 ( こうしゃ ) の 場合 ( ばあい ) で。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "等しい立場の。",
+    "translation": "Of equal standing.",
+    "reading help": "等しい ( ひとしい ) 立場 ( たちば ) の。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "苦しい立場にある。",
+    "translation": "In the hot seat.",
+    "reading help": "苦しい ( くるしい ) 立場 ( たちば ) に ある。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "市場向きの生産物。",
+    "translation": "Market-bound produce.",
+    "reading help": "市場向き ( しじょうむき ) の 生産物 ( せいさんぶつ ) 。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "小売り市場で売る。",
+    "translation": "Sell on the retail market.",
+    "reading help": "小売り ( こうり ) 市場 ( しじょう ) で 売る ( うる ) 。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "金市場を買い占める。",
+    "translation": "Corner the gold market.",
+    "reading help": "金市場 ( きんしじょう ) を 買い占める ( かいしめる ) 。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "場合によりけりである。",
+    "translation": "That depends.",
+    "reading help": "場合 ( ばあい ) に よりけり で ある。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "芸者は堂々と入場した。",
+    "translation": "The geisha made a grand entrance.",
+    "reading help": "芸者 ( げいしゃ ) は 堂々 ( どうどう ) と 入場 ( にゅうじょう ) した。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "湿った場所で見つかる虫。",
+    "translation": "An insect found in damp habitats.",
+    "reading help": "湿っ ( しめっ ) た 場所 ( ばしょ ) で 見つかる ( みつかる ) 虫 ( むし ) 。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "車は所定の場所にあった。",
+    "translation": "The cars were in position.",
+    "reading help": "車 ( くるま ) は 所定 ( しょてい ) の 場所 ( ばしょ ) に あった。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "工場は共同で所有されていた。",
+    "translation": "The mills were owned communally.",
+    "reading help": "工場 ( こうじょう ) は 共同 ( きょうどう ) で 所有 ( しょゆう ) されて いた。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "かれらは米国市場に進出した。",
+    "translation": "They made inroads in the United States market.",
+    "reading help": "かれら は 米国 ( べいこく ) 市場 ( しじょう ) に 進出 ( しんしゅつ ) した。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "この場所はまったく無音でした。",
+    "translation": "The place was very silent.",
+    "reading help": "この 場所 ( ばしょ ) は まったく 無音 ( むおん ) でした。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "この工場はのこぎりを生産する。",
+    "translation": "This factory turns out saws.",
+    "reading help": "この 工場 ( こうじょう ) は のこぎり を 生産 ( せいさん ) する。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "由紀さんは駐車場に車を止めた。",
+    "translation": "Yuki stopped the car in the parking lot.",
+    "reading help": "由紀 ( ゆき ) さん は 駐車場 ( ちゅうしゃじょう ) に 車 ( くるま ) を 止め ( とめ ) た。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "地図にもその場所は記されていた。",
+    "translation": "The place was marked upon the chart.",
+    "reading help": "地図 ( ちず ) に も その 場所 ( ばしょ ) は 記さ ( しるさ ) れて いた。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "会場には全国から80人が集まった。",
+    "translation": "Eighty people from around the country gathered at the venue.",
+    "reading help": "会場 ( かいじょう ) に は 全国 ( ぜんこく ) から 80人 ( にん ) が 集まっ ( あつまっ ) た。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "市場をテニスシューズで溢れさせる。",
+    "translation": "Flood the market with tennis shoes.",
+    "reading help": "市場 ( しじょう ) を テニス シューズ で 溢れ ( あふれ ) させる。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "火事の場合は119に電話して下さい。",
+    "translation": "In case of fire, please call 119.",
+    "reading help": "火事 ( かじ ) の 場合 ( ばあい ) は 119 に 電話 ( でんわ ) して 下さい ( ください ) 。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "宝石は思いがけない場所で見つかった。",
+    "translation": "The jewel was found in an unlikely place.",
+    "reading help": "宝石 ( ほうせき ) は 思いがけない ( おもいがけない ) 場所 ( ばしょ ) で 見つかっ ( みつかっ ) た。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "かれらはとても良い場所を持っている。",
+    "translation": "They have a right nice place.",
+    "reading help": "かれら は とても 良い ( いい ) 場所 ( ばしょ ) を 持っ ( もっ ) て いる。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "私たちは今新しい車を買う立場にない。",
+    "translation": "We can ill afford to buy a new car just now.",
+    "reading help": "私 ( わたし ) たち は 今 ( いま ) 新しい ( あたらしい ) 車 ( くるま ) を 買う ( かう ) 立場 ( たちば ) にない。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "3人の青年が、広場で大道芸をしていた。",
+    "translation": "Three young men were busking in the plaza.",
+    "reading help": "3人 ( にん ) の 青年 ( せいねん ) が、 広場 ( ひろば ) で 大道芸 ( だいどうげい ) を して いた。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "1つの場面からもう一つの場面までを切る。",
+    "translation": "Cut from one scene to another.",
+    "reading help": "1つ の 場面 ( ばめん ) から もう 一つ ( ひとつ ) の 場面 ( ばめん ) まで を 切る ( きる ) 。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "私が同じ立場でも、同じ事をするでしょう。",
+    "translation": "If I were in your situation, I would do the same thing.",
+    "reading help": "私 ( わたし ) が 同じ ( おなじ ) 立場 ( たちば ) で も、 同じ ( おなじ ) 事 ( こと ) を する でしょう。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "高校生は、中央広場をぶらつくのが好きだ。",
+    "translation": "The high school students like to loiter in the Central Square.",
+    "reading help": "高校生 ( こうこうせい ) は、 中央 ( ちゅうおう ) 広場 ( ひろば ) を ぶらつく の が 好き ( すき ) だ。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "売り場をうろうろしているこの男性はだれだ。",
+    "translation": "Who is this man that is hanging around the department?",
+    "reading help": "売り場 ( うりば ) を うろうろ して いる この 男性 ( だんせい ) は だれ だ。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "原宿は東京の中で最も活気のある場所の一つである。",
+    "translation": "Harajuku is one of the hottest places in Tokyo.",
+    "reading help": "原宿 ( はらじゅく ) は 東京 ( とうきょう ) の 中 ( なか ) で 最も ( もっとも ) 活気 ( かっき ) の ある 場所 ( ばしょ ) の 一つ ( ひとつ ) で ある。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "三日目に、アブラハムは目を上げて、はるかにその場所を見た。",
+    "translation": "Then on the third day Abraham lifted up his eyes, and saw the place afar off.",
+    "reading help": "三日目 ( みっかめ ) に、 アブラハム は 目 ( め ) を 上げ ( あげ ) て、 はるか に その 場所 ( ばしょ ) を 見 ( み ) た。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "広くて風通しの良い場所で、小さな泉ときれいな水たまりがあった。",
+    "translation": "It was a large, airy place, with a little spring and a pool of clear water.",
+    "reading help": "広く ( ひろく ) て 風通し ( かぜとおし ) の 良い ( いい ) 場所 ( ばしょ ) で、 小さな ( ちいさな ) 泉 ( いずみ ) と きれい な 水たまり ( みずたまり ) が あった。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "特に今近づきつつあるのは、この島でも一番気持ちのいい場所だった。",
+    "translation": "It was, indeed, a most pleasant portion of the island that we were now approaching.",
+    "reading help": "特に ( とくに ) 今 ( いま ) 近づき ( ちかづき ) つつ ある の は、 この 島 ( しま ) でも 一番 ( いちばん ) 気持ち ( きもち ) の いい 場所 ( ばしょ ) だった。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "チェルノブイリは1986年に原子力発電所の大事故があった場所である。",
+    "translation": "Chernobyl was the site of a major disaster at a nuclear power plant in 1986.",
+    "reading help": "チェルノブイリ は 1986年 ( ねん ) に 原子力 ( げんしりょく ) 発電所 ( はつでんしょ ) の大事故 ( だいじこ ) が あった 場所 ( ばしょ ) で ある。"
+  },
+  {
+    "kanji": "場",
+    "sentence": "石井さんはいつだって自分が命令する立場にいないと気がすまないのです。",
+    "translation": "Ishii-san always has to be the one giving orders.",
+    "reading help": "石井 ( いしい ) さん は いつ だって 自分 ( じぶん ) が 命令 ( めいれい ) する 立場 ( たちば ) に いない と 気 ( き ) が すまない の です。"
+  },
+  {
+    "kanji": "員",
+    "sentence": "全員の意見が一致している。",
+    "translation": "Everyone is of one mind.",
+    "reading help": "全員 ( ぜんいん ) の 意見 ( いけん ) が 一致 ( いっち ) して いる。"
+  },
+  {
+    "kanji": "員",
+    "sentence": "多くの会員たちは文句を言った。",
+    "translation": "Many members complained.",
+    "reading help": "多く ( おおく ) の 会員 ( かいいん ) たち は 文句 ( もんく ) を 言っ ( いっ ) た。"
+  },
+  {
+    "kanji": "員",
+    "sentence": "本日、会社に新入社員が入社しました。",
+    "translation": "New employees have started at our company today.",
+    "reading help": "本日 ( ほんじつ ) 、 会社 ( かいしゃ ) に 新入 ( しんにゅう ) 社員 ( しゃいん ) が 入社 ( にゅうしゃ ) しました。"
+  },
+  {
+    "kanji": "員",
+    "sentence": "神田さんはこの会社の正社員ではありません。",
+    "translation": "Kanda-san is not a full-time employee of this company.",
+    "reading help": "神田 ( かんだ ) さん は この 会社 ( かいしゃ ) の 正社員 ( せいしゃいん ) で は ありません。"
+  },
+  {
+    "kanji": "員",
+    "sentence": "良太ちゃんはクラスメート全員と上手く付き合っている。",
+    "translation": "Ryota is getting along well with all of his classmates.",
+    "reading help": "良太 ( りょうた ) ちゃん は クラスメート 全員 ( ぜんいん ) と 上手く ( うまく ) 付き合っ ( つきあっ ) て いる。"
+  },
+  {
+    "kanji": "員",
+    "sentence": "オペラのシーズンチケットは、定員以上の申し込みがあった。",
+    "translation": "The opera season was oversubscribed.",
+    "reading help": "オペラ の シーズン チケット は、 定員 ( ていいん ) 以上 ( いじょう ) の 申し込み ( もうしこみ ) が あった。"
   }
 ]
