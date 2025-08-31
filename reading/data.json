@@ -1264,5 +1264,563 @@
     "sentence": "オペラのシーズンチケットは、定員以上の申し込みがあった。",
     "translation": "The opera season was oversubscribed.",
     "reading help": "オペラ の シーズン チケット は、 定員 ( ていいん ) 以上 ( いじょう ) の 申し込み ( もうしこみ ) が あった。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "開店時間。",
+    "translation": "Hours of operation.",
+    "reading help": "開店 ( かいてん ) 時間 ( じかん ) 。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "都市開発。",
+    "translation": "Urban development.",
+    "reading help": "都市 ( とし ) 開発 ( かいはつ ) 。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "満開のバラ。",
+    "translation": "A full-blown rose.",
+    "reading help": "満開 ( まんかい ) の バラ。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "両開きのドア。",
+    "translation": "Double doors.",
+    "reading help": "両開き ( りょうびらき ) の ドア。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "地図を開く。",
+    "translation": "Open a map.",
+    "reading help": "地図 ( ちず ) を 開く ( ひらく ) 。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "この未開の国。",
+    "translation": "This benighted country.",
+    "reading help": "この 未開 ( みかい ) の 国 ( くに ) 。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "足を開いて立つ。",
+    "translation": "Stand with legs wide apart.",
+    "reading help": "足 ( あし ) を 開い ( ひらい ) て 立つ ( たつ ) 。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "銀行は9時に開く。",
+    "translation": "Banks open at nine o'clock.",
+    "reading help": "銀行 ( ぎんこう ) は 9時 ( じ ) に 開く ( ひらく ) 。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "ドアは電子的に開く。",
+    "translation": "The door opens electronically.",
+    "reading help": "ドア は 電子的 ( でんしてき ) に 開く ( ひらく ) 。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "立法府の開会式だった。",
+    "translation": "It was the opening session of the legislature.",
+    "reading help": "立法府 ( りっぽうふ ) の 開会式 ( かいかいしき ) だった。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "銀行は9時に開店します。",
+    "translation": "Banks open at nine o'clock.",
+    "reading help": "銀行 ( ぎんこう ) は 9時 ( じ ) に 開店 ( かいてん ) します。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "ナイフは肉を切り開いた。",
+    "translation": "The knife cut through the flesh.",
+    "reading help": "ナイフ は 肉 ( にく ) を 切り開い ( きりひらい ) た。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "午後二時なら開いてます。",
+    "translation": "We have an opening at two o'clock.",
+    "reading help": "午後 ( ごご ) 二時 ( にじ ) なら 開い ( あい ) てます。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "開発者は土地を区分けした。",
+    "translation": "The developers parceled the land.",
+    "reading help": "開発者 ( かいはつしゃ ) は 土地 ( とち ) を 区分け ( くわけ ) した。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "集まりは年に一度開かれる。",
+    "translation": "The meeting is held annually.",
+    "reading help": "集まり ( あつまり ) は 年 ( ねん ) に 一度 ( いちど ) 開か ( ひらか ) れる。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "私は店が開くのを待っている。",
+    "translation": "I am waiting for the store to open.",
+    "reading help": "私 ( わたし ) は 店 ( みせ ) が 開く ( あく ) の を 待っ ( まっ ) て いる。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "コンサートは屋外で開かれた。",
+    "translation": "The concert was held in the open air.",
+    "reading help": "コンサート は 屋外 ( おくがい ) で 開か ( ひらか ) れた。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "なん年もの間未公開であった映画。",
+    "translation": "A film that remained unreleased for years.",
+    "reading help": "なん年 ( ねん ) も の 間 ( あいだ ) 未公開 ( みこうかい ) で あった 映画 ( えいが ) 。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "金井さんは来週パーティーを開く。",
+    "translation": "Kanai-san will give a party next week.",
+    "reading help": "金井 ( かない ) さん は 来週 ( らいしゅう ) パーティー を 開く ( ひらく ) 。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "木こりは森林を切り開いて進んだ。",
+    "translation": "The woodman hacked his way through the forest.",
+    "reading help": "木こり ( きこり ) は 森林 ( しんりん ) を 切り開い ( きりひらい ) て 進ん ( すすん ) だ。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "その銀行は午前9時に開店し、午後3時に閉店する。",
+    "translation": "The bank opens at 9 a.m. and closes at 3 p.m.",
+    "reading help": "その 銀行 ( ぎんこう ) は 午前 ( ごぜん ) 9時 ( じ ) に 開店 ( かいてん ) し、 午後 ( ごご ) 3時 ( じ ) に 閉店 ( へいてん ) する。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "数人の人がまだ開いている出店の辺りに集まっていた。",
+    "translation": "A few people were gathered about the stalls which were still open.",
+    "reading help": "数人 ( すうにん ) の 人 ( ひと ) が まだ 開い ( ひらい ) て いる 出店 ( しゅってん ) の 辺り ( あたり ) に 集まっ ( あつまっ ) て いた。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "すると私たちは入口の戸が半分開きかかっている部屋の前に出た。",
+    "translation": "Upon which we found ourselves outside a half-opened door.",
+    "reading help": "すると 私 ( わたし ) たち は 入口 ( いりぐち ) の 戸 ( と ) が 半分 ( はんぶん ) 開き ( ひらき ) かかって いる 部屋 ( へや ) の 前 ( まえ ) に 出 ( で ) た。"
+  },
+  {
+    "kanji": "開",
+    "sentence": "すぐにドアは開き、快活そうな、ひげのない若者がお入り下さいと言った。",
+    "translation": "It was instantly opened by a bright-looking, clean-shaven young fellow, who asked him to step in.",
+    "reading help": "すぐ に ドア は 開き ( ひらき ) 、 快活 ( かいかつ ) そう な、 ひげ の ない 若者 ( わかもの ) が お入り ( はいり ) 下さい ( ください ) と 言っ ( いっ ) た。"
+  },
+  {
+    "kanji": "力",
+    "sentence": "体力の不足。",
+    "translation": "Lack of physical strength.",
+    "reading help": "体力 ( たいりょく ) の 不足 ( ふそく ) 。"
+  },
+  {
+    "kanji": "力",
+    "sentence": "全力で力む。",
+    "translation": "Work with all one's strength.",
+    "reading help": "全力 ( ぜんりょく ) で 力む ( りきむ ) 。"
+  },
+  {
+    "kanji": "力",
+    "sentence": "体力全部で力む。",
+    "translation": "Try with all one's might.",
+    "reading help": "体力 ( たいりょく ) 全部 ( ぜんぶ ) で 力む ( りきむ ) 。"
+  },
+  {
+    "kanji": "力",
+    "sentence": "全国の力を活用する。",
+    "translation": "Exploit the power of the whole country.",
+    "reading help": "全国 ( ぜんこく ) の 力 ( ちから ) を 活用 ( かつよう ) する。"
+  },
+  {
+    "kanji": "力",
+    "sentence": "これから自力で生活したい。",
+    "translation": "I want to live independently from now on.",
+    "reading help": "これ から 自力 ( じりき ) で 生活 ( せいかつ ) したい。"
+  },
+  {
+    "kanji": "力",
+    "sentence": "田代さんには生活力があります。",
+    "translation": "Tashiro-san is a person of much vitality.",
+    "reading help": "田代 ( たしろ ) さん に は 生活力 ( せいかつりょく ) が あります。"
+  },
+  {
+    "kanji": "力",
+    "sentence": "成田さんはパスワードを入力した。",
+    "translation": "Narita-san entered his password.",
+    "reading help": "成田 ( なりた ) さん は パスワード を 入力 ( にゅうりょく ) した。"
+  },
+  {
+    "kanji": "力",
+    "sentence": "中国の人たちはとても活力がある。",
+    "translation": "The people of China are full of energy.",
+    "reading help": "中国 ( ちゅうごく ) の 人 ( ひと ) たち は とても 活力 ( かつりょく ) が ある。"
+  },
+  {
+    "kanji": "力",
+    "sentence": "体力全部で力んだが、できなかった。",
+    "translation": "I tried with all my might, but I couldn't do it.",
+    "reading help": "体力 ( たいりょく ) 全部 ( ぜんぶ ) で 力ん ( りきん ) だ が、 できなかった。"
+  },
+  {
+    "kanji": "力",
+    "sentence": "「人力」とは、人の力を用いる事を言う。",
+    "translation": "\"Jinriki\" means using the strength of a person.",
+    "reading help": "「人力 ( じんりき ) 」 と は、 人 ( ひと ) の 力 ( ちから ) を 用いる ( もちいる ) 事 ( こと ) を 言う ( いう ) 。"
+  },
+  {
+    "kanji": "力",
+    "sentence": "東国さんはさらに力を入れることにした。",
+    "translation": "Higashikuni-san redoubled his efforts.",
+    "reading help": "東国 ( ひがしくに ) さん は さらに 力 ( ちから ) を 入れる ( いれる ) こと に した。"
+  },
+  {
+    "kanji": "力",
+    "sentence": "白山さんは中々力があるな。",
+    "translation": "Shirayama-san's a strong one, ain't she?",
+    "reading help": "白山 ( しろやま ) さん は 中々 ( なかなか ) 力 ( ちから ) が ある な。"
+  },
+  {
+    "kanji": "力",
+    "sentence": "「自力」とは、自らの力を用いる事を言う。",
+    "translation": "\"Jiriki\" means using one's own strength.",
+    "reading help": "「自力 ( じりき ) 」 と は、 自ら ( みずから ) の 力 ( ちから ) を 用いる ( もちいる ) 事 ( こと ) を 言う ( いう ) 。"
+  },
+  {
+    "kanji": "力",
+    "sentence": "一見白川さんは体力がないように見えるが、そうでもない。",
+    "translation": "At first glance Shirakawa-san appears not to have much strength, but that's not the case.",
+    "reading help": "一見 ( いっけん ) 白川 ( しらかわ ) さん は 体力 ( たいりょく ) が ない よう に 見える ( みえる ) が、 そう でも ない。"
+  },
+  {
+    "kanji": "問",
+    "sentence": "問いにこたえる。",
+    "translation": "Answer questions.",
+    "reading help": "問い ( とい ) に こたえる。"
+  },
+  {
+    "kanji": "問",
+    "sentence": "即席の質問をする。",
+    "translation": "Asked an unpremeditated question.",
+    "reading help": "即席 ( そくせき ) の 質問 ( しつもん ) を する。"
+  },
+  {
+    "kanji": "問",
+    "sentence": "そうは問屋がおろさない。",
+    "translation": "You won't get it so cheaply/easily.",
+    "reading help": "そう は 問屋 ( とんや ) が おろさない。"
+  },
+  {
+    "kanji": "問",
+    "sentence": "その一問がとても易しいと思った。",
+    "translation": "I found that one question very easy.",
+    "reading help": "その 一問 ( いちもん ) が とても 易しい ( やさしい ) と 思っ ( おもっ ) た。"
+  },
+  {
+    "kanji": "問",
+    "sentence": "犬は、物問いたげにネロの顔を見上げました。",
+    "translation": "The dog looked up wistfully in Nello's face.",
+    "reading help": "犬 ( いぬ ) は、 物問い ( ものとい ) たげ に ネロ の 顔 ( かお ) を 見上げ ( みあげ ) ました。"
+  },
+  {
+    "kanji": "問",
+    "sentence": "私たちは出席者全員について問い合わせを行った。",
+    "translation": "We made inquiries of all those in attendance.",
+    "reading help": "私 ( わたし ) たち は 出席者 ( しゅっせきしゃ ) 全員 ( ぜんいん ) について 問い合わせ ( といあわせ ) を 行っ ( おこなっ ) た。"
+  },
+  {
+    "kanji": "問",
+    "sentence": "この本が図書館にあるかどうか問い合わせて下さい。",
+    "translation": "Please ask whether they have this book at the library.",
+    "reading help": "この 本 ( ほん ) が 図書館 ( としょかん ) に ある か どう か 問い合わせ ( といあわせ ) て 下さい ( ください ) 。"
+  },
+  {
+    "kanji": "問",
+    "sentence": "私たちはこの質問について見解が全く一致しなかった。",
+    "translation": "We never saw eye to eye on this question.",
+    "reading help": "私 ( わたし ) たち は この 質問 ( しつもん ) について 見解 ( けんかい ) が 全く ( まったく ) 一致 ( いっち ) しなかった。"
+  },
+  {
+    "kanji": "問",
+    "sentence": "社員が「このやり方で本当に正しかったのか」を、自分に問う。",
+    "translation": "The staffperson asks himself, \"Did I really take the correct approach\"?",
+    "reading help": "社員 ( しゃいん ) が 「この やり方 ( やりかた ) で 本当に ( ほんとうに ) 正しかっ ( ただしかっ ) たの か」 を、 自分 ( じぶん ) に 問う ( とう ) 。"
+  },
+  {
+    "kanji": "代",
+    "sentence": "取って代わる。",
+    "translation": "Take the place of.",
+    "reading help": "取っ ( とっ ) て 代わる ( かわる ) 。"
+  },
+  {
+    "kanji": "代",
+    "sentence": "水のお代わりを下さい。",
+    "translation": "I would like some more water please.",
+    "reading help": "水 ( みず ) の お代わり ( かわり ) を 下さい ( ください ) 。"
+  },
+  {
+    "kanji": "代",
+    "sentence": "成田さん、代わってくれる？",
+    "translation": "Narita-san, can you take over?",
+    "reading help": "成田 ( なりた ) さん、 代わっ ( かわっ ) て くれる？"
+  },
+  {
+    "kanji": "代",
+    "sentence": "10代のころ、LSDをやった。",
+    "translation": "He dropped acid as a teenager.",
+    "reading help": "10代 ( だい ) の ころ、 LSD を やった。"
+  },
+  {
+    "kanji": "代",
+    "sentence": "足立さんの代わりに行けますか？",
+    "translation": "Can you go in place of Adachi-san?",
+    "reading help": "足立 ( あだち ) さん の 代わり ( かわり ) に 行け ( いけ ) ます か？"
+  },
+  {
+    "kanji": "代",
+    "sentence": "この本を代えてほしいのですが。",
+    "translation": "I would like to receive a replacement book.",
+    "reading help": "この 本 ( ほん ) を 代え ( かえ ) て ほしい の です が。"
+  },
+  {
+    "kanji": "代",
+    "sentence": "一月のガス代はイチバンたかい。",
+    "translation": "The January gas bill is the highest.",
+    "reading help": "一月 ( いちがつ ) の ガス代 ( だい ) は イチバン たかい。"
+  },
+  {
+    "kanji": "代",
+    "sentence": "成田さんたちは身代金をだした。",
+    "translation": "The Naritas paid the ransom.",
+    "reading help": "成田 ( なりた ) さんたち は 身代金 ( みのしろきん ) を だした。"
+  },
+  {
+    "kanji": "代",
+    "sentence": "このお金の代わりに休みがほしい。",
+    "translation": "Instead of this money I'd rather have time to rest.",
+    "reading help": "この お金 ( おかね ) の 代わり ( かわり ) に 休み ( やすみ ) が ほしい。"
+  },
+  {
+    "kanji": "代",
+    "sentence": "大木さんの代わりにわたしが行きます。",
+    "translation": "I'm going in place of Oki-san.",
+    "reading help": "大木 ( おおき ) さん の 代わり ( かわり ) に わたし が 行き ( いき ) ます。"
+  },
+  {
+    "kanji": "代",
+    "sentence": "田口さんは本の代わりにパソコンをつかう。",
+    "translation": "Taguchi-san uses her personal computer in place of books.",
+    "reading help": "田口 ( たぐち ) さん は 本 ( ほん ) の 代わり ( かわり ) に パソコン を つかう。"
+  },
+  {
+    "kanji": "代",
+    "sentence": "木曜日に丸山さんは川田さんの代わりにはたらいた。",
+    "translation": "Maruyama-san worked in place of Kawada-san on Thursday.",
+    "reading help": "木曜日 ( もくようび ) に 丸山 ( まるやま ) さん は 川田 ( かわだ ) さん の 代わり ( かわり ) に はたらいた。"
+  },
+  {
+    "kanji": "代",
+    "sentence": "コンピュータはスライド・ルールに取って代わった。",
+    "translation": "The computer has supplanted the slide rule.",
+    "reading help": "コンピュータ は スライド・ルール に 取っ ( とっ ) て 代わっ ( かわっ ) た。"
+  },
+  {
+    "kanji": "代",
+    "sentence": "大正の代には、日本の人口はおよそ五千五百万人だった。",
+    "translation": "During the Taisho Period, the population of Japan was about fifty-five million.",
+    "reading help": "大正 ( たいしょう ) の 代 ( よ ) に は、 日本 ( にほん ) の 人口 ( じんこう ) は およそ 五千 ( ごせん ) 五百 ( ごひゃく ) 万人 ( まんにん ) だった。"
+  },
+  {
+    "kanji": "代",
+    "sentence": "土曜日にしゅっきんしてくれたので、その代わりに、月曜日か火曜日、一日休みを取って下さい。",
+    "translation": "You did us the favor of coming to work on Saturday, so in return please take a day off on Monday or Tuesday.",
+    "reading help": "土曜日 ( どようび ) に しゅっきん して くれた ので、 その 代わり ( かわり ) に、 月曜日 ( げつようび ) か 火曜日 ( かようび ) 、 一日 ( いちにち ) 休み ( やすみ ) を 取っ ( とっ ) て 下さい ( ください ) 。"
+  },
+  {
+    "kanji": "明",
+    "sentence": "明るくなる。",
+    "translation": "Become light.",
+    "reading help": "明るく ( あかるく ) なる。"
+  },
+  {
+    "kanji": "明",
+    "sentence": "明らかになる。",
+    "translation": "Become manifest.",
+    "reading help": "明らか ( あきらか ) に なる。"
+  },
+  {
+    "kanji": "明",
+    "sentence": "目に明らかな。",
+    "translation": "Obvious to the eye.",
+    "reading help": "目 ( め ) に 明らか ( あきらか ) な。"
+  },
+  {
+    "kanji": "明",
+    "sentence": "それは明らかだ。",
+    "translation": "That is evident.",
+    "reading help": "それ は 明らか ( あきらか ) だ。"
+  },
+  {
+    "kanji": "明",
+    "sentence": "このミスは明かだ。",
+    "translation": "This error is obvious.",
+    "reading help": "この ミス は 明らか ( あきらか ) だ。"
+  },
+  {
+    "kanji": "明",
+    "sentence": "明日は七五三です。",
+    "translation": "Tomorrow is Shichi-go-san.",
+    "reading help": "明日 ( あした ) は 七五三 ( しちごさん ) です。"
+  },
+  {
+    "kanji": "明",
+    "sentence": "ランプからの明かり。",
+    "translation": "Light from a lamp.",
+    "reading help": "ランプ から の 明かり ( あかり ) 。"
+  },
+  {
+    "kanji": "明",
+    "sentence": "明日はテストがあります。",
+    "translation": "We have a test tomorrow.",
+    "reading help": "明日 ( あした ) は テスト が あります。"
+  },
+  {
+    "kanji": "明",
+    "sentence": "川口さんは明るい人ですね。",
+    "translation": "Kawaguchi-san sure is cheerful.",
+    "reading help": "川口 ( かわぐち ) さん は 明るい ( あかるい ) 人 ( ひと ) です ね。"
+  },
+  {
+    "kanji": "明",
+    "sentence": "月明かりがとてもきれいです。",
+    "translation": "The moonlight is lovely.",
+    "reading help": "月明かり ( つきあかり ) が とても きれい です。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "不動産。",
+    "translation": "Landed property.",
+    "reading help": "不動産 ( ふどうさん ) 。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "自動車用品。",
+    "translation": "Automotive supplies.",
+    "reading help": "自動車 ( じどうしゃ ) 用品 ( ようひん ) 。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "前後に動く。",
+    "translation": "Move to and fro.",
+    "reading help": "前後 ( ぜんご ) に 動く ( うごく ) 。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "合理的行動。",
+    "translation": "Rational behavior.",
+    "reading help": "合理的 ( ごうりてき ) 行動 ( こうどう ) 。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "行動の好機。",
+    "translation": "The right time to act.",
+    "reading help": "行動 ( こうどう ) の 好機 ( こうき ) 。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "前方への動き。",
+    "translation": "A movement forward.",
+    "reading help": "前方 ( ぜんぽう ) へ の 動き ( うごき ) 。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "感動的な映画。",
+    "translation": "A stirring movie.",
+    "reading help": "感動的 ( かんどうてき ) な 映画 ( えいが ) 。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "感動しない心。",
+    "translation": "An unimpressionable mind.",
+    "reading help": "感動 ( かんどう ) しない 心 ( こころ ) 。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "道央自動車道。",
+    "translation": "Central Hokkaido Expressway.",
+    "reading help": "道央 ( どうおう ) 自動車 ( じどうしゃ ) 道 ( どう ) 。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "羽のない二足動物。",
+    "translation": "A featherless biped.",
+    "reading help": "羽 ( はね ) の ない 二足 ( にそく ) 動物 ( どうぶつ ) 。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "ひどい自動車事故。",
+    "translation": "An atrocious automobile accident.",
+    "reading help": "ひどい 自動車 ( じどうしゃ ) 事故 ( じこ ) 。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "雨の日の屋内活動。",
+    "translation": "Indoor activities for a rainy day.",
+    "reading help": "雨 ( あめ ) の 日 ( ひ ) の 屋内 ( おくない ) 活動 ( かつどう ) 。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "動乱は3日間続いた。",
+    "translation": "The unrest lasted three days.",
+    "reading help": "動乱 ( どうらん ) は 3日間 ( みっかかん ) 続い ( つづい ) た。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "行動の合理的な動機。",
+    "translation": "A rational motive for an action.",
+    "reading help": "行動 ( こうどう ) の 合理的 ( ごうりてき ) な 動機 ( どうき ) 。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "馬は草食動物である。",
+    "translation": "Horses are herbivores.",
+    "reading help": "馬 ( うま ) は 草食 ( そうしょく ) 動物 ( どうぶつ ) で ある。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "動物は取り囲まれた。",
+    "translation": "The animals were hedged in.",
+    "reading help": "動物 ( どうぶつ ) は 取り囲ま ( とりかこま ) れた。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "政党は、左に動いた。",
+    "translation": "The political party has moved left.",
+    "reading help": "政党 ( せいとう ) は、 左 ( ひだり ) に 動い ( うごい ) た。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "都市の不動産所有者。",
+    "translation": "Urban property owners.",
+    "reading help": "都市 ( とし ) の 不動産 ( ふどうさん ) 所有者 ( しょゆうしゃ ) 。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "利己的な動機なしで。",
+    "translation": "Without selfish motives.",
+    "reading help": "利己的 ( りこてき ) な 動機 ( どうき ) なし で。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "人間は社会的動物である。",
+    "translation": "Humans are social animals.",
+    "reading help": "人間 ( にんげん ) は 社会的 ( しゃかいてき ) 動物 ( どうぶつ ) で ある。"
+  },
+  {
+    "kanji": "動",
+    "sentence": "動物に関する本を買った。",
+    "translation": "I bought a book about animals.",
+    "reading help": "動物 ( どうぶつ ) に関する ( にかんする ) 本 ( ほん ) を 買っ ( かっ ) た。"
   }
 ]
