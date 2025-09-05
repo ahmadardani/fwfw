@@ -1822,5 +1822,347 @@
     "sentence": "動物に関する本を買った。",
     "translation": "I bought a book about animals.",
     "reading help": "動物 ( どうぶつ ) に関する ( にかんする ) 本 ( ほん ) を 買っ ( かっ ) た。"
+  },
+  {
+    "kanji": "京",
+    "sentence": "京都は以前日本の首都でした。",
+    "translation": "Kyoto was formerly the capital of Japan.",
+    "reading help": "京都 ( きょうと ) は 以前 ( いぜん ) 日本 ( にほん ) の 首都 ( しゅと ) でした。"
+  },
+  {
+    "kanji": "京",
+    "sentence": "森国さんは明日上京する予定だ。",
+    "translation": "Morikuni-san is scheduled to come up to Tokyo tomorrow.",
+    "reading help": "森国 ( もりこく ) さん は 明日 ( あした ) 上京 ( じょうきょう ) する 予定 ( よてい ) だ。"
+  },
+  {
+    "kanji": "京",
+    "sentence": "東京の人口は、私たちの市の約五倍です。",
+    "translation": "The population of Tokyo is about five times as large as that of our city.",
+    "reading help": "東京 ( とうきょう ) の 人口 ( じんこう ) は、 私 ( わたし ) たち の 市 ( し ) の 約 ( やく ) 五倍 ( ごばい ) です。"
+  },
+  {
+    "kanji": "京",
+    "sentence": "バスはＲ50をひたすら京都方面に走ります。",
+    "translation": "The bus takes Route 50 all the way to Kyoto.",
+    "reading help": "バス は Ｒ50 を ひたすら 京都 ( きょうと ) 方面 ( ほうめん ) に 走り ( はしり ) ます。"
+  },
+  {
+    "kanji": "京",
+    "sentence": "東京はとても安全な都市であると言われています。",
+    "translation": "It is said that Tokyo is a very safe city.",
+    "reading help": "東京 ( とうきょう ) は とても 安全 ( あんぜん ) な 都市 ( とし ) で ある と 言わ ( いわ ) れて います。"
+  },
+  {
+    "kanji": "京",
+    "sentence": "私にとって北京語は最も分かりやすい。",
+    "translation": "Beijing dialect is the easiest for me to understand.",
+    "reading help": "私 ( わたし ) に とって 北京語 ( ペキンご ) は 最も ( もっとも ) 分かり ( わかり ) やすい。"
+  },
+  {
+    "kanji": "京",
+    "sentence": "京都では通りの事を「二条通」、「三条通」などという言い方をします。",
+    "translation": "In Kyoto they refer to the streets as \"Nijo\" street, \"Sanjo\" street, and so on.",
+    "reading help": "京都 ( きょうと ) で は 通り ( とおり ) の 事 ( こと ) を 「二条通 ( にじょうどおり ) 」、 「三条通 ( さんじょうどおり ) 」 など という 言い方 ( いいかた ) を します。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "理事会。",
+    "translation": "Governing bodies.",
+    "reading help": "理事会 ( りじかい ) 。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "有理数。",
+    "translation": "Rational numbers.",
+    "reading help": "有理数 ( ゆうりすう ) 。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "代理父。",
+    "translation": "Surrogate father.",
+    "reading help": "代理 ( だいり ) 父 ( ちち ) 。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "正当な理由。",
+    "translation": "A just cause.",
+    "reading help": "正当 ( せいとう ) な 理由 ( りゆう ) 。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "原子物理学。",
+    "translation": "Nuclear physics.",
+    "reading help": "原子 ( げんし ) 物理学 ( ぶつりがく ) 。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "物理的性質。",
+    "translation": "Physical properties.",
+    "reading help": "物理的 ( ぶつりてき ) 性質 ( せいしつ ) 。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "本当の理由。",
+    "translation": "The real reason.",
+    "reading help": "本当 ( ほんとう ) の 理由 ( りゆう ) 。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "薬理のある草。",
+    "translation": "Medicinal herbs.",
+    "reading help": "薬理 ( やくり ) の ある 草 ( くさ ) 。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "薬理的な性質。",
+    "translation": "Medicinal properties.",
+    "reading help": "薬理的 ( やくりてき ) な 性質 ( せいしつ ) 。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "理解がある友人。",
+    "translation": "An understanding friend.",
+    "reading help": "理解 ( りかい ) が ある 友人 ( ゆうじん ) 。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "理由は二つある。",
+    "translation": "The reason is twofold.",
+    "reading help": "理由 ( りゆう ) は 二つ ( ふたつ ) ある。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "私は物理が苦手だ。",
+    "translation": "I have trouble with physics.",
+    "reading help": "私 ( わたし ) は 物理 ( ぶつり ) が 苦手 ( にがて ) だ。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "自分が無理をする。",
+    "translation": "I overdo it.",
+    "reading help": "自分 ( じぶん ) が 無理 ( むり ) を する。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "部下は手紙を整理した。",
+    "translation": "The assistant filed the letter away.",
+    "reading help": "部下 ( ぶか ) は 手紙 ( てがみ ) を 整理 ( せいり ) した。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "不合理に金持ちの若い女性。",
+    "translation": "An absurdly rich young woman.",
+    "reading help": "不合理 ( ふごうり ) に 金持ち ( かねもち ) の 若い ( わかい ) 女性 ( じょせい ) 。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "生理的に中毒になっている。",
+    "translation": "Physiologically addicted.",
+    "reading help": "生理的 ( せいりてき ) に 中毒 ( ちゅうどく ) に なって いる。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "不満の出る理由はなかった。",
+    "translation": "There was no occasion for complaint.",
+    "reading help": "不満 ( ふまん ) の 出る ( でる ) 理由 ( りゆう ) は なかった。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "吉川さんは役者の代理人です。",
+    "translation": "Yoshikawa-san is an agent who represents performers.",
+    "reading help": "吉川 ( よしかわ ) さん は 役者 ( やくしゃ ) の 代理人 ( だいりにん ) です。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "理事会は7人の理事から成る。",
+    "translation": "The board has seven members.",
+    "reading help": "理事会 ( りじかい ) は 7人 ( にん ) の 理事 ( りじ ) から 成る ( なる ) 。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "4つの基本理念を定めています。",
+    "translation": "It has four basic principles.",
+    "reading help": "4つ の 基本 ( きほん ) 理念 ( りねん ) を 定め ( さだめ ) て います。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "両親は無理に私をそこへ行かせた。",
+    "translation": "My parents made me go there.",
+    "reading help": "両親 ( りょうしん ) は 無理 ( むり ) に 私 ( わたし ) を そこ へ 行か ( いか ) せた。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "昨日学校を休んだ理由をいいなさい。",
+    "translation": "Tell me the reason you were absent from school yesterday.",
+    "reading help": "昨日 ( きのう ) 学校 ( がっこう ) を 休ん ( やすん ) だ 理由 ( りゆう ) を いい なさい。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "支店長はその決定を代理人に委ねた。",
+    "translation": "The branch manager left the decision to his deputy.",
+    "reading help": "支店長 ( してんちょう ) は その 決定 ( けってい ) を 代理人 ( だいりにん ) に 委ね ( ゆだね ) た。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "私は一時期、天体物理学者になりたかった。",
+    "translation": "I once wanted to be an astrophysicist.",
+    "reading help": "私 ( わたし ) は 一時期 ( いちじき ) 、 天体 ( てんたい ) 物理学者 ( ぶつりがくしゃ ) に なりたかった。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "いつも仕事場をきちんと整理しておきなさい。",
+    "translation": "Always keep your office tidy.",
+    "reading help": "いつも 仕事場 ( しごとば ) を きちんと 整理 ( せいり ) して おき なさい。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "私たちは工場の生産を合理化し、利益を上げた。",
+    "translation": "We rationalized the factory's production and raised profits.",
+    "reading help": "私 ( わたし ) たち は 工場 ( こうじょう ) の 生産 ( せいさん ) を 合理化 ( ごうりか ) し、 利益 ( りえき ) を 上げ ( あげ ) た。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "その時に花絵さんの手紙の本当の意味を理解した。",
+    "translation": "It was then that I understood the real meaning of Hanae's letter.",
+    "reading help": "その 時 ( とき ) に 花絵 ( はなえ ) さん の 手紙 ( てがみ ) の 本当 ( ほんとう ) の 意味 ( いみ ) を 理解 ( りかい ) した。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "意志に反してなにかを無理にさせる事はできない。",
+    "translation": "No one can force you to do anything against your will.",
+    "reading help": "意志 ( いし ) に 反し ( はんし ) て なに か を 無理 ( むり ) に させる 事 ( こと ) は できない。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "反物質よりも物質が多く存在する理由は不明です。",
+    "translation": "We don't know why there's more matter than antimatter.",
+    "reading help": "反物質 ( はんぶっしつ ) より も 物質 ( ぶっしつ ) が 多く ( おおく ) 存在 ( そんざい ) する 理由 ( りゆう ) は 不明 ( ふめい ) です。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "我々は、生命の本当の意味を理解するようになった。",
+    "translation": "We came to understand the true meaning of life. (101) 「〜ようになる」",
+    "reading help": "我々 ( われわれ ) は、 生命 ( せいめい ) の 本当 ( ほんとう ) の 意味 ( いみ ) を 理解 ( りかい ) する よう に なった。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "今回は私、行くと決心して、無理にも出かけましたわ。",
+    "translation": "This time I was set on going, and I would go.",
+    "reading help": "今回 ( こんかい ) は 私 ( わたし ) 、 行く ( いく ) と 決心 ( けっしん ) して、 無理 ( むり ) に も 出かけ ( でかけ ) ました わ。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "生命は、様々な化学的、物理的プロセスに基づいている。",
+    "translation": "Life depends on many chemical and physical processes.",
+    "reading help": "生命 ( せいめい ) は、 様々 ( さまざま ) な 化学的 ( かがくてき ) 、 物理的 ( ぶつりてき ) プロセス に 基づい ( もとづい ) て いる。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "それを整理するための時間が、やっと休み中に出来ました。",
+    "translation": "I finally found time to clean up during vacation.",
+    "reading help": "それ を 整理 ( せいり ) する ため の 時間 ( じかん ) が、 やっと 休み中 ( やすみちゅう ) に 出来 ( でき ) ました。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "見つけにくい粒子を発見した物理学者はノーベル賞を受賞した。",
+    "translation": "The physicist who found the elusive particle won the Nobel Prize.",
+    "reading help": "見つけ ( みつけ ) にくい 粒子 ( りゅうし ) を 発見 ( はっけん ) した 物理学者 ( ぶつりがくしゃ ) は ノーベル賞 ( しょう ) を 受賞 ( じゅしょう ) した。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "私たちは、前に触れた進化上の理由から、そう感じるように作られている。",
+    "translation": "We're wired to experience it that way for evolutionary reasons touched on earlier.",
+    "reading help": "私 ( わたし ) たち は、 前 ( まえ ) に 触れ ( ふれ ) た 進化上 ( しんかじょう ) の 理由 ( りゆう ) から、 そう 感じる ( かんじる ) よう に 作ら ( つくら ) れて いる。"
+  },
+  {
+    "kanji": "理",
+    "sentence": "あなたのとこのハッカーは道理をわきまえた存在であって、理由があったのでしょうね。",
+    "translation": "Your hacker is a rational entity, and presumably had reasons.",
+    "reading help": "あなた の とこ の ハッカー は 道理 ( どうり ) を わきまえた 存在 ( そんざい ) で あって、 理由 ( りゆう ) が あった の でしょう ね。"
+  },
+  {
+    "kanji": "体",
+    "sentence": "これは一体なんだ？",
+    "translation": "What on earth is this?",
+    "reading help": "これ は 一体 ( いったい ) なん だ？"
+  },
+  {
+    "kanji": "体",
+    "sentence": "それは一体なんだろう？",
+    "translation": "What the heck is that?",
+    "reading help": "それ は 一体 ( いったい ) なん だろう？"
+  },
+  {
+    "kanji": "体",
+    "sentence": "この生活は体にやさしい。",
+    "translation": "This lifestyle is good for your health.",
+    "reading help": "この 生活 ( せいかつ ) は 体 ( からだ ) に やさしい。"
+  },
+  {
+    "kanji": "体",
+    "sentence": "ほぼ人体くらいの大きさだ。",
+    "translation": "It's about the size of the human body.",
+    "reading help": "ほぼ 人体 ( じんたい ) くらい の 大き ( おおき ) さ だ。"
+  },
+  {
+    "kanji": "体",
+    "sentence": "ついに正体をあらわしたな。",
+    "translation": "At last you've given yourself away.",
+    "reading help": "ついに 正体 ( しょうたい ) を あらわした な。"
+  },
+  {
+    "kanji": "体",
+    "sentence": "体が木からぶら下がっていた。",
+    "translation": "The body was hanging from the tree.",
+    "reading help": "体 ( からだ ) が 木 ( き ) から ぶら下がっ ( ぶらさがっ ) て いた。"
+  },
+  {
+    "kanji": "体",
+    "sentence": "一体だれがドクを入れたのか？",
+    "translation": "Who on earth put the poison in?",
+    "reading help": "一体 ( いったい ) だれ が ドク を 入れ ( いれ ) た の か？"
+  },
+  {
+    "kanji": "体",
+    "sentence": "手で身体に耳あかをつけている。",
+    "translation": "He's rubbing earwax on his body with his hand.",
+    "reading help": "手 ( て ) で 身体 ( からだ ) に 耳 ( みみ ) あか を つけて いる。"
+  },
+  {
+    "kanji": "体",
+    "sentence": "山本さんは体中がいたいと言っている。",
+    "translation": "Yamamoto-san says he's aching from head to foot.",
+    "reading help": "山本 ( やまもと ) さん は 体中 ( からだじゅう ) が いたい と 言っ ( いっ ) て いる。"
+  },
+  {
+    "kanji": "体",
+    "sentence": "田本さんは一体なにをしているんですか。",
+    "translation": "What on earth is Tamoto-san doing?",
+    "reading help": "田本 ( たもと ) さん は 一体 ( いったい ) なに を して いる ん です か。"
+  },
+  {
+    "kanji": "田",
+    "sentence": "田んぼみち。",
+    "translation": "A path passing between rice paddies.",
+    "reading help": "田んぼ ( たんぼ ) みち。"
+  },
+  {
+    "kanji": "田",
+    "sentence": "あの人は田口さんです。",
+    "translation": "That's Taguchi-san.",
+    "reading help": "あの 人 ( ひと ) は 田口 ( たぐち ) さん です。"
+  },
+  {
+    "kanji": "田",
+    "sentence": "ガス田をかつようする。",
+    "translation": "Exploit a gas field.",
+    "reading help": "ガス田 ( でん ) を かつよう する。"
+  },
+  {
+    "kanji": "田",
+    "sentence": "三田の人口は六百九十五万人です。",
+    "translation": "The population of Mita is six million nine hundred fifty thousand (6,950,000).",
+    "reading help": "三田 ( みた ) の 人口 ( じんこう ) は 六百 ( ろっぴゃく ) 九十 ( きゅうじゅう ) 五万人 ( ごまんにん ) です。"
   }
 ]
