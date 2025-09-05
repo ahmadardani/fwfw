@@ -8,10 +8,28 @@ fetch("data.json")
 const searchInput = document.getElementById("search-input");
 const searchBtn = document.getElementById("search-btn");
 const searchArea = document.getElementById("search-area");
+const listArea = document.getElementById("list-area");
 const resultArea = document.getElementById("result-area");
 const backBtn = document.getElementById("back-btn");
 const kanjiTitle = document.getElementById("kanji-title");
 const sentencesDiv = document.getElementById("sentences");
+const menuSearch = document.getElementById("menu-search");
+const menuList = document.getElementById("menu-list");
+const kanjiOptions = document.getElementById("kanji-options");
+
+// Switch menu
+menuSearch.addEventListener("click", () => {
+  searchArea.classList.remove("hidden");
+  listArea.classList.add("hidden");
+  resultArea.classList.add("hidden");
+});
+
+menuList.addEventListener("click", () => {
+  listArea.classList.remove("hidden");
+  searchArea.classList.add("hidden");
+  resultArea.classList.add("hidden");
+  kanjiOptions.innerHTML = "";
+});
 
 // Search button
 searchBtn.addEventListener("click", () => {
@@ -35,9 +53,33 @@ backBtn.addEventListener("click", () => {
   searchInput.value = "";
 });
 
+// Klik tombol list (misalnya N4-1)
+document.querySelectorAll(".list-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    const kanjis = btn.getAttribute("data-kanji").split("");
+    kanjiOptions.innerHTML = "<h3>Pilih Kanji:</h3>";
+
+    kanjis.forEach(k => {
+      const kbtn = document.createElement("button");
+      kbtn.textContent = k;
+      kbtn.classList.add("kanji-btn");
+      kbtn.addEventListener("click", () => {
+        const results = data.filter(item => item.kanji === k);
+        if (results.length > 0) {
+          showResults(k, results);
+        } else {
+          alert(`Data untuk kanji ${k} tidak ditemukan`);
+        }
+      });
+      kanjiOptions.appendChild(kbtn);
+    });
+  });
+});
+
 // Tampilkan hasil
 function showResults(kanji, results) {
   searchArea.classList.add("hidden");
+  listArea.classList.add("hidden");
   resultArea.classList.remove("hidden");
   kanjiTitle.textContent = `Hasil untuk: ${kanji}`;
   sentencesDiv.innerHTML = "";
@@ -59,15 +101,32 @@ function showResults(kanji, results) {
     const buttons = card.querySelectorAll(".toggle-btn");
     const extraDiv = card.querySelector(`#extra-${index}`);
 
-    buttons.forEach(btn => {
-      btn.addEventListener("click", () => {
-        const type = btn.getAttribute("data-type");
-        if (type === "translation") {
-          extraDiv.innerHTML = `<p><b>Translation:</b> ${item.translation}</p>`;
-        } else if (type === "reading") {
-          extraDiv.innerHTML = `<p><b>Reading Help:</b> ${item["reading help"]}</p>`;
-        }
-      });
-    });
+buttons.forEach(btn => {
+  btn.addEventListener("click", () => {
+    const type = btn.getAttribute("data-type");
+    let existing = extraDiv.querySelector(`.${type}`);
+
+    if (existing) {
+      // kalau sudah ada → hapus
+      existing.remove();
+      btn.textContent = type === "translation" 
+        ? "Show Translation" 
+        : "Show Reading Help";
+    } else {
+      // kalau belum ada → tampilkan
+      const p = document.createElement("p");
+      p.classList.add(type);
+      if (type === "translation") {
+        p.innerHTML = `<b>Translation:</b> ${item.translation}`;
+        btn.textContent = "Hide Translation";
+      } else if (type === "reading") {
+        p.innerHTML = `<b>Reading Help:</b> ${item["reading help"]}`;
+        btn.textContent = "Hide Reading Help";
+      }
+      extraDiv.appendChild(p);
+    }
+  });
+});
+
   });
 }
