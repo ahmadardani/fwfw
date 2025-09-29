@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Flashcard Kanji</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Flashcard Kanji</h2>
+    <hr>
+
+    <div id="mode-options">
+      <strong>Mode:</strong>
+      <label><input type="radio" name="mode" value="acak" checked> Acak</label>
+      <label><input type="radio" name="mode" value="urut"> Urut</label>
+    </div>
+
+    <div id="length-options">
+      <strong>Length:</strong>
+      <label><input type="radio" name="length" value="1" checked> 1</label>
+      <label><input type="radio" name="length" value="2"> 2</label>
+      <label><input type="radio" name="length" value="3"> 3</label>
+    </div>
+
+    <div class="question" id="indonesian"></div>
+    <div class="question" id="japanese"></div>
+    <div class="kanji" id="kanji"></div>
+
+    <button onclick="showKanji()">Tampilkan Kanji</button>
+    <button onclick="nextCard()">Selanjutnya</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
