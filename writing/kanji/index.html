@@ -2,33 +2,44 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>Flashcard Kanji</title>
+  <title>Kanji Flashcard</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="container">
-    <h2>Flashcard Kanji</h2>
+    <!-- Counter kartu -->
+
+
+    <h2>Kanji Flashcard</h2>
     <hr>
 
-    <div id="mode-options">
-      <strong>Mode:</strong>
-      <label><input type="radio" name="mode" value="acak" checked> Acak</label>
-      <label><input type="radio" name="mode" value="urut"> Urut</label>
+    <!-- Tempat flashcard -->
+    <div class="question" id="flashcard">
+    <div id="counter">0/0</div>
+      <div class="kanji" id="kanji"></div>
+      <div id="japanese"></div>
+      <div id="indonesian"></div>
     </div>
 
-    <div id="length-options">
-      <strong>Length:</strong>
-      <label><input type="radio" name="length" value="1" checked> 1</label>
-      <label><input type="radio" name="length" value="2"> 2</label>
-      <label><input type="radio" name="length" value="3"> 3</label>
+    <hr>
+    <!-- Tombol kontrol -->
+    <button id="showKanji">Tampilkan Kanji</button>
+    <button id="next">Selanjutnya</button>
+    <button id="toggleMode">Tampilkan Mode</button>
+
+    <!-- Opsi Mode & Length -->
+    <div id="options">
+      <div id="mode-options">
+        <strong>Mode:</strong>
+        <label><input type="radio" name="mode" value="acak" checked> Acak</label>
+        <label><input type="radio" name="mode" value="urut"> Urut</label>
+      </div>
+
+      <div id="length-options">
+        <strong>Length:</strong>
+        <!-- isi otomatis dari JSON -->
+      </div>
     </div>
-
-    <div class="question" id="indonesian"></div>
-    <div class="question" id="japanese"></div>
-    <div class="kanji" id="kanji"></div>
-
-    <button onclick="showKanji()">Tampilkan Kanji</button>
-    <button onclick="nextCard()">Selanjutnya</button>
   </div>
 
   <script src="script.js"></script>

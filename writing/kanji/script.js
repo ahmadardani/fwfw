@@ -1,72 +1,111 @@
-const data = [
-  { "indonesian": "Meja", "japanese": "つくえ", "kanji": "机", "length": 1 },
-  { "indonesian": "Bahasa", "japanese": "ご", "kanji": "語", "length": 1 },
-  { "indonesian": "Apa", "japanese": "なん", "kanji": "何", "length": 1 },
-  { "indonesian": "Sekolah", "japanese": "がっこう", "kanji": "学校", "length": 2 },
-  { "indonesian": "Universitas", "japanese": "だいがく", "kanji": "大学", "length": 2 }
-];
-
+let cards = [];
 let currentIndex = 0;
-let filteredData = [];
-let currentMode = "acak";
-let currentLength = 1;
+let mode = "acak";   // default acak
+let lengths = [];    // dari JSON
+let selectedLength = 1;
 
-function loadSettings() {
-  const mode = document.querySelector('input[name="mode"]:checked').value;
-  const length = parseInt(document.querySelector('input[name="length"]:checked').value);
+const indonesianEl = document.getElementById("indonesian");
+const japaneseEl = document.getElementById("japanese");
+const kanjiEl = document.getElementById("kanji");
+const counterEl = document.getElementById("counter");
 
-  currentMode = mode;
-  currentLength = length;
+async function loadData() {
+  try {
+    const response = await fetch("kanji.json");
+    cards = await response.json();
 
-  filteredData = data.filter(item => item.length === currentLength);
+    // Ambil semua nilai length unik dari JSON
+    lengths = [...new Set(cards.map(c => c.length))].sort((a, b) => a - b);
 
-  if (currentMode === "acak") {
-    shuffleArray(filteredData);
+    // Render pilihan length otomatis
+    const lengthOptions = document.getElementById("length-options");
+    lengthOptions.innerHTML = "<strong>Length:</strong> ";
+    lengths.forEach((len, idx) => {
+      const checked = idx === 0 ? "checked" : "";
+      lengthOptions.innerHTML += `
+        <label>
+          <input type="radio" name="length" value="${len}" ${checked}> ${len}
+        </label>
+      `;
+    });
+
+    // Listener untuk mode dan length
+    document.querySelectorAll("input[name='mode']").forEach(r => {
+      r.addEventListener("change", e => {
+        mode = e.target.value;
+        resetCards();
+      });
+    });
+
+    document.querySelectorAll("input[name='length']").forEach(r => {
+      r.addEventListener("change", e => {
+        selectedLength = parseInt(e.target.value);
+        resetCards();
+      });
+    });
+
+    resetCards();
+  } catch (err) {
+    console.error("Gagal load JSON:", err);
   }
+}
+
+function resetCards() {
+  // filter berdasarkan length
+  let filtered = cards.filter(c => c.length === selectedLength);
+
+  if (mode === "acak") {
+    filtered = shuffle(filtered);
+  }
+
+  cardsFiltered = filtered;
   currentIndex = 0;
   showCard();
 }
 
 function showCard() {
-  if (filteredData.length === 0) {
-    document.getElementById("indonesian").innerText = "Tidak ada data.";
-    document.getElementById("japanese").innerText = "";
-    document.getElementById("kanji").innerText = "";
+  if (cardsFiltered.length === 0) {
+    indonesianEl.textContent = "Tidak ada data.";
+    japaneseEl.textContent = "";
+    kanjiEl.style.display = "none";
+    counterEl.textContent = "0/0";
     return;
   }
 
-  const card = filteredData[currentIndex];
-  document.getElementById("indonesian").innerText = card.indonesian;
-  document.getElementById("japanese").innerText = card.japanese;
-  document.getElementById("kanji").style.display = "none";
-  document.getElementById("kanji").innerText = card.kanji;
+  const card = cardsFiltered[currentIndex];
+  indonesianEl.textContent = card.indonesian;
+  japaneseEl.textContent = card.japanese;
+  kanjiEl.textContent = card.kanji;
+  kanjiEl.style.display = "none"; // reset
+
+  counterEl.textContent = `${currentIndex + 1}/${cardsFiltered.length}`;
 }
 
-function showKanji() {
-  document.getElementById("kanji").style.display = "block";
-}
+document.getElementById("showKanji").addEventListener("click", () => {
+  kanjiEl.style.display = "block";
+});
 
-function nextCard() {
-  currentIndex++;
-  if (currentIndex >= filteredData.length) {
-    if (currentMode === "acak") shuffleArray(filteredData);
-    currentIndex = 0;
-  }
+document.getElementById("next").addEventListener("click", () => {
+  currentIndex = (currentIndex + 1) % cardsFiltered.length;
   showCard();
-}
+});
 
-function shuffleArray(array) {
-  for (let i = array.length - 1; i > 0; i--) {
+document.getElementById("toggleMode").addEventListener("click", () => {
+  const modeOptions = document.getElementById("mode-options");
+  const lengthOptions = document.getElementById("length-options");
+
+  const isVisible = modeOptions.style.display === "block";
+  modeOptions.style.display = isVisible ? "none" : "block";
+  lengthOptions.style.display = isVisible ? "none" : "block";
+});
+
+function shuffle(array) {
+  let a = [...array];
+  for (let i = a.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
-    [array[i], array[j]] = [array[j], array[i]];
+    [a[i], a[j]] = [a[j], a[i]];
   }
+  return a;
 }
 
-document.querySelectorAll('input[name="mode"]').forEach(el => {
-  el.addEventListener('change', loadSettings);
-});
-document.querySelectorAll('input[name="length"]').forEach(el => {
-  el.addEventListener('change', loadSettings);
-});
-
-loadSettings(); // initial
+loadData();
