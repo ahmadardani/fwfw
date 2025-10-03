@@ -1,0 +1,7502 @@
+[
+  {
+    "sentence": "私はアンです。",
+    "translation": "Saya adalah Ann.",
+    "no": 1
+  },
+  {
+    "sentence": "あなたはトムさんですか。",
+    "translation": "Apakah Anda Tom?",
+    "no": 1
+  },
+  {
+    "sentence": "あなたはトムさんですか。",
+    "translation": "Apakah Anda Tom?",
+    "no": 1
+  },
+  {
+    "sentence": "彼はトムさんです。",
+    "translation": "Dia adalah Tom.",
+    "no": 1
+  },
+  {
+    "sentence": "私はワインが好きです。",
+    "translation": "Saya suka anggur.",
+    "no": 1
+  },
+  {
+    "sentence": "あの人はいい人です。",
+    "translation": "Orang itu orang baik.",
+    "no": 1
+  },
+  {
+    "sentence": "あの人はいい人です。",
+    "translation": "Orang itu orang baik.",
+    "no": 1
+  },
+  {
+    "sentence": "私はイギリス人です。",
+    "translation": "Saya orang Inggris.",
+    "no": 1
+  },
+  {
+    "sentence": "私は日本語を勉強しています。",
+    "translation": "Saya sedang belajar bahasa Jepang.",
+    "no": 1
+  },
+  {
+    "sentence": "私は日本語を勉強しています。",
+    "translation": "Saya sedang belajar bahasa Jepang.",
+    "no": 1
+  },
+  {
+    "sentence": "いい本でしたね。",
+    "translation": "Itu buku yang bagus ya.",
+    "no": 1
+  },
+  {
+    "sentence": "これは日本語の本です。",
+    "translation": "Ini buku bahasa Jepang.",
+    "no": 1
+  },
+  {
+    "sentence": "A「これは何ですか。」 B「本です。」",
+    "translation": "A: \"Apa ini?\" B: \"Buku.",
+    "no": 1
+  },
+  {
+    "sentence": "それは本です。",
+    "translation": "Itu adalah buku.",
+    "no": 1
+  },
+  {
+    "sentence": "あれは何ですか。",
+    "translation": "Apa itu?",
+    "no": 1
+  },
+  {
+    "sentence": "どれが好きですか。",
+    "translation": "Yang mana yang kamu suka?",
+    "no": 1
+  },
+  {
+    "sentence": "毎日、日本語を勉強します。",
+    "translation": "Setiap hari saya belajar bahasa Jepang.",
+    "no": 1
+  },
+  {
+    "sentence": "これは兄のパソコンです。",
+    "translation": "Ini komputer kakak saya.",
+    "no": 1
+  },
+  {
+    "sentence": "兄がいます。",
+    "translation": "Saya punya kakak laki-laki.",
+    "no": 1
+  },
+  {
+    "sentence": "ペンがある。",
+    "translation": "Ada pena.",
+    "no": 1
+  },
+  {
+    "sentence": "スポーツはあまり好きじゃありません。",
+    "translation": "Saya tidak terlalu suka olahraga.",
+    "no": 1
+  },
+  {
+    "sentence": "彼は今、勉強しています。",
+    "translation": "Dia sedang belajar sekarang.",
+    "no": 1
+  },
+  {
+    "sentence": "今は時間がありません。",
+    "translation": "Sekarang saya tidak punya waktu.",
+    "no": 1
+  },
+  {
+    "sentence": "今はあまり時間が無いのです。",
+    "translation": "Sekarang saya hampir tidak punya waktu.",
+    "no": 1
+  },
+  {
+    "sentence": "山田さんの本はどれですか。この本ですか。",
+    "translation": "Buku Yamada yang mana? Apakah buku ini?",
+    "no": 1
+  },
+  {
+    "sentence": "その本ですか。",
+    "translation": "Apakah buku itu?",
+    "no": 1
+  },
+  {
+    "sentence": "あの本ですか。",
+    "translation": "Apakah buku yang di sana?",
+    "no": 1
+  },
+  {
+    "sentence": "どの本ですか。",
+    "translation": "Buku yang mana?",
+    "no": 1
+  },
+  {
+    "sentence": "兄は毎日テレビを見ます。",
+    "translation": "Kakak saya menonton TV setiap hari.",
+    "no": 1
+  },
+  {
+    "sentence": "テレビを全然見ません。",
+    "translation": "Saya sama sekali tidak menonton TV.",
+    "no": 1
+  },
+  {
+    "sentence": "この本は全然面白くなかった。",
+    "translation": "Buku ini sama sekali tidak menarik.",
+    "no": 1
+  },
+  {
+    "sentence": "彼はテニスをします。",
+    "translation": "Dia bermain tenis.",
+    "no": 1
+  },
+  {
+    "sentence": "日本語の勉強が好きになりました。",
+    "translation": "Saya jadi suka belajar bahasa Jepang.",
+    "no": 1
+  },
+  {
+    "sentence": "私は日本語の先生になりたいです。",
+    "translation": "Saya ingin menjadi guru bahasa Jepang.",
+    "no": 1
+  },
+  {
+    "sentence": "コーヒーをください。",
+    "translation": "Tolong berikan kopi.",
+    "no": 1
+  },
+  {
+    "sentence": "あなたの名前を教えてください。",
+    "translation": "Tolong beritahu saya nama Anda.",
+    "no": 1
+  },
+  {
+    "sentence": "あなたの名前を教えてください。",
+    "translation": "Tolong beritahu saya nama Anda.",
+    "no": 1
+  },
+  {
+    "sentence": "ここに本があります。",
+    "translation": "Ada buku di sini.",
+    "no": 1
+  },
+  {
+    "sentence": "そこはトイレです。",
+    "translation": "Itu toilet.",
+    "no": 1
+  },
+  {
+    "sentence": "彼はあそこにいます。",
+    "translation": "Dia ada di sana.",
+    "no": 1
+  },
+  {
+    "sentence": "あの本をどこに置きましたか。",
+    "translation": "Kamu menaruh buku itu di mana?",
+    "no": 1
+  },
+  {
+    "sentence": "あの本をどこに置きましたか。",
+    "translation": "Kamu menaruh buku itu di mana?",
+    "no": 1
+  },
+  {
+    "sentence": "ここが私の家です。",
+    "translation": "Ini rumah saya.",
+    "no": 1
+  },
+  {
+    "sentence": "家に帰ろう。",
+    "translation": "Mari pulang.",
+    "no": 1
+  },
+  {
+    "sentence": "あなたの話は面白いね。",
+    "translation": "Ceritamu menarik ya.",
+    "no": 1
+  },
+  {
+    "sentence": "あの人を知っていますか。",
+    "translation": "Apakah kamu kenal orang itu?",
+    "no": 1
+  },
+  {
+    "sentence": "彼女の名前を知っていますか。",
+    "translation": "Apakah kamu tahu namanya?",
+    "no": 1
+  },
+  {
+    "sentence": "彼女はララちゃんです。",
+    "translation": "Dia adalah Lala-chan.",
+    "no": 1
+  },
+  {
+    "sentence": "A「山田さんですか。」 B「はい。」",
+    "translation": "A: \"Apakah Anda Yamada?\" B: \"Ya.",
+    "no": 1
+  },
+  {
+    "sentence": "A「山田さんですか。」 B「いいえ。」",
+    "translation": "A: \"Apakah Anda Yamada?\" B: \"Tidak.",
+    "no": 1
+  },
+  {
+    "sentence": "日本のゲームは面白いです。",
+    "translation": "Game Jepang itu menarik.",
+    "no": 1
+  },
+  {
+    "sentence": "学校は日本にあります。",
+    "translation": "Sekolah ada di Jepang.",
+    "no": 1
+  },
+  {
+    "sentence": "学校へ行きます。",
+    "translation": "Saya pergi ke sekolah.",
+    "no": 1
+  },
+  {
+    "sentence": "明日、学校へ行きます。",
+    "translation": "Besok saya pergi ke sekolah.",
+    "no": 1
+  },
+  {
+    "sentence": "明日、来ますか。",
+    "translation": "Apakah kamu datang besok?",
+    "no": 1
+  },
+  {
+    "sentence": "明日、また来ます。",
+    "translation": "Besok saya akan datang lagi.",
+    "no": 1
+  },
+  {
+    "sentence": "彼女はいつ来ますか。",
+    "translation": "Dia akan datang kapan?",
+    "no": 1
+  },
+  {
+    "sentence": "これがいいと思います。",
+    "translation": "Saya pikir ini bagus.",
+    "no": 1
+  },
+  {
+    "sentence": "こうしましょう。",
+    "translation": "Mari kita lakukan begini.",
+    "no": 1
+  },
+  {
+    "sentence": "私もそう思います。",
+    "translation": "Saya juga berpikir begitu.",
+    "no": 1
+  },
+  {
+    "sentence": "あなたはどう思いますか。",
+    "translation": "Bagaimana menurut Anda?",
+    "no": 1
+  },
+  {
+    "sentence": "明日、彼と会います。",
+    "translation": "Besok saya bertemu dengannya.",
+    "no": 1
+  },
+  {
+    "sentence": "次はいつ会いましょうか。",
+    "translation": "Kapan kita bertemu lagi?",
+    "no": 1
+  },
+  {
+    "sentence": "彼は私の方を見ました。",
+    "translation": "Dia melihat ke arah saya.",
+    "no": 1
+  },
+  {
+    "sentence": "次の方、どうぞ。",
+    "translation": "Silakan orang berikutnya.",
+    "no": 1
+  },
+  {
+    "sentence": "彼女はラジオを聞いています。",
+    "translation": "Dia sedang mendengarkan radio.",
+    "no": 1
+  },
+  {
+    "sentence": "トムに聞いて。",
+    "translation": "Tanyakan pada Tom.",
+    "no": 1
+  },
+  {
+    "sentence": "A「これでお願いします。」 B「はい。」",
+    "translation": "A: \"Tolong dengan ini.\" B: \"Baik.",
+    "no": 1
+  },
+  {
+    "sentence": "日本語のニュースが全然分かりませんでした。",
+    "translation": "Saya sama sekali tidak mengerti berita bahasa Jepang.",
+    "no": 1
+  },
+  {
+    "sentence": "よく分かりました。",
+    "translation": "Saya mengerti dengan baik.",
+    "no": 1
+  },
+  {
+    "sentence": "ジャズのCDをよく聞きます。",
+    "translation": "Saya sering mendengarkan CD jazz.",
+    "no": 1
+  },
+  {
+    "sentence": "よく考えてください。",
+    "translation": "Tolong pikirkan baik-baik.",
+    "no": 1
+  },
+  {
+    "sentence": "そうですか。分かりました。ありがとうございます。",
+    "translation": "Oh begitu. Saya mengerti. Terima kasih.",
+    "no": 1
+  },
+  {
+    "sentence": "先生と日本語で話します。",
+    "translation": "Saya berbicara dengan guru dalam bahasa Jepang.",
+    "no": 1
+  },
+  {
+    "sentence": "もっと勉強しなければいけないと思った。",
+    "translation": "Saya merasa harus belajar lebih giat.",
+    "no": 1
+  },
+  {
+    "sentence": "もっとゆっくり話してください。",
+    "translation": "Tolong berbicara lebih pelan.",
+    "no": 1
+  },
+  {
+    "sentence": "ゆっくり言ってください。",
+    "translation": "Tolong ucapkan dengan pelan.",
+    "no": 1
+  },
+  {
+    "sentence": "友達とレストランに行きました。",
+    "translation": "Saya pergi ke restoran bersama teman.",
+    "no": 1
+  },
+  {
+    "sentence": "1時間友達を待ちました。",
+    "translation": "Saya menunggu teman selama satu jam.",
+    "no": 1
+  },
+  {
+    "sentence": "昨日、友達に会った。",
+    "translation": "Kemarin saya bertemu teman.",
+    "no": 1
+  },
+  {
+    "sentence": "あの町に行きました。",
+    "translation": "Saya pergi ke kota itu.",
+    "no": 1
+  },
+  {
+    "sentence": "このカメラは高いですね。",
+    "translation": "Kamera ini mahal ya.",
+    "no": 1
+  },
+  {
+    "sentence": "これがこの町で一番高いビルです。",
+    "translation": "Ini adalah gedung tertinggi di kota ini.",
+    "no": 1
+  },
+  {
+    "sentence": "これがこの町で一番高いビルです。",
+    "translation": "Ini adalah gedung tertinggi di kota ini.",
+    "no": 1
+  },
+  {
+    "sentence": "これはちょっと高いですね。",
+    "translation": "Ini agak mahal ya.",
+    "no": 1
+  },
+  {
+    "sentence": "彼はもう帰りました。",
+    "translation": "Dia sudah pulang.",
+    "no": 1
+  },
+  {
+    "sentence": "もうちょっと食べたい。",
+    "translation": "Saya ingin makan sedikit lagi.",
+    "no": 1
+  },
+  {
+    "sentence": "私は父が大好きです。",
+    "translation": "Saya sangat sayang ayah saya.",
+    "no": 1
+  },
+  {
+    "sentence": "私は父が大好きです。",
+    "translation": "Saya sangat sayang ayah saya.",
+    "no": 1
+  },
+  {
+    "sentence": "昨日、母と話をしました。",
+    "translation": "Kemarin saya berbicara dengan ibu.",
+    "no": 1
+  },
+  {
+    "sentence": "友達にプレゼントをあげます。",
+    "translation": "Saya memberikan hadiah kepada teman.",
+    "no": 1
+  },
+  {
+    "sentence": "父が本をくれました。",
+    "translation": "Ayah memberi saya buku.",
+    "no": 1
+  },
+  {
+    "sentence": "彼女からプレゼントをもらいました。",
+    "translation": "Saya menerima hadiah dari dia.",
+    "no": 1
+  },
+  {
+    "sentence": "色々な物をもらいました。",
+    "translation": "Saya menerima berbagai macam barang.",
+    "no": 1
+  },
+  {
+    "sentence": "この本を君にあげます。",
+    "translation": "Saya memberikan buku ini kepadamu.",
+    "no": 1
+  },
+  {
+    "sentence": "父は家の中にいます。",
+    "translation": "Ayah ada di dalam rumah.",
+    "no": 1
+  },
+  {
+    "sentence": "あなたはスキーが出来ますか？",
+    "translation": "Apakah kamu bisa bermain ski?",
+    "no": 1
+  },
+  {
+    "sentence": "その話は本当ですか。",
+    "translation": "Apakah cerita itu benar?",
+    "no": 1
+  },
+  {
+    "sentence": "彼はステージに立った。",
+    "translation": "Dia berdiri di atas panggung.",
+    "no": 1
+  },
+  {
+    "sentence": "ララちゃんは家の前に立っています。",
+    "translation": "Lala-chan berdiri di depan rumah.",
+    "no": 1
+  },
+  {
+    "sentence": "レストランに入ります。",
+    "translation": "Saya masuk ke restoran.",
+    "no": 2
+  },
+  {
+    "sentence": "家族がテレビを見た。",
+    "translation": "Keluarga menonton TV.",
+    "no": 2
+  },
+  {
+    "sentence": "家族はタイに住んでいます。",
+    "translation": "Keluarga saya tinggal di Thailand.",
+    "no": 2
+  },
+  {
+    "sentence": "大きな家に住みたい。",
+    "translation": "Saya ingin tinggal di rumah besar.",
+    "no": 2
+  },
+  {
+    "sentence": "彼は大きい家に住んでいる。",
+    "translation": "Dia tinggal di rumah besar.",
+    "no": 2
+  },
+  {
+    "sentence": "彼は大きな声で話した。",
+    "translation": "Dia berbicara dengan suara keras.",
+    "no": 2
+  },
+  {
+    "sentence": "ララちゃんは目が大きいです。",
+    "translation": "Mata Lala-chan besar.",
+    "no": 2
+  },
+  {
+    "sentence": "分かった人は手を上げてください。",
+    "translation": "Bagi yang mengerti, tolong angkat tangan.",
+    "no": 2
+  },
+  {
+    "sentence": "分かった人は手を上げてください。",
+    "translation": "Bagi yang mengerti, tolong angkat tangan.",
+    "no": 2
+  },
+  {
+    "sentence": "私はタバコが嫌いです。",
+    "translation": "Saya tidak suka rokok.",
+    "no": 2
+  },
+  {
+    "sentence": "おじいさんはジョギングが嫌いです。",
+    "translation": "Kakek tidak suka jogging.",
+    "no": 2
+  },
+  {
+    "sentence": "彼女はおばあさんと住んでいる。",
+    "translation": "Dia tinggal bersama neneknya.",
+    "no": 2
+  },
+  {
+    "sentence": "スミスさんのおばあさんは元気です。",
+    "translation": "Nenek Smith sehat.",
+    "no": 2
+  },
+  {
+    "sentence": "彼女はいつも元気だ。",
+    "translation": "Dia selalu sehat.",
+    "no": 2
+  },
+  {
+    "sentence": "私は車を持っています。",
+    "translation": "Saya punya mobil.",
+    "no": 2
+  },
+  {
+    "sentence": "家族はみんな元気です。",
+    "translation": "Keluarga saya semuanya sehat.",
+    "no": 2
+  },
+  {
+    "sentence": "毎日、コンピューターを使います。",
+    "translation": "Setiap hari saya menggunakan komputer.",
+    "no": 2
+  },
+  {
+    "sentence": "大丈夫ですか。",
+    "translation": "Apakah kamu baik-baik saja?",
+    "no": 2
+  },
+  {
+    "sentence": "テストを始めてください。",
+    "translation": "Tolong mulai tes.",
+    "no": 2
+  },
+  {
+    "sentence": "今日の勉強を始めましょう。",
+    "translation": "Mari kita mulai belajar hari ini.",
+    "no": 2
+  },
+  {
+    "sentence": "部屋にキッチンがあります。",
+    "translation": "Ada dapur di kamar.",
+    "no": 2
+  },
+  {
+    "sentence": "あの人は悪い人です。",
+    "translation": "Orang itu orang jahat.",
+    "no": 2
+  },
+  {
+    "sentence": "まあこれでいいだろう。",
+    "translation": "Ya, mungkin cukup begini.",
+    "no": 2
+  },
+  {
+    "sentence": "昨日タイカレーを食べました。",
+    "translation": "Kemarin saya makan kari Thailand.",
+    "no": 2
+  },
+  {
+    "sentence": "私には友達がたくさんいます。",
+    "translation": "Saya punya banyak teman.",
+    "no": 2
+  },
+  {
+    "sentence": "行ってみたい場所がたくさんあります。",
+    "translation": "Ada banyak tempat yang ingin saya kunjungi.",
+    "no": 2
+  },
+  {
+    "sentence": "ウェイターを呼びましょう。",
+    "translation": "Mari kita panggil pelayan.",
+    "no": 2
+  },
+  {
+    "sentence": "エレベーターが動いています。",
+    "translation": "Lift sedang berjalan.",
+    "no": 2
+  },
+  {
+    "sentence": "彼の気持ちが分からない。",
+    "translation": "Saya tidak mengerti perasaannya.",
+    "no": 2
+  },
+  {
+    "sentence": "誰と会ってみたいですか。",
+    "translation": "Dengan siapa kamu ingin bertemu?",
+    "no": 2
+  },
+  {
+    "sentence": "その子は日本語が分からない。",
+    "translation": "Anak itu tidak mengerti bahasa Jepang.",
+    "no": 2
+  },
+  {
+    "sentence": "スミスさんはどんな人ですか。",
+    "translation": "Smith-san orang seperti apa?",
+    "no": 2
+  },
+  {
+    "sentence": "意味が分かりません。",
+    "translation": "Saya tidak mengerti artinya.",
+    "no": 2
+  },
+  {
+    "sentence": "この言葉の意味が分かりません。",
+    "translation": "Saya tidak mengerti arti kata ini.",
+    "no": 2
+  },
+  {
+    "sentence": "母が心配しています。",
+    "translation": "Ibu saya sedang khawatir.",
+    "no": 2
+  },
+  {
+    "sentence": "彼女の様子を見てきます。",
+    "translation": "Saya akan melihat keadaan dia.",
+    "no": 2
+  },
+  {
+    "sentence": "彼の言葉を信じています。",
+    "translation": "Saya percaya kata-katanya.",
+    "no": 2
+  },
+  {
+    "sentence": "分からない言葉は自分で調べてください。",
+    "translation": "Tolong cari sendiri kata yang tidak kamu mengerti.",
+    "no": 2
+  },
+  {
+    "sentence": "分からない言葉は自分で調べてください。",
+    "translation": "Tolong cari sendiri kata yang tidak kamu mengerti.",
+    "no": 2
+  },
+  {
+    "sentence": "インターネットで日本の事を調べました。",
+    "translation": "Saya mencari informasi tentang Jepang di internet.",
+    "no": 2
+  },
+  {
+    "sentence": "私も同じこと考えてた。",
+    "translation": "Saya juga memikirkan hal yang sama.",
+    "no": 2
+  },
+  {
+    "sentence": "彼には申し訳ないことをした。",
+    "translation": "Saya telah melakukan hal yang membuat dia merasa tidak enak.",
+    "no": 2
+  },
+  {
+    "sentence": "もちろん一緒に行きます。",
+    "translation": "Tentu saja saya akan pergi bersama.",
+    "no": 2
+  },
+  {
+    "sentence": "この本はとても面白い。",
+    "translation": "Buku ini sangat menarik.",
+    "no": 2
+  },
+  {
+    "sentence": "彼はとても楽しい人です。",
+    "translation": "Dia orang yang sangat menyenangkan.",
+    "no": 2
+  },
+  {
+    "sentence": "失礼します。",
+    "translation": "Permisi.",
+    "no": 2
+  },
+  {
+    "sentence": "私が手伝いましょう。",
+    "translation": "Biar saya bantu.",
+    "no": 2
+  },
+  {
+    "sentence": "忙しいので手伝ってください。",
+    "translation": "Karena saya sibuk, tolong bantu saya.",
+    "no": 2
+  },
+  {
+    "sentence": "父の仕事を手伝います。",
+    "translation": "Saya membantu pekerjaan ayah.",
+    "no": 2
+  },
+  {
+    "sentence": "仕事を続けてください。",
+    "translation": "Tolong lanjutkan pekerjaan.",
+    "no": 2
+  },
+  {
+    "sentence": "あのカメラを見せてください。",
+    "translation": "Tolong perlihatkan kamera itu.",
+    "no": 2
+  },
+  {
+    "sentence": "うちへ帰ります。",
+    "translation": "Saya pulang ke rumah.",
+    "no": 2
+  },
+  {
+    "sentence": "友達と約束があります。",
+    "translation": "Saya ada janji dengan teman.",
+    "no": 2
+  },
+  {
+    "sentence": "約束を忘れないでください。",
+    "translation": "Tolong jangan lupa janji.",
+    "no": 2
+  },
+  {
+    "sentence": "彼は約束を守る人です。",
+    "translation": "Dia orang yang menepati janji.",
+    "no": 2
+  },
+  {
+    "sentence": "約束の時間を変えます。",
+    "translation": "Saya akan mengubah waktu janji.",
+    "no": 2
+  },
+  {
+    "sentence": "さっきの話を続けましょう。",
+    "translation": "Mari kita lanjutkan pembicaraan tadi.",
+    "no": 2
+  },
+  {
+    "sentence": "今度はどこに行きたいですか。",
+    "translation": "Kali ini kamu ingin pergi ke mana?",
+    "no": 2
+  },
+  {
+    "sentence": "これから考えます。",
+    "translation": "Saya akan memikirkan mulai sekarang.",
+    "no": 2
+  },
+  {
+    "sentence": "あのビルの前で止めてください。",
+    "translation": "Tolong berhenti di depan gedung itu.",
+    "no": 2
+  },
+  {
+    "sentence": "話すのを止めてください。",
+    "translation": "Tolong berhenti bicara.",
+    "no": 2
+  },
+  {
+    "sentence": "私はハンバーガーを頼みました。",
+    "translation": "Saya memesan hamburger.",
+    "no": 2
+  },
+  {
+    "sentence": "私は彼を許しました。",
+    "translation": "Saya memaafkan dia.",
+    "no": 2
+  },
+  {
+    "sentence": "彼に会えて嬉しかった。",
+    "translation": "Saya senang bisa bertemu dengannya.",
+    "no": 2
+  },
+  {
+    "sentence": "勉強もスポーツも頑張っています。",
+    "translation": "Saya berusaha keras baik dalam belajar maupun olahraga.",
+    "no": 2
+  },
+  {
+    "sentence": "なるほど、よく分かりました。",
+    "translation": "Oh begitu, saya mengerti dengan baik.",
+    "no": 2
+  },
+  {
+    "sentence": "つまり、あなたは何も知らないのですね。",
+    "translation": "Jadi, kamu tidak tahu apa-apa ya.",
+    "no": 2
+  },
+  {
+    "sentence": "どこの国が好きですか。",
+    "translation": "Kamu suka negara mana?",
+    "no": 2
+  },
+  {
+    "sentence": "彼はとても優しい人です。",
+    "translation": "Dia orang yang sangat baik hati.",
+    "no": 2
+  },
+  {
+    "sentence": "私は待つのが嫌だ。",
+    "translation": "Saya tidak suka menunggu.",
+    "no": 2
+  },
+  {
+    "sentence": "A「毎日忙しいですか。」 B「そんなに忙しくないです。」",
+    "translation": "A: \"Apakah kamu sibuk setiap hari?\" B: \"Tidak terlalu sibuk.",
+    "no": 2
+  },
+  {
+    "sentence": "まあ今回は許してあげよう。",
+    "translation": "Baiklah, kali ini saya maafkan.",
+    "no": 2
+  },
+  {
+    "sentence": "昨日の夜は家にいました。",
+    "translation": "Tadi malam saya ada di rumah.",
+    "no": 2
+  },
+  {
+    "sentence": "昨日、シーディーを買いました。",
+    "translation": "Kemarin saya membeli CD.",
+    "no": 2
+  },
+  {
+    "sentence": "今までどこにいたのですか。",
+    "translation": "Sampai sekarang kamu di mana?",
+    "no": 2
+  },
+  {
+    "sentence": "奴は人の言うことを聞かない。",
+    "translation": "Orang itu tidak mau mendengarkan perkataan orang lain.",
+    "no": 2
+  },
+  {
+    "sentence": "あいつは本当にいい奴だ。",
+    "translation": "Dia benar-benar orang yang baik.",
+    "no": 2
+  },
+  {
+    "sentence": "もし時間があったら、ランチをしませんか。",
+    "translation": "Kalau ada waktu, mau makan siang bersama?",
+    "no": 2
+  },
+  {
+    "sentence": "理解してくれてありがとう。",
+    "translation": "Terima kasih sudah mengerti.",
+    "no": 2
+  },
+  {
+    "sentence": "私の夢は先生になることです。",
+    "translation": "Impian saya adalah menjadi guru.",
+    "no": 2
+  },
+  {
+    "sentence": "俺はロックを聞くのが好きだ。",
+    "translation": "Saya suka mendengarkan musik rock.",
+    "no": 2
+  },
+  {
+    "sentence": "この本は難しいですね。",
+    "translation": "Buku ini sulit ya.",
+    "no": 2
+  },
+  {
+    "sentence": "今度のテストはとても難しかった。",
+    "translation": "Ujian kali ini sangat sulit.",
+    "no": 2
+  },
+  {
+    "sentence": "彼の様子がおかしい。",
+    "translation": "Keadaannya aneh.",
+    "no": 2
+  },
+  {
+    "sentence": "男の子たちがサッカーをしている。",
+    "translation": "Anak-anak laki-laki sedang bermain sepak bola.",
+    "no": 2
+  },
+  {
+    "sentence": "あの女の子を知っていますか。",
+    "translation": "Apakah kamu kenal anak perempuan itu?",
+    "no": 2
+  },
+  {
+    "sentence": "もう寝よう。",
+    "translation": "Ayo tidur.",
+    "no": 2
+  },
+  {
+    "sentence": "みんなにこのことを伝えてください。",
+    "translation": "Tolong sampaikan ini kepada semua orang.",
+    "no": 2
+  },
+  {
+    "sentence": "私のカメラは小さいです。",
+    "translation": "Kamera saya kecil.",
+    "no": 2
+  },
+  {
+    "sentence": "プレゼントを選ぶのはとても楽しいです。",
+    "translation": "Memilih hadiah sangat menyenangkan.",
+    "no": 2
+  },
+  {
+    "sentence": "どうぞ座ってください。",
+    "translation": "Silakan duduk.",
+    "no": 2
+  },
+  {
+    "sentence": "このテストはとても簡単です。",
+    "translation": "Tes ini sangat mudah.",
+    "no": 2
+  },
+  {
+    "sentence": "お願いがあります。",
+    "translation": "Saya ada permintaan.",
+    "no": 2
+  },
+  {
+    "sentence": "前に進んでください。",
+    "translation": "Tolong maju ke depan.",
+    "no": 2
+  },
+  {
+    "sentence": "私には全く分かりません。",
+    "translation": "Saya sama sekali tidak mengerti.",
+    "no": 2
+  },
+  {
+    "sentence": "なぜ来なかったの。",
+    "translation": "Kenapa kamu tidak datang?",
+    "no": 2
+  },
+  {
+    "sentence": "僕は君が大好きです。",
+    "translation": "Aku sangat menyayangimu.",
+    "no": 2
+  },
+  {
+    "sentence": "水を飲みます。",
+    "translation": "Saya minum air.",
+    "no": 2
+  },
+  {
+    "sentence": "水を飲みます。",
+    "translation": "Saya minum air.",
+    "no": 2
+  },
+  {
+    "sentence": "明日は暇です。",
+    "translation": "Besok saya punya waktu luang.",
+    "no": 2
+  },
+  {
+    "sentence": "暇な時は本を読んでいます。",
+    "translation": "Saat waktu luang saya membaca buku.",
+    "no": 3
+  },
+  {
+    "sentence": "A「何時ですか。」 B「3時です。」",
+    "translation": "A: \"Jam berapa sekarang?\" B: \"Jam tiga.",
+    "no": 3
+  },
+  {
+    "sentence": "一から始めましょう。",
+    "translation": "Mari mulai dari satu.",
+    "no": 3
+  },
+  {
+    "sentence": "その人には二回会った。",
+    "translation": "Saya sudah bertemu dengan orang itu dua kali.",
+    "no": 3
+  },
+  {
+    "sentence": "彼女は三人の子供の母親だ。",
+    "translation": "Dia adalah ibu dari tiga anak.",
+    "no": 3
+  },
+  {
+    "sentence": "ハワイは四回目です。",
+    "translation": "Ini keempat kalinya saya ke Hawaii.",
+    "no": 3
+  },
+  {
+    "sentence": "五人で旅行に行きました。",
+    "translation": "Kami pergi berlibur berlima.",
+    "no": 3
+  },
+  {
+    "sentence": "彼には子供が六人います。",
+    "translation": "Dia punya enam anak.",
+    "no": 3
+  },
+  {
+    "sentence": "バナナが七本あります。",
+    "translation": "Ada tujuh pisang.",
+    "no": 3
+  },
+  {
+    "sentence": "りんごを八個ください。",
+    "translation": "Tolong berikan delapan apel.",
+    "no": 3
+  },
+  {
+    "sentence": "野球は九人で1チームです。",
+    "translation": "Dalam bisbol, satu tim terdiri dari sembilan orang.",
+    "no": 3
+  },
+  {
+    "sentence": "その子は指で十数えました。",
+    "translation": "Anak itu menghitung sepuluh dengan jarinya.",
+    "no": 3
+  },
+  {
+    "sentence": "健くんは１歳です",
+    "translation": "Ken-chan berusia satu tahun.",
+    "no": 3
+  },
+  {
+    "sentence": "すみません。今日は用事があります。",
+    "translation": "Maaf, hari ini saya ada urusan.",
+    "no": 3
+  },
+  {
+    "sentence": "一緒に宿題をやろう。",
+    "translation": "Mari kita kerjakan PR bersama.",
+    "no": 3
+  },
+  {
+    "sentence": "彼はタオルで顔を拭きました。",
+    "translation": "Dia mengelap wajahnya dengan handuk.",
+    "no": 3
+  },
+  {
+    "sentence": "今朝は早く家を出ました。",
+    "translation": "Pagi ini saya keluar rumah lebih awal.",
+    "no": 3
+  },
+  {
+    "sentence": "今朝は早く家を出ました。",
+    "translation": "Pagi ini saya keluar rumah lebih awal.",
+    "no": 3
+  },
+  {
+    "sentence": "このロボットは言葉が分かります。そして、ダンスも出来ます。",
+    "translation": "Robot ini mengerti kata-kata. Dan bisa menari juga.",
+    "no": 3
+  },
+  {
+    "sentence": "宿題はまだ終わっていません。",
+    "translation": "PR saya belum selesai.",
+    "no": 3
+  },
+  {
+    "sentence": "じゃ、それをください。",
+    "translation": "Kalau begitu, tolong berikan itu.",
+    "no": 3
+  },
+  {
+    "sentence": "これは医者のためのサイトです。",
+    "translation": "Ini adalah situs untuk dokter.",
+    "no": 3
+  },
+  {
+    "sentence": "私はパンよりご飯が好きだ。",
+    "translation": "Saya lebih suka nasi daripada roti.",
+    "no": 3
+  },
+  {
+    "sentence": "私は友達のところに泊まった。",
+    "translation": "Saya menginap di rumah teman.",
+    "no": 3
+  },
+  {
+    "sentence": "少し疲れました。",
+    "translation": "Saya agak lelah.",
+    "no": 3
+  },
+  {
+    "sentence": "ここから富士山がよく見えます。",
+    "translation": "Dari sini Gunung Fuji terlihat jelas.",
+    "no": 3
+  },
+  {
+    "sentence": "答えが違います。",
+    "translation": "Jawabanmu salah.",
+    "no": 3
+  },
+  {
+    "sentence": "男の人が私たちに話しかけた。",
+    "translation": "Seorang pria menyapa kami.",
+    "no": 3
+  },
+  {
+    "sentence": "この温泉はただです。",
+    "translation": "Pemandian air panas ini gratis.",
+    "no": 3
+  },
+  {
+    "sentence": "私はただ彼女と話したかっただけです。",
+    "translation": "Saya hanya ingin berbicara dengan dia.",
+    "no": 3
+  },
+  {
+    "sentence": "人間の心は複雑です。",
+    "translation": "Hati manusia itu rumit.",
+    "no": 3
+  },
+  {
+    "sentence": "今、朝ご飯を作っています。",
+    "translation": "Sekarang saya sedang membuat sarapan.",
+    "no": 3
+  },
+  {
+    "sentence": "膝に痛みを感じます。",
+    "translation": "Saya merasa sakit di lutut.",
+    "no": 3
+  },
+  {
+    "sentence": "上を向いて。",
+    "translation": "Arahkan wajah ke atas.",
+    "no": 3
+  },
+  {
+    "sentence": "今日は風が強い。",
+    "translation": "Hari ini anginnya kencang.",
+    "no": 3
+  },
+  {
+    "sentence": "彼はかばんから教科書を出した。",
+    "translation": "Dia mengeluarkan buku pelajaran dari tas.",
+    "no": 3
+  },
+  {
+    "sentence": "赤ん坊が笑っています。",
+    "translation": "Bayi sedang tertawa.",
+    "no": 3
+  },
+  {
+    "sentence": "私は毎月貯金をしています。",
+    "translation": "Saya menabung setiap bulan.",
+    "no": 3
+  },
+  {
+    "sentence": "毎年、クリスマスに国へ帰ります。",
+    "translation": "Setiap tahun saya pulang ke negara asal saat Natal.",
+    "no": 3
+  },
+  {
+    "sentence": "毎年多くの人が海外へ旅行する。",
+    "translation": "Setiap tahun banyak orang bepergian ke luar negeri.",
+    "no": 3
+  },
+  {
+    "sentence": "毎日、７時間くらい眠ります。",
+    "translation": "Saya tidur sekitar 7 jam setiap hari.",
+    "no": 3
+  },
+  {
+    "sentence": "姉は大学生です。",
+    "translation": "Kakak perempuan saya adalah mahasiswa.",
+    "no": 3
+  },
+  {
+    "sentence": "弟にプレゼントをあげました。",
+    "translation": "Saya memberi adik laki-laki hadiah.",
+    "no": 3
+  },
+  {
+    "sentence": "私の妹は小学生です。",
+    "translation": "Adik perempuan saya murid SD.",
+    "no": 3
+  },
+  {
+    "sentence": "私より妹の方が力があります。",
+    "translation": "Adik perempuan saya lebih kuat daripada saya.",
+    "no": 3
+  },
+  {
+    "sentence": "世界の地図はありますか。",
+    "translation": "Apakah ada peta dunia?",
+    "no": 3
+  },
+  {
+    "sentence": "試合の相手は誰ですか。",
+    "translation": "Lawan pertandingan itu siapa?",
+    "no": 3
+  },
+  {
+    "sentence": "遠くに彼女の姿が見えた。",
+    "translation": "Dari jauh saya melihat sosoknya.",
+    "no": 3
+  },
+  {
+    "sentence": "犬が病気で死にました。",
+    "translation": "Anjing saya mati karena sakit.",
+    "no": 3
+  },
+  {
+    "sentence": "A「今朝、5時に起きました。」 B「早いですね。」",
+    "translation": "A: \"Saya bangun jam 5 pagi tadi.\" B: \"Cepat sekali ya.",
+    "no": 3
+  },
+  {
+    "sentence": "A「東京から大阪まで2時間半です。」 B「早いですね。」",
+    "translation": "A: \"Dari Tokyo ke Osaka butuh dua setengah jam.\" B: \"Cepat sekali ya.",
+    "no": 3
+  },
+  {
+    "sentence": "今朝から頭が痛い。",
+    "translation": "Sejak pagi kepala saya sakit.",
+    "no": 3
+  },
+  {
+    "sentence": "今、会社に戻ります。",
+    "translation": "Sekarang saya kembali ke kantor.",
+    "no": 3
+  },
+  {
+    "sentence": "ずっと日本へ留学したいと思っていました。",
+    "translation": "Saya selalu ingin belajar di Jepang.",
+    "no": 3
+  },
+  {
+    "sentence": "どうして泣いているの。",
+    "translation": "Kenapa kamu menangis?",
+    "no": 3
+  },
+  {
+    "sentence": "やっぱり旅が大好きだ。",
+    "translation": "Ternyata saya memang suka sekali bepergian.",
+    "no": 3
+  },
+  {
+    "sentence": "明日からタバコを止めるつもりです。",
+    "translation": "Mulai besok saya akan berhenti merokok.",
+    "no": 3
+  },
+  {
+    "sentence": "これは授業に必要な本です。",
+    "translation": "Ini adalah buku yang diperlukan untuk pelajaran.",
+    "no": 3
+  },
+  {
+    "sentence": "会議は4時に終わります。",
+    "translation": "Rapat selesai jam 4.",
+    "no": 3
+  },
+  {
+    "sentence": "私は先ほど電話した者です。",
+    "translation": "Saya orang yang tadi menelpon.",
+    "no": 3
+  },
+  {
+    "sentence": "仕事の後、映画を見た。",
+    "translation": "Setelah kerja saya menonton film.",
+    "no": 3
+  },
+  {
+    "sentence": "受付はこちらです。",
+    "translation": "Resepsionis ada di sini.",
+    "no": 3
+  },
+  {
+    "sentence": "今、会社に向かっています。",
+    "translation": "Sekarang saya sedang menuju kantor.",
+    "no": 3
+  },
+  {
+    "sentence": "明日はきっと雨が降ります。",
+    "translation": "Besok pasti hujan.",
+    "no": 3
+  },
+  {
+    "sentence": "信号が青に変わりました。",
+    "translation": "Lampu lalu lintas berubah menjadi hijau.",
+    "no": 3
+  },
+  {
+    "sentence": "凄い雨になった。",
+    "translation": "Hujan menjadi sangat deras.",
+    "no": 3
+  },
+  {
+    "sentence": "店員は若い女の人でした。",
+    "translation": "Pegawainya adalah perempuan muda.",
+    "no": 3
+  },
+  {
+    "sentence": "朝食はちゃんと食べましたか。",
+    "translation": "Apakah kamu sudah sarapan dengan baik?",
+    "no": 3
+  },
+  {
+    "sentence": "外で大きい音がします。",
+    "translation": "Dari luar terdengar suara keras.",
+    "no": 3
+  },
+  {
+    "sentence": "妹は体が弱いです。",
+    "translation": "Adik perempuan saya tubuhnya lemah.",
+    "no": 3
+  },
+  {
+    "sentence": "夫の服をハンガーに掛けた。",
+    "translation": "Saya menggantungkan baju suami di gantungan.",
+    "no": 3
+  },
+  {
+    "sentence": "駅まで歩きましょう。",
+    "translation": "Mari jalan kaki sampai stasiun.",
+    "no": 3
+  },
+  {
+    "sentence": "宇宙人は存在すると思いますか。",
+    "translation": "Menurutmu alien ada?",
+    "no": 3
+  },
+  {
+    "sentence": "時が過ぎるのは速い。",
+    "translation": "Waktu berlalu dengan cepat.",
+    "no": 3
+  },
+  {
+    "sentence": "隣の部屋からテレビの音が聞こえる。",
+    "translation": "Dari kamar sebelah terdengar suara TV.",
+    "no": 3
+  },
+  {
+    "sentence": "親友の言葉に、酷いショックを受けた。",
+    "translation": "Saya sangat terkejut dengan kata-kata sahabat saya.",
+    "no": 3
+  },
+  {
+    "sentence": "今年はイタリアに旅行したい。",
+    "translation": "Tahun ini saya ingin bepergian ke Italia.",
+    "no": 3
+  },
+  {
+    "sentence": "私は去年フランスへ行った。",
+    "translation": "Tahun lalu saya pergi ke Prancis.",
+    "no": 3
+  },
+  {
+    "sentence": "来年一緒に旅行しましょう。",
+    "translation": "Tahun depan mari kita bepergian bersama.",
+    "no": 3
+  },
+  {
+    "sentence": "私は生き物を殺すのが嫌いだ。",
+    "translation": "Saya tidak suka membunuh makhluk hidup.",
+    "no": 3
+  },
+  {
+    "sentence": "まさか彼がやったんじゃないよね？",
+    "translation": "Jangan-jangan dia yang melakukannya?",
+    "no": 3
+  },
+  {
+    "sentence": "そんなことは絶対できないよ。",
+    "translation": "Hal seperti itu sama sekali tidak mungkin.",
+    "no": 3
+  },
+  {
+    "sentence": "遅れた理由を教えてください。",
+    "translation": "Tolong beri tahu alasan keterlambatan.",
+    "no": 3
+  },
+  {
+    "sentence": "口を大きく開けてください。",
+    "translation": "Tolong buka mulut lebar-lebar.",
+    "no": 3
+  },
+  {
+    "sentence": "外は暑いよ。",
+    "translation": "Di luar panas.",
+    "no": 3
+  },
+  {
+    "sentence": "鳥が窓から逃げたよ。",
+    "translation": "Burung itu kabur lewat jendela.",
+    "no": 3
+  },
+  {
+    "sentence": "誰かに聞いてみてください。",
+    "translation": "Tolong coba tanyakan pada seseorang.",
+    "no": 3
+  },
+  {
+    "sentence": "彼はまるで子供のようにはしゃいだよ。",
+    "translation": "Dia bersuka ria seperti anak kecil.",
+    "no": 3
+  },
+  {
+    "sentence": "他に方法がありません。",
+    "translation": "Tidak ada cara lain.",
+    "no": 3
+  },
+  {
+    "sentence": "留学生はアジア人が多く、その他は3割です。",
+    "translation": "Mahasiswa asing kebanyakan orang Asia, sisanya 30%.",
+    "no": 3
+  },
+  {
+    "sentence": "問題が一つあります。",
+    "translation": "Ada satu masalah.",
+    "no": 3
+  },
+  {
+    "sentence": "今後ともよろしくお願いします。",
+    "translation": "Mohon kerja samanya ke depannya.",
+    "no": 3
+  },
+  {
+    "sentence": "あの店は料理もサービスも普通です。",
+    "translation": "Restoran itu makanannya maupun pelayanannya biasa saja.",
+    "no": 3
+  },
+  {
+    "sentence": "彼は素直な心を持っている。",
+    "translation": "Dia memiliki hati yang jujur.",
+    "no": 3
+  },
+  {
+    "sentence": "今年の春は暖かいね。",
+    "translation": "Musim semi tahun ini hangat ya.",
+    "no": 3
+  },
+  {
+    "sentence": "私は夏が大好き。",
+    "translation": "Saya sangat suka musim panas.",
+    "no": 3
+  },
+  {
+    "sentence": "彼女は秋に結婚します。",
+    "translation": "Dia akan menikah di musim gugur.",
+    "no": 3
+  },
+  {
+    "sentence": "カナダの冬はとても寒いです。",
+    "translation": "Musim dingin di Kanada sangat dingin.",
+    "no": 3
+  },
+  {
+    "sentence": "夏は３０度以上の日が何日もあります。",
+    "translation": "Di musim panas, ada banyak hari dengan suhu di atas 30 derajat.",
+    "no": 3
+  },
+  {
+    "sentence": "昨日は熱がありました。それで、学校を休みました。",
+    "translation": "Kemarin saya demam. Jadi saya tidak masuk sekolah.",
+    "no": 3
+  },
+  {
+    "sentence": "１００歳まで生きたいです。",
+    "translation": "Saya ingin hidup sampai umur 100 tahun.",
+    "no": 4
+  },
+  {
+    "sentence": "5ページの最初を見てください。",
+    "translation": "Tolong lihat bagian awal halaman 5.",
+    "no": 4
+  },
+  {
+    "sentence": "今日が夏休み最後の日だ。",
+    "translation": "Hari ini adalah hari terakhir liburan musim panas.",
+    "no": 4
+  },
+  {
+    "sentence": "休みの日に本を読みます。",
+    "translation": "Di hari libur saya membaca buku.",
+    "no": 4
+  },
+  {
+    "sentence": "雲の間から月が出た。",
+    "translation": "Bulan muncul dari celah awan.",
+    "no": 4
+  },
+  {
+    "sentence": "彼は少し間を置いてから返事した。",
+    "translation": "Dia menjawab setelah berhenti sebentar.",
+    "no": 4
+  },
+  {
+    "sentence": "日本の経済について調べています。",
+    "translation": "Saya sedang meneliti tentang ekonomi Jepang.",
+    "no": 4
+  },
+  {
+    "sentence": "そこを左に曲がってください。",
+    "translation": "Tolong belok kiri di sana.",
+    "no": 4
+  },
+  {
+    "sentence": "右のポケットにハンカチが入っています。",
+    "translation": "Ada sapu tangan di saku kanan.",
+    "no": 4
+  },
+  {
+    "sentence": "あの子は感じの良い子です。",
+    "translation": "Anak itu anak yang menyenangkan.",
+    "no": 4
+  },
+  {
+    "sentence": "胸に少し痛みがあります。",
+    "translation": "Ada sedikit rasa sakit di dada.",
+    "no": 4
+  },
+  {
+    "sentence": "彼はとても表情が豊かですね。",
+    "translation": "Dia sangat ekspresif, ya.",
+    "no": 4
+  },
+  {
+    "sentence": "6月は雨が多いです。",
+    "translation": "Bulan Juni banyak hujan.",
+    "no": 4
+  },
+  {
+    "sentence": "東京に来るのは初めてです。",
+    "translation": "Ini pertama kali saya datang ke Tokyo.",
+    "no": 4
+  },
+  {
+    "sentence": "毎日アルバイトをするのは無理です。",
+    "translation": "Mustahil bekerja paruh waktu setiap hari.",
+    "no": 4
+  },
+  {
+    "sentence": "小さいパソコンが欲しいです。",
+    "translation": "Saya ingin komputer kecil.",
+    "no": 4
+  },
+  {
+    "sentence": "ごめん。ビールはない。",
+    "translation": "Maaf, tidak ada bir.",
+    "no": 4
+  },
+  {
+    "sentence": "毎日、漢字を覚えます。",
+    "translation": "Setiap hari saya menghafal kanji.",
+    "no": 4
+  },
+  {
+    "sentence": "別に好きじゃありません。",
+    "translation": "Saya sebenarnya tidak terlalu suka.",
+    "no": 4
+  },
+  {
+    "sentence": "大切な用事を思い出しました。",
+    "translation": "Saya teringat urusan penting.",
+    "no": 4
+  },
+  {
+    "sentence": "彼はかばんに手帳を入れた。",
+    "translation": "Dia memasukkan buku catatan ke dalam tas.",
+    "no": 4
+  },
+  {
+    "sentence": "次の駅で右のドアが開きます。",
+    "translation": "Pintu sebelah kanan akan terbuka di stasiun berikutnya.",
+    "no": 4
+  },
+  {
+    "sentence": "32ページを開いてください。",
+    "translation": "Tolong buka halaman 32.",
+    "no": 4
+  },
+  {
+    "sentence": "料理がたくさん残りました。",
+    "translation": "Banyak makanan tersisa.",
+    "no": 4
+  },
+  {
+    "sentence": "先生の質問に答えます。",
+    "translation": "Saya akan menjawab pertanyaan guru.",
+    "no": 4
+  },
+  {
+    "sentence": "私は犬が怖いです。",
+    "translation": "Saya takut anjing.",
+    "no": 4
+  },
+  {
+    "sentence": "韓国に5年いました。",
+    "translation": "Saya tinggal di Korea selama 5 tahun.",
+    "no": 4
+  },
+  {
+    "sentence": "新しい年が始まりました。",
+    "translation": "Tahun baru telah dimulai.",
+    "no": 4
+  },
+  {
+    "sentence": "テストでいい点を取った。",
+    "translation": "Saya mendapat nilai bagus di ujian.",
+    "no": 4
+  },
+  {
+    "sentence": "彼に全てのことを伝えた。",
+    "translation": "Saya menyampaikan semuanya kepadanya.",
+    "no": 4
+  },
+  {
+    "sentence": "彼女は病気の犬を助けた。",
+    "translation": "Dia menolong anjing yang sakit.",
+    "no": 4
+  },
+  {
+    "sentence": "この状況では出発は難しいです。",
+    "translation": "Dalam situasi ini, keberangkatan sulit dilakukan.",
+    "no": 4
+  },
+  {
+    "sentence": "もう一度、予約を確認した。",
+    "translation": "Saya memeriksa ulang reservasi sekali lagi.",
+    "no": 4
+  },
+  {
+    "sentence": "電気が消えているので、田中さんは部屋にいないでしょう。",
+    "translation": "Karena lampu mati, mungkin Tanaka-san tidak ada di kamar.",
+    "no": 4
+  },
+  {
+    "sentence": "彼女の髪はとても長い。",
+    "translation": "Rambutnya sangat panjang.",
+    "no": 4
+  },
+  {
+    "sentence": "夜中に道で大きな声がして、驚きました。",
+    "translation": "Tengah malam saya terkejut mendengar suara keras di jalan.",
+    "no": 4
+  },
+  {
+    "sentence": "腕を回してください。",
+    "translation": "Tolong putar lenganmu.",
+    "no": 4
+  },
+  {
+    "sentence": "私は雨の日以外は自転車で学校に行く。",
+    "translation": "Kecuali saat hujan, saya pergi ke sekolah naik sepeda.",
+    "no": 4
+  },
+  {
+    "sentence": "ケータイをなくして困っています。",
+    "translation": "Saya kesulitan karena kehilangan ponsel.",
+    "no": 4
+  },
+  {
+    "sentence": "実家を4年間離れていました。",
+    "translation": "Saya tinggal jauh dari rumah orang tua selama 4 tahun.",
+    "no": 4
+  },
+  {
+    "sentence": "旅行に行く気があるか彼女に聞かれました。",
+    "translation": "Dia bertanya apakah saya ingin pergi berlibur.",
+    "no": 4
+  },
+  {
+    "sentence": "彼に手紙を書きました。",
+    "translation": "Saya menulis surat kepadanya.",
+    "no": 4
+  },
+  {
+    "sentence": "この部屋は光がたくさん入って、いいね。",
+    "translation": "Kamar ini banyak cahaya masuk, bagus ya.",
+    "no": 4
+  },
+  {
+    "sentence": "彼は毎晩3キロ走っています。",
+    "translation": "Dia berlari 3 kilometer setiap malam.",
+    "no": 4
+  },
+  {
+    "sentence": "彼は最後まで戦ったよ。",
+    "translation": "Dia bertarung sampai akhir.",
+    "no": 4
+  },
+  {
+    "sentence": "余りは次回使いましょう。",
+    "translation": "Sisanya mari kita gunakan lain kali.",
+    "no": 4
+  },
+  {
+    "sentence": "お弁当を全部食べました。",
+    "translation": "Saya makan habis bekal.",
+    "no": 4
+  },
+  {
+    "sentence": "その瞬間、猫が跳び出しました。",
+    "translation": "Saat itu, kucing meloncat keluar.",
+    "no": 4
+  },
+  {
+    "sentence": "この文法の説明は良く分かりません。",
+    "translation": "Saya tidak begitu mengerti penjelasan tata bahasa ini.",
+    "no": 4
+  },
+  {
+    "sentence": "会議の時間を決めましょう。",
+    "translation": "Mari kita tentukan waktu rapat.",
+    "no": 4
+  },
+  {
+    "sentence": "そのパーティーに女性は何人来ますか。",
+    "translation": "Berapa banyak wanita yang datang ke pesta itu?",
+    "no": 4
+  },
+  {
+    "sentence": "お客様にお菓子を頂いた。",
+    "translation": "Saya menerima kue dari pelanggan.",
+    "no": 4
+  },
+  {
+    "sentence": "あそこに敵がひそんでいる。",
+    "translation": "Musuh bersembunyi di sana.",
+    "no": 4
+  },
+  {
+    "sentence": "近所で盗難事件が起きました。",
+    "translation": "Di sekitar rumah terjadi pencurian.",
+    "no": 4
+  },
+  {
+    "sentence": "私は毎朝6時に起きます。",
+    "translation": "Saya bangun jam 6 setiap pagi.",
+    "no": 4
+  },
+  {
+    "sentence": "荷物が下に落ちてしまいました。",
+    "translation": "Barang bawaan jatuh ke bawah.",
+    "no": 4
+  },
+  {
+    "sentence": "彼は足が長い。",
+    "translation": "Kakinya panjang.",
+    "no": 4
+  },
+  {
+    "sentence": "連休はホテル代が高いです。それに、どこも人が多いです。",
+    "translation": "Saat libur panjang, biaya hotel mahal. Selain itu, di mana-mana penuh orang.",
+    "no": 4
+  },
+  {
+    "sentence": "では、私たちは先に出発します。",
+    "translation": "Kalau begitu, kami berangkat duluan.",
+    "no": 4
+  },
+  {
+    "sentence": "彼女はまるで魔法にかかったみたいだ。",
+    "translation": "Dia seperti terkena sihir.",
+    "no": 4
+  },
+  {
+    "sentence": "ピンクのセーターをずっと探しています。",
+    "translation": "Saya sudah lama mencari sweter berwarna merah muda.",
+    "no": 4
+  },
+  {
+    "sentence": "電車で子供が騒いでいた。",
+    "translation": "Anak-anak ribut di dalam kereta.",
+    "no": 4
+  },
+  {
+    "sentence": "彼女が嘘をついたので、彼は怒った。",
+    "translation": "Karena dia berbohong, dia marah.",
+    "no": 4
+  },
+  {
+    "sentence": "赤ちゃんの笑顔が可愛い。",
+    "translation": "Senyum bayi itu lucu.",
+    "no": 4
+  },
+  {
+    "sentence": "先輩からメール来た？",
+    "translation": "Apakah kamu menerima email dari senior?",
+    "no": 4
+  },
+  {
+    "sentence": "雨の日が２週間も続いています。",
+    "translation": "Hujan terus turun selama dua minggu.",
+    "no": 4
+  },
+  {
+    "sentence": "こんなに面白い本は初めて読んだ。",
+    "translation": "Baru kali ini saya membaca buku yang begitu menarik.",
+    "no": 4
+  },
+  {
+    "sentence": "変な音が聞こえます。",
+    "translation": "Saya mendengar suara aneh.",
+    "no": 4
+  },
+  {
+    "sentence": "日本語の本を読みます。",
+    "translation": "Saya membaca buku bahasa Jepang.",
+    "no": 4
+  },
+  {
+    "sentence": "彼女が怒るのも当然だ。",
+    "translation": "Tidak heran dia marah.",
+    "no": 4
+  },
+  {
+    "sentence": "私はホテルの情報が知りたいです。",
+    "translation": "Saya ingin tahu informasi hotel.",
+    "no": 4
+  },
+  {
+    "sentence": "新しい仕事を見つけました。",
+    "translation": "Saya menemukan pekerjaan baru.",
+    "no": 4
+  },
+  {
+    "sentence": "少女は母親の手を握った。",
+    "translation": "Gadis itu menggenggam tangan ibunya.",
+    "no": 4
+  },
+  {
+    "sentence": "大変なことが起こりました。",
+    "translation": "Sesuatu yang serius terjadi.",
+    "no": 4
+  },
+  {
+    "sentence": "彼はかなり英語が上手です。",
+    "translation": "Bahasa Inggrisnya cukup bagus.",
+    "no": 4
+  },
+  {
+    "sentence": "財布は机の下にあった。",
+    "translation": "Dompet ada di bawah meja.",
+    "no": 4
+  },
+  {
+    "sentence": "私はその教授の下で論文を書いたの。",
+    "translation": "Saya menulis skripsi di bawah profesor itu.",
+    "no": 4
+  },
+  {
+    "sentence": "自転車で10分ぐらいかかります。",
+    "translation": "Dengan sepeda butuh sekitar 10 menit.",
+    "no": 4
+  },
+  {
+    "sentence": "綺麗なカレンダーが掛かっていますね。",
+    "translation": "Kalender indah sedang tergantung.",
+    "no": 4
+  },
+  {
+    "sentence": "一度、花見をしたことがあります。",
+    "translation": "Saya pernah hanami sekali.",
+    "no": 4
+  },
+  {
+    "sentence": "この古い寺院は今でも完全な形を保っているんだ。",
+    "translation": "Kuil tua ini masih mempertahankan bentuk aslinya.",
+    "no": 4
+  },
+  {
+    "sentence": "後ろを向いて。",
+    "translation": "Arahkan wajah ke belakang.",
+    "no": 4
+  },
+  {
+    "sentence": "妹はすぐに泣く。",
+    "translation": "Adik perempuan saya cepat menangis.",
+    "no": 4
+  },
+  {
+    "sentence": "ここは道の状態がとても悪いです。",
+    "translation": "Jalan di sini kondisinya sangat buruk.",
+    "no": 4
+  },
+  {
+    "sentence": "彼はその事件に関係がない。",
+    "translation": "Dia tidak ada hubungan dengan kejadian itu.",
+    "no": 4
+  },
+  {
+    "sentence": "彼は上司に怒りの目を向けたんだよ。",
+    "translation": "Dia menatap bosnya dengan mata marah.",
+    "no": 4
+  },
+  {
+    "sentence": "はさみは机の奥にあった。",
+    "translation": "Gunting ada di bagian dalam meja.",
+    "no": 4
+  },
+  {
+    "sentence": "この靴はとても軽い。",
+    "translation": "Sepatu ini sangat ringan.",
+    "no": 4
+  },
+  {
+    "sentence": "図書館に本を返した。",
+    "translation": "Saya mengembalikan buku ke perpustakaan.",
+    "no": 4
+  },
+  {
+    "sentence": "雲の間から太陽が現れました。",
+    "translation": "Matahari muncul dari celah awan.",
+    "no": 4
+  },
+  {
+    "sentence": "歯が痛いです。",
+    "translation": "Gigi saya sakit.",
+    "no": 4
+  },
+  {
+    "sentence": "明日はどうやら雨らしいよ。",
+    "translation": "Besok sepertinya akan hujan.",
+    "no": 4
+  },
+  {
+    "sentence": "電気を点けてください。",
+    "translation": "Tolong nyalakan lampu.",
+    "no": 4
+  },
+  {
+    "sentence": "おまけを付けました。",
+    "translation": "Saya tambahkan bonus.",
+    "no": 4
+  },
+  {
+    "sentence": "一瞬自分の耳を疑ったよ。",
+    "translation": "Saya sempat tidak percaya dengan telinga saya sendiri.",
+    "no": 4
+  },
+  {
+    "sentence": "僕に隠していることは無いですか。",
+    "translation": "Apakah tidak ada yang kamu sembunyikan dariku?",
+    "no": 4
+  },
+  {
+    "sentence": "明日の会議の準備をした。",
+    "translation": "Saya menyiapkan rapat besok.",
+    "no": 4
+  },
+  {
+    "sentence": "そろそろ始めましょうか。",
+    "translation": "Mari kita mulai sebentar lagi.",
+    "no": 4
+  },
+  {
+    "sentence": "私の話を落ち着いて聞いてください。",
+    "translation": "Tolong dengarkan ceritaku dengan tenang.",
+    "no": 4
+  },
+  {
+    "sentence": "とても恥ずかしかった。",
+    "translation": "Saya sangat malu.",
+    "no": 4
+  },
+  {
+    "sentence": "分からない場合は私に聞いてください。",
+    "translation": "Jika tidak mengerti, tolong tanyakan kepada saya.",
+    "no": 5
+  },
+  {
+    "sentence": "両手でしっかり持って。",
+    "translation": "Pegang erat dengan kedua tangan.",
+    "no": 5
+  },
+  {
+    "sentence": "彼は若いのにしっかりしてるね。",
+    "translation": "Walaupun masih muda, dia sangat dapat diandalkan.",
+    "no": 5
+  },
+  {
+    "sentence": "昨日、髪を切りました。",
+    "translation": "Kemarin saya memotong rambut.",
+    "no": 5
+  },
+  {
+    "sentence": "あの人は卓球の元選手です。",
+    "translation": "Orang itu adalah mantan pemain tenis meja.",
+    "no": 5
+  },
+  {
+    "sentence": "彼は大金を得ましたよ。",
+    "translation": "Dia mendapatkan banyak uang.",
+    "no": 5
+  },
+  {
+    "sentence": "すぐ行きます。",
+    "translation": "Saya segera datang.",
+    "no": 5
+  },
+  {
+    "sentence": "来月から大学生になります。",
+    "translation": "Mulai bulan depan saya akan menjadi mahasiswa.",
+    "no": 5
+  },
+  {
+    "sentence": "昔、ここは海でした。",
+    "translation": "Dahulu, di sini adalah laut.",
+    "no": 5
+  },
+  {
+    "sentence": "駅はここから近いです。",
+    "translation": "Stasiun dekat dari sini.",
+    "no": 5
+  },
+  {
+    "sentence": "まず相手の動きを見ましょう。",
+    "translation": "Pertama mari kita lihat gerakan lawan.",
+    "no": 5
+  },
+  {
+    "sentence": "彼はその絵をずっと見つめていたの。",
+    "translation": "Dia terus menatap lukisan itu.",
+    "no": 5
+  },
+  {
+    "sentence": "良い友達がいて私は幸せだ。",
+    "translation": "Saya bahagia punya teman baik.",
+    "no": 5
+  },
+  {
+    "sentence": "当時のことはしっかり記憶しているよ。",
+    "translation": "Saya masih ingat jelas hal pada waktu itu.",
+    "no": 5
+  },
+  {
+    "sentence": "彼女は良い反応を示したわ。",
+    "translation": "Dia menunjukkan reaksi yang baik.",
+    "no": 5
+  },
+  {
+    "sentence": "私たちは来月結婚します。",
+    "translation": "Kami akan menikah bulan depan.",
+    "no": 5
+  },
+  {
+    "sentence": "とにかく現場へ行ってみましょう。",
+    "translation": "Bagaimanapun juga mari kita coba pergi ke lokasi.",
+    "no": 5
+  },
+  {
+    "sentence": "勝手なことばかり言わないでくれ。",
+    "translation": "Jangan asal bicara seenaknya.",
+    "no": 5
+  },
+  {
+    "sentence": "2003年にアメリカはイラクを攻撃した。",
+    "translation": "Tahun 2003 Amerika menyerang Irak.",
+    "no": 5
+  },
+  {
+    "sentence": "窓を開けてください。",
+    "translation": "Tolong buka jendela.",
+    "no": 5
+  },
+  {
+    "sentence": "彼はいつも黙って仕事をします。",
+    "translation": "Dia selalu bekerja dengan diam.",
+    "no": 5
+  },
+  {
+    "sentence": "最近、仕事が忙しいです。",
+    "translation": "Akhir-akhir ini pekerjaan sibuk.",
+    "no": 5
+  },
+  {
+    "sentence": "チーム全員に名札が配られました。",
+    "translation": "Semua anggota tim menerima name tag.",
+    "no": 5
+  },
+  {
+    "sentence": "自分の失敗を他人のせいにするな。",
+    "translation": "Jangan menyalahkan orang lain atas kesalahanmu sendiri.",
+    "no": 5
+  },
+  {
+    "sentence": "あの池はとても深い。",
+    "translation": "Kolam itu sangat dalam.",
+    "no": 5
+  },
+  {
+    "sentence": "別の本も見せてください。",
+    "translation": "Tolong tunjukkan buku lain juga.",
+    "no": 5
+  },
+  {
+    "sentence": "旅行の日程が決まりました。",
+    "translation": "Jadwal perjalanan sudah ditentukan.",
+    "no": 5
+  },
+  {
+    "sentence": "そこでしばらく休んでいます。",
+    "translation": "Saya sedang beristirahat sebentar di sana.",
+    "no": 5
+  },
+  {
+    "sentence": "１９９８年に日本で冬のオリンピックが行われました。",
+    "translation": "Olimpiade musim dingin diadakan di Jepang tahun 1998.",
+    "no": 5
+  },
+  {
+    "sentence": "私たちは２階に上がった。",
+    "translation": "Kami naik ke lantai dua.",
+    "no": 5
+  },
+  {
+    "sentence": "隣の家には犬がいます。",
+    "translation": "Rumah sebelah punya anjing.",
+    "no": 5
+  },
+  {
+    "sentence": "彼は扉を開けたんだ。",
+    "translation": "Dia membuka pintu.",
+    "no": 5
+  },
+  {
+    "sentence": "彼は指が太い。",
+    "translation": "Jari-jarinya tebal.",
+    "no": 5
+  },
+  {
+    "sentence": "試合の結果を早く知りたい。",
+    "translation": "Saya ingin cepat tahu hasil pertandingan.",
+    "no": 5
+  },
+  {
+    "sentence": "そのニュースは彼に大きなショックを与えた。",
+    "translation": "Berita itu memberi dia kejutan besar.",
+    "no": 5
+  },
+  {
+    "sentence": "この道を知っています。",
+    "translation": "Saya tahu jalan ini.",
+    "no": 5
+  },
+  {
+    "sentence": "駅からはタクシーに乗ってください。",
+    "translation": "Dari stasiun silakan naik taksi.",
+    "no": 5
+  },
+  {
+    "sentence": "特に質問はありません。",
+    "translation": "Tidak ada pertanyaan khusus.",
+    "no": 5
+  },
+  {
+    "sentence": "このクッキーは星の形です。",
+    "translation": "Kue ini berbentuk bintang.",
+    "no": 5
+  },
+  {
+    "sentence": "A「どちらが勝つでしょうか。」 B「さあ",
+    "translation": "A: \"Menurutmu siapa yang akan menang?\" B: \"Entahlah.",
+    "no": 5
+  },
+  {
+    "sentence": "血が出ていますよ。",
+    "translation": "Darah keluar.",
+    "no": 5
+  },
+  {
+    "sentence": "彼は更に質問を続けたの。",
+    "translation": "Dia melanjutkan pertanyaan lagi.",
+    "no": 5
+  },
+  {
+    "sentence": "食事の用意ができました。",
+    "translation": "Makanan sudah siap.",
+    "no": 5
+  },
+  {
+    "sentence": "山田さんはホアンさんに負けました。",
+    "translation": "Yamada kalah dari Hoan.",
+    "no": 5
+  },
+  {
+    "sentence": "彼は神を信じている。",
+    "translation": "Dia percaya pada Tuhan.",
+    "no": 5
+  },
+  {
+    "sentence": "実は来月、帰国することになりました。",
+    "translation": "Sebenarnya bulan depan saya akan pulang ke negara asal.",
+    "no": 5
+  },
+  {
+    "sentence": "昨日、服を買いました。",
+    "translation": "Kemarin saya membeli baju.",
+    "no": 5
+  },
+  {
+    "sentence": "それはとても不思議な話だね。",
+    "translation": "Itu cerita yang sangat aneh ya.",
+    "no": 5
+  },
+  {
+    "sentence": "彼は意識を失いました。",
+    "translation": "Dia pingsan.",
+    "no": 5
+  },
+  {
+    "sentence": "一体何事ですか。",
+    "translation": "Ada apa sebenarnya?",
+    "no": 5
+  },
+  {
+    "sentence": "とりあえずお知らせしておきます。",
+    "translation": "Untuk sementara saya beri tahu dulu.",
+    "no": 5
+  },
+  {
+    "sentence": "彼の家に荷物を送りました。",
+    "translation": "Saya mengirim barang ke rumahnya.",
+    "no": 5
+  },
+  {
+    "sentence": "では、こちらはいかがですか。6万円です。",
+    "translation": "Kalau begitu, bagaimana dengan ini? 60 ribu yen.",
+    "no": 5
+  },
+  {
+    "sentence": "それを聞いて安心しました。",
+    "translation": "Saya merasa lega setelah mendengar itu.",
+    "no": 5
+  },
+  {
+    "sentence": "彼は地震で親を失いました。",
+    "translation": "Dia kehilangan orang tuanya karena gempa.",
+    "no": 5
+  },
+  {
+    "sentence": "彼の行動は理解できない。",
+    "translation": "Saya tidak bisa mengerti tindakannya.",
+    "no": 5
+  },
+  {
+    "sentence": "手と手が触れてどきどきしたよ。",
+    "translation": "Tangan kami bersentuhan dan jantung saya berdebar.",
+    "no": 5
+  },
+  {
+    "sentence": "彼はそもそもこの仕事に向いていない。",
+    "translation": "Dia sejak awal tidak cocok dengan pekerjaan ini.",
+    "no": 5
+  },
+  {
+    "sentence": "今年は雨が少ないです。",
+    "translation": "Tahun ini hujan sedikit.",
+    "no": 5
+  },
+  {
+    "sentence": "彼は結局何を言いたかったのだろう。",
+    "translation": "Sebenarnya apa yang ingin dia katakan?",
+    "no": 5
+  },
+  {
+    "sentence": "空が真っ青です。",
+    "translation": "Langit biru cerah.",
+    "no": 5
+  },
+  {
+    "sentence": "父の手術が無事に済みました。",
+    "translation": "Operasi ayah selesai dengan selamat.",
+    "no": 5
+  },
+  {
+    "sentence": "この仕事は君に任せる。",
+    "translation": "Saya serahkan pekerjaan ini padamu.",
+    "no": 5
+  },
+  {
+    "sentence": "赤いコートを買いました。",
+    "translation": "Saya membeli mantel merah.",
+    "no": 5
+  },
+  {
+    "sentence": "彼女は私の大事な人です。",
+    "translation": "Dia orang yang sangat berharga bagi saya.",
+    "no": 5
+  },
+  {
+    "sentence": "彼女はメッセージを残しました。",
+    "translation": "Dia meninggalkan pesan.",
+    "no": 5
+  },
+  {
+    "sentence": "道に大きいバスが止まっています。",
+    "translation": "Ada bus besar yang berhenti di jalan.",
+    "no": 5
+  },
+  {
+    "sentence": "朝、6時に起きます。",
+    "translation": "Pagi hari saya bangun jam 6.",
+    "no": 5
+  },
+  {
+    "sentence": "命より大切なものは無いよ。",
+    "translation": "Tidak ada yang lebih penting dari nyawa.",
+    "no": 5
+  },
+  {
+    "sentence": "明日、病院に検査に行くので少し不安です。",
+    "translation": "Besok saya ke rumah sakit untuk pemeriksaan, jadi agak cemas.",
+    "no": 5
+  },
+  {
+    "sentence": "お腹がいっぱいなのでお代わりは結構です。",
+    "translation": "Karena sudah kenyang, saya tidak perlu tambah lagi.",
+    "no": 5
+  },
+  {
+    "sentence": "彼女は結構めがねが似合うね。",
+    "translation": "Dia lumayan cocok memakai kacamata ya.",
+    "no": 5
+  },
+  {
+    "sentence": "彼の車は新しい。",
+    "translation": "Mobilnya baru.",
+    "no": 5
+  },
+  {
+    "sentence": "この程度の怪我なら大丈夫です。",
+    "translation": "Luka ringan seperti ini tidak masalah.",
+    "no": 5
+  },
+  {
+    "sentence": "壁に絵が掛かっている。",
+    "translation": "Ada gambar yang tergantung di dinding.",
+    "no": 5
+  },
+  {
+    "sentence": "私に何か用ですか。",
+    "translation": "Ada perlu apa dengan saya?",
+    "no": 5
+  },
+  {
+    "sentence": "背中がかゆいです。",
+    "translation": "Punggung saya gatal.",
+    "no": 5
+  },
+  {
+    "sentence": "私が髪を切ったのに、夫は気付きませんでした。",
+    "translation": "Padahal saya sudah potong rambut, suami saya tidak menyadarinya.",
+    "no": 5
+  },
+  {
+    "sentence": "後ろからいきなり肩をたたかれた。",
+    "translation": "Dari belakang tiba-tiba pundak saya ditepuk.",
+    "no": 5
+  },
+  {
+    "sentence": "彼に手紙を渡しました。",
+    "translation": "Saya memberikan surat kepadanya.",
+    "no": 5
+  },
+  {
+    "sentence": "彼女はとても喜びました。",
+    "translation": "Dia sangat gembira.",
+    "no": 5
+  },
+  {
+    "sentence": "妹は可愛い服が大好きです。",
+    "translation": "Adik perempuan saya sangat suka pakaian imut.",
+    "no": 5
+  },
+  {
+    "sentence": "新しい仕事が始まりました。",
+    "translation": "Pekerjaan baru sudah dimulai.",
+    "no": 5
+  },
+  {
+    "sentence": "すてきな色のセーターですね。",
+    "translation": "Sweter dengan warna indah ya.",
+    "no": 5
+  },
+  {
+    "sentence": "父が彼女との結婚を認めてくれました。",
+    "translation": "Ayah mengizinkan saya menikah dengannya.",
+    "no": 5
+  },
+  {
+    "sentence": "午後急に空が暗くなりました。",
+    "translation": "Sore hari tiba-tiba langit menjadi gelap.",
+    "no": 5
+  },
+  {
+    "sentence": "友達は向こうにいます。",
+    "translation": "Teman saya ada di sana.",
+    "no": 5
+  },
+  {
+    "sentence": "子供は親の愛を求めます。",
+    "translation": "Anak menginginkan kasih sayang orang tua.",
+    "no": 5
+  },
+  {
+    "sentence": "肩が痛いです。",
+    "translation": "Bahu saya sakit.",
+    "no": 5
+  },
+  {
+    "sentence": "彼には仲間がたくさんいる。",
+    "translation": "Dia punya banyak teman.",
+    "no": 5
+  },
+  {
+    "sentence": "ようやくゴールが見えてきました。",
+    "translation": "Akhirnya tujuan terlihat.",
+    "no": 5
+  },
+  {
+    "sentence": "嬉しくて思わず涙が出ました。",
+    "translation": "Karena bahagia, air mata keluar tanpa sadar.",
+    "no": 5
+  },
+  {
+    "sentence": "お金がほとんどありません。",
+    "translation": "Uang saya hampir tidak ada.",
+    "no": 5
+  },
+  {
+    "sentence": "彼は突然走り出したのよ。",
+    "translation": "Dia tiba-tiba mulai berlari.",
+    "no": 5
+  },
+  {
+    "sentence": "自分自身を疑ってはいけません。",
+    "translation": "Jangan meragukan diri sendiri.",
+    "no": 5
+  },
+  {
+    "sentence": "彼は再びここに戻ってきた。",
+    "translation": "Dia kembali lagi ke sini.",
+    "no": 5
+  },
+  {
+    "sentence": "静かな所が好きです。",
+    "translation": "Saya suka tempat yang tenang.",
+    "no": 5
+  },
+  {
+    "sentence": "鳥が飛んでいます。",
+    "translation": "Burung sedang terbang.",
+    "no": 5
+  },
+  {
+    "sentence": "彼は歯が白い。",
+    "translation": "Giginya putih.",
+    "no": 5
+  },
+  {
+    "sentence": "昨日、父から手紙が届いた。",
+    "translation": "Kemarin saya menerima surat dari ayah.",
+    "no": 5
+  },
+  {
+    "sentence": "うちのネコが子猫を生みました。",
+    "translation": "Kucing kami melahirkan anak kucing.",
+    "no": 6
+  },
+  {
+    "sentence": "そのスキーヤーはポールを倒した。",
+    "translation": "Pemain ski itu menjatuhkan tiang.",
+    "no": 6
+  },
+  {
+    "sentence": "私は母に、姉は父に似ています。",
+    "translation": "Saya mirip ibu, kakak perempuan saya mirip ayah.",
+    "no": 6
+  },
+  {
+    "sentence": "田舎は空気がとても美味しいです。",
+    "translation": "Di pedesaan, udaranya sangat segar.",
+    "no": 6
+  },
+  {
+    "sentence": "昨日から腰が痛い。",
+    "translation": "Sejak kemarin pinggang saya sakit.",
+    "no": 6
+  },
+  {
+    "sentence": "君の名は何？",
+    "translation": "Siapa namamu?",
+    "no": 6
+  },
+  {
+    "sentence": "この道は車が多くて、危険です。",
+    "translation": "Jalan ini banyak mobil, jadi berbahaya.",
+    "no": 6
+  },
+  {
+    "sentence": "靴に泥が付いています。",
+    "translation": "Sepatunya ada lumpurnya.",
+    "no": 6
+  },
+  {
+    "sentence": "部屋の電気がついています。",
+    "translation": "Lampu di kamar menyala.",
+    "no": 6
+  },
+  {
+    "sentence": "このスープはとても熱い。",
+    "translation": "Sup ini sangat panas.",
+    "no": 6
+  },
+  {
+    "sentence": "ただいま。",
+    "translation": "Saya pulang.",
+    "no": 6
+  },
+  {
+    "sentence": "頂きます。",
+    "translation": "Selamat makan.",
+    "no": 6
+  },
+  {
+    "sentence": "そんなに慌ててどこに行くの。",
+    "translation": "Kenapa kamu terburu-buru pergi ke mana?",
+    "no": 6
+  },
+  {
+    "sentence": "大声で話すと周囲の人に迷惑ですよ。",
+    "translation": "Berbicara dengan suara keras mengganggu orang di sekitar.",
+    "no": 6
+  },
+  {
+    "sentence": "早起きした日は気分がいいです。",
+    "translation": "Hari-hari bangun pagi membuat suasana hati baik.",
+    "no": 6
+  },
+  {
+    "sentence": "それは全て事実ですか。",
+    "translation": "Apakah semuanya itu benar?",
+    "no": 6
+  },
+  {
+    "sentence": "まずキャッシュカードを入れてください。",
+    "translation": "Pertama, masukkan kartu ATM.",
+    "no": 6
+  },
+  {
+    "sentence": "いや、僕は本気なんだ。",
+    "translation": "Tidak, aku serius.",
+    "no": 6
+  },
+  {
+    "sentence": "彼女は頷いて同意を示したの。",
+    "translation": "Dia mengangguk dan menunjukkan persetujuan.",
+    "no": 6
+  },
+  {
+    "sentence": "ここが町で一番広い通りです。",
+    "translation": "Ini adalah jalan terluas di kota.",
+    "no": 6
+  },
+  {
+    "sentence": "そんなことは想像できないよ。",
+    "translation": "Saya tidak bisa membayangkan hal seperti itu.",
+    "no": 6
+  },
+  {
+    "sentence": "私はこの店によく来ます。",
+    "translation": "Saya sering datang ke toko ini.",
+    "no": 6
+  },
+  {
+    "sentence": "茶柱が立って、何だか少し幸せな気分です。",
+    "translation": "Batang teh berdiri, entah kenapa saya merasa sedikit bahagia.",
+    "no": 6
+  },
+  {
+    "sentence": "彼が来た目的が分かりません。",
+    "translation": "Saya tidak tahu tujuan dia datang.",
+    "no": 6
+  },
+  {
+    "sentence": "昨日は8時間眠りました。",
+    "translation": "Kemarin saya tidur selama 8 jam.",
+    "no": 6
+  },
+  {
+    "sentence": "明日の会議は確か３時からだと思います。",
+    "translation": "Saya pikir rapat besok mulai jam 3.",
+    "no": 6
+  },
+  {
+    "sentence": "お金はまだ十分あります。",
+    "translation": "Uang masih cukup.",
+    "no": 6
+  },
+  {
+    "sentence": "これは日本の料理です。",
+    "translation": "Ini adalah masakan Jepang.",
+    "no": 6
+  },
+  {
+    "sentence": "子供の頃、よくその公園で遊んだ。",
+    "translation": "Waktu kecil, saya sering bermain di taman itu.",
+    "no": 6
+  },
+  {
+    "sentence": "彼女は絵がなかなか上手です。",
+    "translation": "Dia cukup pandai menggambar.",
+    "no": 6
+  },
+  {
+    "sentence": "彼女はとても正直だ。",
+    "translation": "Dia sangat jujur.",
+    "no": 6
+  },
+  {
+    "sentence": "旅行中は身の安全が第一です。",
+    "translation": "Keselamatan diri adalah yang utama saat bepergian.",
+    "no": 6
+  },
+  {
+    "sentence": "お腹がいっぱいです。",
+    "translation": "Saya kenyang.",
+    "no": 6
+  },
+  {
+    "sentence": "この絵は美しいです。",
+    "translation": "Lukisan ini indah.",
+    "no": 6
+  },
+  {
+    "sentence": "このケーキは甘いですね。",
+    "translation": "Kue ini manis ya.",
+    "no": 6
+  },
+  {
+    "sentence": "彼は建築家というよりむしろ芸術家ね。",
+    "translation": "Dia lebih seperti seniman daripada arsitek.",
+    "no": 6
+  },
+  {
+    "sentence": "きりんの首は長い。",
+    "translation": "Leher jerapah panjang.",
+    "no": 6
+  },
+  {
+    "sentence": "感情とは複雑なものです。",
+    "translation": "Emosi adalah sesuatu yang rumit.",
+    "no": 6
+  },
+  {
+    "sentence": "家の周りに桜の木があります。",
+    "translation": "Di sekitar rumah ada pohon sakura.",
+    "no": 6
+  },
+  {
+    "sentence": "日本語が上手になる方法を教えてください。",
+    "translation": "Tolong ajari cara menjadi mahir berbahasa Jepang.",
+    "no": 6
+  },
+  {
+    "sentence": "もう一度言います。",
+    "translation": "Saya akan mengatakannya sekali lagi.",
+    "no": 6
+  },
+  {
+    "sentence": "前の車はとても遅い。",
+    "translation": "Mobil di depan sangat lambat.",
+    "no": 6
+  },
+  {
+    "sentence": "親子の会話は大切です。",
+    "translation": "Percakapan antara orang tua dan anak itu penting.",
+    "no": 6
+  },
+  {
+    "sentence": "この靴は私の足に合っている。",
+    "translation": "Sepatu ini cocok dengan kakiku.",
+    "no": 6
+  },
+  {
+    "sentence": "フランスからサーカスがやって来ます。",
+    "translation": "Sirkus dari Prancis akan datang.",
+    "no": 6
+  },
+  {
+    "sentence": "私は森を歩くのが好きです。",
+    "translation": "Saya suka berjalan di hutan.",
+    "no": 6
+  },
+  {
+    "sentence": "みんなで大きいテーブルを動かします。",
+    "translation": "Kita semua akan memindahkan meja besar.",
+    "no": 6
+  },
+  {
+    "sentence": "彼は能力のある社員です。",
+    "translation": "Dia adalah karyawan yang mampu.",
+    "no": 6
+  },
+  {
+    "sentence": "彼は寒くて震えていました。",
+    "translation": "Dia menggigil karena kedinginan.",
+    "no": 6
+  },
+  {
+    "sentence": "みんな私たちに期待しています。",
+    "translation": "Semua orang mengharapkan kami.",
+    "no": 6
+  },
+  {
+    "sentence": "無事、家に着きました。",
+    "translation": "Saya sampai di rumah dengan selamat.",
+    "no": 6
+  },
+  {
+    "sentence": "彼は暴力事件を起こしたんだよ。",
+    "translation": "Dia menyebabkan insiden kekerasan.",
+    "no": 6
+  },
+  {
+    "sentence": "明日、6時に起こしてください。",
+    "translation": "Tolong bangunkan saya jam 6 besok.",
+    "no": 6
+  },
+  {
+    "sentence": "彼女は耳がよく聞こえません。",
+    "translation": "Dia tidak bisa mendengar dengan baik.",
+    "no": 6
+  },
+  {
+    "sentence": "友達に子供が生まれました。",
+    "translation": "Teman saya baru saja memiliki anak.",
+    "no": 6
+  },
+  {
+    "sentence": "私たちはレンタカーで移動しました。",
+    "translation": "Kami berpindah dengan mobil sewaan.",
+    "no": 6
+  },
+  {
+    "sentence": "この大きい荷物はとても邪魔です。",
+    "translation": "Barang bawaan besar ini sangat mengganggu.",
+    "no": 6
+  },
+  {
+    "sentence": "子供たちが公園で遊んでいる。",
+    "translation": "Anak-anak sedang bermain di taman.",
+    "no": 6
+  },
+  {
+    "sentence": "予約は要りません。",
+    "translation": "Tidak perlu reservasi.",
+    "no": 6
+  },
+  {
+    "sentence": "もうお金が無くなりました。",
+    "translation": "Uang sudah habis.",
+    "no": 6
+  },
+  {
+    "sentence": "彼女の唇はとても可愛いです。",
+    "translation": "Bibirnya sangat imut.",
+    "no": 6
+  },
+  {
+    "sentence": "今日はスーツを着ています。",
+    "translation": "Hari ini saya memakai jas.",
+    "no": 6
+  },
+  {
+    "sentence": "彼は色々なことを知っている。",
+    "translation": "Dia tahu banyak hal.",
+    "no": 6
+  },
+  {
+    "sentence": "こちらへどうぞ。",
+    "translation": "Silakan ke sini.",
+    "no": 6
+  },
+  {
+    "sentence": "彼は急に立ち上がったの。",
+    "translation": "Dia tiba-tiba berdiri.",
+    "no": 6
+  },
+  {
+    "sentence": "必死の思いで彼に頼んだよ。",
+    "translation": "Dengan sekuat tenaga aku memohon padanya.",
+    "no": 6
+  },
+  {
+    "sentence": "以前彼はこの町に住んでいたんだ。",
+    "translation": "Dulu dia pernah tinggal di kota ini.",
+    "no": 6
+  },
+  {
+    "sentence": "もう少しゆっくり話してください。",
+    "translation": "Tolong bicara sedikit lebih pelan.",
+    "no": 6
+  },
+  {
+    "sentence": "山で登山客が熊に襲われたよ。",
+    "translation": "Pendaki di gunung diserang beruang.",
+    "no": 6
+  },
+  {
+    "sentence": "メガネが見つかりません。",
+    "translation": "Kacamata tidak ditemukan.",
+    "no": 6
+  },
+  {
+    "sentence": "時間がないので、急いでください。",
+    "translation": "Karena tidak ada waktu, tolong cepatlah.",
+    "no": 6
+  },
+  {
+    "sentence": "せっかく来たんだからゆっくりして行きなさい。",
+    "translation": "Karena sudah jauh-jauh datang, santailah dan jangan buru-buru.",
+    "no": 6
+  },
+  {
+    "sentence": "ここでバスを降ります。",
+    "translation": "Saya akan turun bus di sini.",
+    "no": 6
+  },
+  {
+    "sentence": "そこの階段を下りてください。",
+    "translation": "Tolong turun tangga di sana.",
+    "no": 6
+  },
+  {
+    "sentence": "この紙を半分に切ってください。",
+    "translation": "Tolong potong kertas ini menjadi dua bagian.",
+    "no": 6
+  },
+  {
+    "sentence": "その事件の犯人はまだ捕まっていない。",
+    "translation": "Pelaku dari kejadian itu belum tertangkap.",
+    "no": 6
+  },
+  {
+    "sentence": "友達からメールの返事が中々来ません。",
+    "translation": "Balasan email dari teman saya belum juga datang.",
+    "no": 6
+  },
+  {
+    "sentence": "昨日のテストは酷い点でした。",
+    "translation": "Nilai ujian kemarin sangat buruk.",
+    "no": 6
+  },
+  {
+    "sentence": "この荷物は重いですね。",
+    "translation": "Barang bawaan ini berat, ya.",
+    "no": 6
+  },
+  {
+    "sentence": "この道ではよく事故が起こります。",
+    "translation": "Sering terjadi kecelakaan di jalan ini.",
+    "no": 6
+  },
+  {
+    "sentence": "駅は逆方向です。",
+    "translation": "Stasiun berada di arah yang berlawanan.",
+    "no": 6
+  },
+  {
+    "sentence": "彼の説明で納得できました。",
+    "translation": "Saya bisa mengerti dari penjelasannya.",
+    "no": 6
+  },
+  {
+    "sentence": "今日は一人の時間を楽しみたい。",
+    "translation": "Hari ini saya ingin menikmati waktu sendiri.",
+    "no": 6
+  },
+  {
+    "sentence": "彼女は助けを求めて大声で叫んだの。",
+    "translation": "Dia berteriak keras meminta tolong.",
+    "no": 6
+  },
+  {
+    "sentence": "駅前に人が集まっています。",
+    "translation": "Orang-orang berkumpul di depan stasiun.",
+    "no": 6
+  },
+  {
+    "sentence": "子供に構い過ぎてはいけない。",
+    "translation": "Jangan terlalu memperhatikan anak-anak.",
+    "no": 6
+  },
+  {
+    "sentence": "王の墓を見学したよ。",
+    "translation": "Saya mengunjungi makam raja.",
+    "no": 6
+  },
+  {
+    "sentence": "途中で30分ほど休みましょう。",
+    "translation": "Mari kita istirahat sekitar 30 menit di tengah perjalanan.",
+    "no": 6
+  },
+  {
+    "sentence": "新しい家にはもう慣れましたか。",
+    "translation": "Apakah kamu sudah terbiasa dengan rumah baru?",
+    "no": 6
+  },
+  {
+    "sentence": "今月の終わりに国へ帰ります。",
+    "translation": "Saya akan pulang ke negara saya pada akhir bulan ini.",
+    "no": 6
+  },
+  {
+    "sentence": "彼にも一応知らせておいたほうがいいだろう。",
+    "translation": "Mungkin sebaiknya memberitahu dia juga.",
+    "no": 6
+  },
+  {
+    "sentence": "このドアは引いてください。",
+    "translation": "Tolong tarik pintu ini.",
+    "no": 6
+  },
+  {
+    "sentence": "海は広くて大きい。",
+    "translation": "Laut sangat luas dan besar.",
+    "no": 6
+  },
+  {
+    "sentence": "何でも簡単に諦めてはいけません。",
+    "translation": "Jangan mudah menyerah pada apapun.",
+    "no": 6
+  },
+  {
+    "sentence": "必ずシートベルトを着けてください。",
+    "translation": "Tolong selalu kenakan sabuk pengaman.",
+    "no": 6
+  },
+  {
+    "sentence": "来年は優勝を狙います。",
+    "translation": "Tahun depan saya akan berusaha memenangkan juara.",
+    "no": 6
+  },
+  {
+    "sentence": "この靴はいくらですか。",
+    "translation": "Berapa harga sepatu ini?",
+    "no": 6
+  },
+  {
+    "sentence": "道でスマホを落としました。",
+    "translation": "Saya menjatuhkan ponsel di jalan.",
+    "no": 6
+  },
+  {
+    "sentence": "この部分は問題ないです。",
+    "translation": "Bagian ini tidak bermasalah.",
+    "no": 6
+  },
+  {
+    "sentence": "学生たちは授業についていくのに必死です。",
+    "translation": "Para pelajar berjuang keras mengikuti pelajaran.",
+    "no": 6
+  },
+  {
+    "sentence": "こんな大きなダイヤは珍しいです。",
+    "translation": "Berlian sebesar ini sangat langka.",
+    "no": 7
+  },
+  {
+    "sentence": "意外にも彼は独身です。",
+    "translation": "Tidak disangka dia masih lajang.",
+    "no": 7
+  },
+  {
+    "sentence": "昨日の会議について報告があります。",
+    "translation": "Saya punya laporan tentang rapat kemarin.",
+    "no": 7
+  },
+  {
+    "sentence": "少女は母親の手を握った。",
+    "translation": "Gadis itu menggenggam tangan ibunya.",
+    "no": 7
+  },
+  {
+    "sentence": "来月、姉が結婚します。",
+    "translation": "Bulan depan kakak saya akan menikah.",
+    "no": 7
+  },
+  {
+    "sentence": "長い戦いが終わった。",
+    "translation": "Pertarungan panjang telah berakhir.",
+    "no": 7
+  },
+  {
+    "sentence": "友達にいつも感謝しています。",
+    "translation": "Saya selalu berterima kasih kepada teman-teman.",
+    "no": 7
+  },
+  {
+    "sentence": "激しい雨が降っています。",
+    "translation": "Hujan deras sedang turun.",
+    "no": 7
+  },
+  {
+    "sentence": "地震で家が倒れました。",
+    "translation": "Rumah roboh karena gempa bumi.",
+    "no": 7
+  },
+  {
+    "sentence": "そのことは既にみんな知っています。",
+    "translation": "Semua orang sudah tahu tentang hal itu.",
+    "no": 7
+  },
+  {
+    "sentence": "私は疲れてふらふらです。",
+    "translation": "Saya lelah dan pusing.",
+    "no": 7
+  },
+  {
+    "sentence": "日本の生活は大変ですが、とても楽しいです。",
+    "translation": "Hidup di Jepang sulit tapi sangat menyenangkan.",
+    "no": 7
+  },
+  {
+    "sentence": "この場でお礼を言わせてください。",
+    "translation": "Izinkan saya mengucapkan terima kasih di sini.",
+    "no": 7
+  },
+  {
+    "sentence": "私は家族を愛しています。",
+    "translation": "Saya mencintai keluarga saya.",
+    "no": 7
+  },
+  {
+    "sentence": "冷たいジュースが飲みたいです。",
+    "translation": "Saya ingin minum jus dingin.",
+    "no": 7
+  },
+  {
+    "sentence": "この野菜は捨てないでください。",
+    "translation": "Tolong jangan membuang sayuran ini.",
+    "no": 7
+  },
+  {
+    "sentence": "暖かい国でゆっくり過ごしたいです。",
+    "translation": "Saya ingin bersantai di negara yang hangat.",
+    "no": 7
+  },
+  {
+    "sentence": "来週みんなで食事しましょう。",
+    "translation": "Minggu depan mari makan bersama-sama.",
+    "no": 7
+  },
+  {
+    "sentence": "姉は銀行で働いています。",
+    "translation": "Kakak perempuan saya bekerja di bank.",
+    "no": 7
+  },
+  {
+    "sentence": "答えが分かりません。",
+    "translation": "Saya tidak tahu jawabannya.",
+    "no": 7
+  },
+  {
+    "sentence": "今日は風が強いです。",
+    "translation": "Hari ini anginnya kencang.",
+    "no": 7
+  },
+  {
+    "sentence": "彼女は黒いドレスを着ています。",
+    "translation": "Dia mengenakan gaun hitam.",
+    "no": 7
+  },
+  {
+    "sentence": "彼はシートベルトをしていたので助かったんだ。",
+    "translation": "Dia selamat karena mengenakan sabuk pengaman.",
+    "no": 7
+  },
+  {
+    "sentence": "彼からメールを受け取りました。",
+    "translation": "Saya menerima email dari dia.",
+    "no": 7
+  },
+  {
+    "sentence": "お金がちょっと足りません。",
+    "translation": "Uang saya sedikit kurang.",
+    "no": 7
+  },
+  {
+    "sentence": "彼の判断は正しい。",
+    "translation": "Keputusannya benar.",
+    "no": 7
+  },
+  {
+    "sentence": "未来は誰にも分からない。",
+    "translation": "Masa depan tidak ada yang tahu.",
+    "no": 7
+  },
+  {
+    "sentence": "腹一杯食った。",
+    "translation": "Saya makan sampai kenyang.",
+    "no": 7
+  },
+  {
+    "sentence": "このケーキはあなたの分です。",
+    "translation": "Kue ini untuk bagianmu.",
+    "no": 7
+  },
+  {
+    "sentence": "そっちが私の部屋です。",
+    "translation": "Itu kamarku di sana.",
+    "no": 7
+  },
+  {
+    "sentence": "彼はサッカーも野球もとても上手いです。",
+    "translation": "Dia sangat pandai sepak bola dan bisbol.",
+    "no": 7
+  },
+  {
+    "sentence": "日時はご都合に合わせます。",
+    "translation": "Waktu dan tanggal akan disesuaikan dengan jadwal Anda.",
+    "no": 7
+  },
+  {
+    "sentence": "これは母が大切にしていた指輪です。",
+    "translation": "Ini adalah cincin yang sangat berharga bagi ibu saya.",
+    "no": 7
+  },
+  {
+    "sentence": "母は花が好きです。",
+    "translation": "Ibu suka bunga.",
+    "no": 7
+  },
+  {
+    "sentence": "自分が悪い時は謝りましょう。",
+    "translation": "Mari minta maaf jika kita salah.",
+    "no": 7
+  },
+  {
+    "sentence": "その男は彼女のバッグを奪ったぞ。",
+    "translation": "Pria itu merampas tasnya.",
+    "no": 7
+  },
+  {
+    "sentence": "そのチームには勢いがありますね。",
+    "translation": "Tim itu memiliki semangat yang tinggi.",
+    "no": 7
+  },
+  {
+    "sentence": "動物の映画を見て、涙が出ました。",
+    "translation": "Saya menonton film tentang hewan dan meneteskan air mata.",
+    "no": 7
+  },
+  {
+    "sentence": "とても雰囲気のいいお店ですね。",
+    "translation": "Toko ini sangat memiliki suasana yang bagus.",
+    "no": 7
+  },
+  {
+    "sentence": "嘘じゃありません。本当です。",
+    "translation": "Ini bukan kebohongan. Ini benar.",
+    "no": 7
+  },
+  {
+    "sentence": "彼は私との結婚を望んでいます。",
+    "translation": "Dia ingin menikah dengan saya.",
+    "no": 7
+  },
+  {
+    "sentence": "昨日のスピーチはとても緊張しました。",
+    "translation": "Pidato kemarin sangat membuat saya gugup.",
+    "no": 7
+  },
+  {
+    "sentence": "一緒に食事しようか。",
+    "translation": "Mau makan bersama?",
+    "no": 7
+  },
+  {
+    "sentence": "彼女は通りがかりの人に救われたよ。",
+    "translation": "Dia diselamatkan oleh orang yang lewat.",
+    "no": 7
+  },
+  {
+    "sentence": "社長自らがその会社と交渉したよ。",
+    "translation": "Presiden perusahaan sendiri yang bernegosiasi dengan perusahaan itu.",
+    "no": 7
+  },
+  {
+    "sentence": "地面に何か絵が描いてあるぞ。",
+    "translation": "Ada gambar yang digambar di tanah.",
+    "no": 7
+  },
+  {
+    "sentence": "一度の失敗であきらめてはいけないよ。",
+    "translation": "Jangan menyerah hanya karena satu kegagalan.",
+    "no": 7
+  },
+  {
+    "sentence": "彼女は昨日から私のことを避けているようなんだ。",
+    "translation": "Sepertinya dia menghindari saya sejak kemarin.",
+    "no": 7
+  },
+  {
+    "sentence": "窓を開けてください。",
+    "translation": "Tolong buka jendela.",
+    "no": 7
+  },
+  {
+    "sentence": "彼女はとても素直で可愛いですね。",
+    "translation": "Dia sangat jujur dan imut, ya.",
+    "no": 7
+  },
+  {
+    "sentence": "肉が焼けました。",
+    "translation": "Daging sudah matang.",
+    "no": 7
+  },
+  {
+    "sentence": "冗談は止めてください。",
+    "translation": "Tolong berhenti bercanda.",
+    "no": 7
+  },
+  {
+    "sentence": "出発まで時間の余裕があります。",
+    "translation": "Masih ada waktu sebelum keberangkatan.",
+    "no": 7
+  },
+  {
+    "sentence": "仕事が終わったら連絡します。",
+    "translation": "Saya akan menghubungi setelah pekerjaan selesai.",
+    "no": 7
+  },
+  {
+    "sentence": "彼は自分の人生を振り返ったわ。",
+    "translation": "Dia merenungkan hidupnya sendiri.",
+    "no": 7
+  },
+  {
+    "sentence": "的に向けて矢を放った。",
+    "translation": "Dia melepaskan panah ke arah target.",
+    "no": 7
+  },
+  {
+    "sentence": "ラジオから美しい音楽が流れています。",
+    "translation": "Musik yang indah mengalun dari radio.",
+    "no": 7
+  },
+  {
+    "sentence": "あなたは私にとって特別な人です。",
+    "translation": "Kamu adalah orang yang istimewa bagiku.",
+    "no": 7
+  },
+  {
+    "sentence": "あの連中は本当に面白い。",
+    "translation": "Mereka benar-benar lucu.",
+    "no": 7
+  },
+  {
+    "sentence": "彼は両手を握り締めたの。",
+    "translation": "Dia menggenggam kedua tangannya.",
+    "no": 7
+  },
+  {
+    "sentence": "この町は人口が増えた。",
+    "translation": "Populasi kota ini meningkat.",
+    "no": 7
+  },
+  {
+    "sentence": "アメリカで彼女と出会いました。",
+    "translation": "Aku bertemu dengannya di Amerika.",
+    "no": 7
+  },
+  {
+    "sentence": "少年たちがサッカーをしている。",
+    "translation": "Anak-anak laki-laki sedang bermain sepak bola.",
+    "no": 7
+  },
+  {
+    "sentence": "彼女は同じ間違いを繰り返した。",
+    "translation": "Dia mengulangi kesalahan yang sama.",
+    "no": 7
+  },
+  {
+    "sentence": "彼のわがままには我慢できません。",
+    "translation": "Aku tidak tahan dengan sifat egoisnya.",
+    "no": 7
+  },
+  {
+    "sentence": "我々の決意は固いです。",
+    "translation": "Tekad kami kuat.",
+    "no": 7
+  },
+  {
+    "sentence": "冷えて指の感覚がない。",
+    "translation": "Aku merasa dingin dan jariku mati rasa.",
+    "no": 7
+  },
+  {
+    "sentence": "このホールは音がよく響きます。",
+    "translation": "Suara di aula ini sangat bergema dengan baik.",
+    "no": 7
+  },
+  {
+    "sentence": "何とかお願いします。",
+    "translation": "Tolong bantu aku dengan cara apa pun.",
+    "no": 7
+  },
+  {
+    "sentence": "山の空気はきれいだ。",
+    "translation": "Udara di gunung sangat bersih.",
+    "no": 7
+  },
+  {
+    "sentence": "あなたの成績が下がったのは当たり前です。",
+    "translation": "Wajar saja nilai kamu turun.",
+    "no": 7
+  },
+  {
+    "sentence": "今日の予定を教えてください。",
+    "translation": "Tolong beri tahu jadwal hari ini.",
+    "no": 7
+  },
+  {
+    "sentence": "その試合は残念な結果になった。",
+    "translation": "Pertandingan itu berakhir dengan hasil yang mengecewakan.",
+    "no": 7
+  },
+  {
+    "sentence": "警官は怪しい男の後を追ったよ。",
+    "translation": "Polisi mengejar pria yang mencurigakan itu.",
+    "no": 7
+  },
+  {
+    "sentence": "ハインさんは綺麗な人です。",
+    "translation": "Tuan Hein adalah orang yang cantik.",
+    "no": 7
+  },
+  {
+    "sentence": "お客様がいらっしゃいました。",
+    "translation": "Ada tamu yang datang.",
+    "no": 7
+  },
+  {
+    "sentence": "彼はまだ若いです。",
+    "translation": "Dia masih muda.",
+    "no": 7
+  },
+  {
+    "sentence": "どうしてもその訳を知りたい。",
+    "translation": "Aku benar-benar ingin tahu alasannya.",
+    "no": 7
+  },
+  {
+    "sentence": "それは良い考えです。",
+    "translation": "Itu ide yang bagus.",
+    "no": 7
+  },
+  {
+    "sentence": "それは過去の話だ。",
+    "translation": "Itu cerita masa lalu.",
+    "no": 7
+  },
+  {
+    "sentence": "後ろに人の気配を感じた。",
+    "translation": "Aku merasakan ada orang di belakang.",
+    "no": 7
+  },
+  {
+    "sentence": "それは本人に聞いてください。",
+    "translation": "Tolong tanyakan langsung pada yang bersangkutan.",
+    "no": 7
+  },
+  {
+    "sentence": "現実は予想より厳しかった。",
+    "translation": "Kenyataan lebih keras dari yang diperkirakan.",
+    "no": 7
+  },
+  {
+    "sentence": "このことを決して忘れないでください。",
+    "translation": "Jangan pernah lupakan hal ini.",
+    "no": 7
+  },
+  {
+    "sentence": "僕はいつかアフリカに行きたい。",
+    "translation": "Aku ingin pergi ke Afrika suatu hari nanti.",
+    "no": 7
+  },
+  {
+    "sentence": "床がぬれている。",
+    "translation": "Lantai basah.",
+    "no": 7
+  },
+  {
+    "sentence": "横の長さは1メートルです。",
+    "translation": "Panjang sampingnya adalah satu meter.",
+    "no": 7
+  },
+  {
+    "sentence": "昨日、会社を休みました。",
+    "translation": "Kemarin aku tidak masuk kerja.",
+    "no": 7
+  },
+  {
+    "sentence": "学生時代を懐かしく振り返ったんだ。",
+    "translation": "Aku mengenang masa-masa sekolah dengan rindu.",
+    "no": 7
+  },
+  {
+    "sentence": "わざわざ来てくれてありがとう。",
+    "translation": "Terima kasih sudah datang jauh-jauh.",
+    "no": 7
+  },
+  {
+    "sentence": "質問を良く読んでください。",
+    "translation": "Bacalah pertanyaannya dengan baik.",
+    "no": 7
+  },
+  {
+    "sentence": "私は歴史に興味があります。",
+    "translation": "Aku tertarik pada sejarah.",
+    "no": 7
+  },
+  {
+    "sentence": "彼らは長い距離を歩き続けたんだ。",
+    "translation": "Mereka terus berjalan jarak jauh.",
+    "no": 7
+  },
+  {
+    "sentence": "この本の内容を説明してください。",
+    "translation": "Tolong jelaskan isi buku ini.",
+    "no": 7
+  },
+  {
+    "sentence": "会議中、ついあくびをしてしまいました。",
+    "translation": "Saat rapat, aku tanpa sengaja menguap.",
+    "no": 7
+  },
+  {
+    "sentence": "月は地球のまわりを回っています。",
+    "translation": "Bulan mengelilingi bumi.",
+    "no": 7
+  },
+  {
+    "sentence": "ラーメン屋に沢山の人が並んでいます。",
+    "translation": "Banyak orang mengantri di warung ramen.",
+    "no": 7
+  },
+  {
+    "sentence": "やっと宿題を終えた。",
+    "translation": "Akhirnya aku menyelesaikan PR.",
+    "no": 7
+  },
+  {
+    "sentence": "あの男の態度にみんなあきれてたよ。",
+    "translation": "Semua orang heran dengan sikap pria itu.",
+    "no": 7
+  },
+  {
+    "sentence": "これはかなり金がかかった。",
+    "translation": "Ini menghabiskan cukup banyak uang.",
+    "no": 7
+  },
+  {
+    "sentence": "今夜は月がとてもきれいです。",
+    "translation": "Bulan sangat indah malam ini.",
+    "no": 8
+  },
+  {
+    "sentence": "昨夜、流れ星を見ました。",
+    "translation": "Tadi malam aku melihat bintang jatuh.",
+    "no": 8
+  },
+  {
+    "sentence": "すごいな、さすがだね。",
+    "translation": "Hebat, memang luar biasa.",
+    "no": 8
+  },
+  {
+    "sentence": "みんなで自然を守りましょう。",
+    "translation": "Mari kita semua menjaga alam.",
+    "no": 8
+  },
+  {
+    "sentence": "猫が窓から外を眺めているよ。",
+    "translation": "Kucing sedang melihat keluar dari jendela.",
+    "no": 8
+  },
+  {
+    "sentence": "こっちを向いてください。",
+    "translation": "Tolong hadapkan ke sini.",
+    "no": 8
+  },
+  {
+    "sentence": "彼は相変わらず忙しいですね。",
+    "translation": "Dia masih sibuk seperti biasa.",
+    "no": 8
+  },
+  {
+    "sentence": "私は普段はTシャツとジーンズを着ています。",
+    "translation": "Biasanya aku memakai kaos dan jeans.",
+    "no": 8
+  },
+  {
+    "sentence": "今日はどうも体の調子が悪い。",
+    "translation": "Hari ini aku merasa badan tidak enak.",
+    "no": 8
+  },
+  {
+    "sentence": "この荷物を一緒に運んでください。",
+    "translation": "Tolong bantu aku membawa barang ini.",
+    "no": 8
+  },
+  {
+    "sentence": "やっと仕事が終わりました。",
+    "translation": "Akhirnya aku selesai bekerja.",
+    "no": 8
+  },
+  {
+    "sentence": "その子は体が少し弱い。",
+    "translation": "Anak itu agak lemah badannya.",
+    "no": 8
+  },
+  {
+    "sentence": "どうせ間に合わないならゆっくり行こう。",
+    "translation": "Kalau memang tidak sempat, mari jalan pelan-pelan saja.",
+    "no": 8
+  },
+  {
+    "sentence": "子供の手を離さないでください。",
+    "translation": "Jangan lepaskan tangan anak-anak.",
+    "no": 8
+  },
+  {
+    "sentence": "彼の先祖は貴族だったそうだ。",
+    "translation": "Nenek moyangnya konon bangsawan.",
+    "no": 8
+  },
+  {
+    "sentence": "留学してから私の世界が広がった。",
+    "translation": "Setelah belajar di luar negeri, duniaku menjadi lebih luas.",
+    "no": 8
+  },
+  {
+    "sentence": "彼女は頬を赤く染めたわ。",
+    "translation": "Dia memerah pipinya.",
+    "no": 8
+  },
+  {
+    "sentence": "これは寂しい曲ですね。",
+    "translation": "Ini lagu yang sedih ya.",
+    "no": 8
+  },
+  {
+    "sentence": "この答えが正しいかどうか分かりません。",
+    "translation": "Aku tidak tahu apakah jawaban ini benar atau tidak.",
+    "no": 8
+  },
+  {
+    "sentence": "日本の生活はとても自由です。",
+    "translation": "Hidup di Jepang sangat bebas.",
+    "no": 8
+  },
+  {
+    "sentence": "運動した翌日は全身の筋肉が痛い。",
+    "translation": "Keesokan harinya setelah berolahraga, seluruh otot tubuh terasa sakit.",
+    "no": 8
+  },
+  {
+    "sentence": "彼らは武器を取り、立ち上がった。",
+    "translation": "Mereka mengambil senjata dan berdiri.",
+    "no": 8
+  },
+  {
+    "sentence": "人はそれぞれ考え方が違います。",
+    "translation": "Setiap orang memiliki cara berpikir yang berbeda.",
+    "no": 8
+  },
+  {
+    "sentence": "今夜は大いに語りましょう。",
+    "translation": "Malam ini mari kita berbicara banyak.",
+    "no": 8
+  },
+  {
+    "sentence": "そのいすを持ってきてください。",
+    "translation": "Tolong bawa kursi itu.",
+    "no": 8
+  },
+  {
+    "sentence": "息子は小学校からサッカーをやっています。",
+    "translation": "Anak laki-laki saya bermain sepak bola sejak SD.",
+    "no": 8
+  },
+  {
+    "sentence": "私の娘はアメリカにいます。",
+    "translation": "Putri saya berada di Amerika.",
+    "no": 8
+  },
+  {
+    "sentence": "彼は一気にビールを飲んだ。",
+    "translation": "Dia meminum bir sekaligus.",
+    "no": 8
+  },
+  {
+    "sentence": "母親は娘の髪をそっとなでたの。",
+    "translation": "Ibu dengan lembut menyentuh rambut putrinya.",
+    "no": 8
+  },
+  {
+    "sentence": "漢字は中国から伝わった。",
+    "translation": "Kanji berasal dari China.",
+    "no": 8
+  },
+  {
+    "sentence": "ボールが彼の頭に当たった。",
+    "translation": "Bola mengenai kepalanya.",
+    "no": 8
+  },
+  {
+    "sentence": "背中に痛みがあります。",
+    "translation": "Ada rasa sakit di punggung.",
+    "no": 8
+  },
+  {
+    "sentence": "彼は妙な動きをした。",
+    "translation": "Dia melakukan gerakan aneh.",
+    "no": 8
+  },
+  {
+    "sentence": "窓に男性の影が映っています。",
+    "translation": "Bayangan pria terlihat di jendela.",
+    "no": 8
+  },
+  {
+    "sentence": "死を恐れるのは自然なことです。",
+    "translation": "Takut akan kematian adalah hal yang wajar.",
+    "no": 8
+  },
+  {
+    "sentence": "彼女は多分家で寝ています。",
+    "translation": "Dia mungkin sedang tidur di rumah.",
+    "no": 8
+  },
+  {
+    "sentence": "このプロジェクトにはみんなの協力が必要です。",
+    "translation": "Proyek ini membutuhkan kerja sama semua orang.",
+    "no": 8
+  },
+  {
+    "sentence": "私は空を見上げたの。",
+    "translation": "Aku menatap ke langit.",
+    "no": 8
+  },
+  {
+    "sentence": "覚悟はできています。",
+    "translation": "Aku sudah siap.",
+    "no": 8
+  },
+  {
+    "sentence": "子供を連れてデパートに行った。",
+    "translation": "Aku pergi ke departemen store membawa anak.",
+    "no": 8
+  },
+  {
+    "sentence": "私は背が低いです。",
+    "translation": "Aku pendek.",
+    "no": 8
+  },
+  {
+    "sentence": "庭に木があります。",
+    "translation": "Ada pohon di taman.",
+    "no": 8
+  },
+  {
+    "sentence": "会社で面倒なことが起こったの。",
+    "translation": "Ada masalah yang merepotkan di perusahaan.",
+    "no": 8
+  },
+  {
+    "sentence": "犯人は闇に隠れた。",
+    "translation": "Pelaku bersembunyi dalam kegelapan.",
+    "no": 8
+  },
+  {
+    "sentence": "彼の家はとても広い。",
+    "translation": "Rumahnya sangat luas.",
+    "no": 8
+  },
+  {
+    "sentence": "彼に真実を告げました。",
+    "translation": "Aku memberitahunya kebenaran.",
+    "no": 8
+  },
+  {
+    "sentence": "彼は子供のおしりを叩いた。",
+    "translation": "Dia menampar pantat anak itu.",
+    "no": 8
+  },
+  {
+    "sentence": "あの人の顔には自信があふれているね。",
+    "translation": "Wajah orang itu penuh dengan rasa percaya diri.",
+    "no": 8
+  },
+  {
+    "sentence": "子供の時、切手を集めていました。",
+    "translation": "Waktu kecil, aku mengumpulkan perangko.",
+    "no": 8
+  },
+  {
+    "sentence": "犬がしっぽを振っている。",
+    "translation": "Anjing mengibaskan ekornya.",
+    "no": 8
+  },
+  {
+    "sentence": "余計なことを言ってはだめよ。",
+    "translation": "Jangan mengatakan hal yang tidak perlu.",
+    "no": 8
+  },
+  {
+    "sentence": "A「他にご注文は？」 B「コーヒーをお願いします。」",
+    "translation": "A: \"Ada pesanan lain?\" B: \"Kopi, tolong.",
+    "no": 8
+  },
+  {
+    "sentence": "彼女をデートに誘った。",
+    "translation": "Aku mengajaknya berkencan.",
+    "no": 8
+  },
+  {
+    "sentence": "彼女と4年ほど付き合っています。",
+    "translation": "Aku sudah berpacaran dengannya sekitar 4 tahun.",
+    "no": 8
+  },
+  {
+    "sentence": "私は隣の村から来ました。",
+    "translation": "Aku datang dari desa sebelah.",
+    "no": 8
+  },
+  {
+    "sentence": "彼は会社の重要な人物です。",
+    "translation": "Dia adalah orang penting di perusahaan.",
+    "no": 8
+  },
+  {
+    "sentence": "グラスの数が足りません。",
+    "translation": "Jumlah gelas tidak cukup.",
+    "no": 8
+  },
+  {
+    "sentence": "その道は車が多くて危ない。",
+    "translation": "Jalan itu berbahaya karena banyak mobil.",
+    "no": 8
+  },
+  {
+    "sentence": "あなたの事情はよく分かりました。",
+    "translation": "Aku mengerti keadaanmu dengan baik.",
+    "no": 8
+  },
+  {
+    "sentence": "あなたが本当に好きです。",
+    "translation": "Aku benar-benar menyukaimu.",
+    "no": 8
+  },
+  {
+    "sentence": "その噂は本当ですか。",
+    "translation": "Apakah gosip itu benar?",
+    "no": 8
+  },
+  {
+    "sentence": "私は彼のプロポーズを断った。",
+    "translation": "Aku menolak lamaran darinya.",
+    "no": 8
+  },
+  {
+    "sentence": "どうかお許しください。",
+    "translation": "Tolong maafkan aku.",
+    "no": 8
+  },
+  {
+    "sentence": "あの巨大な建物は博物館です。",
+    "translation": "Bangunan besar itu adalah museum.",
+    "no": 8
+  },
+  {
+    "sentence": "これまでで最高の結果が出たよ。",
+    "translation": "Ini adalah hasil terbaik sejauh ini.",
+    "no": 8
+  },
+  {
+    "sentence": "日本のお金は円です。",
+    "translation": "Uang Jepang adalah yen.",
+    "no": 8
+  },
+  {
+    "sentence": "この傷はすぐ良くなるでしょう。",
+    "translation": "Luka ini akan segera sembuh.",
+    "no": 8
+  },
+  {
+    "sentence": "彼は怒りを抑えていたの。",
+    "translation": "Dia menahan amarahnya.",
+    "no": 8
+  },
+  {
+    "sentence": "A「空港までどうやって行きますか。」 B「新宿からバスで行きます。」",
+    "translation": "A: \"Bagaimana cara pergi ke bandara?\" B: \"Dari Shinjuku naik bus.",
+    "no": 8
+  },
+  {
+    "sentence": "この薬には胃を守る効果がある。",
+    "translation": "Obat ini memiliki efek melindungi lambung.",
+    "no": 8
+  },
+  {
+    "sentence": "彼はポケットから財布を取り出したの。",
+    "translation": "Dia mengeluarkan dompet dari saku.",
+    "no": 8
+  },
+  {
+    "sentence": "黒のボールペンはありますか。",
+    "translation": "Apakah ada pulpen hitam?",
+    "no": 8
+  },
+  {
+    "sentence": "彼女は愛をこめて手紙を書いた。",
+    "translation": "Dia menulis surat dengan penuh cinta.",
+    "no": 8
+  },
+  {
+    "sentence": "彼に直接お願いしなさい。",
+    "translation": "Minta langsung padanya.",
+    "no": 8
+  },
+  {
+    "sentence": "沖にボートが浮かんでいます。",
+    "translation": "Perahu mengapung di laut lepas.",
+    "no": 8
+  },
+  {
+    "sentence": "彼はグループから抜けました。",
+    "translation": "Dia keluar dari grup.",
+    "no": 8
+  },
+  {
+    "sentence": "部屋が暗いです。",
+    "translation": "Ruangan gelap.",
+    "no": 8
+  },
+  {
+    "sentence": "大きく息を吸ってください。",
+    "translation": "Tarik napas dalam-dalam, tolong.",
+    "no": 8
+  },
+  {
+    "sentence": "彼は駄目な男だ。",
+    "translation": "Dia pria yang tidak berguna.",
+    "no": 8
+  },
+  {
+    "sentence": "昨日のテストの点は良くなかったです。",
+    "translation": "Nilai tes kemarin tidak bagus.",
+    "no": 8
+  },
+  {
+    "sentence": "明日は市民マラソンに参加します。",
+    "translation": "Besok aku akan ikut maraton warga.",
+    "no": 8
+  },
+  {
+    "sentence": "今日は山がはっきり見える。",
+    "translation": "Hari ini gunung terlihat jelas.",
+    "no": 8
+  },
+  {
+    "sentence": "パンダの絵を描きました。",
+    "translation": "Aku menggambar gambar panda.",
+    "no": 8
+  },
+  {
+    "sentence": "彼は人物を描くのがうまいな。",
+    "translation": "Dia pandai menggambar orang.",
+    "no": 8
+  },
+  {
+    "sentence": "彼の意見は無視されたよ。",
+    "translation": "Pendapatnya diabaikan.",
+    "no": 8
+  },
+  {
+    "sentence": "このクラスの生徒は30人です。",
+    "translation": "Ada 30 siswa di kelas ini.",
+    "no": 8
+  },
+  {
+    "sentence": "もっと詳しく説明してください。",
+    "translation": "Jelaskan lebih detail, tolong.",
+    "no": 8
+  },
+  {
+    "sentence": "この絵に触らないでください。",
+    "translation": "Jangan sentuh lukisan ini.",
+    "no": 8
+  },
+  {
+    "sentence": "これまでの私とは違うんです。",
+    "translation": "Aku berbeda dari diriku sebelumnya.",
+    "no": 8
+  },
+  {
+    "sentence": "トマトを半分に切ってください。",
+    "translation": "Potong tomat menjadi dua.",
+    "no": 8
+  },
+  {
+    "sentence": "このビルは大地震に耐えられるでしょうか。",
+    "translation": "Apakah gedung ini tahan gempa besar?",
+    "no": 8
+  },
+  {
+    "sentence": "彼女は自分の立場を分かっていない。",
+    "translation": "Dia tidak mengerti posisinya sendiri.",
+    "no": 8
+  },
+  {
+    "sentence": "私は石につまづいた。",
+    "translation": "Aku tersandung batu.",
+    "no": 8
+  },
+  {
+    "sentence": "いつも元気に挨拶しています。",
+    "translation": "Aku selalu menyapa dengan semangat.",
+    "no": 8
+  },
+  {
+    "sentence": "相談したいことがあります。",
+    "translation": "Aku punya sesuatu yang ingin didiskusikan.",
+    "no": 8
+  },
+  {
+    "sentence": "私は彼の意見を受け入れました。",
+    "translation": "Saya menerima pendapatnya.",
+    "no": 8
+  },
+  {
+    "sentence": "娘は今、バイオリンを練習しています。",
+    "translation": "Putriku sedang berlatih biola sekarang.",
+    "no": 8
+  },
+  {
+    "sentence": "無駄な買い物はしません。",
+    "translation": "Saya tidak melakukan pembelian yang sia-sia.",
+    "no": 8
+  },
+  {
+    "sentence": "彼は大きな荷物を抱えているわ。",
+    "translation": "Dia memikul barang bawaan yang besar.",
+    "no": 8
+  },
+  {
+    "sentence": "彼女は良い反応を示したわ。",
+    "translation": "Dia menunjukkan reaksi yang baik.",
+    "no": 8
+  },
+  {
+    "sentence": "田中さんは仕事で成功しました。",
+    "translation": "Pak Tanaka berhasil dalam pekerjaannya.",
+    "no": 9
+  },
+  {
+    "sentence": "祖母がうちの猫を抱いているわよ。",
+    "translation": "Nenek sedang memeluk kucing kami.",
+    "no": 9
+  },
+  {
+    "sentence": "この料理は味が薄い。",
+    "translation": "Masakan ini rasanya hambar.",
+    "no": 9
+  },
+  {
+    "sentence": "彼は素敵な男性です。",
+    "translation": "Dia pria yang baik.",
+    "no": 9
+  },
+  {
+    "sentence": "彼、友達の意見を否定した。",
+    "translation": "Dia menolak pendapat temannya.",
+    "no": 9
+  },
+  {
+    "sentence": "私からご連絡致します。",
+    "translation": "Saya akan menghubungi Anda.",
+    "no": 9
+  },
+  {
+    "sentence": "現在の気温は30度です。",
+    "translation": "Suhu saat ini adalah 30 derajat.",
+    "no": 9
+  },
+  {
+    "sentence": "彼女の瞳は喜びで輝いていますね。",
+    "translation": "Matanya bersinar dengan kebahagiaan, ya.",
+    "no": 9
+  },
+  {
+    "sentence": "昨日から熱があります。",
+    "translation": "Saya demam sejak kemarin.",
+    "no": 9
+  },
+  {
+    "sentence": "私たちの旅は始めはよかったんだ。",
+    "translation": "Perjalanan kami awalnya berjalan dengan baik.",
+    "no": 9
+  },
+  {
+    "sentence": "木村先生は時々厳しいです。",
+    "translation": "Guru Kimura kadang-kadang tegas.",
+    "no": 9
+  },
+  {
+    "sentence": "いい匂いがする。",
+    "translation": "Ada bau yang harum.",
+    "no": 9
+  },
+  {
+    "sentence": "この席、空いてますか。",
+    "translation": "Apakah kursi ini kosong?",
+    "no": 9
+  },
+  {
+    "sentence": "彼は家を売った。",
+    "translation": "Dia menjual rumah.",
+    "no": 9
+  },
+  {
+    "sentence": "ずっと日本で暮らしたいと思っています。",
+    "translation": "Saya ingin tinggal di Jepang terus-menerus.",
+    "no": 9
+  },
+  {
+    "sentence": "私はよく図書館を利用します。",
+    "translation": "Saya sering menggunakan perpustakaan.",
+    "no": 9
+  },
+  {
+    "sentence": "ふと昔の事を思い出したんだ。",
+    "translation": "Tiba-tiba saya teringat masa lalu.",
+    "no": 9
+  },
+  {
+    "sentence": "若い時に色々経験しておきます。",
+    "translation": "Saya akan mengalami berbagai hal saat masih muda.",
+    "no": 9
+  },
+  {
+    "sentence": "今年は変化の多い年でした。",
+    "translation": "Tahun ini adalah tahun yang penuh perubahan.",
+    "no": 9
+  },
+  {
+    "sentence": "その王子は国民に愛されている。",
+    "translation": "Pangeran itu dicintai oleh rakyatnya.",
+    "no": 9
+  },
+  {
+    "sentence": "彼は結果に満足したようです。",
+    "translation": "Dia tampaknya puas dengan hasilnya.",
+    "no": 9
+  },
+  {
+    "sentence": "彼は山道をどんどん進んで行ったの。",
+    "translation": "Dia terus maju di jalan gunung.",
+    "no": 9
+  },
+  {
+    "sentence": "彼女は命令に従わなかった。",
+    "translation": "Dia tidak mengikuti perintah.",
+    "no": 9
+  },
+  {
+    "sentence": "彼女の主な仕事は接客だよ。",
+    "translation": "Pekerjaan utamanya adalah melayani pelanggan.",
+    "no": 9
+  },
+  {
+    "sentence": "このケーキは美味しいね。",
+    "translation": "Kue ini enak, ya.",
+    "no": 9
+  },
+  {
+    "sentence": "友人から手紙をもらいました。",
+    "translation": "Saya menerima surat dari teman.",
+    "no": 9
+  },
+  {
+    "sentence": "彼女が僕の手を掴みました。",
+    "translation": "Dia menggenggam tanganku.",
+    "no": 9
+  },
+  {
+    "sentence": "私は他人に住所を教えたくない。",
+    "translation": "Saya tidak ingin memberi tahu alamat kepada orang lain.",
+    "no": 9
+  },
+  {
+    "sentence": "格好のいい青年に会ったよ。",
+    "translation": "Saya bertemu pemuda yang keren.",
+    "no": 9
+  },
+  {
+    "sentence": "驚くような光景が目に入った。",
+    "translation": "Pemandangan yang mengejutkan masuk ke mata saya.",
+    "no": 9
+  },
+  {
+    "sentence": "買い物をすっかり忘れていた。",
+    "translation": "Saya benar-benar lupa berbelanja.",
+    "no": 9
+  },
+  {
+    "sentence": "肉と魚とどちらが好きですか。",
+    "translation": "Mana yang kamu suka, daging atau ikan?",
+    "no": 9
+  },
+  {
+    "sentence": "親の愛はありがたい。",
+    "translation": "Kasih sayang orang tua sangat berharga.",
+    "no": 9
+  },
+  {
+    "sentence": "今はロボットが働く時代です。",
+    "translation": "Sekarang adalah zaman di mana robot bekerja.",
+    "no": 9
+  },
+  {
+    "sentence": "彼らは次の試合のために作戦を立てたのよ。",
+    "translation": "Mereka menyusun strategi untuk pertandingan berikutnya.",
+    "no": 9
+  },
+  {
+    "sentence": "もしかしたら来年転勤になるかもしれない。",
+    "translation": "Mungkin saya akan dipindahkan tahun depan.",
+    "no": 9
+  },
+  {
+    "sentence": "食べ過ぎておなかが苦しい。",
+    "translation": "Saya makan terlalu banyak sehingga perut terasa sakit.",
+    "no": 9
+  },
+  {
+    "sentence": "電気を点けると、明るくなります。",
+    "translation": "Jika menyalakan listrik, menjadi terang.",
+    "no": 9
+  },
+  {
+    "sentence": "この事故の原因は何ですか。",
+    "translation": "Apa penyebab kecelakaan ini?",
+    "no": 9
+  },
+  {
+    "sentence": "この廊下の右にトイレがあります。",
+    "translation": "Toilet ada di sebelah kanan lorong ini.",
+    "no": 9
+  },
+  {
+    "sentence": "そいつは 誰だい。",
+    "translation": "Siapa dia?",
+    "no": 9
+  },
+  {
+    "sentence": "その件でしたら、先ほど上司から許可を得ております。",
+    "translation": "Mengenai hal itu, saya baru saja mendapatkan izin dari atasan.",
+    "no": 9
+  },
+  {
+    "sentence": "大人の言うことを聞きなさい。",
+    "translation": "Dengarkan apa yang dikatakan orang dewasa.",
+    "no": 9
+  },
+  {
+    "sentence": "あの村の人々はとても親切です。",
+    "translation": "Orang-orang di desa itu sangat ramah.",
+    "no": 9
+  },
+  {
+    "sentence": "猫の頭を撫でてあげた。",
+    "translation": "Saya mengelus kepala kucing.",
+    "no": 9
+  },
+  {
+    "sentence": "ドアのところに傘を立てておきます。",
+    "translation": "Saya akan menaruh payung di dekat pintu.",
+    "no": 9
+  },
+  {
+    "sentence": "彼はたまに料理をします。",
+    "translation": "Dia kadang-kadang memasak.",
+    "no": 9
+  },
+  {
+    "sentence": "後ろから押すと危ないですよ。",
+    "translation": "Berbahaya jika mendorong dari belakang.",
+    "no": 9
+  },
+  {
+    "sentence": "彼女は平気な顔をしていた。",
+    "translation": "Dia tampak tenang.",
+    "no": 9
+  },
+  {
+    "sentence": "その映画はとても悲しかった。",
+    "translation": "Film itu sangat sedih.",
+    "no": 9
+  },
+  {
+    "sentence": "太陽が雲に隠れた。",
+    "translation": "Matahari tersembunyi di balik awan.",
+    "no": 9
+  },
+  {
+    "sentence": "A「日本語が上手ですね。」 B「いいえ、まだまだです。」",
+    "translation": "A: \"Bahasa Jepang Anda bagus.\" B: \"Tidak, masih jauh dari cukup.",
+    "no": 9
+  },
+  {
+    "sentence": "A「皆さん、今日はロボットについて話します。」",
+    "translation": "A: \"Teman-teman, hari ini kita akan membicarakan tentang robot.",
+    "no": 9
+  },
+  {
+    "sentence": "話を戻しましょう。",
+    "translation": "Mari kita kembali ke pembahasan.",
+    "no": 9
+  },
+  {
+    "sentence": "戦闘で多くの市民が傷付きました。",
+    "translation": "Banyak warga terluka dalam pertempuran.",
+    "no": 9
+  },
+  {
+    "sentence": "火を消して。",
+    "translation": "Matikan api.",
+    "no": 9
+  },
+  {
+    "sentence": "ろうそくの炎が部屋を照らしたんだ。",
+    "translation": "Api lilin menerangi ruangan.",
+    "no": 9
+  },
+  {
+    "sentence": "余りの恐怖に体が強張った。",
+    "translation": "Tubuh saya menjadi kaku karena ketakutan yang luar biasa.",
+    "no": 9
+  },
+  {
+    "sentence": "道に迷いました。",
+    "translation": "Saya tersesat.",
+    "no": 9
+  },
+  {
+    "sentence": "レポートはこれでよろしいですか。",
+    "translation": "Apakah laporan ini sudah cukup?",
+    "no": 9
+  },
+  {
+    "sentence": "この頃、お酒を飲む機会が増えました。",
+    "translation": "Akhir-akhir ini, kesempatan minum alkohol meningkat.",
+    "no": 9
+  },
+  {
+    "sentence": "昨夜恐ろしい夢を見た。",
+    "translation": "Tadi malam saya bermimpi yang menakutkan.",
+    "no": 9
+  },
+  {
+    "sentence": "友達にお金を借ります。",
+    "translation": "Saya meminjam uang dari teman.",
+    "no": 9
+  },
+  {
+    "sentence": "彼はメガネを外しました。",
+    "translation": "Dia melepas kacamata.",
+    "no": 9
+  },
+  {
+    "sentence": "彼はその地で残りの生涯を過ごしたんだ。",
+    "translation": "Dia menghabiskan sisa hidupnya di tempat itu.",
+    "no": 9
+  },
+  {
+    "sentence": "彼は走るのが速い。",
+    "translation": "Dia berlari cepat.",
+    "no": 9
+  },
+  {
+    "sentence": "ララちゃんは髪が短いです。",
+    "translation": "Lala-chan memiliki rambut pendek.",
+    "no": 9
+  },
+  {
+    "sentence": "新しい靴がとても気に入りました。",
+    "translation": "Saya sangat menyukai sepatu baru ini.",
+    "no": 9
+  },
+  {
+    "sentence": "改めてあなたのご意見を聞かせてください。",
+    "translation": "Tolong beri tahu saya pendapat Anda sekali lagi.",
+    "no": 9
+  },
+  {
+    "sentence": "この通りは車の音がうるさい。",
+    "translation": "Jalan ini bising karena suara mobil.",
+    "no": 9
+  },
+  {
+    "sentence": "ボールを友達の頭に当ててしまった。",
+    "translation": "Saya tidak sengaja memukul kepala teman dengan bola.",
+    "no": 9
+  },
+  {
+    "sentence": "プレゼントをきれいな紙で包みました。",
+    "translation": "Saya membungkus hadiah dengan kertas yang indah.",
+    "no": 9
+  },
+  {
+    "sentence": "私の町は東京の北に位置します。",
+    "translation": "Kota saya terletak di utara Tokyo.",
+    "no": 9
+  },
+  {
+    "sentence": "転んでひざを打ちました。",
+    "translation": "Saya jatuh dan membenturkan lutut.",
+    "no": 9
+  },
+  {
+    "sentence": "私は料理人を目指しています。",
+    "translation": "Saya bercita-cita menjadi koki.",
+    "no": 9
+  },
+  {
+    "sentence": "これは秘密です。",
+    "translation": "Ini rahasia.",
+    "no": 9
+  },
+  {
+    "sentence": "その屋敷には幽霊が出るという噂だ。",
+    "translation": "Ada desas-desus bahwa hantu muncul di rumah itu.",
+    "no": 9
+  },
+  {
+    "sentence": "もう我慢の限界です。",
+    "translation": "Saya sudah tidak tahan lagi.",
+    "no": 9
+  },
+  {
+    "sentence": "勝負はまだ始まったばかりよ。",
+    "translation": "Pertarungan baru saja dimulai.",
+    "no": 9
+  },
+  {
+    "sentence": "今夜は星がよく見えます。",
+    "translation": "Malam ini bintang terlihat dengan jelas.",
+    "no": 9
+  },
+  {
+    "sentence": "明らかに彼が悪い。",
+    "translation": "Jelas dia yang salah.",
+    "no": 9
+  },
+  {
+    "sentence": "彼は受験のことで悩んでいます。",
+    "translation": "Dia sedang bingung tentang ujian masuk.",
+    "no": 9
+  },
+  {
+    "sentence": "勉強に集中しなさい。",
+    "translation": "Fokuslah pada belajar.",
+    "no": 9
+  },
+  {
+    "sentence": "あなたは間違っている。",
+    "translation": "Kamu salah.",
+    "no": 9
+  },
+  {
+    "sentence": "会社の裏に公園があります。",
+    "translation": "Ada taman di belakang perusahaan.",
+    "no": 9
+  },
+  {
+    "sentence": "この料理は味が薄い。",
+    "translation": "Masakan ini rasanya hambar.",
+    "no": 9
+  },
+  {
+    "sentence": "彼が元気になるよう願っています。",
+    "translation": "Saya berharap dia segera sembuh.",
+    "no": 9
+  },
+  {
+    "sentence": "体がすっかり回復した。",
+    "translation": "Tubuh saya sudah pulih sepenuhnya.",
+    "no": 9
+  },
+  {
+    "sentence": "彼女は涙を流したんだ。",
+    "translation": "Dia menangis.",
+    "no": 9
+  },
+  {
+    "sentence": "あの生徒はじっと先生の話を聞いていたね。",
+    "translation": "Siswa itu diam-diam mendengarkan penjelasan guru.",
+    "no": 9
+  },
+  {
+    "sentence": "これは本物のダイヤモンドです。",
+    "translation": "Ini berlian asli.",
+    "no": 9
+  },
+  {
+    "sentence": "彼は正に英雄ね。",
+    "translation": "Dia benar-benar pahlawan.",
+    "no": 9
+  },
+  {
+    "sentence": "彼はやっと自信を取り戻した。",
+    "translation": "Dia akhirnya mendapatkan kembali kepercayaan dirinya.",
+    "no": 9
+  },
+  {
+    "sentence": "ご無事で何よりです。",
+    "translation": "Yang terpenting kamu selamat.",
+    "no": 9
+  },
+  {
+    "sentence": "健康な身体には健全な精神が宿る。",
+    "translation": "Jiwa yang sehat bersemayam dalam tubuh yang sehat.",
+    "no": 9
+  },
+  {
+    "sentence": "あの人たちは皆、同じ方向を見ている。",
+    "translation": "Semua orang itu melihat ke arah yang sama.",
+    "no": 9
+  },
+  {
+    "sentence": "毎日、この道を通ります。",
+    "translation": "Saya melewati jalan ini setiap hari.",
+    "no": 9
+  },
+  {
+    "sentence": "狭い空間に物がたくさん置いてあるね。",
+    "translation": "Banyak barang diletakkan di ruang yang sempit.",
+    "no": 9
+  },
+  {
+    "sentence": "10時に会社に着きます。",
+    "translation": "Saya akan tiba di kantor jam 10.",
+    "no": 9
+  },
+  {
+    "sentence": "20キロのダイエットは可能だと思いますか。",
+    "translation": "Apakah menurutmu diet 20 kilogram itu mungkin?",
+    "no": 9
+  },
+  {
+    "sentence": "新たな計画が進んでいます。",
+    "translation": "Rencana baru sedang berjalan.",
+    "no": 10
+  },
+  {
+    "sentence": "随分早く終わったね。",
+    "translation": "Sudah selesai sangat cepat.",
+    "no": 10
+  },
+  {
+    "sentence": "彼女は道を尋ねた。",
+    "translation": "Dia bertanya jalan.",
+    "no": 10
+  },
+  {
+    "sentence": "椅子に座ります。",
+    "translation": "Duduk di kursi.",
+    "no": 10
+  },
+  {
+    "sentence": "この城は４５０年前に建てられました。",
+    "translation": "Kastil ini dibangun 450 tahun yang lalu.",
+    "no": 10
+  },
+  {
+    "sentence": "明日は恐らく晴れるでしょう。",
+    "translation": "Besok kemungkinan besar akan cerah.",
+    "no": 10
+  },
+  {
+    "sentence": "お茶を入れましょうか。",
+    "translation": "Mau saya buatkan teh?",
+    "no": 10
+  },
+  {
+    "sentence": "雨が降っています。",
+    "translation": "Hujan sedang turun.",
+    "no": 10
+  },
+  {
+    "sentence": "その子はいやいや学校へ行ったの。",
+    "translation": "Anak itu pergi ke sekolah dengan enggan.",
+    "no": 10
+  },
+  {
+    "sentence": "彼は健康そのものです。",
+    "translation": "Dia sangat sehat.",
+    "no": 10
+  },
+  {
+    "sentence": "先生は教室にいます。",
+    "translation": "Guru ada di kelas.",
+    "no": 10
+  },
+  {
+    "sentence": "私は馬鹿だった。",
+    "translation": "Saya bodoh.",
+    "no": 10
+  },
+  {
+    "sentence": "遠慮しないで、何でも言ってください。",
+    "translation": "Jangan sungkan, silakan katakan apa saja.",
+    "no": 10
+  },
+  {
+    "sentence": "今日中に返答しなければまずい。",
+    "translation": "Harus memberi jawaban hari ini, kalau tidak buruk.",
+    "no": 10
+  },
+  {
+    "sentence": "ここの料理はまずい。",
+    "translation": "Masakan di sini tidak enak.",
+    "no": 10
+  },
+  {
+    "sentence": "せめてこれだけは約束してください。",
+    "translation": "Tolong janjikan setidaknya ini.",
+    "no": 10
+  },
+  {
+    "sentence": "姉が空港まで迎えに来てくれます。",
+    "translation": "Kakak perempuan saya akan menjemput di bandara.",
+    "no": 10
+  },
+  {
+    "sentence": "この仕事には少なくとも2週間必要でしょう。",
+    "translation": "Pekerjaan ini setidaknya memerlukan dua minggu.",
+    "no": 10
+  },
+  {
+    "sentence": "彼の魂は永遠に生き続けるでしょう。",
+    "translation": "Jiwanya akan hidup selamanya.",
+    "no": 10
+  },
+  {
+    "sentence": "教室を出る時は電気を消してください。",
+    "translation": "Matikan lampu saat keluar dari kelas.",
+    "no": 10
+  },
+  {
+    "sentence": "体の調子が良くないです。",
+    "translation": "Kondisi tubuh saya tidak baik.",
+    "no": 10
+  },
+  {
+    "sentence": "お互いを信頼することが大事です。",
+    "translation": "Penting untuk saling percaya.",
+    "no": 10
+  },
+  {
+    "sentence": "彼女は着物がよく似合います。",
+    "translation": "Dia sangat cocok mengenakan kimono.",
+    "no": 10
+  },
+  {
+    "sentence": "私は猫が大好きです。",
+    "translation": "Saya sangat suka kucing.",
+    "no": 10
+  },
+  {
+    "sentence": "犬のポスターが欲しいです。",
+    "translation": "Saya ingin poster anjing.",
+    "no": 10
+  },
+  {
+    "sentence": "先生にお礼の手紙を書きました。",
+    "translation": "Saya menulis surat terima kasih kepada guru.",
+    "no": 10
+  },
+  {
+    "sentence": "後悔しても、しょうがない。",
+    "translation": "Menyesal pun tidak ada gunanya.",
+    "no": 10
+  },
+  {
+    "sentence": "彼は本社で働くことを希望しています。",
+    "translation": "Dia berharap bekerja di kantor pusat.",
+    "no": 10
+  },
+  {
+    "sentence": "やっと熱が下がった。",
+    "translation": "Akhirnya demam saya turun.",
+    "no": 10
+  },
+  {
+    "sentence": "私は夏に京都を訪れました。",
+    "translation": "Saya mengunjungi Kyoto di musim panas.",
+    "no": 10
+  },
+  {
+    "sentence": "頑張ったので褒められました。",
+    "translation": "Karena berusaha keras, saya dipuji.",
+    "no": 10
+  },
+  {
+    "sentence": "僕と姉の性格は正反対です。",
+    "translation": "Kepribadian saya dan kakak perempuan saya sangat berbeda.",
+    "no": 10
+  },
+  {
+    "sentence": "これは家族の写真です。",
+    "translation": "Ini foto keluarga.",
+    "no": 10
+  },
+  {
+    "sentence": "この薬を必ず飲んでください。",
+    "translation": "Tolong minum obat ini dengan pasti.",
+    "no": 10
+  },
+  {
+    "sentence": "彼は高校時代からの友人です。",
+    "translation": "Dia teman sejak SMA.",
+    "no": 10
+  },
+  {
+    "sentence": "かつて私が学生だった頃のことです。",
+    "translation": "Ini tentang waktu saya masih pelajar dulu.",
+    "no": 10
+  },
+  {
+    "sentence": "彼女が将来、大統領になることは確実です。",
+    "translation": "Dia pasti akan menjadi presiden di masa depan.",
+    "no": 10
+  },
+  {
+    "sentence": "もはや彼の助けは必要じゃないの。",
+    "translation": "Saya tidak lagi membutuhkan bantuannya.",
+    "no": 10
+  },
+  {
+    "sentence": "台風が去って風が静まったね。",
+    "translation": "Topan sudah pergi dan angin menjadi tenang.",
+    "no": 10
+  },
+  {
+    "sentence": "計画を一部変更しましょう。",
+    "translation": "Mari ubah sebagian rencana.",
+    "no": 10
+  },
+  {
+    "sentence": "たまには遠くへ行きたいです。",
+    "translation": "Kadang-kadang saya ingin pergi jauh.",
+    "no": 10
+  },
+  {
+    "sentence": "笑い過ぎて腹が痛い。",
+    "translation": "Tertawa terlalu keras sampai perut sakit.",
+    "no": 10
+  },
+  {
+    "sentence": "階段はあそこです。",
+    "translation": "Tangga ada di sana.",
+    "no": 10
+  },
+  {
+    "sentence": "その質問の適当な答えが見つかりません。",
+    "translation": "Tidak bisa menemukan jawaban yang tepat untuk pertanyaan itu.",
+    "no": 10
+  },
+  {
+    "sentence": "舌を出してください。",
+    "translation": "Tolong keluarkan lidahmu.",
+    "no": 10
+  },
+  {
+    "sentence": "私の予想が当たった。",
+    "translation": "Perkiraan saya benar.",
+    "no": 10
+  },
+  {
+    "sentence": "観客は興奮していたよ。",
+    "translation": "Penonton sangat bersemangat.",
+    "no": 10
+  },
+  {
+    "sentence": "彼は軍事に関わる仕事を続けてきたんだ。",
+    "translation": "Dia terus bekerja di bidang militer.",
+    "no": 10
+  },
+  {
+    "sentence": "白は雪の色です。",
+    "translation": "Putih adalah warna salju.",
+    "no": 10
+  },
+  {
+    "sentence": "早く授業を進めましょう。",
+    "translation": "Mari kita lanjutkan pelajaran dengan cepat.",
+    "no": 10
+  },
+  {
+    "sentence": "彼は真剣に話を聞いていました。",
+    "translation": "Dia mendengarkan dengan serius.",
+    "no": 10
+  },
+  {
+    "sentence": "締め切りが迫っています。",
+    "translation": "Tenggat waktu sudah dekat.",
+    "no": 10
+  },
+  {
+    "sentence": "仕事がほぼ終わりました。",
+    "translation": "Pekerjaan hampir selesai.",
+    "no": 10
+  },
+  {
+    "sentence": "値段はちょうど3万円です。",
+    "translation": "Harganya tepat 30.000 yen.",
+    "no": 10
+  },
+  {
+    "sentence": "彼の言葉が本当かは疑問です。",
+    "translation": "Saya ragu apakah kata-katanya benar.",
+    "no": 10
+  },
+  {
+    "sentence": "指示されたとおりに進んでください。",
+    "translation": "Silakan lanjutkan sesuai petunjuk.",
+    "no": 10
+  },
+  {
+    "sentence": "風で木が揺れています。",
+    "translation": "Pohon bergoyang karena angin.",
+    "no": 10
+  },
+  {
+    "sentence": "1ポンドは454グラムに相当します。",
+    "translation": "1 pon setara dengan 454 gram.",
+    "no": 10
+  },
+  {
+    "sentence": "家で休むのに楽な椅子が欲しいです。",
+    "translation": "Saya ingin kursi yang nyaman untuk istirahat di rumah.",
+    "no": 10
+  },
+  {
+    "sentence": "待ち合わせは2時だと勘違いしていました。",
+    "translation": "Saya salah paham bahwa janji bertemu jam 2.",
+    "no": 10
+  },
+  {
+    "sentence": "地震のあとは津波に警戒してください。",
+    "translation": "Setelah gempa, harap waspada terhadap tsunami.",
+    "no": 10
+  },
+  {
+    "sentence": "レポートを書いたら、確かめてください。",
+    "translation": "Setelah menulis laporan, harap periksa kembali.",
+    "no": 10
+  },
+  {
+    "sentence": "今晩は月が明るく見えます。",
+    "translation": "Bulan terlihat terang malam ini.",
+    "no": 10
+  },
+  {
+    "sentence": "なぜあなたは私を疑うのですか。",
+    "translation": "Mengapa kamu meragukan saya?",
+    "no": 10
+  },
+  {
+    "sentence": "母と電話で話しました。",
+    "translation": "Saya berbicara dengan ibu melalui telepon.",
+    "no": 10
+  },
+  {
+    "sentence": "庭の木、大きく成長したわね。",
+    "translation": "Pohon di taman tumbuh sangat besar.",
+    "no": 10
+  },
+  {
+    "sentence": "鋭い刃物で指を怪我した。",
+    "translation": "Saya terluka di jari oleh pisau tajam.",
+    "no": 10
+  },
+  {
+    "sentence": "証拠を見つけるまで逮捕はできません。",
+    "translation": "Tidak bisa menangkap sampai bukti ditemukan.",
+    "no": 10
+  },
+  {
+    "sentence": "先生に友達を紹介します。",
+    "translation": "Saya akan memperkenalkan teman kepada guru.",
+    "no": 10
+  },
+  {
+    "sentence": "彼は実際にはあまり背が高くない。",
+    "translation": "Sebenarnya dia tidak terlalu tinggi.",
+    "no": 10
+  },
+  {
+    "sentence": "私は母に何でも相談しています。",
+    "translation": "Saya berkonsultasi apa saja dengan ibu.",
+    "no": 10
+  },
+  {
+    "sentence": "作業するにはもっと広いスペースが必要だ。",
+    "translation": "Untuk bekerja, saya butuh ruang yang lebih luas.",
+    "no": 10
+  },
+  {
+    "sentence": "これは重要な書類です。",
+    "translation": "Ini adalah dokumen penting.",
+    "no": 10
+  },
+  {
+    "sentence": "これはアパートの鍵です。",
+    "translation": "Ini adalah kunci apartemen.",
+    "no": 10
+  },
+  {
+    "sentence": "衝撃のニュースが飛び込んできた。",
+    "translation": "Berita mengejutkan datang tiba-tiba.",
+    "no": 10
+  },
+  {
+    "sentence": "友達をトラブルに巻き込んでしまった。",
+    "translation": "Saya membuat teman saya terlibat masalah.",
+    "no": 10
+  },
+  {
+    "sentence": "彼は握手をしようと手を差し出したの。",
+    "translation": "Dia mengulurkan tangan untuk berjabat tangan.",
+    "no": 10
+  },
+  {
+    "sentence": "怪我人は軍の病院に運ばれたよ。",
+    "translation": "Korban luka dibawa ke rumah sakit militer.",
+    "no": 10
+  },
+  {
+    "sentence": "夕方そちらに着きます。",
+    "translation": "Saya akan sampai di sana sore ini.",
+    "no": 10
+  },
+  {
+    "sentence": "試合に負けてとても悔しい。",
+    "translation": "Saya sangat kecewa kalah dalam pertandingan.",
+    "no": 10
+  },
+  {
+    "sentence": "ワインのコルクを抜きました。",
+    "translation": "Saya membuka gabus anggur.",
+    "no": 10
+  },
+  {
+    "sentence": "自然の破壊が進んでいるのよ。",
+    "translation": "Kerusakan alam semakin parah.",
+    "no": 10
+  },
+  {
+    "sentence": "運命には逆らえないよ。",
+    "translation": "Takdir tidak bisa dilawan.",
+    "no": 10
+  },
+  {
+    "sentence": "京都を案内します。",
+    "translation": "Saya akan menemanimu berkeliling Kyoto.",
+    "no": 10
+  },
+  {
+    "sentence": "もっと努力しよう。",
+    "translation": "Mari kita berusaha lebih keras.",
+    "no": 10
+  },
+  {
+    "sentence": "いずれまたお会いしましょう。",
+    "translation": "Kita akan bertemu lagi suatu saat nanti.",
+    "no": 10
+  },
+  {
+    "sentence": "社長に一言お願いしたの。",
+    "translation": "Saya meminta satu kata dari presiden.",
+    "no": 10
+  },
+  {
+    "sentence": "彼はついに弁護士の資格を取ったよ。",
+    "translation": "Dia akhirnya mendapatkan lisensi pengacara.",
+    "no": 10
+  },
+  {
+    "sentence": "祖母は心臓が悪いんだ。",
+    "translation": "Nenek saya sakit jantung.",
+    "no": 10
+  },
+  {
+    "sentence": "彼の家に荷物を送りました。",
+    "translation": "Saya mengirim barang ke rumahnya.",
+    "no": 10
+  },
+  {
+    "sentence": "髪がだいぶ伸びたね。",
+    "translation": "Rambutmu sudah cukup panjang.",
+    "no": 10
+  },
+  {
+    "sentence": "両親に彼女を紹介した。",
+    "translation": "Saya memperkenalkan pacar kepada orang tua.",
+    "no": 10
+  },
+  {
+    "sentence": "この店のスパゲッティは量が多いです。",
+    "translation": "Spaghetti di toko ini porsi banyak.",
+    "no": 10
+  },
+  {
+    "sentence": "私が払いましょう。",
+    "translation": "Saya yang akan membayar.",
+    "no": 10
+  },
+  {
+    "sentence": "もうここには二度と来ません。",
+    "translation": "Saya tidak akan datang ke sini lagi.",
+    "no": 10
+  },
+  {
+    "sentence": "辺りを見回したの。",
+    "translation": "Saya melihat sekeliling.",
+    "no": 10
+  },
+  {
+    "sentence": "運動会は9時開始です。",
+    "translation": "Acara olahraga mulai jam 9.",
+    "no": 10
+  },
+  {
+    "sentence": "人質が解放されてよかった。",
+    "translation": "Sandera telah dibebaskan, itu bagus.",
+    "no": 10
+  },
+  {
+    "sentence": "あの夫婦は仲良く暮らしているよ。",
+    "translation": "Pasangan itu hidup rukun.",
+    "no": 10
+  },
+  {
+    "sentence": "彼は獣のような目をしていたな。",
+    "translation": "Dia memiliki mata seperti binatang.",
+    "no": 10
+  },
+  {
+    "sentence": "シャツのボタンが取れた。",
+    "translation": "Kancing baju terlepas.",
+    "no": 11
+  },
+  {
+    "sentence": "これは日本一古い建物です。",
+    "translation": "Ini adalah bangunan tertua di Jepang.",
+    "no": 11
+  },
+  {
+    "sentence": "彼女はプレッシャーから解放されて本来の自分に戻ったな。",
+    "translation": "Dia terbebas dari tekanan dan kembali menjadi dirinya yang sebenarnya.",
+    "no": 11
+  },
+  {
+    "sentence": "この荷物は丁寧に扱ってください。",
+    "translation": "Tolong perlakukan barang ini dengan hati-hati.",
+    "no": 11
+  },
+  {
+    "sentence": "彼は真面目な人です。",
+    "translation": "Dia adalah orang yang serius.",
+    "no": 11
+  },
+  {
+    "sentence": "私は彼から大きな影響を受けました。",
+    "translation": "Saya mendapat pengaruh besar dari dia.",
+    "no": 11
+  },
+  {
+    "sentence": "彼の顔は真っ赤でした。",
+    "translation": "Wajahnya sangat merah.",
+    "no": 11
+  },
+  {
+    "sentence": "新しい星が発見された。",
+    "translation": "Bintang baru telah ditemukan.",
+    "no": 11
+  },
+  {
+    "sentence": "父親には一家を支える責任がある。",
+    "translation": "Ayah memiliki tanggung jawab untuk mendukung keluarga.",
+    "no": 11
+  },
+  {
+    "sentence": "私には仕事が第一です。",
+    "translation": "Bagi saya, pekerjaan adalah yang utama.",
+    "no": 11
+  },
+  {
+    "sentence": "お父さんは会社員です。",
+    "translation": "Ayah adalah seorang karyawan perusahaan.",
+    "no": 11
+  },
+  {
+    "sentence": "彼のお母さんは美人です。",
+    "translation": "Ibu dia adalah orang yang cantik.",
+    "no": 11
+  },
+  {
+    "sentence": "あなたのお兄さんは何歳？",
+    "translation": "Berapa umur kakak laki-lakimu?",
+    "no": 11
+  },
+  {
+    "sentence": "昨日、あなたのお姉さんに会ったよ。",
+    "translation": "Kemarin saya bertemu dengan kakak perempuanmu.",
+    "no": 11
+  },
+  {
+    "sentence": "昨日おじさんに会いました。",
+    "translation": "Kemarin saya bertemu paman.",
+    "no": 11
+  },
+  {
+    "sentence": "おばさん一家が遊びに来ました。",
+    "translation": "Keluarga bibi datang berkunjung.",
+    "no": 11
+  },
+  {
+    "sentence": "いとこと私は同じ年です。",
+    "translation": "Sepupu dan saya seumuran.",
+    "no": 11
+  },
+  {
+    "sentence": "新しい机を買ってもらいました。",
+    "translation": "Saya diberi meja baru.",
+    "no": 11
+  },
+  {
+    "sentence": "彼と私はいとこ同士です。",
+    "translation": "Dia dan saya adalah sepupu.",
+    "no": 11
+  },
+  {
+    "sentence": "今朝彼女は学校に遅れました。",
+    "translation": "Pagi ini dia terlambat ke sekolah.",
+    "no": 11
+  },
+  {
+    "sentence": "弟が車を買った。",
+    "translation": "Adik laki-laki membeli mobil.",
+    "no": 11
+  },
+  {
+    "sentence": "彼は道路に飛び出したの。",
+    "translation": "Dia melompat ke jalan.",
+    "no": 11
+  },
+  {
+    "sentence": "事態は深刻です。",
+    "translation": "Situasinya serius.",
+    "no": 11
+  },
+  {
+    "sentence": "母はいつも私の味方です。",
+    "translation": "Ibu selalu mendukung saya.",
+    "no": 11
+  },
+  {
+    "sentence": "話の展開についていけない。",
+    "translation": "Saya tidak bisa mengikuti perkembangan cerita.",
+    "no": 11
+  },
+  {
+    "sentence": "彼女は郊外の学園に通っているね。",
+    "translation": "Dia bersekolah di akademi di pinggiran kota.",
+    "no": 11
+  },
+  {
+    "sentence": "その男の行動は怪しかったわ。",
+    "translation": "Tindakan pria itu mencurigakan.",
+    "no": 11
+  },
+  {
+    "sentence": "新しい型のカメラを買いました。",
+    "translation": "Saya membeli kamera model baru.",
+    "no": 11
+  },
+  {
+    "sentence": "川の上流は流れが速いよ。",
+    "translation": "Aliran sungai di hulu sangat deras.",
+    "no": 11
+  },
+  {
+    "sentence": "仕事の残りは家でします。",
+    "translation": "Sisa pekerjaan akan saya kerjakan di rumah.",
+    "no": 11
+  },
+  {
+    "sentence": "街で偶然友人に会いました。",
+    "translation": "Saya bertemu teman secara kebetulan di kota.",
+    "no": 11
+  },
+  {
+    "sentence": "新しいソファーはとても柔らかいです。",
+    "translation": "Sofa baru sangat lembut.",
+    "no": 11
+  },
+  {
+    "sentence": "その生地は絹のような感触だ。",
+    "translation": "Kain itu terasa seperti sutra.",
+    "no": 11
+  },
+  {
+    "sentence": "このクラスの女子は18人です。",
+    "translation": "Ada 18 siswi di kelas ini.",
+    "no": 11
+  },
+  {
+    "sentence": "今日は宿題は無しです。",
+    "translation": "Hari ini tidak ada PR.",
+    "no": 11
+  },
+  {
+    "sentence": "テレビのリモコンが壊れてしまいました。",
+    "translation": "Remote TV rusak.",
+    "no": 11
+  },
+  {
+    "sentence": "私は料理が苦手です。",
+    "translation": "Saya tidak pandai memasak.",
+    "no": 11
+  },
+  {
+    "sentence": "彼はそのソフトウェアを試したの。",
+    "translation": "Dia mencoba perangkat lunak itu.",
+    "no": 11
+  },
+  {
+    "sentence": "彼は立派な人です。",
+    "translation": "Dia adalah orang yang terhormat.",
+    "no": 11
+  },
+  {
+    "sentence": "車のハンドルを回します。",
+    "translation": "Saya memutar setir mobil.",
+    "no": 11
+  },
+  {
+    "sentence": "今日はなぜか体がだるい。",
+    "translation": "Entah kenapa tubuh terasa lemas hari ini.",
+    "no": 11
+  },
+  {
+    "sentence": "あなたの意見が聞きたいです。",
+    "translation": "Saya ingin mendengar pendapatmu.",
+    "no": 11
+  },
+  {
+    "sentence": "昨日大量のゴミが出たの。",
+    "translation": "Kemarin banyak sampah yang keluar.",
+    "no": 11
+  },
+  {
+    "sentence": "そのアイデアは彼の提案です。",
+    "translation": "Ide itu adalah usulannya.",
+    "no": 11
+  },
+  {
+    "sentence": "彼は失敗の責任を取って、会社を辞めた。",
+    "translation": "Dia bertanggung jawab atas kegagalan dan keluar dari perusahaan.",
+    "no": 11
+  },
+  {
+    "sentence": "彼は怒りを抑えていたの。",
+    "translation": "Dia menahan amarahnya.",
+    "no": 11
+  },
+  {
+    "sentence": "全力で走れ。",
+    "translation": "Lari dengan sekuat tenaga.",
+    "no": 11
+  },
+  {
+    "sentence": "ジョギングの前に体を伸ばしましょう。",
+    "translation": "Mari kita regangkan tubuh sebelum joging.",
+    "no": 11
+  },
+  {
+    "sentence": "その店は若い客が多いです。",
+    "translation": "Toko itu banyak dikunjungi pelanggan muda.",
+    "no": 11
+  },
+  {
+    "sentence": "スウェーデンやオランダは王国です。",
+    "translation": "Swedia dan Belanda adalah kerajaan.",
+    "no": 11
+  },
+  {
+    "sentence": "犯人は警察に抵抗したの。",
+    "translation": "Pelaku melawan polisi.",
+    "no": 11
+  },
+  {
+    "sentence": "地震の後、町は大混乱だったよ。",
+    "translation": "Setelah gempa bumi, kota dalam kekacauan besar.",
+    "no": 11
+  },
+  {
+    "sentence": "この条件では厳し過ぎます。",
+    "translation": "Kondisi ini terlalu berat.",
+    "no": 11
+  },
+  {
+    "sentence": "人に迷惑をかけてはいけません。",
+    "translation": "Jangan menyusahkan orang lain.",
+    "no": 11
+  },
+  {
+    "sentence": "例を見てください。",
+    "translation": "Silakan lihat contohnya.",
+    "no": 11
+  },
+  {
+    "sentence": "人に頼らないで、自分でやってごらん。",
+    "translation": "Jangan bergantung pada orang lain, coba lakukan sendiri.",
+    "no": 11
+  },
+  {
+    "sentence": "彼のフランス語は完璧です。",
+    "translation": "Bahasa Prancisnya sempurna.",
+    "no": 11
+  },
+  {
+    "sentence": "日々の努力が大切です。",
+    "translation": "Usaha sehari-hari itu penting.",
+    "no": 11
+  },
+  {
+    "sentence": "彼の行為はみんなの誤解を招いたわ。",
+    "translation": "Tindakannya menimbulkan kesalahpahaman di antara semua orang.",
+    "no": 11
+  },
+  {
+    "sentence": "ともかく一度考え直しましょう。",
+    "translation": "Bagaimanapun, mari kita pikirkan lagi sekali.",
+    "no": 11
+  },
+  {
+    "sentence": "日本では人口が減っています。",
+    "translation": "Populasi di Jepang sedang menurun.",
+    "no": 11
+  },
+  {
+    "sentence": "父はラッシュアワーを嫌っています。",
+    "translation": "Ayah tidak suka jam sibuk.",
+    "no": 11
+  },
+  {
+    "sentence": "街で知り合いを見かけたよ。",
+    "translation": "Saya melihat kenalan di kota.",
+    "no": 11
+  },
+  {
+    "sentence": "緊張するとまともな思考ができない。",
+    "translation": "Saat gugup, tidak bisa berpikir dengan baik.",
+    "no": 11
+  },
+  {
+    "sentence": "トラブルがやっと解決した。",
+    "translation": "Masalah akhirnya terpecahkan.",
+    "no": 11
+  },
+  {
+    "sentence": "冷静に話し合いましょう。",
+    "translation": "Mari kita berdiskusi dengan tenang.",
+    "no": 11
+  },
+  {
+    "sentence": "天から恵みの雨が降ったね。",
+    "translation": "Hujan berkah turun dari langit.",
+    "no": 11
+  },
+  {
+    "sentence": "いつの間にか夜が明けていたね。",
+    "translation": "Tanpa sadar malam sudah berganti pagi.",
+    "no": 11
+  },
+  {
+    "sentence": "私がそれを直しました。",
+    "translation": "Saya yang memperbaikinya.",
+    "no": 11
+  },
+  {
+    "sentence": "彼は常に姿勢がいい。",
+    "translation": "Dia selalu memiliki sikap yang baik.",
+    "no": 11
+  },
+  {
+    "sentence": "あいつが犯人です。",
+    "translation": "Dia adalah pelakunya.",
+    "no": 11
+  },
+  {
+    "sentence": "休む時は許可を貰ってください。",
+    "translation": "Mohon minta izin saat ingin beristirahat.",
+    "no": 11
+  },
+  {
+    "sentence": "教科書を閉じてください。",
+    "translation": "Tolong tutup buku pelajarannya.",
+    "no": 11
+  },
+  {
+    "sentence": "荷物はここに重ねてください。",
+    "translation": "Tolong tumpuk barang bawaan di sini.",
+    "no": 11
+  },
+  {
+    "sentence": "彼女は指が細いですね。",
+    "translation": "Jari-jarinya sangat ramping, ya.",
+    "no": 11
+  },
+  {
+    "sentence": "明日、久しぶりに友達に会います。",
+    "translation": "Besok saya akan bertemu teman setelah lama tidak bertemu.",
+    "no": 11
+  },
+  {
+    "sentence": "彼女の大きな帽子はとても目立つ。",
+    "translation": "Topi besarnya sangat mencolok.",
+    "no": 11
+  },
+  {
+    "sentence": "何時に日本に到着しますか。",
+    "translation": "Jam berapa tiba di Jepang?",
+    "no": 11
+  },
+  {
+    "sentence": "ドアを押さえてください。",
+    "translation": "Tolong tahan pintunya.",
+    "no": 11
+  },
+  {
+    "sentence": "私はジムに通っています。",
+    "translation": "Saya pergi ke gym.",
+    "no": 11
+  },
+  {
+    "sentence": "彼は思わず友人を殴ったの。",
+    "translation": "Dia tanpa sadar memukul temannya.",
+    "no": 11
+  },
+  {
+    "sentence": "電車の中では新聞を広げないで。",
+    "translation": "Jangan membuka koran di dalam kereta.",
+    "no": 11
+  },
+  {
+    "sentence": "娘が私の手を引っ張った。",
+    "translation": "Putri saya menarik tangan saya.",
+    "no": 11
+  },
+  {
+    "sentence": "いつまでもあなたを忘れません。",
+    "translation": "Saya tidak akan melupakanmu selamanya.",
+    "no": 11
+  },
+  {
+    "sentence": "授業に間に合いました。",
+    "translation": "Saya tiba tepat waktu untuk pelajaran.",
+    "no": 11
+  },
+  {
+    "sentence": "課長から有給の了解を得た。",
+    "translation": "Saya mendapat izin cuti dari kepala bagian.",
+    "no": 11
+  },
+  {
+    "sentence": "今日は私が皿を洗う番ですね。",
+    "translation": "Hari ini giliran saya mencuci piring, ya.",
+    "no": 11
+  },
+  {
+    "sentence": "2003年にイラクで戦争があった。",
+    "translation": "Pada tahun 2003 terjadi perang di Irak.",
+    "no": 11
+  },
+  {
+    "sentence": "この部屋は寒いです。",
+    "translation": "Ruangan ini dingin.",
+    "no": 11
+  },
+  {
+    "sentence": "彼は見事なジャンプを見せたね。",
+    "translation": "Dia menunjukkan lompatan yang hebat.",
+    "no": 11
+  },
+  {
+    "sentence": "お酒を飲み過ぎて、気持ちが悪いです。",
+    "translation": "Saya minum terlalu banyak alkohol, merasa tidak enak badan.",
+    "no": 11
+  },
+  {
+    "sentence": "彼は恋人を失った。",
+    "translation": "Dia kehilangan kekasihnya.",
+    "no": 11
+  },
+  {
+    "sentence": "私は一切その問題とは関係がありません。",
+    "translation": "Saya sama sekali tidak terkait dengan masalah itu.",
+    "no": 11
+  },
+  {
+    "sentence": "靴下に穴が開いている。",
+    "translation": "Kaos kaki berlubang.",
+    "no": 11
+  },
+  {
+    "sentence": "彼に協力を依頼しました。",
+    "translation": "Saya meminta kerjasama darinya.",
+    "no": 11
+  },
+  {
+    "sentence": "かばんの中身を見せてください。",
+    "translation": "Tolong tunjukkan isi tasnya.",
+    "no": 11
+  },
+  {
+    "sentence": "このソフトには多少問題がある。",
+    "translation": "Software ini memiliki beberapa masalah.",
+    "no": 11
+  },
+  {
+    "sentence": "真実は一つです。",
+    "translation": "Kebenaran hanya satu.",
+    "no": 11
+  },
+  {
+    "sentence": "彼女は見た目をすごく気にします。",
+    "translation": "Dia sangat memperhatikan penampilannya.",
+    "no": 11
+  },
+  {
+    "sentence": "この文には間違いがあります。",
+    "translation": "Ada kesalahan dalam kalimat ini.",
+    "no": 11
+  },
+  {
+    "sentence": "ここの海はとても青い。",
+    "translation": "Laut di sini sangat biru.",
+    "no": 12
+  },
+  {
+    "sentence": "辛い料理をよく食べます。",
+    "translation": "Saya sering makan masakan pedas.",
+    "no": 12
+  },
+  {
+    "sentence": "この仕事は辛いです。",
+    "translation": "Pekerjaan ini berat.",
+    "no": 12
+  },
+  {
+    "sentence": "彼はいつも素早い対応をするね。",
+    "translation": "Dia selalu merespon dengan cepat, ya.",
+    "no": 12
+  },
+  {
+    "sentence": "波がきらきら光っていました。",
+    "translation": "Ombak berkilauan.",
+    "no": 12
+  },
+  {
+    "sentence": "母は苦労して私たちを育てたの。",
+    "translation": "Ibu bekerja keras membesarkan kami.",
+    "no": 12
+  },
+  {
+    "sentence": "その国では英語は通じますか。",
+    "translation": "Apakah bahasa Inggris bisa dimengerti di negara itu?",
+    "no": 12
+  },
+  {
+    "sentence": "彼の罪は重いな。",
+    "translation": "Dosa dia berat.",
+    "no": 12
+  },
+  {
+    "sentence": "今日は４時まで授業があります。",
+    "translation": "Hari ini ada pelajaran sampai jam 4.",
+    "no": 12
+  },
+  {
+    "sentence": "何とか最悪の事態を避けることができました。",
+    "translation": "Entah bagaimana saya berhasil menghindari keadaan terburuk.",
+    "no": 12
+  },
+  {
+    "sentence": "兄との身長の差が縮まった。",
+    "translation": "Perbedaan tinggi badan dengan kakak semakin berkurang.",
+    "no": 12
+  },
+  {
+    "sentence": "彼の言うことは信用できない。",
+    "translation": "Apa yang dia katakan tidak bisa dipercaya.",
+    "no": 12
+  },
+  {
+    "sentence": "彼女が私の携帯を壊した。",
+    "translation": "Dia merusak ponsel saya.",
+    "no": 12
+  },
+  {
+    "sentence": "彼らは教会で式を挙げました。",
+    "translation": "Mereka mengadakan upacara di gereja.",
+    "no": 12
+  },
+  {
+    "sentence": "彼女は人形をたくさん持っています。",
+    "translation": "Dia memiliki banyak boneka.",
+    "no": 12
+  },
+  {
+    "sentence": "彼女は髪にリボンを結んだね。",
+    "translation": "Dia mengikat pita di rambutnya, ya.",
+    "no": 12
+  },
+  {
+    "sentence": "あんなにいい人はいません。",
+    "translation": "Tidak ada orang sebaik itu.",
+    "no": 12
+  },
+  {
+    "sentence": "計画を一部変更しましょう。",
+    "translation": "Mari ubah sebagian rencana.",
+    "no": 12
+  },
+  {
+    "sentence": "久しぶりに家族全員で食卓を囲みました。",
+    "translation": "Setelah lama, seluruh keluarga berkumpul di meja makan.",
+    "no": 12
+  },
+  {
+    "sentence": "私は旅行から多くの知識を得た。",
+    "translation": "Saya mendapatkan banyak pengetahuan dari perjalanan.",
+    "no": 12
+  },
+  {
+    "sentence": "切りがいいので今日の仕事はここまでにしましょう。",
+    "translation": "Karena sudah pas waktunya, mari akhiri pekerjaan hari ini sampai di sini.",
+    "no": 12
+  },
+  {
+    "sentence": "車に注意してください。",
+    "translation": "Hati-hati dengan mobil.",
+    "no": 12
+  },
+  {
+    "sentence": "そんな言い方をしてはいけません。",
+    "translation": "Jangan berkata seperti itu.",
+    "no": 12
+  },
+  {
+    "sentence": "あれから14年が経ちました。",
+    "translation": "Sudah 14 tahun sejak saat itu.",
+    "no": 12
+  },
+  {
+    "sentence": "彼女は背が高い。",
+    "translation": "Dia tinggi.",
+    "no": 12
+  },
+  {
+    "sentence": "応募者の年齢は問いません。",
+    "translation": "Usia pelamar tidak dipertanyakan.",
+    "no": 12
+  },
+  {
+    "sentence": "彼女は恋をしてきれいになったね。",
+    "translation": "Dia menjadi cantik setelah jatuh cinta, ya.",
+    "no": 12
+  },
+  {
+    "sentence": "仕事中に帰るなんてとんでもない。",
+    "translation": "Pulang saat bekerja itu tidak bisa diterima.",
+    "no": 12
+  },
+  {
+    "sentence": "ここが建物の中心です。",
+    "translation": "Ini adalah pusat bangunan.",
+    "no": 12
+  },
+  {
+    "sentence": "彼は額に汗をかいていたの。",
+    "translation": "Dia berkeringat di dahi.",
+    "no": 12
+  },
+  {
+    "sentence": "今年の夏は異常な暑さですね。",
+    "translation": "Musim panas tahun ini sangat panas yang tidak biasa.",
+    "no": 12
+  },
+  {
+    "sentence": "非常事態です。",
+    "translation": "Keadaan darurat.",
+    "no": 12
+  },
+  {
+    "sentence": "スキーで膝を怪我しました。",
+    "translation": "Saya cedera lutut saat bermain ski.",
+    "no": 12
+  },
+  {
+    "sentence": "彼はわずかな貯金で暮らしている。",
+    "translation": "Dia hidup dengan tabungan sedikit.",
+    "no": 12
+  },
+  {
+    "sentence": "彼はよく刑事の役を演じるね。",
+    "translation": "Dia sering berperan sebagai detektif, ya.",
+    "no": 12
+  },
+  {
+    "sentence": "何をそんなに焦っているのですか。",
+    "translation": "Kenapa kamu terburu-buru seperti itu?",
+    "no": 12
+  },
+  {
+    "sentence": "小さな川を渡りました。",
+    "translation": "Saya menyeberangi sungai kecil.",
+    "no": 12
+  },
+  {
+    "sentence": "彼はまるで悪魔みたいな男だ。",
+    "translation": "Dia pria yang seperti iblis.",
+    "no": 12
+  },
+  {
+    "sentence": "彼の唯一の楽しみは釣りです。",
+    "translation": "Satu-satunya kesenangannya adalah memancing.",
+    "no": 12
+  },
+  {
+    "sentence": "今11時半。もうすぐランチの時間です。",
+    "translation": "Sekarang pukul 11:30. Waktunya makan siang sebentar lagi.",
+    "no": 12
+  },
+  {
+    "sentence": "その公園は町のほぼ中央に位置するんだ。",
+    "translation": "Taman itu terletak hampir di pusat kota.",
+    "no": 12
+  },
+  {
+    "sentence": "ポケットに財布を突っ込んじゃった。",
+    "translation": "Aku memasukkan dompet ke dalam saku.",
+    "no": 12
+  },
+  {
+    "sentence": "この会社にはどんな技術がありますか。",
+    "translation": "Perusahaan ini memiliki teknologi apa saja?",
+    "no": 12
+  },
+  {
+    "sentence": "これは素晴らしいチャンスだ。",
+    "translation": "Ini adalah kesempatan yang luar biasa.",
+    "no": 12
+  },
+  {
+    "sentence": "彼は単純な人です。",
+    "translation": "Dia adalah orang yang sederhana.",
+    "no": 12
+  },
+  {
+    "sentence": "彼らは穏やかな暮らしをしているの。",
+    "translation": "Mereka menjalani kehidupan yang tenang.",
+    "no": 12
+  },
+  {
+    "sentence": "彼は拳銃で撃たれたわ。",
+    "translation": "Dia ditembak dengan pistol.",
+    "no": 12
+  },
+  {
+    "sentence": "道で財布を拾った。",
+    "translation": "Aku menemukan dompet di jalan.",
+    "no": 12
+  },
+  {
+    "sentence": "新しいホームページが完成した。",
+    "translation": "Halaman rumah baru telah selesai dibuat.",
+    "no": 12
+  },
+  {
+    "sentence": "飲み過ぎは体に毒ですよ。",
+    "translation": "Minum berlebihan berbahaya bagi tubuh.",
+    "no": 12
+  },
+  {
+    "sentence": "馬を見たいです。",
+    "translation": "Aku ingin melihat kuda.",
+    "no": 12
+  },
+  {
+    "sentence": "雲が空を覆っているね。",
+    "translation": "Awan menutupi langit, ya.",
+    "no": 12
+  },
+  {
+    "sentence": "趣味はカラオケです。",
+    "translation": "Hobiku adalah karaoke.",
+    "no": 12
+  },
+  {
+    "sentence": "どうにか締め切りに間に合った。",
+    "translation": "Entah bagaimana aku berhasil tepat waktu sebelum tenggat.",
+    "no": 12
+  },
+  {
+    "sentence": "パーティーに行くのは何となく気が進まないな。",
+    "translation": "Aku agak enggan pergi ke pesta.",
+    "no": 12
+  },
+  {
+    "sentence": "とても価値のある話を聞いたよ。",
+    "translation": "Aku mendengar cerita yang sangat berharga.",
+    "no": 12
+  },
+  {
+    "sentence": "皆で暖かく見守りましょう。",
+    "translation": "Mari kita semua mengawasi dengan hangat.",
+    "no": 12
+  },
+  {
+    "sentence": "安全が第一です。",
+    "translation": "Keselamatan adalah yang utama.",
+    "no": 12
+  },
+  {
+    "sentence": "弟が家へ友達を連れてきました。",
+    "translation": "Adik laki-lakiku membawa teman ke rumah.",
+    "no": 12
+  },
+  {
+    "sentence": "そばにいてください。",
+    "translation": "Tolong tetap di dekatku.",
+    "no": 12
+  },
+  {
+    "sentence": "この靴は1万円です。",
+    "translation": "Sepatu ini harganya 10.000 yen.",
+    "no": 12
+  },
+  {
+    "sentence": "写真を額に入れて飾ったんだ。",
+    "translation": "Aku memasang foto dalam bingkai dan menghiasnya.",
+    "no": 12
+  },
+  {
+    "sentence": "ボールが速過ぎて受け止められなかったの。",
+    "translation": "Bola terlalu cepat sehingga aku tidak bisa menangkapnya.",
+    "no": 12
+  },
+  {
+    "sentence": "かっこいいシャツですね。素敵です。",
+    "translation": "Kemeja ini keren, ya. Bagus sekali.",
+    "no": 12
+  },
+  {
+    "sentence": "次回、謎の人物の正体が明かされる。",
+    "translation": "Pada kali berikutnya, identitas orang misterius akan terungkap.",
+    "no": 12
+  },
+  {
+    "sentence": "そうあっさり言わないで。",
+    "translation": "Jangan bilang begitu dengan mudah.",
+    "no": 12
+  },
+  {
+    "sentence": "ここでタバコを吸わないでください。",
+    "translation": "Tolong jangan merokok di sini.",
+    "no": 12
+  },
+  {
+    "sentence": "携帯が大きな音で鳴っています。",
+    "translation": "Ponsel berbunyi dengan suara keras.",
+    "no": 12
+  },
+  {
+    "sentence": "大学院で数学を研究したいです。",
+    "translation": "Aku ingin meneliti matematika di pascasarjana.",
+    "no": 12
+  },
+  {
+    "sentence": "彼女は荷物をまとめて出て行った。",
+    "translation": "Dia mengemas barang dan pergi.",
+    "no": 12
+  },
+  {
+    "sentence": "駅で友だちと別れました。",
+    "translation": "Aku berpisah dengan teman di stasiun.",
+    "no": 12
+  },
+  {
+    "sentence": "ふざけるのは止めて。",
+    "translation": "Berhentilah bercanda.",
+    "no": 12
+  },
+  {
+    "sentence": "彼はきれいな服に着替えた。",
+    "translation": "Dia berganti pakaian menjadi pakaian yang bersih.",
+    "no": 12
+  },
+  {
+    "sentence": "この箱は重い。",
+    "translation": "Kotak ini berat.",
+    "no": 12
+  },
+  {
+    "sentence": "彼は一日中無言だったな。",
+    "translation": "Dia diam sepanjang hari.",
+    "no": 12
+  },
+  {
+    "sentence": "彼女は何で来ないんだろう。",
+    "translation": "Aku bertanya-tanya kenapa dia tidak datang.",
+    "no": 12
+  },
+  {
+    "sentence": "彼は仲間を裏切ったの。",
+    "translation": "Dia mengkhianati teman-temannya.",
+    "no": 12
+  },
+  {
+    "sentence": "今、魚を焼いています。",
+    "translation": "Sekarang aku sedang memanggang ikan.",
+    "no": 12
+  },
+  {
+    "sentence": "彼女は腕を怪我した。",
+    "translation": "Dia terluka di lengannya.",
+    "no": 12
+  },
+  {
+    "sentence": "8時に学校の門が開きます。",
+    "translation": "Gerbang sekolah dibuka pukul 8.",
+    "no": 12
+  },
+  {
+    "sentence": "レポートを1日で仕上げるのは不可能です。",
+    "translation": "Tidak mungkin menyelesaikan laporan dalam satu hari.",
+    "no": 12
+  },
+  {
+    "sentence": "兄の妻は日本人です。",
+    "translation": "Istri kakakku orang Jepang.",
+    "no": 12
+  },
+  {
+    "sentence": "優しい母も時には怒ります。",
+    "translation": "Ibu yang penyayang juga kadang marah.",
+    "no": 12
+  },
+  {
+    "sentence": "会議で全員が発言した。",
+    "translation": "Semua orang berbicara dalam rapat.",
+    "no": 12
+  },
+  {
+    "sentence": "彼の計算は正確です。",
+    "translation": "Perhitungannya tepat.",
+    "no": 12
+  },
+  {
+    "sentence": "その件は終わったと認識しています。",
+    "translation": "Aku menganggap masalah itu sudah selesai.",
+    "no": 12
+  },
+  {
+    "sentence": "新幹線の速度はどれくらいですか。",
+    "translation": "Kecepatan Shinkansen berapa kira-kira?",
+    "no": 12
+  },
+  {
+    "sentence": "ピラミッドには謎が多いんだ。",
+    "translation": "Piramida memiliki banyak misteri.",
+    "no": 12
+  },
+  {
+    "sentence": "書いた文字には、その人の気持ちが表れる。",
+    "translation": "Tulisan yang dibuat mencerminkan perasaan orang itu.",
+    "no": 12
+  },
+  {
+    "sentence": "彼は乱暴な言葉を吐いたぞ。",
+    "translation": "Dia mengeluarkan kata-kata kasar.",
+    "no": 12
+  },
+  {
+    "sentence": "彼は鬼のような人だ。",
+    "translation": "Dia orang yang seperti iblis.",
+    "no": 12
+  },
+  {
+    "sentence": "そのクイズ番組は脳を刺激するね。",
+    "translation": "Acara kuis itu merangsang otak, ya.",
+    "no": 12
+  },
+  {
+    "sentence": "彼は世界で最も早い男です。",
+    "translation": "Dia adalah pria tercepat di dunia.",
+    "no": 12
+  },
+  {
+    "sentence": "私の学校には制服がありません。",
+    "translation": "Sekolahku tidak memiliki seragam.",
+    "no": 12
+  },
+  {
+    "sentence": "ダイナマイトが爆発したんだ。",
+    "translation": "Dinamit meledak.",
+    "no": 12
+  },
+  {
+    "sentence": "学校で避難訓練がありました。",
+    "translation": "Ada latihan evakuasi di sekolah.",
+    "no": 12
+  },
+  {
+    "sentence": "彼女は振り向いて俺に微笑んだんだ。",
+    "translation": "Dia menoleh dan tersenyum padaku.",
+    "no": 12
+  },
+  {
+    "sentence": "コートを脱ぎます。",
+    "translation": "Aku melepas mantel.",
+    "no": 12
+  },
+  {
+    "sentence": "お互いを信頼することが大事です。",
+    "translation": "Penting untuk saling mempercayai.",
+    "no": 12
+  },
+  {
+    "sentence": "学校へ行く前に銀行に寄りました。",
+    "translation": "Aku singgah ke bank sebelum pergi ke sekolah.",
+    "no": 12
+  },
+  {
+    "sentence": "子供が紙飛行機を飛ばしています。",
+    "translation": "Anak-anak sedang menerbangkan pesawat kertas.",
+    "no": 13
+  },
+  {
+    "sentence": "私は彼に本を貸しています。",
+    "translation": "Saya meminjamkan buku kepada dia.",
+    "no": 13
+  },
+  {
+    "sentence": "朝ご飯にはいつもパンを食べる。",
+    "translation": "Saya selalu makan roti untuk sarapan.",
+    "no": 13
+  },
+  {
+    "sentence": "彼の助けは本当にありがたいな。",
+    "translation": "Bantuan darinya benar-benar sangat berharga.",
+    "no": 13
+  },
+  {
+    "sentence": "信号が赤に変わりました。",
+    "translation": "Lampu lalu lintas berubah menjadi merah.",
+    "no": 13
+  },
+  {
+    "sentence": "レポートは大体終わりました。",
+    "translation": "Laporan hampir selesai.",
+    "no": 13
+  },
+  {
+    "sentence": "本は本棚にきちんと返してください。",
+    "translation": "Tolong kembalikan buku ke rak buku dengan rapi.",
+    "no": 13
+  },
+  {
+    "sentence": "喉にいい薬はありますか。",
+    "translation": "Apakah ada obat yang baik untuk tenggorokan?",
+    "no": 13
+  },
+  {
+    "sentence": "塩を少々入れてください。",
+    "translation": "Tolong tambahkan sedikit garam.",
+    "no": 13
+  },
+  {
+    "sentence": "この海は有名で、人が大勢来ます。",
+    "translation": "Laut ini terkenal dan banyak orang datang ke sini.",
+    "no": 13
+  },
+  {
+    "sentence": "私たちは船に乗った。",
+    "translation": "Kami naik kapal.",
+    "no": 13
+  },
+  {
+    "sentence": "猫は砂の上で転がったんだ。",
+    "translation": "Kucing berguling di atas pasir.",
+    "no": 13
+  },
+  {
+    "sentence": "プリンターのインクが切れた。",
+    "translation": "Tinta printer habis.",
+    "no": 13
+  },
+  {
+    "sentence": "財布の中にたった1000円しかないよ。",
+    "translation": "Di dalam dompet hanya ada 1000 yen saja.",
+    "no": 13
+  },
+  {
+    "sentence": "ここが話題のレストランです。",
+    "translation": "Ini adalah restoran yang sedang menjadi perbincangan.",
+    "no": 13
+  },
+  {
+    "sentence": "雨で濡れてしまった。",
+    "translation": "Basah karena hujan.",
+    "no": 13
+  },
+  {
+    "sentence": "ついでにクリーニング屋さんに寄ってきて。",
+    "translation": "Sekalian mampir ke tukang cuci ya.",
+    "no": 13
+  },
+  {
+    "sentence": "親が学校に呼び出されたんだ。",
+    "translation": "Orang tua dipanggil ke sekolah.",
+    "no": 13
+  },
+  {
+    "sentence": "私は彼の成功を確信しています。",
+    "translation": "Saya yakin akan kesuksesannya.",
+    "no": 13
+  },
+  {
+    "sentence": "彼は感情を込めてその歌を歌ったの。",
+    "translation": "Dia menyanyikan lagu itu dengan penuh perasaan.",
+    "no": 13
+  },
+  {
+    "sentence": "まだ子供だから悪い事をしたという自覚がないんだ。",
+    "translation": "Karena masih anak-anak, dia belum sadar telah melakukan hal yang salah.",
+    "no": 13
+  },
+  {
+    "sentence": "後ろの席が空いています。",
+    "translation": "Kursi di belakang kosong.",
+    "no": 13
+  },
+  {
+    "sentence": "レストランは空いていました。",
+    "translation": "Restoran itu kosong.",
+    "no": 13
+  },
+  {
+    "sentence": "警察を呼んでください。",
+    "translation": "Tolong panggil polisi.",
+    "no": 13
+  },
+  {
+    "sentence": "外から悲鳴が聞こえたな。",
+    "translation": "Terdengar teriakan dari luar.",
+    "no": 13
+  },
+  {
+    "sentence": "母が泥棒を捕まえました。",
+    "translation": "Ibu menangkap pencuri.",
+    "no": 13
+  },
+  {
+    "sentence": "では早速書類をお送りします。",
+    "translation": "Baiklah, saya akan segera mengirim dokumennya.",
+    "no": 13
+  },
+  {
+    "sentence": "お腹が空きました。",
+    "translation": "Saya lapar.",
+    "no": 13
+  },
+  {
+    "sentence": "毎日、掃除します。",
+    "translation": "Saya membersihkan setiap hari.",
+    "no": 13
+  },
+  {
+    "sentence": "このパンは硬いですが、美味しいです。",
+    "translation": "Roti ini keras, tapi enak.",
+    "no": 13
+  },
+  {
+    "sentence": "この際はっきり言っておきます。",
+    "translation": "Kali ini saya akan mengatakan dengan jelas.",
+    "no": 13
+  },
+  {
+    "sentence": "秘密を漏らしたのは彼です。",
+    "translation": "Dia yang membocorkan rahasia itu.",
+    "no": 13
+  },
+  {
+    "sentence": "彼の意外な面を見た。",
+    "translation": "Saya melihat sisi yang tak terduga darinya.",
+    "no": 13
+  },
+  {
+    "sentence": "私は彼のやり方には不満です。",
+    "translation": "Saya tidak puas dengan caranya.",
+    "no": 13
+  },
+  {
+    "sentence": "彼女は驚きを隠せませんでしたよ。",
+    "translation": "Dia tidak bisa menyembunyikan rasa terkejutnya.",
+    "no": 13
+  },
+  {
+    "sentence": "姉はよく旅をします。",
+    "translation": "Kakak perempuan sering melakukan perjalanan.",
+    "no": 13
+  },
+  {
+    "sentence": "素敵な絵ですね。",
+    "translation": "Lukisan yang indah, ya.",
+    "no": 13
+  },
+  {
+    "sentence": "このプロジェクトで私は彼と組んでいるんだ。",
+    "translation": "Dalam proyek ini saya bekerja sama dengan dia.",
+    "no": 13
+  },
+  {
+    "sentence": "彼はしばらく沈黙していた。",
+    "translation": "Dia diam untuk beberapa saat.",
+    "no": 13
+  },
+  {
+    "sentence": "疲れて肩が張っています。",
+    "translation": "Saya lelah dan bahu terasa tegang.",
+    "no": 13
+  },
+  {
+    "sentence": "自分の思いを彼女に告白しました。",
+    "translation": "Saya mengungkapkan perasaan saya kepada dia.",
+    "no": 13
+  },
+  {
+    "sentence": "犬に顔を舐められました。",
+    "translation": "Anjing menjilat wajah saya.",
+    "no": 13
+  },
+  {
+    "sentence": "ペットボトルは潰して捨てましょう。",
+    "translation": "Botol plastik harus dipipihkan sebelum dibuang.",
+    "no": 13
+  },
+  {
+    "sentence": "私を含めて10人が参加しました。",
+    "translation": "Termasuk saya, ada 10 orang yang ikut serta.",
+    "no": 13
+  },
+  {
+    "sentence": "今はあなたにとって大事な時期です。",
+    "translation": "Sekarang adalah masa penting bagi kamu.",
+    "no": 13
+  },
+  {
+    "sentence": "彼は地域の活動に参加した。",
+    "translation": "Dia ikut serta dalam kegiatan komunitas.",
+    "no": 13
+  },
+  {
+    "sentence": "彼女は三人の子を育てました。",
+    "translation": "Dia membesarkan tiga anak.",
+    "no": 13
+  },
+  {
+    "sentence": "彼はとても優秀な生徒です。",
+    "translation": "Dia adalah murid yang sangat cerdas.",
+    "no": 13
+  },
+  {
+    "sentence": "彼がもうすぐ来る予感がする。",
+    "translation": "Saya merasa dia akan segera datang.",
+    "no": 13
+  },
+  {
+    "sentence": "この問題を解けますか。",
+    "translation": "Bisakah kamu menyelesaikan masalah ini?",
+    "no": 13
+  },
+  {
+    "sentence": "彼女は元々フランスに行くつもりだったの。",
+    "translation": "Dia sebenarnya berencana pergi ke Prancis.",
+    "no": 13
+  },
+  {
+    "sentence": "バスタブからお湯が溢れました。",
+    "translation": "Air meluap dari bak mandi.",
+    "no": 13
+  },
+  {
+    "sentence": "交差点で事故が発生した。",
+    "translation": "Terjadi kecelakaan di persimpangan.",
+    "no": 13
+  },
+  {
+    "sentence": "彼は会社で微妙な立場にあります。",
+    "translation": "Dia berada dalam posisi yang sulit di perusahaan.",
+    "no": 13
+  },
+  {
+    "sentence": "この二つには大きな違いがある。",
+    "translation": "Ada perbedaan besar antara kedua hal ini.",
+    "no": 13
+  },
+  {
+    "sentence": "食べた直後に寝ないほうがいいよ。",
+    "translation": "Sebaiknya jangan tidur segera setelah makan.",
+    "no": 13
+  },
+  {
+    "sentence": "スタジオは地下にあります。",
+    "translation": "Studio berada di bawah tanah.",
+    "no": 13
+  },
+  {
+    "sentence": "この花はいい香りがしますね。",
+    "translation": "Bunga ini beraroma harum, ya.",
+    "no": 13
+  },
+  {
+    "sentence": "この薬はあまりよく効かないよ。",
+    "translation": "Obat ini tidak terlalu efektif.",
+    "no": 13
+  },
+  {
+    "sentence": "この製品を使用する前に、説明書をお読みください。",
+    "translation": "Harap baca petunjuk sebelum menggunakan produk ini.",
+    "no": 13
+  },
+  {
+    "sentence": "道具は全部揃っていますか。",
+    "translation": "Apakah semua peralatan sudah lengkap?",
+    "no": 13
+  },
+  {
+    "sentence": "世界の平和が私たちの願いです。",
+    "translation": "Perdamaian dunia adalah harapan kita.",
+    "no": 13
+  },
+  {
+    "sentence": "早く顔を洗いなさい。",
+    "translation": "Cepat cuci muka.",
+    "no": 13
+  },
+  {
+    "sentence": "彼は目的のためには手段を選ばなかったわね。",
+    "translation": "Dia tidak memilih cara untuk mencapai tujuan.",
+    "no": 13
+  },
+  {
+    "sentence": "私の気持ちを誤解しているんじゃない！",
+    "translation": "Jangan salah paham dengan perasaan saya!",
+    "no": 13
+  },
+  {
+    "sentence": "好きなチームを応援します。",
+    "translation": "Saya mendukung tim favorit saya.",
+    "no": 13
+  },
+  {
+    "sentence": "その食品は有害物質を含んでいるぞ。",
+    "translation": "Makanan itu mengandung zat berbahaya.",
+    "no": 13
+  },
+  {
+    "sentence": "彼女は当時、まだ3才だった。",
+    "translation": "Dia masih berusia 3 tahun pada waktu itu.",
+    "no": 13
+  },
+  {
+    "sentence": "チームの全員が勝利を喜んだ。",
+    "translation": "Seluruh anggota tim bersuka cita atas kemenangan.",
+    "no": 13
+  },
+  {
+    "sentence": "今日、雨が降ります。",
+    "translation": "Hari ini akan turun hujan.",
+    "no": 13
+  },
+  {
+    "sentence": "クリスマスに雪が降りました。",
+    "translation": "Salju turun pada hari Natal.",
+    "no": 13
+  },
+  {
+    "sentence": "入り口は向こうです。",
+    "translation": "Pintu masuk ada di sana.",
+    "no": 13
+  },
+  {
+    "sentence": "ここは一方通行です。",
+    "translation": "Di sini hanya satu arah.",
+    "no": 13
+  },
+  {
+    "sentence": "私は古い車が好きです。",
+    "translation": "Saya suka mobil tua.",
+    "no": 13
+  },
+  {
+    "sentence": "この本はとても役に立ちます。",
+    "translation": "Buku ini sangat berguna.",
+    "no": 13
+  },
+  {
+    "sentence": "ここは私にとって懐かしい場所です。",
+    "translation": "Tempat ini adalah tempat yang penuh kenangan bagi saya.",
+    "no": 13
+  },
+  {
+    "sentence": "もしも彼女と結婚できたらどんなに嬉しいだろう。",
+    "translation": "Betapa senangnya jika saya bisa menikah dengan dia.",
+    "no": 13
+  },
+  {
+    "sentence": "彼は芸術的な才能にあふれているね。",
+    "translation": "Dia penuh dengan bakat seni.",
+    "no": 13
+  },
+  {
+    "sentence": "トラがおりから逃げ出しました。",
+    "translation": "Harimau itu kabur dari kandangnya.",
+    "no": 13
+  },
+  {
+    "sentence": "その都市には様々な人種が集まっているわ。",
+    "translation": "Kota itu dihuni oleh berbagai ras.",
+    "no": 13
+  },
+  {
+    "sentence": "病院へ行きます。",
+    "translation": "Saya akan pergi ke rumah sakit.",
+    "no": 13
+  },
+  {
+    "sentence": "日本と比べると、私の国はとても寒いです。",
+    "translation": "Jika dibandingkan dengan Jepang, negara saya sangat dingin.",
+    "no": 13
+  },
+  {
+    "sentence": "グラスに氷を入れてください。",
+    "translation": "Tolong masukkan es ke dalam gelas.",
+    "no": 13
+  },
+  {
+    "sentence": "私の部屋は狭いです。",
+    "translation": "Kamar saya sempit.",
+    "no": 13
+  },
+  {
+    "sentence": "神様にお願いしました。",
+    "translation": "Saya berdoa kepada Tuhan.",
+    "no": 13
+  },
+  {
+    "sentence": "彼女はその知らせを聞いて激しく動揺した。",
+    "translation": "Dia sangat terguncang setelah mendengar berita itu.",
+    "no": 13
+  },
+  {
+    "sentence": "あの大きな猿は群れの長だ。",
+    "translation": "Monyet besar itu adalah pemimpin kelompok.",
+    "no": 13
+  },
+  {
+    "sentence": "なお、雨の場合は中止です。",
+    "translation": "Selain itu, jika hujan akan dibatalkan.",
+    "no": 13
+  },
+  {
+    "sentence": "私は冒険の物語が大好きです。",
+    "translation": "Saya sangat suka cerita petualangan.",
+    "no": 13
+  },
+  {
+    "sentence": "彼女はいつも文句ばかり言う。",
+    "translation": "Dia selalu mengeluh terus-menerus.",
+    "no": 13
+  },
+  {
+    "sentence": "ようやく結論に至ったようね",
+    "translation": "Sepertinya akhirnya sampai pada kesimpulan.",
+    "no": 13
+  },
+  {
+    "sentence": "魚を10分くらい焼きます。",
+    "translation": "Panggang ikan selama sekitar 10 menit.",
+    "no": 13
+  },
+  {
+    "sentence": "鳥が飛んでいます。",
+    "translation": "Burung sedang terbang.",
+    "no": 13
+  },
+  {
+    "sentence": "窓に男性の影が映っています。",
+    "translation": "Bayangan pria terlihat di jendela.",
+    "no": 13
+  },
+  {
+    "sentence": "一生のお願いがあります。",
+    "translation": "Saya punya permintaan seumur hidup.",
+    "no": 13
+  },
+  {
+    "sentence": "プレゼントをきれいな紙で包みました。",
+    "translation": "Hadiah dibungkus dengan kertas yang indah.",
+    "no": 13
+  },
+  {
+    "sentence": "私は鈴木と申します。",
+    "translation": "Nama saya Suzuki.",
+    "no": 13
+  },
+  {
+    "sentence": "このプログラムはとても複雑です。",
+    "translation": "Program ini sangat rumit.",
+    "no": 13
+  },
+  {
+    "sentence": "ボールをこっちに投げてください。",
+    "translation": "Tolong lempar bola ke sini.",
+    "no": 13
+  },
+  {
+    "sentence": "面白い出来事がありました。",
+    "translation": "Ada kejadian yang menarik.",
+    "no": 13
+  },
+  {
+    "sentence": "彼は優秀な部下をもっているわね。",
+    "translation": "Dia memiliki bawahan yang sangat baik.",
+    "no": 14
+  },
+  {
+    "sentence": "この料理は、栄養がたっぷりですよ。",
+    "translation": "Masakan ini penuh dengan nutrisi.",
+    "no": 14
+  },
+  {
+    "sentence": "二人の実力は互角です。",
+    "translation": "Kemampuan kedua orang itu seimbang.",
+    "no": 14
+  },
+  {
+    "sentence": "通りを渡る前に左右を見た。",
+    "translation": "Saya melihat ke kiri dan kanan sebelum menyeberang jalan.",
+    "no": 14
+  },
+  {
+    "sentence": "この5種類から選択できます。",
+    "translation": "Anda bisa memilih dari lima jenis ini.",
+    "no": 14
+  },
+  {
+    "sentence": "私たちがその問題を調査しています。",
+    "translation": "Kami sedang menyelidiki masalah itu.",
+    "no": 14
+  },
+  {
+    "sentence": "例えば、このソフトで日本語を勉強することができます。",
+    "translation": "Misalnya, Anda bisa belajar bahasa Jepang dengan perangkat lunak ini.",
+    "no": 14
+  },
+  {
+    "sentence": "彼が外国に行くのを見送りました。",
+    "translation": "Saya mengantar dia pergi ke luar negeri.",
+    "no": 14
+  },
+  {
+    "sentence": "彼の意見はもっともです。",
+    "translation": "Pendapatnya sangat masuk akal.",
+    "no": 14
+  },
+  {
+    "sentence": "彼女は命令に従わなかった。",
+    "translation": "Dia tidak mengikuti perintah.",
+    "no": 14
+  },
+  {
+    "sentence": "針に糸を通してください。",
+    "translation": "Tolong masukkan benang ke dalam jarum.",
+    "no": 14
+  },
+  {
+    "sentence": "やさしい問題を間違えてしまいました。",
+    "translation": "Saya salah menjawab soal yang mudah.",
+    "no": 14
+  },
+  {
+    "sentence": "若者は体力がありますね。",
+    "translation": "Anak muda memiliki stamina yang baik.",
+    "no": 14
+  },
+  {
+    "sentence": "彼はしっかりと責任を果たしました。",
+    "translation": "Dia telah menjalankan tanggung jawabnya dengan baik.",
+    "no": 14
+  },
+  {
+    "sentence": "電車の中で騒がないでください。",
+    "translation": "Tolong jangan ribut di dalam kereta.",
+    "no": 14
+  },
+  {
+    "sentence": "カエルが池に飛び込んだね。",
+    "translation": "Katak itu melompat ke kolam.",
+    "no": 14
+  },
+  {
+    "sentence": "大雨で川の水かさが増しているな。",
+    "translation": "Karena hujan deras, air sungai naik.",
+    "no": 14
+  },
+  {
+    "sentence": "車が電柱にぶつかった。",
+    "translation": "Mobil menabrak tiang listrik.",
+    "no": 14
+  },
+  {
+    "sentence": "旅行で楽しい思い出ができました。",
+    "translation": "Saya mendapatkan kenangan yang menyenangkan selama perjalanan.",
+    "no": 14
+  },
+  {
+    "sentence": "この部屋は天井が高いですね。",
+    "translation": "Ruangan ini memiliki langit-langit yang tinggi.",
+    "no": 14
+  },
+  {
+    "sentence": "その爆撃で兵士が３人負傷しました。",
+    "translation": "Tiga tentara terluka dalam pengeboman itu.",
+    "no": 14
+  },
+  {
+    "sentence": "月が満ちてきましたね。",
+    "translation": "Bulan mulai penuh.",
+    "no": 14
+  },
+  {
+    "sentence": "頭が痛くてたまらない。",
+    "translation": "Kepala saya sangat sakit.",
+    "no": 14
+  },
+  {
+    "sentence": "母の手料理をゆっくり味わいました。",
+    "translation": "Saya menikmati masakan ibu dengan perlahan.",
+    "no": 14
+  },
+  {
+    "sentence": "日曜日によく出かけます。",
+    "translation": "Saya sering pergi keluar pada hari Minggu.",
+    "no": 14
+  },
+  {
+    "sentence": "街中で子供を背負って歩いた。",
+    "translation": "Saya berjalan menggendong anak di tengah kota.",
+    "no": 14
+  },
+  {
+    "sentence": "朝は家族全員が揃って食事します。",
+    "translation": "Keluarga lengkap makan bersama di pagi hari.",
+    "no": 14
+  },
+  {
+    "sentence": "ゆっくり呼吸してください。",
+    "translation": "Silakan bernapas perlahan.",
+    "no": 14
+  },
+  {
+    "sentence": "娘はよく私の真似をします。",
+    "translation": "Putri saya sering meniru saya.",
+    "no": 14
+  },
+  {
+    "sentence": "このバンドはとても人気があるよ。",
+    "translation": "Band ini sangat populer.",
+    "no": 14
+  },
+  {
+    "sentence": "彼は偉い学者です。",
+    "translation": "Dia adalah seorang sarjana yang hebat.",
+    "no": 14
+  },
+  {
+    "sentence": "明日はいよいよ出発の日です。",
+    "translation": "Besok adalah hari keberangkatan yang sangat dinantikan.",
+    "no": 14
+  },
+  {
+    "sentence": "このアンケートは大学生が対象です。",
+    "translation": "Survei ini ditujukan untuk mahasiswa.",
+    "no": 14
+  },
+  {
+    "sentence": "彼はスピーチの前に服装を整えた。",
+    "translation": "Dia merapikan pakaian sebelum pidato.",
+    "no": 14
+  },
+  {
+    "sentence": "ボートが川に沈んだ。",
+    "translation": "Perahu tenggelam di sungai.",
+    "no": 14
+  },
+  {
+    "sentence": "この電車は地上を走ります。",
+    "translation": "Kereta ini berjalan di atas tanah.",
+    "no": 14
+  },
+  {
+    "sentence": "父は用事で出掛けています。",
+    "translation": "Ayah sedang keluar karena ada urusan.",
+    "no": 14
+  },
+  {
+    "sentence": "彼の病気は過労によるものです。",
+    "translation": "Penyakitnya disebabkan oleh kelelahan.",
+    "no": 14
+  },
+  {
+    "sentence": "私は反対です。",
+    "translation": "Saya tidak setuju.",
+    "no": 14
+  },
+  {
+    "sentence": "彼女は若さを保とうと必死だ。",
+    "translation": "Dia berusaha keras untuk menjaga masa mudanya.",
+    "no": 14
+  },
+  {
+    "sentence": "私は歴史に興味があります。",
+    "translation": "Saya tertarik pada sejarah.",
+    "no": 14
+  },
+  {
+    "sentence": "その島には誰も住んでいません。",
+    "translation": "Tidak ada orang yang tinggal di pulau itu.",
+    "no": 14
+  },
+  {
+    "sentence": "彼がそれほど悩んでいたとは知らなかった。",
+    "translation": "Saya tidak tahu bahwa dia begitu khawatir.",
+    "no": 14
+  },
+  {
+    "sentence": "昨日のコンサートは実に素晴らしかったよ。",
+    "translation": "Konser kemarin benar-benar luar biasa.",
+    "no": 14
+  },
+  {
+    "sentence": "彼は受験の失敗を恐れています。",
+    "translation": "Dia takut gagal ujian masuk.",
+    "no": 14
+  },
+  {
+    "sentence": "彼はあくまで自分の主義を通す人だ。",
+    "translation": "Dia adalah orang yang tetap berpegang pada prinsipnya.",
+    "no": 14
+  },
+  {
+    "sentence": "鼻がかゆいです。",
+    "translation": "Hidung saya gatal.",
+    "no": 14
+  },
+  {
+    "sentence": "私はセールスを担当しています。",
+    "translation": "Saya bertanggung jawab atas penjualan.",
+    "no": 14
+  },
+  {
+    "sentence": "片手運転は危ないよ。",
+    "translation": "Mengemudi dengan satu tangan itu berbahaya.",
+    "no": 14
+  },
+  {
+    "sentence": "彼女には幼い息子がいます。",
+    "translation": "Dia memiliki seorang anak laki-laki yang masih kecil.",
+    "no": 14
+  },
+  {
+    "sentence": "私は哲学を学んでいます。",
+    "translation": "Saya belajar filsafat.",
+    "no": 14
+  },
+  {
+    "sentence": "友人の強引な誘いを断れませんでした。",
+    "translation": "Saya tidak bisa menolak ajakan paksa dari teman saya.",
+    "no": 14
+  },
+  {
+    "sentence": "ズボンのすそをまくって作業をした。",
+    "translation": "Saya menggulung ujung celana untuk bekerja.",
+    "no": 14
+  },
+  {
+    "sentence": "彼のヘッドフォンから音が漏れているね。",
+    "translation": "Suara bocor dari headphone-nya, ya.",
+    "no": 14
+  },
+  {
+    "sentence": "全体の80パーセントが完成しました。",
+    "translation": "80 persen dari keseluruhan telah selesai.",
+    "no": 14
+  },
+  {
+    "sentence": "彼の無神経さは度が過ぎている。",
+    "translation": "Ketidaksensitifan dia sudah melewati batas.",
+    "no": 14
+  },
+  {
+    "sentence": "こんなことも知らないとは情けない。",
+    "translation": "Malu sekali tidak tahu hal seperti ini.",
+    "no": 14
+  },
+  {
+    "sentence": "夏は太陽がとても高くなります。",
+    "translation": "Pada musim panas, matahari sangat tinggi.",
+    "no": 14
+  },
+  {
+    "sentence": "彼女の親切に甘えました。",
+    "translation": "Saya memanfaatkan kebaikannya.",
+    "no": 14
+  },
+  {
+    "sentence": "運転手がブレーキを踏んだ。",
+    "translation": "Sopir menginjak rem.",
+    "no": 14
+  },
+  {
+    "sentence": "彼からいい印象を受けたわ。",
+    "translation": "Saya mendapatkan kesan baik dari dia.",
+    "no": 14
+  },
+  {
+    "sentence": "公園で死体が見つかったの。",
+    "translation": "Mayat ditemukan di taman.",
+    "no": 14
+  },
+  {
+    "sentence": "その権力者による支配は50年以上続いたんです。",
+    "translation": "Kekuasaan penguasa itu berlangsung lebih dari 50 tahun.",
+    "no": 14
+  },
+  {
+    "sentence": "事故現場には入れません。",
+    "translation": "Tidak boleh masuk ke lokasi kecelakaan.",
+    "no": 14
+  },
+  {
+    "sentence": "彼は人生に絶望していた。",
+    "translation": "Dia putus asa dengan hidupnya.",
+    "no": 14
+  },
+  {
+    "sentence": "彼は危険を察して逃げた。",
+    "translation": "Dia merasakan bahaya dan melarikan diri.",
+    "no": 14
+  },
+  {
+    "sentence": "それ以来彼女に会ってない。",
+    "translation": "Sejak itu saya tidak bertemu dengannya.",
+    "no": 14
+  },
+  {
+    "sentence": "小船が湖を漂っています。",
+    "translation": "Perahu kecil mengapung di danau.",
+    "no": 14
+  },
+  {
+    "sentence": "各国がテロリストの動きを探っています。",
+    "translation": "Setiap negara sedang mencari pergerakan teroris.",
+    "no": 14
+  },
+  {
+    "sentence": "これは世界最大の船です。",
+    "translation": "Ini adalah kapal terbesar di dunia.",
+    "no": 14
+  },
+  {
+    "sentence": "少し音量を下げてください。",
+    "translation": "Tolong kecilkan volumenya sedikit.",
+    "no": 14
+  },
+  {
+    "sentence": "彼女はついに捕まりました。",
+    "translation": "Dia akhirnya tertangkap.",
+    "no": 14
+  },
+  {
+    "sentence": "彼女は突然のプロポーズに戸惑った。",
+    "translation": "Dia bingung dengan lamaran mendadak itu.",
+    "no": 14
+  },
+  {
+    "sentence": "あなたは言い訳が多すぎます。",
+    "translation": "Kamu terlalu banyak alasan.",
+    "no": 14
+  },
+  {
+    "sentence": "容疑者のアリバイが証明されました。",
+    "translation": "Alibi tersangka telah terbukti.",
+    "no": 14
+  },
+  {
+    "sentence": "さあ、参りましょうか。",
+    "translation": "Ayo, mari kita pergi.",
+    "no": 14
+  },
+  {
+    "sentence": "山の頂上からふもとを見下ろしたの。",
+    "translation": "Saya melihat ke bawah dari puncak gunung.",
+    "no": 14
+  },
+  {
+    "sentence": "山が燃えています。",
+    "translation": "Gunung sedang terbakar.",
+    "no": 14
+  },
+  {
+    "sentence": "彼はストレスがたまっているの。",
+    "translation": "Dia sedang mengalami stres.",
+    "no": 14
+  },
+  {
+    "sentence": "彼は悪酔いして暴れたんだ。",
+    "translation": "Dia mabuk parah dan bertindak kasar.",
+    "no": 14
+  },
+  {
+    "sentence": "私たちは高い山を越えました。",
+    "translation": "Kami melewati gunung yang tinggi.",
+    "no": 14
+  },
+  {
+    "sentence": "彼女は今、精神が不安定だ。",
+    "translation": "Dia sekarang sedang tidak stabil secara mental.",
+    "no": 14
+  },
+  {
+    "sentence": "男子はこっちに並んで。",
+    "translation": "Anak laki-laki, antri di sini.",
+    "no": 14
+  },
+  {
+    "sentence": "政府は停戦を宣言しました。",
+    "translation": "Pemerintah mengumumkan gencatan senjata.",
+    "no": 14
+  },
+  {
+    "sentence": "ドアに指を挟んだ。",
+    "translation": "Jari saya terjepit pintu.",
+    "no": 14
+  },
+  {
+    "sentence": "怪我を防ぐためによくストレッチをしてください。",
+    "translation": "Lakukan peregangan dengan baik untuk mencegah cedera.",
+    "no": 14
+  },
+  {
+    "sentence": "鍵を彼に預けた。",
+    "translation": "Saya menitipkan kunci kepada dia.",
+    "no": 14
+  },
+  {
+    "sentence": "このサービスは週末に限ります。",
+    "translation": "Layanan ini hanya berlaku di akhir pekan.",
+    "no": 14
+  },
+  {
+    "sentence": "そんなに彼を責めては可哀相です。",
+    "translation": "Kasihan kalau terlalu menyalahkan dia.",
+    "no": 14
+  },
+  {
+    "sentence": "大雨で崖が崩れたね。",
+    "translation": "Tebing runtuh karena hujan deras.",
+    "no": 14
+  },
+  {
+    "sentence": "一度も京都へ行ったことがありません。",
+    "translation": "Saya belum pernah pergi ke Kyoto sekali pun.",
+    "no": 14
+  },
+  {
+    "sentence": "彼は遠くをぼんやり見ていたの。",
+    "translation": "Dia menatap jauh dengan kosong.",
+    "no": 14
+  },
+  {
+    "sentence": "彼女もその内、親の気持ちが分かるだろう。",
+    "translation": "Dia juga akan mengerti perasaan orang tua suatu saat nanti.",
+    "no": 14
+  },
+  {
+    "sentence": "彼女は鏡を見て髪を直した。",
+    "translation": "Dia melihat cermin dan merapikan rambutnya.",
+    "no": 14
+  },
+  {
+    "sentence": "彼は最後まで自分の意思を貫きました。",
+    "translation": "Dia mempertahankan keinginannya sampai akhir.",
+    "no": 14
+  },
+  {
+    "sentence": "もうプリンは固まったかな。",
+    "translation": "Apakah puding sudah mengeras?",
+    "no": 14
+  },
+  {
+    "sentence": "この国は平和です。",
+    "translation": "Negara ini damai.",
+    "no": 14
+  },
+  {
+    "sentence": "彼は意志の強い人です。",
+    "translation": "Dia adalah orang yang kuat kemauannya.",
+    "no": 14
+  },
+  {
+    "sentence": "私は歌が下手です",
+    "translation": "Saya buruk dalam bernyanyi.",
+    "no": 14
+  },
+  {
+    "sentence": "話の続きは電話でしましょう。",
+    "translation": "Mari kita lanjutkan pembicaraan lewat telepon.",
+    "no": 14
+  },
+  {
+    "sentence": "世界の平和を祈っています。",
+    "translation": "Saya berdoa untuk perdamaian dunia.",
+    "no": 15
+  },
+  {
+    "sentence": "明日の午後、お客様が来る。",
+    "translation": "Besok sore, tamu akan datang.",
+    "no": 15
+  },
+  {
+    "sentence": "私たちは彼を家族同様に思っている。",
+    "translation": "Kami menganggap dia seperti keluarga.",
+    "no": 15
+  },
+  {
+    "sentence": "シャツのボタンが外れています。",
+    "translation": "Kancing baju terlepas.",
+    "no": 15
+  },
+  {
+    "sentence": "皆で日本の歌を歌います。",
+    "translation": "Kita semua akan menyanyikan lagu Jepang.",
+    "no": 15
+  },
+  {
+    "sentence": "1週間に3回コンビニへ行きます。",
+    "translation": "Saya pergi ke minimarket tiga kali seminggu.",
+    "no": 15
+  },
+  {
+    "sentence": "私の上司は頭が固い。",
+    "translation": "Atasan saya keras kepala.",
+    "no": 15
+  },
+  {
+    "sentence": "彼は最強チームの一員です。",
+    "translation": "Dia adalah anggota tim terkuat.",
+    "no": 15
+  },
+  {
+    "sentence": "彼はギターを弾きます。",
+    "translation": "Dia bermain gitar.",
+    "no": 15
+  },
+  {
+    "sentence": "10問中9問正解しました。",
+    "translation": "Saya menjawab benar 9 dari 10 soal.",
+    "no": 15
+  },
+  {
+    "sentence": "このシャツは少しきついです。",
+    "translation": "Kemeja ini agak ketat.",
+    "no": 15
+  },
+  {
+    "sentence": "先生のお陰で大学に合格できました。",
+    "translation": "Berkat guru, saya bisa lulus universitas.",
+    "no": 15
+  },
+  {
+    "sentence": "地震の後、街は地獄のようだったよ。",
+    "translation": "Setelah gempa bumi, kota itu seperti neraka.",
+    "no": 15
+  },
+  {
+    "sentence": "彼女の年齢は27です。",
+    "translation": "Usia dia 27 tahun.",
+    "no": 15
+  },
+  {
+    "sentence": "祖父が病気になった。",
+    "translation": "Kakek saya sakit.",
+    "no": 15
+  },
+  {
+    "sentence": "朝、携帯をバッグに入れます。",
+    "translation": "Pagi-pagi, saya memasukkan ponsel ke dalam tas.",
+    "no": 15
+  },
+  {
+    "sentence": "状況はますます悪くなったね。",
+    "translation": "Keadaan semakin memburuk, ya.",
+    "no": 15
+  },
+  {
+    "sentence": "私は料理をテーブルに並べた。",
+    "translation": "Saya menata masakan di atas meja.",
+    "no": 15
+  },
+  {
+    "sentence": "その選手は新しいチームと契約した。",
+    "translation": "Pemain itu menandatangani kontrak dengan tim baru.",
+    "no": 15
+  },
+  {
+    "sentence": "平和は人類の永遠の手間です。",
+    "translation": "Perdamaian adalah usaha abadi umat manusia.",
+    "no": 15
+  },
+  {
+    "sentence": "彼女は不意に立ち上がった。",
+    "translation": "Dia tiba-tiba berdiri.",
+    "no": 15
+  },
+  {
+    "sentence": "魔女は恐ろしい呪いをかけました。",
+    "translation": "Penyihir mengutuk dengan kutukan yang mengerikan.",
+    "no": 15
+  },
+  {
+    "sentence": "彼は1年2組の生徒です。",
+    "translation": "Dia adalah siswa kelas 2 tahun pertama.",
+    "no": 15
+  },
+  {
+    "sentence": "彼女はクラブで踊るのが好きです。",
+    "translation": "Dia suka menari di klub.",
+    "no": 15
+  },
+  {
+    "sentence": "今日は6時半に目覚めました。",
+    "translation": "Hari ini saya bangun pukul 6:30.",
+    "no": 15
+  },
+  {
+    "sentence": "彼は事故で怪我をしました。",
+    "translation": "Dia terluka dalam kecelakaan.",
+    "no": 15
+  },
+  {
+    "sentence": "袋はいりません。",
+    "translation": "Saya tidak perlu kantong.",
+    "no": 15
+  },
+  {
+    "sentence": "雪道で派手に転んでしまったの。",
+    "translation": "Saya jatuh dengan keras di jalan bersalju.",
+    "no": 15
+  },
+  {
+    "sentence": "今更後悔しても、もう遅いよ。",
+    "translation": "Menyesal sekarang sudah terlambat.",
+    "no": 15
+  },
+  {
+    "sentence": "この道を真っ直ぐ行ってください。",
+    "translation": "Silakan jalan lurus di jalan ini.",
+    "no": 15
+  },
+  {
+    "sentence": "少しの油断が大きな事故につながります。",
+    "translation": "Sedikit kelalaian bisa menyebabkan kecelakaan besar.",
+    "no": 15
+  },
+  {
+    "sentence": "車を壁にぶつけてしまいました。",
+    "translation": "Saya menabrakkan mobil ke dinding.",
+    "no": 15
+  },
+  {
+    "sentence": "野菜がよく育っている。",
+    "translation": "Sayuran tumbuh dengan baik.",
+    "no": 15
+  },
+  {
+    "sentence": "私は彼女の言葉に傷つきました。",
+    "translation": "Saya terluka oleh kata-katanya.",
+    "no": 15
+  },
+  {
+    "sentence": "彼は一言も発することはなかった。",
+    "translation": "Dia tidak mengucapkan sepatah kata pun.",
+    "no": 15
+  },
+  {
+    "sentence": "コンサートは夜7時5分に終了しました。",
+    "translation": "Konser selesai pukul 7:05 malam.",
+    "no": 15
+  },
+  {
+    "sentence": "廊下から大きな足音が聞こえた。",
+    "translation": "Dari lorong terdengar suara langkah kaki yang besar.",
+    "no": 15
+  },
+  {
+    "sentence": "彼の決意は堅いな。",
+    "translation": "Tekadnya kuat.",
+    "no": 15
+  },
+  {
+    "sentence": "彼の我慢強さには感心しました。",
+    "translation": "Saya terkesan dengan kesabarannya.",
+    "no": 15
+  },
+  {
+    "sentence": "彼は薬を一気に飲み込んだ。",
+    "translation": "Dia menelan obat sekaligus.",
+    "no": 15
+  },
+  {
+    "sentence": "仮にそれが事実だとしても、もう遅いよ。",
+    "translation": "Meskipun itu benar, sudah terlambat.",
+    "no": 15
+  },
+  {
+    "sentence": "みんなにお菓子をあげましょう。",
+    "translation": "Mari beri kue kepada semua orang.",
+    "no": 15
+  },
+  {
+    "sentence": "麻はきれいに染まります。",
+    "translation": "Rami mudah diwarnai dengan bersih.",
+    "no": 15
+  },
+  {
+    "sentence": "あの家は笑いが絶えないね。",
+    "translation": "Rumah itu tidak pernah kehabisan tawa.",
+    "no": 15
+  },
+  {
+    "sentence": "スーパーで買い物をします。",
+    "translation": "Saya berbelanja di supermarket.",
+    "no": 15
+  },
+  {
+    "sentence": "私はその歌を知らなかった。",
+    "translation": "Saya tidak tahu lagu itu.",
+    "no": 15
+  },
+  {
+    "sentence": "庭に犬がいます。",
+    "translation": "Ada anjing di halaman.",
+    "no": 15
+  },
+  {
+    "sentence": "生き物を大切にしましょう。",
+    "translation": "Mari kita hargai makhluk hidup.",
+    "no": 15
+  },
+  {
+    "sentence": "彼は特殊な能力を持っています。",
+    "translation": "Dia memiliki kemampuan khusus.",
+    "no": 15
+  },
+  {
+    "sentence": "私も連れて行ってください。",
+    "translation": "Tolong ajak saya juga.",
+    "no": 15
+  },
+  {
+    "sentence": "問題を解決できないのが現状です。",
+    "translation": "Saat ini, masalah tidak bisa diselesaikan.",
+    "no": 15
+  },
+  {
+    "sentence": "大分ピアノが上手くなりました。",
+    "translation": "Piano saya sudah jauh lebih baik.",
+    "no": 15
+  },
+  {
+    "sentence": "コップの底が濡れていますよ。",
+    "translation": "Dasar gelasnya basah.",
+    "no": 15
+  },
+  {
+    "sentence": "弟は学生です。",
+    "translation": "Adik laki-laki saya seorang pelajar.",
+    "no": 15
+  },
+  {
+    "sentence": "彼女はいつも丁寧に仕事をします。",
+    "translation": "Dia selalu bekerja dengan teliti.",
+    "no": 15
+  },
+  {
+    "sentence": "知っている範囲で教えてください。",
+    "translation": "Tolong ajari saya sesuai yang Anda tahu.",
+    "no": 15
+  },
+  {
+    "sentence": "家にテレビはありません。",
+    "translation": "Tidak ada televisi di rumah.",
+    "no": 15
+  },
+  {
+    "sentence": "彼のお母さんは美人です。",
+    "translation": "Ibunya cantik.",
+    "no": 15
+  },
+  {
+    "sentence": "彼の柔道の技は日本一です。",
+    "translation": "Teknik judo dia nomor satu di Jepang.",
+    "no": 15
+  },
+  {
+    "sentence": "将来はパイロットになりたいです。",
+    "translation": "Saya ingin menjadi pilot di masa depan.",
+    "no": 15
+  },
+  {
+    "sentence": "マラソンで世界記録が出た。",
+    "translation": "Rekor dunia tercipta dalam maraton.",
+    "no": 15
+  },
+  {
+    "sentence": "私の彼女はとても大人しいです。",
+    "translation": "Pacar saya sangat pendiam.",
+    "no": 15
+  },
+  {
+    "sentence": "カルシウムは骨にいいそうです。",
+    "translation": "Kalsium katanya baik untuk tulang.",
+    "no": 15
+  },
+  {
+    "sentence": "彼女には明確な目標があるね。",
+    "translation": "Dia punya tujuan yang jelas.",
+    "no": 15
+  },
+  {
+    "sentence": "肉体はいつか滅びます。",
+    "translation": "Tubuh fisik akan hancur suatu saat nanti.",
+    "no": 15
+  },
+  {
+    "sentence": "これを彼に届けてください。",
+    "translation": "Tolong sampaikan ini kepada dia.",
+    "no": 15
+  },
+  {
+    "sentence": "暗いので足元に気を付けてください。",
+    "translation": "Karena gelap, hati-hati dengan langkah kaki Anda.",
+    "no": 15
+  },
+  {
+    "sentence": "警察がその男を捜しているの。",
+    "translation": "Polisi sedang mencari pria itu.",
+    "no": 15
+  },
+  {
+    "sentence": "彼はわざと負けたように見えたな。",
+    "translation": "Dia terlihat sengaja kalah.",
+    "no": 15
+  },
+  {
+    "sentence": "ワインはいかがですか。",
+    "translation": "Bagaimana dengan anggur?",
+    "no": 15
+  },
+  {
+    "sentence": "この布はカーテンに使えます。",
+    "translation": "Kain ini bisa digunakan untuk tirai.",
+    "no": 15
+  },
+  {
+    "sentence": "バラには色々な種類があります。",
+    "translation": "Mawar ada berbagai jenis.",
+    "no": 15
+  },
+  {
+    "sentence": "彼は応募の条件を満たしていない。",
+    "translation": "Dia tidak memenuhi syarat untuk melamar.",
+    "no": 15
+  },
+  {
+    "sentence": "ここから見る景色は本当に綺麗ですね。",
+    "translation": "Pemandangan dari sini benar-benar indah, ya.",
+    "no": 15
+  },
+  {
+    "sentence": "彼は勇気があるね。",
+    "translation": "Dia berani.",
+    "no": 15
+  },
+  {
+    "sentence": "国は国語教育を強化しています。",
+    "translation": "Negara memperkuat pendidikan bahasa nasional.",
+    "no": 15
+  },
+  {
+    "sentence": "塩、コショウを加えてください。",
+    "translation": "Tambahkan garam dan merica.",
+    "no": 15
+  },
+  {
+    "sentence": "突然何を言い出すのかと思った。",
+    "translation": "Saya pikir dia tiba-tiba akan mengatakan sesuatu.",
+    "no": 15
+  },
+  {
+    "sentence": "警官が来て騒ぎが収まった。",
+    "translation": "Polisi datang dan keributan mereda.",
+    "no": 15
+  },
+  {
+    "sentence": "彼はある組織のリーダーだ。",
+    "translation": "Dia adalah pemimpin sebuah organisasi.",
+    "no": 15
+  },
+  {
+    "sentence": "猫がドアの隙間から入って来た。",
+    "translation": "Kucing masuk melalui celah pintu.",
+    "no": 15
+  },
+  {
+    "sentence": "本日のランチはハンバーグでございます。",
+    "translation": "Makan siang hari ini adalah hamburger.",
+    "no": 15
+  },
+  {
+    "sentence": "先日の件はどうなりましたか。",
+    "translation": "Bagaimana dengan urusan beberapa hari yang lalu?",
+    "no": 15
+  },
+  {
+    "sentence": "月曜日に会いましょう。",
+    "translation": "Mari bertemu pada hari Senin.",
+    "no": 15
+  },
+  {
+    "sentence": "火曜日に会議があります。",
+    "translation": "Ada rapat pada hari Selasa.",
+    "no": 15
+  },
+  {
+    "sentence": "水曜日はバイトがあります。",
+    "translation": "Saya bekerja paruh waktu pada hari Rabu.",
+    "no": 15
+  },
+  {
+    "sentence": "木曜日は仕事が休みです。",
+    "translation": "Hari Kamis saya libur kerja.",
+    "no": 15
+  },
+  {
+    "sentence": "金曜日の夜は友達と出かけます。",
+    "translation": "Malam Jumat saya keluar bersama teman-teman.",
+    "no": 15
+  },
+  {
+    "sentence": "土曜日の夜はクラブに行きます。",
+    "translation": "Malam Sabtu saya pergi ke klub.",
+    "no": 15
+  },
+  {
+    "sentence": "日曜日は海に行きました。",
+    "translation": "Pada hari Minggu saya pergi ke pantai.",
+    "no": 15
+  },
+  {
+    "sentence": "それを一つください。",
+    "translation": "Tolong beri saya satu itu.",
+    "no": 15
+  },
+  {
+    "sentence": "ソフトクリームを二つください。",
+    "translation": "Tolong beri saya dua es krim soft.",
+    "no": 15
+  },
+  {
+    "sentence": "コップを三つ買いました。",
+    "translation": "Saya membeli tiga gelas.",
+    "no": 15
+  },
+  {
+    "sentence": "私は腕時計を四つ持っています。",
+    "translation": "Saya memiliki empat jam tangan.",
+    "no": 15
+  },
+  {
+    "sentence": "桃を五つください。",
+    "translation": "Tolong beri saya lima buah persik.",
+    "no": 15
+  },
+  {
+    "sentence": "おにぎりを六つ作りました。",
+    "translation": "Saya membuat enam nasi kepal.",
+    "no": 15
+  },
+  {
+    "sentence": "ロールパンを七つ買ってきてください。",
+    "translation": "Tolong belikan saya tujuh roti gulung.",
+    "no": 15
+  },
+  {
+    "sentence": "あの家には時計が八つあります。",
+    "translation": "Di rumah itu ada delapan jam.",
+    "no": 15
+  },
+  {
+    "sentence": "兄はおにぎりを九つも食べた。",
+    "translation": "Kakak saya makan sembilan nasi kepal.",
+    "no": 15
+  },
+  {
+    "sentence": "最近、彼の評価が上がった。",
+    "translation": "Baru-baru ini, penilaiannya meningkat.",
+    "no": 15
+  }
+]
