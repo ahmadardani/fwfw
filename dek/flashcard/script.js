@@ -200,10 +200,27 @@ function setupEventListeners() {
   if (els.uploadMistakes) els.uploadMistakes.addEventListener('change', uploadMistakesFile);
 }
 
+function setupDisplayMode() {
+  const radios = document.querySelectorAll('input[name="display-mode"]');
+  radios.forEach(radio => {
+    radio.addEventListener('change', () => {
+      if (radio.checked) {
+        if (radio.value === 'vertical') {
+          document.querySelector('.container').classList.add('vertical');
+        } else {
+          document.querySelector('.container').classList.remove('vertical');
+        }
+      }
+    });
+  });
+}
+
+
 // Inisialisasi
 document.addEventListener('DOMContentLoaded', () => {
   mistakes = loadMistakes();
   if (els.modeOptions) els.modeOptions.style.display = 'none'; // Sembunyikan mode options awalnya
   setupEventListeners();
+  setupDisplayMode();
   loadData();
 });

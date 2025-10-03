@@ -95,10 +95,11 @@ button {
     gap: 10px;
 }
 
-.vertical .question {
+.container.vertical .question {
     writing-mode: vertical-rl;
     text-orientation: mixed;
     font-size: 2.4rem;
+    margin: 0 auto;   /* ini bikin otomatis ketengah horizontal */
 }
 
 /* ==== RESPONSIVE ==== */
