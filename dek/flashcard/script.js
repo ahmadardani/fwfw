@@ -22,6 +22,8 @@ const els = {
   selectFilter: document.getElementById('select-filter'),
   counter: document.getElementById('counter'),
   kanjiDisplay: document.getElementById('kanji-display'),
+  chkFurigana: document.getElementById('chk-furigana'),
+  chkTranslation: document.getElementById('chk-translation'),
 };
 
 // Validasi elemen DOM
@@ -52,7 +54,10 @@ async function loadData() {
     allData = [];
     if (els.sentenceArea) els.sentenceArea.textContent = 'Gagal memuat data dari kaishi.json';
     if (els.counter) els.counter.textContent = '0 / 0';
-    if (els.translationArea) els.translationArea.style.display = 'none';
+    if (els.translationArea) {
+          els.translationArea.textContent = data.translation;
+          els.translationArea.style.display = els.chkTranslation.checked ? 'block' : 'none';
+        }
     return;
   }
   populateNoOptions();
@@ -100,15 +105,20 @@ function renderCurrent() {
 
   const data = allData[viewList[current]];
   if (els.sentenceArea) els.sentenceArea.textContent = data.sentence;
+
   if (els.translationArea) {
     els.translationArea.textContent = data.translation;
-    els.translationArea.style.display = 'none';
+    els.translationArea.style.display = els.chkTranslation.checked ? 'block' : 'none';
   }
-  if (els.kanjiDisplay) els.kanjiDisplay.textContent = data.furigana || ''; // Asumsi data memiliki properti furigana
+
+  if (els.kanjiDisplay) {
+    els.kanjiDisplay.textContent = data.furigana || '';
+    els.kanjiDisplay.style.display = els.chkFurigana.checked ? 'block' : 'none';
+  }
+
   if (els.counter) els.counter.textContent = `${current + 1} / ${viewList.length}`;
-  isFuriganaVisible = false;
-  if (els.btnFurigana) els.btnFurigana.textContent = 'Tampilkan Furigana';
 }
+
 
 function toggleFurigana() {
   isFuriganaVisible = !isFuriganaVisible;
@@ -189,8 +199,6 @@ function uploadMistakesFile(event) {
 function setupEventListeners() {
   if (els.selectNo) els.selectNo.addEventListener('change', applyFilterAndReset);
   if (els.selectFilter) els.selectFilter.addEventListener('change', applyFilterAndReset);
-  if (els.btnFurigana) els.btnFurigana.addEventListener('click', toggleFurigana);
-  if (els.btnTranslation) els.btnTranslation.addEventListener('click', toggleTranslation);
   if (els.btnWrong) els.btnWrong.addEventListener('click', markWrong);
   if (els.btnRight) els.btnRight.addEventListener('click', markRight);
   if (els.btnToggleMode) els.btnToggleMode.addEventListener('click', toggleModeOptions);
@@ -215,6 +223,20 @@ function setupDisplayMode() {
   });
 }
 
+function applyCheckboxView() {
+  if (els.kanjiDisplay) {
+    els.kanjiDisplay.style.display = els.chkFurigana.checked ? 'block' : 'none';
+  }
+  if (els.translationArea) {
+    els.translationArea.style.display = els.chkTranslation.checked ? 'block' : 'none';
+  }
+}
+
+function setupCheckboxView() {
+  if (els.chkFurigana) els.chkFurigana.addEventListener('change', applyCheckboxView);
+  if (els.chkTranslation) els.chkTranslation.addEventListener('change', applyCheckboxView);
+}
+
 
 // Inisialisasi
 document.addEventListener('DOMContentLoaded', () => {
@@ -222,5 +244,6 @@ document.addEventListener('DOMContentLoaded', () => {
   if (els.modeOptions) els.modeOptions.style.display = 'none'; // Sembunyikan mode options awalnya
   setupEventListeners();
   setupDisplayMode();
+  setupCheckboxView();
   loadData();
 });

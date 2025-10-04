@@ -11,12 +11,8 @@
 <div id="counter">0 / 0</div>
 <h2>Flashcard — Kaishi</h2>
 <div class="question" id="sentence-area">Muat data...</div>
+<div id="translation-area" class="question translation" style="display:none"></div>
 
-
-<div class="one-line">
-<button id="btn-furigana">Tampilkan Furigana</button>
-<button id="btn-translation">Tampilkan Arti</button>
-</div>
 
 
 <div class="one-line">
@@ -31,19 +27,30 @@
 
 
 <div id="mode-options">
-<div class="mode-group">
-<label><input type="radio" name="display-mode" value="horizontal" checked> Horizontal</label>
-<label><input type="radio" name="display-mode" value="vertical"> Vertikal</label>
-</div>
-<div class="remedial-group">
-<button id="download-mistakes">Unduh Kesalahan (.json)</button>
-<input id="upload-mistakes" type="file" accept="application/json" style="display:none">
-<button id="btn-upload-mistakes">Upload Kesalahan (.json)</button>
-</div>
-<div class="part-group">
-<label>No: <select id="select-no"><option value="1">1</option></select></label>
-<label style="margin-left:10px">Filter: <select id="select-filter"><option value="all">Semua</option><option value="mistakes">Kesalahan</option></select></label>
-</div>
+  <div class="mode-group">
+    <label><input type="checkbox" id="chk-furigana"> Tampilkan Furigana</label>
+    <label><input type="checkbox" id="chk-translation"> Tampilkan Arti</label>
+  </div>
+
+  <label><input type="radio" name="display-mode" value="horizontal" checked> Horizontal</label>
+  <label><input type="radio" name="display-mode" value="vertical"> Vertikal</label>
+
+  <p>Mode Remedial:</p>
+  <div class="remedial-group">
+    <button id="download-mistakes">Unduh Kesalahan (.json)</button>
+    <input id="upload-mistakes" type="file" accept="application/json" style="display:none">
+    <button id="btn-upload-mistakes">Upload Kesalahan (.json)</button>
+  </div>
+
+  <div class="part-group">
+    <label>No: <select id="select-no"><option value="1">1</option></select></label>
+    <label style="margin-left:10px">Filter: 
+      <select id="select-filter">
+        <option value="all">Semua</option>
+        <option value="mistakes">Kesalahan</option>
+      </select>
+    </label>
+  </div>
 </div>
 
 
@@ -51,7 +58,7 @@
 
 
 <hr>
-<div id="translation-area" class="question" style="display:none"></div>
+
 </div>
 
 

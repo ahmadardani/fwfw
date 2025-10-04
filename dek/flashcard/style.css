@@ -68,7 +68,7 @@ button {
     margin-bottom: 10px;
     font-size: 70px;
     color: rgb(92, 62, 62);
-    font-family: "KanjiFont", sans-serif;
+    font-family: "JapaneseFont", sans-serif; /* ✅ konsisten */
     font-weight: bold;
     text-align: center;
     display: none;
@@ -99,7 +99,14 @@ button {
     writing-mode: vertical-rl;
     text-orientation: mixed;
     font-size: 2.4rem;
-    margin: 0 auto;   /* ini bikin otomatis ketengah horizontal */
+    margin: 0 auto;
+}
+
+.container.vertical .translation {
+    writing-mode: horizontal-tb !important;
+    text-orientation: initial !important;
+    font-size: 1.2em;  /* kembali normal */
+    padding-bottom: 20px;
 }
 
 /* ==== RESPONSIVE ==== */
@@ -126,11 +133,6 @@ button {
 }
 
 @font-face {
-    font-family: "KanjiFont";
-    src: url("fonts/Choumei_v1.11.ttf") format("truetype");
-}
-
-@font-face {
-    font-family: "HiraganaFont";
-    src: url("fonts/Choumei_v1.11.ttf") format("truetype");
+    font-family: "JapaneseFont";
+    src: url("/fonts/Choumei_v1.11.ttf") format("truetype");
 }
