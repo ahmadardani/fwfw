@@ -22,7 +22,7 @@ const els = {
   selectFilter: document.getElementById('select-filter'),
   counter: document.getElementById('counter'),
   kanjiDisplay: document.getElementById('kanji-display'),
-  chkFurigana: document.getElementById('chk-furigana'),
+  chkHiragana: document.getElementById('chk-hiragana'),
   chkTranslation: document.getElementById('chk-translation'),
 };
 
@@ -111,10 +111,10 @@ function renderCurrent() {
     els.translationArea.style.display = els.chkTranslation.checked ? 'block' : 'none';
   }
 
-  if (els.kanjiDisplay) {
-    els.kanjiDisplay.textContent = data.furigana || '';
-    els.kanjiDisplay.style.display = els.chkFurigana.checked ? 'block' : 'none';
-  }
+if (els.kanjiDisplay) {
+  els.kanjiDisplay.textContent = data.hiragana || '';
+  els.kanjiDisplay.style.display = els.chkHiragana.checked ? 'block' : 'none';
+}
 
   if (els.counter) els.counter.textContent = `${current + 1} / ${viewList.length}`;
 }
@@ -224,19 +224,13 @@ function setupDisplayMode() {
 }
 
 function applyCheckboxView() {
-  if (els.kanjiDisplay) {
-    els.kanjiDisplay.style.display = els.chkFurigana.checked ? 'block' : 'none';
-  }
-  if (els.translationArea) {
-    els.translationArea.style.display = els.chkTranslation.checked ? 'block' : 'none';
-  }
+  renderCurrent();
 }
 
 function setupCheckboxView() {
-  if (els.chkFurigana) els.chkFurigana.addEventListener('change', applyCheckboxView);
+  if (els.chkHiragana) els.chkHiragana.addEventListener('change', applyCheckboxView);
   if (els.chkTranslation) els.chkTranslation.addEventListener('change', applyCheckboxView);
 }
-
 
 // Inisialisasi
 document.addEventListener('DOMContentLoaded', () => {
