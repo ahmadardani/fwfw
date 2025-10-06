@@ -1,5 +1,5 @@
 body {
-    font-family: "sans-serif";
+    font-family: 'Nunito';
     padding: 20px;
     background-color: #faebd7;
     margin: 0;
@@ -33,6 +33,7 @@ h2 {
     text-align: center;
     color: #333;
     font-size: 1.5em;
+    font-family: 'Nunito';
 }
 
 .question {
@@ -47,7 +48,7 @@ h2 {
 .translation {
     font-size: 25px;
     text-align: center;
-    font-family: "sans-serif";
+    font-family: 'Nunito';
     color: rgb(92, 62, 62);
 }
 
@@ -61,6 +62,7 @@ button {
     width: 100%;
     margin-top: 10px;
     box-sizing: border-box;
+    font-family: 'Nunito';
 }
 
 .one-line {
@@ -152,4 +154,32 @@ button {
 @font-face {
     font-family: "JapaneseFont";
     src: url("/fonts/Choumei_v1.11.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url('Nunito-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url('Nunito-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url('Nunito-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url('Nunito-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
 }
