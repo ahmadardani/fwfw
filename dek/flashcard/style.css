@@ -17,14 +17,12 @@ body {
 }
 
 #counter {
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    font-size: 0.9em;
+    text-align: center;
+    margin: 8px 0;
+    font-size: 0.95em;
     font-weight: bold;
     color: #333;
 }
-
 hr {
     border-top: 1px dashed black;
 }
@@ -81,7 +79,7 @@ button {
     margin-bottom: 10px;
     font-size: 20px;
     color: rgb(92, 62, 62);
-    font-family: "JapaneseFont", sans-serif; /* ✅ konsisten */
+    font-family: "JapaneseFont"; /* ✅ konsisten */
     font-weight: bold;
     text-align: center;
     display: none;
@@ -113,6 +111,9 @@ button {
     text-orientation: mixed;
     font-size: 2.4rem;
     margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container.vertical .translation {
@@ -159,28 +160,28 @@ button {
 
 @font-face {
   font-family: 'Nunito';
-  src: url('Nunito-Regular.ttf') format('truetype');
+  src: url('/fonts/Nunito-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Nunito';
-  src: url('Nunito-Italic.ttf') format('truetype');
+  src: url('/fonts/Nunito-Italic.ttf') format('truetype');
   font-weight: 400;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Nunito';
-  src: url('Nunito-Bold.ttf') format('truetype');
+  src: url('/fonts/Nunito-Bold.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Nunito';
-  src: url('Nunito-BoldItalic.ttf') format('truetype');
+  src: url('/fonts/Nunito-BoldItalic.ttf') format('truetype');
   font-weight: 700;
   font-style: italic;
 }
