@@ -104,7 +104,11 @@ function renderCurrent() {
   if (!viewList.length || !allData[viewList[current]]) return;
 
   const data = allData[viewList[current]];
-  if (els.sentenceArea) els.sentenceArea.textContent = data.sentence;
+
+  if (els.sentenceArea) {
+  els.sentenceArea.textContent = data.sentence;
+  replaceLongSoundMarks(); // <--- tambahkan ini
+}
 
   if (els.translationArea) {
     els.translationArea.textContent = data.translation;
@@ -118,6 +122,25 @@ if (els.kanjiDisplay) {
 
   if (els.counter) els.counter.textContent = `${current + 1} / ${viewList.length}`;
 }
+
+function replaceLongSoundMarks() {
+  const container = document.querySelector('.container');
+  if (!container || !container.classList.contains('vertical')) return;
+
+  const question = container.querySelector('.question');
+  if (!question) return;
+
+  let text = question.textContent;
+
+  // Ganti chōonpu ー dengan ｜ (untuk teks vertikal)
+  text = text.replace(/ー/g, '｜');
+
+  // Bungkus huruf dan angka agar tetap horizontal
+  text = text.replace(/([A-Za-z0-9])/g, '<span class="horizontal-char">$1</span>');
+
+  question.innerHTML = text;
+}
+
 
 
 function toggleFurigana() {

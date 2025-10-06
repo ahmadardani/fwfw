@@ -119,6 +119,12 @@ button {
     padding-bottom: 20px;
 }
 
+.horizontal-char {
+  writing-mode: horizontal-tb;
+  display: inline-block;
+  text-orientation: mixed;
+}
+
 /* ==== RESPONSIVE ==== */
 @media (max-width: 720px) {
     body {
