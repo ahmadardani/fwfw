@@ -115,8 +115,9 @@ button {
 .container.vertical .translation {
     writing-mode: horizontal-tb !important;
     text-orientation: initial !important;
-    font-size: 1.2em;  /* kembali normal */
-    padding-bottom: 20px;
+    font-size: 1.4em;  /* kembali normal */
+    padding-bottom: 2px;
+    padding-top: 10px;
 }
 
 .horizontal-char {
