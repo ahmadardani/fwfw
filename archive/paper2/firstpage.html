@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>Kanji Grid (Cut Friendly)</title>
+<style>
+@page {
+  size: A4 landscape;
+  margin: 0;
+}
+
+@font-face {
+  font-family: "JapaneseFont";
+  src: url("/fonts/Choumei_v1.11.ttf") format("truetype");
+}
+
+body {
+  font-family: "JapaneseFont", serif;
+  margin: 0;
+  padding: 1cm;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6%; /* area tengah untuk potong */
+  height: 100vh;
+  box-sizing: border-box;
+  position: relative;
+}
+
+/* Garis panduan potong di tengah */
+body::after {
+  content: "";
+  position: absolute;
+  top: 1cm;
+  bottom: 1cm;
+  left: 50%;
+  width: 1px;
+  background: gray;
+  opacity: 0.4;
+  pointer-events: none;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  gap: 0;
+  width: 49%;
+  aspect-ratio: 4 / 5; /* proporsional 4x5 */
+  border: 2px solid #000;
+  box-sizing: border-box;
+}
+
+.kanji {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #000;
+  font-size: 42pt;
+  aspect-ratio: 1 / 1;
+}
+
+/* Nomor halaman */
+.page-number {
+  position: absolute;
+  bottom: 0.5cm;
+  font-size: 14pt;
+}
+
+.page-left {
+  left: 1cm;
+}
+
+.page-right {
+  right: 1cm;
+}
+</style>
+</head>
+<body>
+
+<!-- Grid kiri -->
+<div class="grid">
+  <div class="kanji">議</div><div class="kanji">連</div><div class="kanji">対</div><div class="kanji">部</div>
+  <div class="kanji">内</div><div class="kanji">相</div><div class="kanji">定</div><div class="kanji">選</div>
+  <div class="kanji">米</div><div class="kanji">実</div><div class="kanji">関</div><div class="kanji">決</div>
+  <div class="kanji">全</div><div class="kanji">表</div><div class="kanji">戦</div><div class="kanji">最</div>
+  <div class="kanji">調</div><div class="kanji">化</div><div class="kanji">当</div><div class="kanji">約</div>
+</div>
+
+<!-- Grid kanan -->
+<div class="grid">
+  <div class="kanji">法</div><div class="kanji">的</div><div class="kanji">要</div><div class="kanji">治</div>
+  <div class="kanji">成</div><div class="kanji">期</div><div class="kanji">公</div><div class="kanji">協</div>
+  <div class="kanji">取</div><div class="kanji">和</div><div class="kanji">機</div><div class="kanji">平</div>
+  <div class="kanji">加</div><div class="kanji">受</div><div class="kanji">続</div><div class="kanji">改</div>
+  <div class="kanji">数</div><div class="kanji">記</div><div class="kanji">初</div><div class="kanji">指</div>
+</div>
+
+<!-- Nomor halaman -->
+<div class="page-number page-left">1</div>
+<div class="page-number page-right">2</div>
+
+</body>
+</html>
