@@ -21,7 +21,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 6%; /* area tengah untuk potong */
+  gap: 7.4%; /* area tengah untuk potong */
   height: 100vh;
   box-sizing: border-box;
   position: relative;
@@ -56,23 +56,25 @@ body::after {
   align-items: center;
   justify-content: center;
   border: 1px solid #000;
-  font-size: 42pt;
+  font-size: 60pt;
   aspect-ratio: 1 / 1;
 }
 
 /* Nomor halaman */
 .page-number {
   position: absolute;
-  bottom: 0.5cm;
+  bottom: 1.0cm;
   font-size: 14pt;
 }
 
 .page-left {
-  left: 1cm;
+  left: 25%;              /* tengah dari sisi kiri halaman */
+  transform: translateX(-50%);
 }
 
 .page-right {
-  right: 1cm;
+  left: 75%;              /* tengah dari sisi kanan halaman */
+  transform: translateX(-50%);
 }
 </style>
 </head>
@@ -89,16 +91,16 @@ body::after {
 
 <!-- Grid kanan -->
 <div class="grid">
-  <div class="kanji">法</div><div class="kanji">的</div><div class="kanji">要</div><div class="kanji">治</div>
-  <div class="kanji">成</div><div class="kanji">期</div><div class="kanji">公</div><div class="kanji">協</div>
-  <div class="kanji">取</div><div class="kanji">和</div><div class="kanji">機</div><div class="kanji">平</div>
-  <div class="kanji">加</div><div class="kanji">受</div><div class="kanji">続</div><div class="kanji">改</div>
-  <div class="kanji">数</div><div class="kanji">記</div><div class="kanji">初</div><div class="kanji">指</div>
+  <div class="kanji">第</div>  <div class="kanji">結</div>  <div class="kanji">点</div>  <div class="kanji">府</div>
+  <div class="kanji">活</div>  <div class="kanji">原</div>  <div class="kanji">共</div>  <div class="kanji">得</div>
+  <div class="kanji">交</div>  <div class="kanji">予</div>  <div class="kanji">向</div>  <div class="kanji">勝</div>
+  <div class="kanji">面</div>  <div class="kanji">委</div>  <div class="kanji">告</div>  <div class="kanji">軍</div>
+  <div class="kanji">反</div>  <div class="kanji">参</div>  <div class="kanji">利</div>  <div class="kanji">組</div>
 </div>
 
 <!-- Nomor halaman -->
 <div class="page-number page-left">1</div>
-<div class="page-number page-right">2</div>
+<div class="page-number page-right">3</div>
 
 </body>
 </html>
