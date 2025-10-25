@@ -1,0 +1,620 @@
+[
+  {
+    "kanji": "日",
+    "onyomi": "ニチ、 ジツ",
+    "kunyomi": "ひ、 -び、 -か",
+    "indonesia": "hari, matahari, Jepang"
+  },
+  {
+    "kanji": "一",
+    "onyomi": "イチ、 イツ",
+    "kunyomi": "ひと-、 ひと.つ",
+    "indonesia": "satu"
+  },
+  {
+    "kanji": "国",
+    "onyomi": "コク",
+    "kunyomi": "くに",
+    "indonesia": "negara"
+  },
+  {
+    "kanji": "会",
+    "onyomi": "カイ、 エ",
+    "kunyomi": "あ.う、 あ.わせる、 あつ.まる",
+    "indonesia": "rapat, bertemu, asosiasi, partai, wawancara, bergabung"
+  },
+  {
+    "kanji": "人",
+    "onyomi": "ジン、 ニン",
+    "kunyomi": "ひと、 -り、 -と",
+    "indonesia": "orang"
+  },
+  {
+    "kanji": "年",
+    "onyomi": "ネン",
+    "kunyomi": "とし",
+    "indonesia": "tahun"
+  },
+  {
+    "kanji": "大",
+    "onyomi": "ダイ、 タイ",
+    "kunyomi": "おお-、 おお.きい、 -おお.いに",
+    "indonesia": "besar, luas"
+  },
+  {
+    "kanji": "十",
+    "onyomi": "ジュウ、 ジッ、 ジュッ",
+    "kunyomi": "とお、 と、 そ",
+    "indonesia": "sepuluh"
+  },
+  {
+    "kanji": "二",
+    "onyomi": "ニ、 ジ",
+    "kunyomi": "ふた、 ふた.つ、 ふたたび",
+    "indonesia": "dua"
+  },
+  {
+    "kanji": "本",
+    "onyomi": "ホン",
+    "kunyomi": "もと",
+    "indonesia": "Buku, utama, benar, nyata, counter untuk hal-hal silinder yang panjang"
+  },
+  {
+    "kanji": "中",
+    "onyomi": "チュウ",
+    "kunyomi": "なか、 うち、 あた.る",
+    "indonesia": "di, dalam, tengah, sentral, pusat"
+  },
+  {
+    "kanji": "長",
+    "onyomi": "チョウ",
+    "kunyomi": "なが.い、 おさ",
+    "indonesia": "panjang, pemimpin, superior, senior"
+  },
+  {
+    "kanji": "出",
+    "onyomi": "シュツ、 スイ",
+    "kunyomi": "で.る、 -で、 だ.す、 -だ.す、 い.でる、 い.だす",
+    "indonesia": "keluar, meninggalkan, mengeluarkan"
+  },
+  {
+    "kanji": "三",
+    "onyomi": "サン、 ゾウ",
+    "kunyomi": "み、 み.つ、 みっ.つ",
+    "indonesia": "tiga"
+  },
+  {
+    "kanji": "時",
+    "onyomi": "ジ",
+    "kunyomi": "とき、 -どき",
+    "indonesia": "waktu, jam"
+  },
+  {
+    "kanji": "行",
+    "onyomi": "コウ、 ギョウ、 アン",
+    "kunyomi": "い.く、 ゆ.く、 -ゆ.き、 -ゆき、 -い.き、 -いき、 おこな.う、 おこ.なう",
+    "indonesia": "pergi, perjalanan, melakukan, melakukan, bertindak, garis, baris"
+  },
+  {
+    "kanji": "社",
+    "onyomi": "シャ",
+    "kunyomi": "やしろ",
+    "indonesia": "perusahaan, firma, kantor, asosiasi, kui"
+  },
+  {
+    "kanji": "見",
+    "onyomi": "ケン",
+    "kunyomi": "み.る、 み.える、 み.せる",
+    "indonesia": "melihat, harapan, peluang, ide, pendapat, melihat, terlihat"
+  },
+  {
+    "kanji": "月",
+    "onyomi": "ゲツ、 ガツ",
+    "kunyomi": "つき",
+    "indonesia": "bulan"
+  },
+  {
+    "kanji": "分",
+    "onyomi": "ブン, フン, ブ",
+    "kunyomi": "わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ",
+    "indonesia": "bagian, menit waktu, segmen, bagian, derajat, bagian seseorang, tugas, mengerti"
+  },
+  {
+    "kanji": "後",
+    "onyomi": "ゴ、 コウ",
+    "kunyomi": "のち、 うし.ろ、 うしろ、 あと、 おく.れる",
+    "indonesia": "di belakang, belakang, nanti"
+  },
+  {
+    "kanji": "前",
+    "onyomi": "ゼン",
+    "kunyomi": "まえ、 -まえ",
+    "indonesia": "di depan, sebelumnya"
+  },
+  {
+    "kanji": "生",
+    "onyomi": "セイ、 ショウ",
+    "kunyomi": "い.きる、 い.かす、 い.ける、 う.まれる、 うま.れる、 う.まれ、 うまれ、 う.む、 お.う、 は.える、 は.やす、 き、 なま、 なま-、 な.る、 な.す、 む.す、 -う",
+    "indonesia": "kehidupan, sejati, kelahiran"
+  },
+  {
+    "kanji": "五",
+    "onyomi": "ゴ",
+    "kunyomi": "いつ、 いつ.つ",
+    "indonesia": "lima"
+  },
+  {
+    "kanji": "間",
+    "onyomi": "カン、 ケン",
+    "kunyomi": "あいだ、 ま、 あい",
+    "indonesia": "Interval, ruang"
+  },
+  {
+    "kanji": "上",
+    "onyomi": "ジョウ、 ショウ、 シャン",
+    "kunyomi": "うえ、 -うえ、 うわ-、 かみ、 あ.げる、 -あ.げる、 あ.がる、 -あ.がる、 あ.がり、 -あ.がり、 のぼ.る、 のぼ.り、 のぼ.せる、 のぼ.す、 たてまつ.る",
+    "indonesia": "di atas, up"
+  },
+  {
+    "kanji": "東",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし",
+    "indonesia": "timur"
+  },
+  {
+    "kanji": "四",
+    "onyomi": "シ",
+    "kunyomi": "よ、 よ.つ、 よっ.つ、 よん",
+    "indonesia": "empat"
+  },
+  {
+    "kanji": "今",
+    "onyomi": "コン、 キン",
+    "kunyomi": "いま",
+    "indonesia": "sekarang"
+  },
+  {
+    "kanji": "新",
+    "onyomi": "シン",
+    "kunyomi": "あたら.しい、 あら.た、 あら-、 にい-",
+    "indonesia": "baru"
+  },
+  {
+    "kanji": "金",
+    "onyomi": "キン、 コン、 ゴン",
+    "kunyomi": "かね、 かな-、 -がね",
+    "indonesia": "emas"
+  },
+  {
+    "kanji": "九",
+    "onyomi": "キュウ、 ク",
+    "kunyomi": "ここの、 ここの.つ",
+    "indonesia": "sembilan"
+  },
+  {
+    "kanji": "入",
+    "onyomi": "ニュウ、 ジュ",
+    "kunyomi": "い.る、 -い.る、 -い.り、 い.れる、 -い.れ、 はい.る",
+    "indonesia": "masuk, memasukkan"
+  },
+  {
+    "kanji": "立",
+    "onyomi": "リツ、 リュウ、 リットル",
+    "kunyomi": "た.つ、 -た.つ、 た.ち-、 た.てる、 -た.てる、 た.て-、 たて-、 -た.て、 -だ.て、 -だ.てる",
+    "indonesia": "berdiri, bangkit, tegak, bangun"
+  },
+  {
+    "kanji": "手",
+    "onyomi": "シュ、 ズ",
+    "kunyomi": "て、 て-、 -て、 た-",
+    "indonesia": "tangan"
+  },
+  {
+    "kanji": "学",
+    "onyomi": "ガク",
+    "kunyomi": "まな.ぶ",
+    "indonesia": "studi, belajar, ilmu pengetahuan"
+  },
+  {
+    "kanji": "高",
+    "onyomi": "コウ",
+    "kunyomi": "たか.い、 たか、 -だか、 たか.まる、 たか.める",
+    "indonesia": "tinggi, mahal"
+  },
+  {
+    "kanji": "円",
+    "onyomi": "エン",
+    "kunyomi": "まる.い、 まる、 まど、 まど.か、 まろ.やか",
+    "indonesia": "lingkaran, yen, bundar"
+  },
+  {
+    "kanji": "子",
+    "onyomi": "シ、 ス、 ツ",
+    "kunyomi": "こ、 -こ、 ね",
+    "indonesia": "anak, zodiak Cina (Tikus, 11 malam - 01:00 pagi, utara, November)"
+  },
+  {
+    "kanji": "目",
+    "onyomi": "モク、 ボク",
+    "kunyomi": "め、 -め、 ま-",
+    "indonesia": "mata, penglihatan, visi"
+  },
+  {
+    "kanji": "外",
+    "onyomi": "ガイ、 ゲ",
+    "kunyomi": "そと、 ほか、 はず.す、 はず.れる、 と-",
+    "indonesia": "di luar"
+  },
+  {
+    "kanji": "言",
+    "onyomi": "ゲン、 ゴン",
+    "kunyomi": "い.う、 こと",
+    "indonesia": "mengatakan, kata"
+  },
+  {
+    "kanji": "八",
+    "onyomi": "ハチ",
+    "kunyomi": "や、 や.つ、 やっ.つ、 よう",
+    "indonesia": "delapan"
+  },
+  {
+    "kanji": "六",
+    "onyomi": "ロク、 リク",
+    "kunyomi": "む、 む.つ、 むっ.つ、 むい",
+    "indonesia": "enam"
+  },
+  {
+    "kanji": "下",
+    "onyomi": "カ、 ゲ",
+    "kunyomi": "した、 しも、 もと、 さ.げる、 さ.がる、 くだ.る、 くだ.り、 くだ.す、 -くだ.す、 くだ.さる、 お.ろす、 お.りる",
+    "indonesia": "bawah, turun, rendah, inferior, memberikan"
+  },
+  {
+    "kanji": "来",
+    "onyomi": "ライ、 タイ",
+    "kunyomi": "く.る、 きた.る、 きた.す、 き.たす、 き.たる、 き、 こ",
+    "indonesia": "datang, karena, selanjutnya, sebab, menjadi"
+  },
+  {
+    "kanji": "気",
+    "onyomi": "キ、 ケ",
+    "kunyomi": "いき",
+    "indonesia": "spirit/jiwa, semangat, pikiran, atmosfer, mood"
+  },
+  {
+    "kanji": "小",
+    "onyomi": "ショウ",
+    "kunyomi": "ちい.さい、 こ-、 お-、 さ-",
+    "indonesia": "kecil"
+  },
+  {
+    "kanji": "七",
+    "onyomi": "シチ",
+    "kunyomi": "なな、 なな.つ、 なの",
+    "indonesia": "tujuh"
+  },
+  {
+    "kanji": "山",
+    "onyomi": "サン、 セン",
+    "kunyomi": "やま",
+    "indonesia": "gunung"
+  },
+  {
+    "kanji": "話",
+    "onyomi": "ワ",
+    "kunyomi": "はな.す、 はなし",
+    "indonesia": "bicara, kisah"
+  },
+  {
+    "kanji": "多",
+    "onyomi": "タ",
+    "kunyomi": "おお.い、 まさ.に、 まさ.る",
+    "indonesia": "banyak, sering"
+  },
+  {
+    "kanji": "安",
+    "onyomi": "アン",
+    "kunyomi": "やす.い、 やす.まる、 やす、 やす.らか",
+    "indonesia": "murah, rendah, tenang, mudah"
+  },
+  {
+    "kanji": "女",
+    "onyomi": "ジョ、 ニョ、 ニョウ",
+    "kunyomi": "おんな、 め",
+    "indonesia": "wanita, perempuan"
+  },
+  {
+    "kanji": "北",
+    "onyomi": "ホク",
+    "kunyomi": "きた",
+    "indonesia": "utara"
+  },
+  {
+    "kanji": "午",
+    "onyomi": "ゴ",
+    "kunyomi": "うま",
+    "indonesia": "siang, Zodiak Cina (Kuda, 11: 00-1: 00, selatan, Mei)"
+  },
+  {
+    "kanji": "百",
+    "onyomi": "ヒャク、 ビャク",
+    "kunyomi": "もも",
+    "indonesia": "seratus, -ratusan"
+  },
+  {
+    "kanji": "書",
+    "onyomi": "ショ",
+    "kunyomi": "か.く、 -が.き、 -がき",
+    "indonesia": "menulis"
+  },
+  {
+    "kanji": "先",
+    "onyomi": "セン",
+    "kunyomi": "さき、 ま.ず",
+    "indonesia": "sebelum, depan, sebelumnya, diutamakan"
+  },
+  {
+    "kanji": "名",
+    "onyomi": "メイ、 ミョウ",
+    "kunyomi": "な、 -な",
+    "indonesia": "nama, mencatat, dibedakan, reputasi"
+  },
+  {
+    "kanji": "川",
+    "onyomi": "セン",
+    "kunyomi": "かわ",
+    "indonesia": "aliran sungai"
+  },
+  {
+    "kanji": "千",
+    "onyomi": "セン",
+    "kunyomi": "ち",
+    "indonesia": "seribu, -ribuan"
+  },
+  {
+    "kanji": "道",
+    "onyomi": "ドウ、 トウ",
+    "kunyomi": "みち、 いう",
+    "indonesia": "jalan, perjalanan, rute, distrik"
+  },
+  {
+    "kanji": "水",
+    "onyomi": "スイ",
+    "kunyomi": "みず、 みず-",
+    "indonesia": "air"
+  },
+  {
+    "kanji": "半",
+    "onyomi": "ハン",
+    "kunyomi": "なか.ば",
+    "indonesia": "setengah, separuh, angka ganjil, paruh"
+  },
+  {
+    "kanji": "男",
+    "onyomi": "ダン、 ナン",
+    "kunyomi": "おとこ、 お",
+    "indonesia": "pria, laki-laki"
+  },
+  {
+    "kanji": "西",
+    "onyomi": "セイ、 サイ、 ス",
+    "kunyomi": "にし",
+    "indonesia": "barat"
+  },
+  {
+    "kanji": "電",
+    "onyomi": "デン",
+    "kunyomi": "いなずま",
+    "indonesia": "listrik"
+  },
+  {
+    "kanji": "口",
+    "onyomi": "コウ、 ク",
+    "kunyomi": "くち",
+    "indonesia": "mulut"
+  },
+  {
+    "kanji": "少",
+    "onyomi": "ショウ",
+    "kunyomi": "すく.ない、 すこ.し",
+    "indonesia": "beberapa, sedikit"
+  },
+  {
+    "kanji": "校",
+    "onyomi": "コウ、 キョウ",
+    "kunyomi": "かせ",
+    "indonesia": "ujian, sekolah, percetakan, bukti, koreksi"
+  },
+  {
+    "kanji": "語",
+    "onyomi": "ゴ",
+    "kunyomi": "かた.る、 かた.らう",
+    "indonesia": "kata, ucapan, bahasa"
+  },
+  {
+    "kanji": "空",
+    "onyomi": "クウ",
+    "kunyomi": "そら、 あ.く、 あ.き、 あ.ける、 から、 す.く、 す.かす、 むな.しい",
+    "indonesia": "langit, angkasa, vakum/hampa/kosong"
+  },
+  {
+    "kanji": "土",
+    "onyomi": "ド、 ト",
+    "kunyomi": "つち",
+    "indonesia": "tanah, bumi, daratan, Turki"
+  },
+  {
+    "kanji": "木",
+    "onyomi": "ボク、 モク",
+    "kunyomi": "き、 こ-",
+    "indonesia": "pohon, kayu"
+  },
+  {
+    "kanji": "聞",
+    "onyomi": "ブン、 モン",
+    "kunyomi": "き.く、 き.こえる",
+    "indonesia": "mendengar, bertanya, mendengarkan"
+  },
+  {
+    "kanji": "食",
+    "onyomi": "ショク、 ジキ",
+    "kunyomi": "く.う、 く.らう、 た.べる、 は.む",
+    "indonesia": "makan, makanan"
+  },
+  {
+    "kanji": "車",
+    "onyomi": "シャ",
+    "kunyomi": "くるま",
+    "indonesia": "mobil"
+  },
+  {
+    "kanji": "何",
+    "onyomi": "カ",
+    "kunyomi": "なに、 なん、 なに-、 なん-",
+    "indonesia": "apa"
+  },
+  {
+    "kanji": "南",
+    "onyomi": "ナン、 ナ",
+    "kunyomi": "みなみ",
+    "indonesia": "Selatan"
+  },
+  {
+    "kanji": "足",
+    "onyomi": "ソク",
+    "kunyomi": "あし、 た.りる、 た.る、 た.す",
+    "indonesia": "kaki, tungkai, cukup, counter untuk pasang alas kaki"
+  },
+  {
+    "kanji": "万",
+    "onyomi": "マン、 バン",
+    "kunyomi": "よろず",
+    "indonesia": "sepuluh ribu, -puluhribuan"
+  },
+  {
+    "kanji": "店",
+    "onyomi": "テン",
+    "kunyomi": "みせ、 たな",
+    "indonesia": "toko"
+  },
+  {
+    "kanji": "毎",
+    "onyomi": "マイ",
+    "kunyomi": "ごと、 -ごと.に",
+    "indonesia": "setiap"
+  },
+  {
+    "kanji": "白",
+    "onyomi": "ハク、 ビャク",
+    "kunyomi": "しろ、 しら-、 しろ.い",
+    "indonesia": "putih"
+  },
+  {
+    "kanji": "古",
+    "onyomi": "コ",
+    "kunyomi": "ふる.い、 ふる-、 -ふる.す",
+    "indonesia": "tua"
+  },
+  {
+    "kanji": "天",
+    "onyomi": "テン",
+    "kunyomi": "あまつ、 あめ、 あま-",
+    "indonesia": "langit, surga, imperial"
+  },
+  {
+    "kanji": "買",
+    "onyomi": "バイ",
+    "kunyomi": "か.う",
+    "indonesia": "membeli"
+  },
+  {
+    "kanji": "週",
+    "onyomi": "シュウ",
+    "kunyomi": "",
+    "indonesia": "minggu"
+  },
+  {
+    "kanji": "母",
+    "onyomi": "ボ",
+    "kunyomi": "はは、 も",
+    "indonesia": "ibu"
+  },
+  {
+    "kanji": "火",
+    "onyomi": "カ",
+    "kunyomi": "ひ、 -び、 ほ-",
+    "indonesia": "api"
+  },
+  {
+    "kanji": "花",
+    "onyomi": "カ、 ケ",
+    "kunyomi": "はな",
+    "indonesia": "bunga"
+  },
+  {
+    "kanji": "右",
+    "onyomi": "ウ、 ユウ",
+    "kunyomi": "みぎ",
+    "indonesia": "kanan"
+  },
+  {
+    "kanji": "読",
+    "onyomi": "ドク、 トク、 トウ",
+    "kunyomi": "よ.む、 -よ.み",
+    "indonesia": "baca"
+  },
+  {
+    "kanji": "友",
+    "onyomi": "ユウ",
+    "kunyomi": "とも",
+    "indonesia": "teman"
+  },
+  {
+    "kanji": "左",
+    "onyomi": "サ、 シャ",
+    "kunyomi": "ひだり",
+    "indonesia": "kiri"
+  },
+  {
+    "kanji": "休",
+    "onyomi": "キュウ",
+    "kunyomi": "やす.む、 やす.まる、 やす.める",
+    "indonesia": "istirahat, libur, tidur"
+  },
+  {
+    "kanji": "父",
+    "onyomi": "フ",
+    "kunyomi": "ちち",
+    "indonesia": "ayah"
+  },
+  {
+    "kanji": "駅",
+    "onyomi": "エキ",
+    "kunyomi": "",
+    "indonesia": "stasiun"
+  },
+  {
+    "kanji": "雨",
+    "onyomi": "ウ",
+    "kunyomi": "あめ、 あま-、 -さめ",
+    "indonesia": "hujan"
+  },
+  {
+    "kanji": "飲",
+    "onyomi": "イン、 オン",
+    "kunyomi": "の.む、 -の.み",
+    "indonesia": "minum, menelan, meneguk"
+  },
+  {
+    "kanji": "魚",
+    "onyomi": "ギョ",
+    "kunyomi": "うお、 さかな、 -ざかな",
+    "indonesia": "ikan"
+  },
+  {
+    "kanji": "耳",
+    "onyomi": "ジミ",
+    "kunyomi": "",
+    "indonesia": "telinga"
+  }
+]
