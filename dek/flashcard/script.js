@@ -127,21 +127,16 @@ function replaceLongSoundMarks() {
   const container = document.querySelector('.container');
   if (!container || !container.classList.contains('vertical')) return;
 
-  const question = container.querySelector('.question');
+  const question = container.querySelector('.sentenceArea') || container.querySelector('.question');
   if (!question) return;
 
   let text = question.textContent;
 
-  // Ganti chōonpu ー dengan ｜ (untuk teks vertikal)
-  text = text.replace(/ー/g, '｜');
-
-  // Bungkus huruf dan angka agar tetap horizontal
+  text = text.replace(/ー/g, '｜'); // ganti choonpu
   text = text.replace(/([A-Za-z0-9])/g, '<span class="horizontal-char">$1</span>');
 
   question.innerHTML = text;
 }
-
-
 
 function toggleFurigana() {
   isFuriganaVisible = !isFuriganaVisible;
@@ -258,23 +253,60 @@ function setupCheckboxView() {
 function setupKeyboardShortcuts() {
   document.addEventListener('keydown', (e) => {
     const key = e.key.toLowerCase();
+
     switch (key) {
-      case 'a': // kartu sebelumnya
+      case 'a':
         current = (current - 1 + viewList.length) % viewList.length;
         renderCurrent();
         break;
-      case 'd': // kartu berikutnya
+
+      case 'd':
         current = (current + 1) % viewList.length;
         renderCurrent();
         break;
-      case 'w': // jawab benar
+
+      case 'w':
         markRight();
         break;
-      case 's': // jawab salah
+
+      case 's':
         markWrong();
+        break;
+
+      case 'h': // Toggle hiragana
+        if (els.chkHiragana) {
+          els.chkHiragana.checked = !els.chkHiragana.checked;
+          renderCurrent();
+        }
+        break;
+
+      case 'm': // Toggle meaning/translation
+        if (els.chkTranslation) {
+          els.chkTranslation.checked = !els.chkTranslation.checked;
+          renderCurrent();
+        }
+        break;
+
+      case 'v': // Toggle vertical ↔ horizontal
+        toggleVerticalMode();
         break;
     }
   });
+}
+
+function toggleVerticalMode() {
+  const container = document.querySelector('.container');
+  if (!container) return;
+
+  const isVertical = container.classList.toggle('vertical');
+
+  // Jika kamu pakai radio button untuk mode
+  if (els.radioVertical && els.radioHorizontal) {
+    els.radioVertical.checked = isVertical;
+    els.radioHorizontal.checked = !isVertical;
+  }
+
+  renderCurrent(); // render ulang agar layout dan choonpu ikut berubah
 }
 
 // Inisialisasi
@@ -282,8 +314,8 @@ document.addEventListener('DOMContentLoaded', () => {
   mistakes = loadMistakes();
   if (els.modeOptions) els.modeOptions.style.display = 'none';
   setupEventListeners();
+  setupKeyboardShortcuts();
   setupDisplayMode();
   setupCheckboxView();
-  setupKeyboardShortcuts(); // ← tambahkan ini
   loadData();
 });
