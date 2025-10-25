@@ -255,12 +255,35 @@ function setupCheckboxView() {
   if (els.chkTranslation) els.chkTranslation.addEventListener('change', applyCheckboxView);
 }
 
+function setupKeyboardShortcuts() {
+  document.addEventListener('keydown', (e) => {
+    const key = e.key.toLowerCase();
+    switch (key) {
+      case 'a': // kartu sebelumnya
+        current = (current - 1 + viewList.length) % viewList.length;
+        renderCurrent();
+        break;
+      case 'd': // kartu berikutnya
+        current = (current + 1) % viewList.length;
+        renderCurrent();
+        break;
+      case 'w': // jawab benar
+        markRight();
+        break;
+      case 's': // jawab salah
+        markWrong();
+        break;
+    }
+  });
+}
+
 // Inisialisasi
 document.addEventListener('DOMContentLoaded', () => {
   mistakes = loadMistakes();
-  if (els.modeOptions) els.modeOptions.style.display = 'none'; // Sembunyikan mode options awalnya
+  if (els.modeOptions) els.modeOptions.style.display = 'none';
   setupEventListeners();
   setupDisplayMode();
   setupCheckboxView();
+  setupKeyboardShortcuts(); // ← tambahkan ini
   loadData();
 });
