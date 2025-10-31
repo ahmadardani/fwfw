@@ -9,7 +9,6 @@
   <table id="kanjiTable">
     <thead>
       <tr>
-        <th>No</th>
         <th>Kanji</th>
         <th>Onyomi</th>
         <th>Kunyomi</th>
@@ -22,7 +21,7 @@
   </table>
 
   <script>
-    fetch("n5part1.json")
+    fetch("n3.json")
       .then(response => response.json())
       .then(data => {
         const tbody = document.querySelector("#kanjiTable tbody");
@@ -30,7 +29,6 @@
           const tr = document.createElement("tr");
 
           tr.innerHTML = `
-            <td>${item.no}</td>
             <td class="kanji">${item.kanji}</td>
             <td>${item.onyomi}</td>
             <td>${item.kunyomi}</td>
