@@ -1,0 +1,134 @@
+body {
+  font-family: 'Nunito';
+  background-color: #faebd7;
+  margin: 0;
+  padding: 10px;
+}
+
+/* ==== Container ==== */
+.container {
+  background: #fff5ee;
+  padding: 10px;
+  max-width: 960px;
+  width: 100%;
+  margin: auto;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+
+/* ==== Header ==== */
+h2 {
+  text-align: center;
+  color: #333;
+  font-size: 1.6em;
+  margin-bottom: 10px;
+}
+
+hr {
+  border-top: 1px dashed black;
+  margin: 10px 0 15px 0;
+}
+
+/* ==== Controls ==== */
+.controls {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+}
+
+#filterNo {
+  font-family: 'Nunito';
+  font-size: 15px;
+  padding: 5px 10px;
+  border: 1px solid #a97455;
+  background-color: #faebd7;
+  color: #333;
+}
+
+.hint {
+  font-size: 0.9em;
+  color: rgb(92, 62, 62);
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+/* ==== Grid ==== */
+.kanji-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* ✅ 5 grid per baris */
+  gap: 10px;
+}
+
+.kanji-card {
+  background-color: #faebd7;
+  border: 1px solid #a97455;
+  padding: 8px;
+  text-align: center;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.kanji-card:hover {
+  transform: scale(1.04);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+}
+
+.kanji-symbol {
+  font-family: "JapaneseFont";
+  font-size: 3.4em; /* ✅ lebih besar dari sebelumnya */
+  color: rgb(92, 62, 62);
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+.kanji-info {
+  font-family: 'Nunito';
+  color: rgb(92, 62, 62);
+  font-size: 1em;
+  line-height: 1.5em;
+}
+
+/* ==== Responsive ==== */
+@media (max-width: 900px) {
+  .kanji-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .kanji-symbol {
+    font-size: 3.2em;
+  }
+}
+
+@media (max-width: 720px) {
+  .kanji-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .kanji-symbol {
+    font-size: 3em;
+  }
+  .controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+
+@media (max-width: 480px) {
+  .kanji-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .kanji-symbol {
+    font-size: 2.8em;
+  }
+}
+
+/* ==== Font ==== */
+@font-face {
+  font-family: "JapaneseFont";
+  src: url("/fonts/Choumei_v1.11.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url('/fonts/Nunito-Regular.ttf') format('truetype');
+  font-weight: 400;
+}

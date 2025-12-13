@@ -1,0 +1,1237 @@
+[
+  {
+    "indonesian": "Makan",
+    "japanese": "たべます",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Minum",
+    "japanese": "のみます",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Menghisap",
+    "japanese": "すいます",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Melihat",
+    "japanese": "みます",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Mendengar",
+    "japanese": "ききます",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Membaca",
+    "japanese": "よみます",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Menulis",
+    "japanese": "かきます",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Membeli",
+    "japanese": "かいます",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Mengambil [foto]",
+    "japanese": "とります",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Bertemu",
+    "japanese": "あいます",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Nasi",
+    "japanese": "ごはん",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Roti",
+    "japanese": "パン",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Telur",
+    "japanese": "たまご",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Daging",
+    "japanese": "にく",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Ikan",
+    "japanese": "さかな",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Sayur",
+    "japanese": "やさい",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Buah buahan",
+    "japanese": "くだもの",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Air",
+    "japanese": "みず",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Teh",
+    "japanese": "おちゃ",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Teh hijau",
+    "japanese": "こうちゃ",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Susu sapi",
+    "japanese": "ぎゅうにゅう",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Jus",
+    "japanese": "ジュース",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Bir",
+    "japanese": "ビール",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Minuman keras jepang",
+    "japanese": "お さけ",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Rokok",
+    "japanese": "たばこ",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Surat",
+    "japanese": "てがみ",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Laporan",
+    "japanese": "レポート",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Foto",
+    "japanese": "しゃしん",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Video",
+    "japanese": "ビデオ",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Toko",
+    "japanese": "みせ",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Halaman",
+    "japanese": "にわ",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Pekerjaan rumah",
+    "japanese": "しゅくだい",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Tenis",
+    "japanese": "テニス",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Sepakbola",
+    "japanese": "サッカー",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Melihat bunga sakura",
+    "japanese": "お はなみ",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Apa",
+    "japanese": "なに",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Bersama sama",
+    "japanese": "いっしょに",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Sebentar",
+    "japanese": "ちょっと",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Selalu",
+    "japanese": "いつも",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Mengerti",
+    "japanese": "わかりました",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Kadang - kadang",
+    "japanese": "ときどき",
+    "level": "Chapter 6"
+  },
+  {
+    "indonesian": "Memotong",
+    "japanese": "きります",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Mengirim",
+    "japanese": "おくります",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Memberikan",
+    "japanese": "あげます",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Menerima,mendapatkan",
+    "japanese": "もらいます",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Meminjamkan",
+    "japanese": "かします",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Meminjam",
+    "japanese": "かります",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Mengajar/memberitahu",
+    "japanese": "おしえます",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Belajar",
+    "japanese": "ならいます",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Menelpon",
+    "japanese": "かけます",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Tangan",
+    "japanese": "て",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Sumpit",
+    "japanese": "はし",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Sendok",
+    "japanese": "スプーン",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Pisau",
+    "japanese": "ナイフ",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Garpu",
+    "japanese": "フオーク",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Gunting",
+    "japanese": "はさみ",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Laptop/computer",
+    "japanese": "パソコン",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Ponsel",
+    "japanese": "ケータイ",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Email",
+    "japanese": "メール",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Kartu tahun baru",
+    "japanese": "ねんがじょう",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Pelubang kertas",
+    "japanese": "パンチ",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Stapler",
+    "japanese": "ホッチキス",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Selotip",
+    "japanese": "セロテープ",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Penghapus karet",
+    "japanese": "けしゴム",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Kertas",
+    "japanese": "かみ",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Bunga",
+    "japanese": "はな",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Kemeja",
+    "japanese": "シャツ",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Hadiah",
+    "japanese": "プレゼント",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Barang",
+    "japanese": "にもつ",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Uang",
+    "japanese": "おかね",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Karcis",
+    "japanese": "きっぷ",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Natal",
+    "japanese": "クリスマス",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Bapak, Ayah",
+    "japanese": "ちち",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Ibu",
+    "japanese": "はは",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Bapak (Bapak orang lain,dan digunakan untuk Bapak kandung sendiri ketika memanggilnya)",
+    "japanese": "おとうさん",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Ibu (ibu orang lain,dan digunakan untuk ibu kandung sendiri ketika memanggilnya)",
+    "japanese": "おかあさん",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Sudah",
+    "japanese": "もう",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Belum",
+    "japanese": "まだ",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Mulai Dari sekarang",
+    "japanese": "これから",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Bagusya / indahnya",
+    "japanese": "～すてきですね。",
+    "level": "Chapter 7"
+  },
+  {
+    "indonesian": "Tampan,gagah,ganteng",
+    "japanese": "ハンサム",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Cantik, bersih",
+    "japanese": "きれい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Sunyi, tenang",
+    "japanese": "しずか",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Ramai",
+    "japanese": "にぎやか",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Terkenal",
+    "japanese": "ゆうめい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Baik hati",
+    "japanese": "しんせつ",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Sehat",
+    "japanese": "げんき",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Senggang",
+    "japanese": "ひま",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Praktis",
+    "japanese": "べんり",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Bagus",
+    "japanese": "すてき",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Besar",
+    "japanese": "おおきい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Kecil",
+    "japanese": "ちいさい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Baru",
+    "japanese": "あたらしい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Lama, usang",
+    "japanese": "ふるい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Baik, bagus",
+    "japanese": "いい（よい）",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Buruk, jelek",
+    "japanese": "わるい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Panas",
+    "japanese": "あつい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Dingin (suhu cuaca)",
+    "japanese": "さむい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Dingin (suhu benda contoh es)",
+    "japanese": "つめたい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Sulit, susah",
+    "japanese": "むずかしい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Mudah, gampang",
+    "japanese": "やさしい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Mahal, tinggi",
+    "japanese": "たかい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Murah",
+    "japanese": "やすい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Rendah",
+    "japanese": "ひくい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Menarik",
+    "japanese": "おもしろい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Enak",
+    "japanese": "おいしい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Sibuk",
+    "japanese": "いそがしい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Senang",
+    "japanese": "たのしい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Putih",
+    "japanese": "しろい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Hitam",
+    "japanese": "くろい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Merah",
+    "japanese": "あかい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Biru",
+    "japanese": "あおい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Bunga sakura",
+    "japanese": "さくら",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Gunung",
+    "japanese": "やま",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Kota",
+    "japanese": "まち",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Makanan",
+    "japanese": "たべもの",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Tempat",
+    "japanese": "ところ",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Asrama",
+    "japanese": "りょう",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Kehidupan",
+    "japanese": "せいかつ",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Bagaimana",
+    "japanese": "どう",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Yang bagaimana",
+    "japanese": "どんな",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Sangat",
+    "japanese": "とても",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Kurang begitu",
+    "japanese": "あまり",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Tampan,gagah,ganteng",
+    "japanese": "ハンサム",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Cantik, bersih",
+    "japanese": "きれい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Sunyi, tenang",
+    "japanese": "しずか",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Ramai",
+    "japanese": "にぎやか",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Terkenal",
+    "japanese": "ゆうめい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Baik hati",
+    "japanese": "しんせつ",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Sehat",
+    "japanese": "げんき",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Senggang",
+    "japanese": "ひま",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Praktis",
+    "japanese": "べんり",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Bagus",
+    "japanese": "すてき",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Besar",
+    "japanese": "おおきい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Kecil",
+    "japanese": "ちいさい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Baru",
+    "japanese": "あたらしい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Lama, usang",
+    "japanese": "ふるい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Baik, bagus",
+    "japanese": "いい（よい）",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Buruk, jelek",
+    "japanese": "わるい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Panas",
+    "japanese": "あつい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Dingin (suhu cuaca)",
+    "japanese": "さむい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Dingin (suhu benda contoh es)",
+    "japanese": "つめたい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Sulit, susah",
+    "japanese": "むずかしい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Mudah, gampang",
+    "japanese": "やさしい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Mahal, tinggi",
+    "japanese": "たかい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Murah",
+    "japanese": "やすい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Rendah",
+    "japanese": "ひくい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Menarik",
+    "japanese": "おもしろい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Enak",
+    "japanese": "おいしい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Sibuk",
+    "japanese": "いそがしい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Senang",
+    "japanese": "たのしい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Putih",
+    "japanese": "しろい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Hitam",
+    "japanese": "くろい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Merah",
+    "japanese": "あかい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Biru",
+    "japanese": "あおい",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Bunga sakura",
+    "japanese": "さくら",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Gunung",
+    "japanese": "やま",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Kota",
+    "japanese": "まち",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Makanan",
+    "japanese": "たべもの",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Tempat",
+    "japanese": "ところ",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Asrama",
+    "japanese": "りょう",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Kehidupan",
+    "japanese": "せいかつ",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Bagaimana",
+    "japanese": "どう",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Yang bagaimana",
+    "japanese": "どんな",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Sangat",
+    "japanese": "とても",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Kurang begitu",
+    "japanese": "あまり",
+    "level": "Chapter 8"
+  },
+  {
+    "indonesian": "Mengerti, paham",
+    "japanese": "わかります",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Ada, mempunyai",
+    "japanese": "あります",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Suka, gemar",
+    "japanese": "すき",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Benci, tidak suka",
+    "japanese": "きらい",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Pintar, pandai",
+    "japanese": "じょうず",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Tidak pandai",
+    "japanese": "へた",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Minuman",
+    "japanese": "のみもの",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Masakan",
+    "japanese": "りょうり",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Olahraga",
+    "japanese": "スポーツ",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Baseball",
+    "japanese": "やきゅう",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Dansa, menari",
+    "japanese": "ダンス",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Tamasya, wisata",
+    "japanese": "りょこう",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Musik",
+    "japanese": "おんがく",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Lagu",
+    "japanese": "うた",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Klasik",
+    "japanese": "クラシック",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Jazz",
+    "japanese": "ジャズ",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Konser",
+    "japanese": "コンサート",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Karaoke",
+    "japanese": "カラオケ",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Drama tradisional Jepang",
+    "japanese": "かぶき",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Gambar",
+    "japanese": "え",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Huruf",
+    "japanese": "じ",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Uang receh",
+    "japanese": "こまかいおかね",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Waktu",
+    "japanese": "じかん",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Urusan",
+    "japanese": "ようじ",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Janji",
+    "japanese": "やくそく",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Kerja paruh waktu",
+    "japanese": "アルバイト",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Suami",
+    "japanese": "ごしゅじん",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Suami",
+    "japanese": "おっと／しゅじん",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Istri",
+    "japanese": "おくさん",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Istri",
+    "japanese": "つま／かない",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Anak",
+    "japanese": "こども",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Dengan baik",
+    "japanese": "よく",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Kira-kira",
+    "japanese": "だいたい",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Sedikit",
+    "japanese": "すこし",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Sama sekali",
+    "japanese": "ぜんぜん",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Cepat",
+    "japanese": "はやく",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Sayang sekali",
+    "japanese": "ざんねんです",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Tidak bisa/bagus ya?",
+    "japanese": "だめですか",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Maaf lain kali saja",
+    "japanese": "またこんどおねがいします",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Kenapa",
+    "japanese": "どうして",
+    "level": "Chapter 9"
+  },
+  {
+    "indonesian": "Ada (benda mati)",
+    "japanese": "あります",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Ada (benda hidup)",
+    "japanese": "います",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Berbagai macam",
+    "japanese": "いろいろ",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Orang laki laki",
+    "japanese": "おとこのひと",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Orang perempuan",
+    "japanese": "おんなのひと",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Anak laki laki",
+    "japanese": "おとこのこ",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Anak perempuan",
+    "japanese": "おんなのこ",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Anjing",
+    "japanese": "いぬ",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Kucing",
+    "japanese": "ねこ",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Panda",
+    "japanese": "パンダ",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Kebun binatang",
+    "japanese": "ぞう",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Pohon",
+    "japanese": "き",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Barang",
+    "japanese": "もの",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Baterai",
+    "japanese": "でんち",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Kotak",
+    "japanese": "はこ",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Switch",
+    "japanese": "スイッチ",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Kulkas",
+    "japanese": "れいぞうこ",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Meja",
+    "japanese": "テーブル",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Tempat tidur",
+    "japanese": "ベッド",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Lemari",
+    "japanese": "たな",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Pintu",
+    "japanese": "ドア",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Jendela",
+    "japanese": "まど",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Kotak pos",
+    "japanese": "ポスト",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Bangunan",
+    "japanese": "ビル",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Toko jam",
+    "japanese": "コンビニ",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Taman",
+    "japanese": "こうえん",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Kedai kopi",
+    "japanese": "きっさてん",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Tempat naik/halte",
+    "japanese": "のりば",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Propinsi",
+    "japanese": "けん",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Atas",
+    "japanese": "うえ",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Bawah",
+    "japanese": "した",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Depan",
+    "japanese": "まえ",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Belakang",
+    "japanese": "うしろ",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Kanan",
+    "japanese": "みぎ",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Kiri",
+    "japanese": "ひだり",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Dalam",
+    "japanese": "なか",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Luar",
+    "japanese": "そと",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Sebelah",
+    "japanese": "となり",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Dekat",
+    "japanese": "ちかく",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Antara",
+    "japanese": "あいだ",
+    "level": "Chapter 10"
+  },
+  {
+    "indonesian": "Paling bawah",
+    "japanese": "いちばんした",
+    "level": "Chapter 10"
+  }
+]

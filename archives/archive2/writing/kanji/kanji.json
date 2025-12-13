@@ -1,0 +1,3428 @@
+[
+  {
+    "indonesian": "Meja",
+    "japanese": "つくえ",
+    "kanji": "机",
+    "length": 1
+  },
+  {
+    "indonesian": "Bahasa",
+    "japanese": "ご",
+    "kanji": "語",
+    "length": 1
+  },
+  {
+    "indonesian": "Apa",
+    "japanese": "なん",
+    "kanji": "何",
+    "length": 1
+  },
+  {
+    "indonesian": "Negara",
+    "japanese": "くに",
+    "kanji": "国",
+    "length": 1
+  },
+  {
+    "indonesian": "Rumah",
+    "japanese": "うち",
+    "kanji": "家",
+    "length": 1
+  },
+  {
+    "indonesian": "Sebelah",
+    "japanese": "となり",
+    "kanji": "隣",
+    "length": 1
+  },
+  {
+    "indonesian": "Antara",
+    "japanese": "あいだ",
+    "kanji": "間",
+    "length": 1
+  },
+  {
+    "indonesian": "Kakak laki laki",
+    "japanese": "あに",
+    "kanji": "兄",
+    "length": 1
+  },
+  {
+    "indonesian": "Kakak perempuan",
+    "japanese": "あね",
+    "kanji": "姉",
+    "length": 1
+  },
+  {
+    "indonesian": "Adik laki laki",
+    "japanese": "おとうと",
+    "kanji": "弟",
+    "length": 1
+  },
+  {
+    "indonesian": "Adik perempuan",
+    "japanese": "いもうと",
+    "kanji": "妹",
+    "length": 1
+  },
+  {
+    "indonesian": "semua",
+    "japanese": "みんな",
+    "kanji": "皆",
+    "length": 1
+  },
+  {
+    "indonesian": "Musim semi",
+    "japanese": "はる",
+    "kanji": "春",
+    "length": 1
+  },
+  {
+    "indonesian": "Musim panas",
+    "japanese": "なつ",
+    "kanji": "夏",
+    "length": 1
+  },
+  {
+    "indonesian": "Musim gugur",
+    "japanese": "あき",
+    "kanji": "秋",
+    "length": 1
+  },
+  {
+    "indonesian": "Musim dingin",
+    "japanese": "ふゆ",
+    "kanji": "冬",
+    "length": 1
+  },
+  {
+    "indonesian": "Wajah",
+    "japanese": "かお",
+    "kanji": "顔",
+    "length": 1
+  },
+  {
+    "indonesian": "Mata",
+    "japanese": "め",
+    "kanji": "目",
+    "length": 1
+  },
+  {
+    "indonesian": "Telinga",
+    "japanese": "みみ",
+    "kanji": "耳",
+    "length": 1
+  },
+  {
+    "indonesian": "Hidung",
+    "japanese": "はな",
+    "kanji": "鼻",
+    "length": 1
+  },
+  {
+    "indonesian": "Mulut",
+    "japanese": "くち",
+    "kanji": "口",
+    "length": 1
+  },
+  {
+    "indonesian": "Gigi",
+    "japanese": "は",
+    "kanji": "歯",
+    "length": 1
+  },
+  {
+    "indonesian": "Kaki",
+    "japanese": "あし",
+    "kanji": "足",
+    "length": 1
+  },
+  {
+    "indonesian": "Punggung",
+    "japanese": "せ",
+    "kanji": "背",
+    "length": 1
+  },
+  {
+    "indonesian": "Kanan",
+    "japanese": "みぎ",
+    "kanji": "右",
+    "length": 1
+  },
+  {
+    "indonesian": "Kiri",
+    "japanese": "ひだり",
+    "kanji": "左",
+    "length": 1
+  },
+  {
+    "indonesian": "Dalam",
+    "japanese": "なか",
+    "kanji": "中",
+    "length": 1
+  },
+  {
+    "indonesian": "Luar",
+    "japanese": "そと",
+    "kanji": "外",
+    "length": 1
+  },
+  {
+    "indonesian": "Buku",
+    "japanese": "ほん",
+    "kanji": "本",
+    "length": 1
+  },
+  {
+    "indonesian": "Mobil",
+    "japanese": "くるま",
+    "kanji": "車",
+    "length": 1
+  },
+  {
+    "indonesian": "Angin",
+    "japanese": "かぜ",
+    "kanji": "風",
+    "length": 1
+  },
+  {
+    "indonesian": "Sepatu",
+    "japanese": "くつ",
+    "kanji": "靴",
+    "length": 1
+  },
+  {
+    "indonesian": "Sekarang",
+    "japanese": "いま",
+    "kanji": "今",
+    "length": 1
+  },
+  {
+    "indonesian": "Setengah",
+    "japanese": "はん",
+    "kanji": "半",
+    "length": 1
+  },
+  {
+    "indonesian": "Pagi",
+    "japanese": "あさ",
+    "kanji": "朝",
+    "length": 1
+  },
+  {
+    "indonesian": "Siang",
+    "japanese": "ひる",
+    "kanji": "昼",
+    "length": 1
+  },
+  {
+    "indonesian": "Stasiun",
+    "japanese": "えき",
+    "kanji": "駅",
+    "length": 1
+  },
+  {
+    "indonesian": "Kapal laut",
+    "japanese": "ふね",
+    "kanji": "船",
+    "length": 1
+  },
+  {
+    "indonesian": "Orang",
+    "japanese": "ひと",
+    "kanji": "人",
+    "length": 1
+  },
+  {
+    "indonesian": "Dia (lakilaki)",
+    "japanese": "かれ",
+    "kanji": "彼",
+    "length": 1
+  },
+  {
+    "indonesian": "Kuda",
+    "japanese": "うま",
+    "kanji": "馬",
+    "length": 1
+  },
+  {
+    "indonesian": "Hari, tanggal",
+    "japanese": "ひ",
+    "kanji": "日",
+    "length": 1
+  },
+  {
+    "indonesian": "Saya (setara infomal dari わ た し laki-laki)",
+    "japanese": "ぼく",
+    "kanji": "僕",
+    "length": 1
+  },
+  {
+    "indonesian": "Hijau",
+    "japanese": "みどり",
+    "kanji": "緑",
+    "length": 1
+  },
+  {
+    "indonesian": "Demam",
+    "japanese": "ねつ",
+    "kanji": "熱",
+    "length": 1
+  },
+  {
+    "indonesian": "Obat",
+    "japanese": "くすり",
+    "kanji": "薬",
+    "length": 1
+  },
+  {
+    "indonesian": "Telur",
+    "japanese": "たまご",
+    "kanji": "卵",
+    "length": 1
+  },
+  {
+    "indonesian": "Daging",
+    "japanese": "にく",
+    "kanji": "肉",
+    "length": 1
+  },
+  {
+    "indonesian": "Bunga sakura",
+    "japanese": "さくら",
+    "kanji": "桜",
+    "length": 1
+  },
+  {
+    "indonesian": "Gunung",
+    "japanese": "やま",
+    "kanji": "山",
+    "length": 1
+  },
+  {
+    "indonesian": "Kota Kecil, Kota Madya / kampung",
+    "japanese": "まち",
+    "kanji": "町",
+    "length": 1
+  },
+  {
+    "indonesian": "Tempat",
+    "japanese": "ところ",
+    "kanji": "所",
+    "length": 1
+  },
+  {
+    "indonesian": "Ikan",
+    "japanese": "さかな",
+    "kanji": "魚",
+    "length": 1
+  },
+  {
+    "indonesian": "Air",
+    "japanese": "みず",
+    "kanji": "水",
+    "length": 1
+  },
+  {
+    "indonesian": "Toko",
+    "japanese": "みせ",
+    "kanji": "店",
+    "length": 1
+  },
+  {
+    "indonesian": "Halaman",
+    "japanese": "にわ",
+    "kanji": "庭",
+    "length": 1
+  },
+  {
+    "indonesian": "Apa",
+    "japanese": "なに",
+    "kanji": "何",
+    "length": 1
+  },
+  {
+    "indonesian": "Tangan",
+    "japanese": "て",
+    "kanji": "手",
+    "length": 1
+  },
+  {
+    "indonesian": "Kertas",
+    "japanese": "かみ",
+    "kanji": "紙",
+    "length": 1
+  },
+  {
+    "indonesian": "Bunga",
+    "japanese": "はな",
+    "kanji": "花",
+    "length": 1
+  },
+  {
+    "indonesian": "Bapak, Ayah",
+    "japanese": "ちち",
+    "kanji": "父",
+    "length": 1
+  },
+  {
+    "indonesian": "Ibu",
+    "japanese": "はは",
+    "kanji": "母",
+    "length": 1
+  },
+  {
+    "indonesian": "Propinsi",
+    "japanese": "けん",
+    "kanji": "県",
+    "length": 1
+  },
+  {
+    "indonesian": "Atas",
+    "japanese": "うえ",
+    "kanji": "上",
+    "length": 1
+  },
+  {
+    "indonesian": "Bawah",
+    "japanese": "した",
+    "kanji": "下",
+    "length": 1
+  },
+  {
+    "indonesian": "Depan",
+    "japanese": "まえ",
+    "kanji": "前",
+    "length": 1
+  },
+  {
+    "indonesian": "Hujan",
+    "japanese": "あめ",
+    "kanji": "雨",
+    "length": 1
+  },
+  {
+    "indonesian": "Asrama",
+    "japanese": "りょう",
+    "kanji": "寮",
+    "length": 1
+  },
+  {
+    "indonesian": "Lagu",
+    "japanese": "うた",
+    "kanji": "歌",
+    "length": 1
+  },
+  {
+    "indonesian": "Gambar",
+    "japanese": "え",
+    "kanji": "絵",
+    "length": 1
+  },
+  {
+    "indonesian": "Huruf",
+    "japanese": "じ",
+    "kanji": "字",
+    "length": 1
+  },
+  {
+    "indonesian": "Anjing",
+    "japanese": "いぬ",
+    "kanji": "犬",
+    "length": 1
+  },
+  {
+    "indonesian": "Kucing",
+    "japanese": "ねこ",
+    "kanji": "猫",
+    "length": 1
+  },
+  {
+    "indonesian": "Kebun binatang",
+    "japanese": "ぞう",
+    "kanji": "象",
+    "length": 1
+  },
+  {
+    "indonesian": "Pohon",
+    "japanese": "き",
+    "kanji": "木",
+    "length": 1
+  },
+  {
+    "indonesian": "Barang",
+    "japanese": "もの",
+    "kanji": "物",
+    "length": 1
+  },
+  {
+    "indonesian": "Kotak",
+    "japanese": "はこ",
+    "kanji": "箱",
+    "length": 1
+  },
+  {
+    "indonesian": "Lemari",
+    "japanese": "たな",
+    "kanji": "棚",
+    "length": 1
+  },
+  {
+    "indonesian": "Jendela",
+    "japanese": "まど",
+    "kanji": "窓",
+    "length": 1
+  },
+  {
+    "indonesian": "Anda (setara informal あ な た laki-laki)",
+    "japanese": "きみ",
+    "kanji": "君",
+    "length": 1
+  },
+  {
+    "indonesian": "Suara",
+    "japanese": "おと",
+    "kanji": "音",
+    "length": 1
+  },
+  {
+    "indonesian": "Jalan",
+    "japanese": "みち",
+    "kanji": "道",
+    "length": 1
+  },
+  {
+    "indonesian": "Sudut",
+    "japanese": "かど",
+    "kanji": "角",
+    "length": 1
+  },
+  {
+    "indonesian": "jembatan",
+    "japanese": "はし",
+    "kanji": "橋",
+    "length": 1
+  },
+  {
+    "indonesian": "seratus juta",
+    "japanese": "おく",
+    "kanji": "億",
+    "length": 1
+  },
+  {
+    "indonesian": "Senggang",
+    "japanese": "ひま",
+    "kanji": "暇",
+    "length": 1
+  },
+  {
+    "indonesian": "Salju",
+    "japanese": "ゆき",
+    "kanji": "雪",
+    "length": 1
+  },
+  {
+    "indonesian": "Laut",
+    "japanese": "うみ",
+    "kanji": "海",
+    "length": 1
+  },
+  {
+    "indonesian": "Sungai",
+    "japanese": "かわ",
+    "kanji": "川",
+    "length": 1
+  },
+  {
+    "indonesian": "Garam",
+    "japanese": "しお",
+    "kanji": "塩",
+    "length": 1
+  },
+  {
+    "indonesian": "Baju",
+    "japanese": "ふく",
+    "kanji": "服",
+    "length": 1
+  },
+  {
+    "indonesian": "Badan",
+    "japanese": "からだ",
+    "kanji": "体",
+    "length": 1
+  },
+  {
+    "indonesian": "Kepala",
+    "japanese": "あたま",
+    "kanji": "頭",
+    "length": 1
+  },
+  {
+    "indonesian": "Rambut",
+    "japanese": "かみ",
+    "kanji": "髪",
+    "length": 1
+  },
+  {
+    "indonesian": "Payung",
+    "japanese": "かさ",
+    "kanji": "傘",
+    "length": 1
+  },
+  {
+    "indonesian": "Saya",
+    "japanese": "わたし",
+    "kanji": "私",
+    "length": 1
+  },
+  {
+    "indonesian": "--tahun",
+    "japanese": "～さい",
+    "kanji": "～歳",
+    "length": 2
+  },
+  {
+    "indonesian": "Selanjutnya",
+    "japanese": "つぎの",
+    "kanji": "次の",
+    "length": 2
+  },
+  {
+    "indonesian": "Istirahat",
+    "japanese": "やすみ",
+    "kanji": "休み",
+    "length": 2
+  },
+  {
+    "indonesian": "Mahal, tinggi",
+    "japanese": "たかい",
+    "kanji": "高い",
+    "length": 2
+  },
+  {
+    "indonesian": "Murah",
+    "japanese": "やすい",
+    "kanji": "安い",
+    "length": 2
+  },
+  {
+    "indonesian": "Rendah",
+    "japanese": "ひくい",
+    "kanji": "低い",
+    "length": 2
+  },
+  {
+    "indonesian": "Suka, gemar",
+    "japanese": "すき",
+    "kanji": "好き",
+    "length": 2
+  },
+  {
+    "indonesian": "Benci, tidak suka",
+    "japanese": "きらい",
+    "kanji": "嫌い",
+    "length": 2
+  },
+  {
+    "indonesian": "The",
+    "japanese": "おちゃ",
+    "kanji": "お茶",
+    "length": 2
+  },
+  {
+    "indonesian": "Kadang - kadang",
+    "japanese": "ときどき",
+    "kanji": "時々",
+    "length": 2
+  },
+  {
+    "indonesian": "Uang",
+    "japanese": "おかね",
+    "kanji": "お金",
+    "length": 2
+  },
+  {
+    "indonesian": "Lama, usang",
+    "japanese": "ふるい",
+    "kanji": "古い",
+    "length": 2
+  },
+  {
+    "indonesian": "Buruk, jelek",
+    "japanese": "わるい",
+    "kanji": "悪い",
+    "length": 2
+  },
+  {
+    "indonesian": "Dingin (suhu cuaca)",
+    "japanese": "さむい",
+    "kanji": "寒い",
+    "length": 2
+  },
+  {
+    "indonesian": "Sedikit",
+    "japanese": "すこし",
+    "kanji": "少し",
+    "length": 2
+  },
+  {
+    "indonesian": "Cepat",
+    "japanese": "はやく",
+    "kanji": "早く",
+    "length": 2
+  },
+  {
+    "indonesian": "Belakang",
+    "japanese": "うしろ",
+    "kanji": "後ろ",
+    "length": 2
+  },
+  {
+    "indonesian": "Dekat",
+    "japanese": "ちかく",
+    "kanji": "近く",
+    "length": 2
+  },
+  {
+    "indonesian": "Putih",
+    "japanese": "しろい",
+    "kanji": "白い",
+    "length": 2
+  },
+  {
+    "indonesian": "Hitam",
+    "japanese": "くろい",
+    "kanji": "黒い",
+    "length": 2
+  },
+  {
+    "indonesian": "Merah",
+    "japanese": "あかい",
+    "kanji": "赤い",
+    "length": 2
+  },
+  {
+    "indonesian": "Biru",
+    "japanese": "あおい",
+    "kanji": "青い",
+    "length": 2
+  },
+  {
+    "indonesian": "Luas",
+    "japanese": "ひろい",
+    "kanji": "広い",
+    "length": 2
+  },
+  {
+    "indonesian": "Sempit",
+    "japanese": "せまい",
+    "kanji": "狭い",
+    "length": 2
+  },
+  {
+    "indonesian": "Pancing (つりをします:memancing)",
+    "japanese": "つり",
+    "kanji": "釣り",
+    "length": 2
+  },
+  {
+    "indonesian": "Seorang",
+    "japanese": "ひとり",
+    "kanji": "１人",
+    "length": 2
+  },
+  {
+    "indonesian": "Berdua",
+    "japanese": "ふたり",
+    "kanji": "２人",
+    "length": 2
+  },
+  {
+    "indonesian": "… orang",
+    "japanese": "～にん",
+    "kanji": "ー人",
+    "length": 2
+  },
+  {
+    "indonesian": "Dekat",
+    "japanese": "ちかい",
+    "kanji": "近い",
+    "length": 2
+  },
+  {
+    "indonesian": "Jauh",
+    "japanese": "とおい",
+    "kanji": "遠い",
+    "length": 2
+  },
+  {
+    "indonesian": "Lambat",
+    "japanese": "おそい",
+    "kanji": "遅い",
+    "length": 2
+  },
+  {
+    "indonesian": "Banyak (orang)",
+    "japanese": "おおい",
+    "kanji": "多い",
+    "length": 2
+  },
+  {
+    "indonesian": "Manis",
+    "japanese": "あまい",
+    "kanji": "甘い",
+    "length": 2
+  },
+  {
+    "indonesian": "Pedas",
+    "japanese": "からい",
+    "kanji": "辛い",
+    "length": 2
+  },
+  {
+    "indonesian": "Berat",
+    "japanese": "おもい",
+    "kanji": "重い",
+    "length": 2
+  },
+  {
+    "indonesian": "Jawab",
+    "japanese": "こたえ",
+    "kanji": "答え",
+    "length": 2
+  },
+  {
+    "indonesian": "Nanti",
+    "japanese": "あとで",
+    "kanji": "後で",
+    "length": 2
+  },
+  {
+    "indonesian": "Ringan",
+    "japanese": "かるい",
+    "kanji": "軽い",
+    "length": 2
+  },
+  {
+    "indonesian": "Mendung",
+    "japanese": "くもり",
+    "kanji": "曇り",
+    "length": 2
+  },
+  {
+    "indonesian": "Festival, perayaan",
+    "japanese": "まつり",
+    "kanji": "祭り",
+    "length": 2
+  },
+  {
+    "indonesian": "Nomor Satu",
+    "japanese": "－ばん",
+    "kanji": "－番",
+    "length": 2
+  },
+  {
+    "indonesian": "Sesuatu",
+    "japanese": "なにか",
+    "kanji": "何か",
+    "length": 2
+  },
+  {
+    "indonesian": "perbaikan, memperbaiki",
+    "japanese": "なおします",
+    "kanji": "直す",
+    "length": 2
+  },
+  {
+    "indonesian": "Muda",
+    "japanese": "わかい",
+    "kanji": "若い",
+    "length": 2
+  },
+  {
+    "indonesian": "Panjang",
+    "japanese": "ながい",
+    "kanji": "長い",
+    "length": 2
+  },
+  {
+    "indonesian": "Pendek",
+    "japanese": "みじかい",
+    "kanji": "短い",
+    "length": 2
+  },
+  {
+    "indonesian": "Gelap",
+    "japanese": "くらい",
+    "kanji": "暗い",
+    "length": 2
+  },
+  {
+    "indonesian": "Selanjutnya",
+    "japanese": "つぎに",
+    "kanji": "次に",
+    "length": 2
+  },
+  {
+    "indonesian": "hebat, besar (ekspresi keheranan, kekaguman)",
+    "japanese": "すごい",
+    "kanji": "凄い",
+    "length": 2
+  },
+  {
+    "indonesian": "Utama",
+    "japanese": "とくに",
+    "kanji": "特に",
+    "length": 2
+  },
+  {
+    "indonesian": "Ngantuk",
+    "japanese": "ねむい",
+    "kanji": "眠い",
+    "length": 2
+  },
+  {
+    "indonesian": "Kuat",
+    "japanese": "つよい",
+    "kanji": "強い",
+    "length": 2
+  },
+  {
+    "indonesian": "Lemah",
+    "japanese": "よわい",
+    "kanji": "弱い",
+    "length": 2
+  },
+  {
+    "indonesian": "Teh (sopan)",
+    "japanese": "おちゃ",
+    "kanji": "お茶",
+    "length": 2
+  },
+  {
+    "indonesian": "sebenarnya, untuk mengatakan kebenaran",
+    "japanese": "じつは",
+    "kanji": "実は",
+    "length": 2
+  },
+  {
+    "indonesian": "Toko ~",
+    "japanese": "～や",
+    "kanji": "～屋",
+    "length": 2
+  },
+  {
+    "indonesian": "Mr (setara informal ~ さ ん laki-laki)",
+    "japanese": "～くん",
+    "kanji": "～君",
+    "length": 2
+  },
+  {
+    "indonesian": "awal mula",
+    "japanese": "はじめ",
+    "kanji": "初め",
+    "length": 2
+  },
+  {
+    "indonesian": "Bersama",
+    "japanese": "みんなで",
+    "kanji": "皆で",
+    "length": 2
+  },
+  {
+    "indonesian": "Berbagai",
+    "japanese": "いろいろ",
+    "kanji": "色々",
+    "length": 2
+  },
+  {
+    "indonesian": "Berpikir, saya kira (I)",
+    "japanese": "おもいます",
+    "kanji": "思う",
+    "length": 2
+  },
+  {
+    "indonesian": "Mengatakan, mengucapkan (I)",
+    "japanese": "いいます",
+    "kanji": "言う",
+    "length": 2
+  },
+  {
+    "indonesian": "cukup(II)",
+    "japanese": "たります",
+    "kanji": "足る",
+    "length": 2
+  },
+  {
+    "indonesian": "menang (I)",
+    "japanese": "かちます",
+    "kanji": "勝つ",
+    "length": 2
+  },
+  {
+    "indonesian": "Sama",
+    "japanese": "おなじ",
+    "kanji": "同じ",
+    "length": 2
+  },
+  {
+    "indonesian": "Sunyi, Tenang",
+    "japanese": "しずか",
+    "kanji": "静か",
+    "length": 2
+  },
+  {
+    "indonesian": "Orang",
+    "japanese": "～じん",
+    "kanji": "～人",
+    "length": 2
+  },
+  {
+    "indonesian": "Universitas",
+    "japanese": "だいがく",
+    "kanji": "大学",
+    "length": 2
+  },
+  {
+    "indonesian": "Tidak praktis",
+    "japanese": "ふべん",
+    "kanji": "不便",
+    "length": 2
+  },
+  {
+    "indonesian": "mustahil, tidak mungkin",
+    "japanese": "むり",
+    "kanji": "無理",
+    "length": 2
+  },
+  {
+    "indonesian": "Berat",
+    "japanese": "たいへん",
+    "kanji": "大変",
+    "length": 2
+  },
+  {
+    "indonesian": "Mudah",
+    "japanese": "かんたん",
+    "kanji": "簡単",
+    "length": 2
+  },
+  {
+    "indonesian": "Praktis",
+    "japanese": "べんり",
+    "kanji": "便利",
+    "length": 2
+  },
+  {
+    "indonesian": "Jam,arloji",
+    "japanese": "とけい",
+    "kanji": "時計",
+    "length": 2
+  },
+  {
+    "indonesian": "Pensil",
+    "japanese": "えんぴつ",
+    "kanji": "鉛筆",
+    "length": 2
+  },
+  {
+    "indonesian": "Kartu nama",
+    "japanese": "めいし",
+    "kanji": "名刺",
+    "length": 2
+  },
+  {
+    "indonesian": "Buku agenda",
+    "japanese": "てちょう",
+    "kanji": "手帳",
+    "length": 2
+  },
+  {
+    "indonesian": "koran",
+    "japanese": "しんぶん",
+    "kanji": "新聞",
+    "length": 2
+  },
+  {
+    "indonesian": "majalah",
+    "japanese": "ざっし",
+    "kanji": "雑誌",
+    "length": 2
+  },
+  {
+    "indonesian": "kamus",
+    "japanese": "じしょ",
+    "kanji": "辞書",
+    "length": 2
+  },
+  {
+    "indonesian": "Berapa umurnya",
+    "japanese": "なんさい（おいくつ）",
+    "kanji": "何歳",
+    "length": 2
+  },
+  {
+    "indonesian": "Rumah sakit",
+    "japanese": "びょういん",
+    "kanji": "病院",
+    "length": 2
+  },
+  {
+    "indonesian": "a.m",
+    "japanese": "ごぜん",
+    "kanji": "午前",
+    "length": 2
+  },
+  {
+    "indonesian": "Berapa menit",
+    "japanese": "なんぷん",
+    "kanji": "何分",
+    "length": 2
+  },
+  {
+    "indonesian": "Jam berapa",
+    "japanese": "なんじ",
+    "kanji": "何時",
+    "length": 2
+  },
+  {
+    "indonesian": "Menit",
+    "japanese": "―ふん",
+    "kanji": "一分",
+    "length": 2
+  },
+  {
+    "indonesian": "Jam",
+    "japanese": "―じ",
+    "kanji": "一時",
+    "length": 2
+  },
+  {
+    "indonesian": "Bank",
+    "japanese": "ぎんこう",
+    "kanji": "銀行",
+    "length": 2
+  },
+  {
+    "indonesian": "Bawah tanah",
+    "japanese": "ちか",
+    "kanji": "地下",
+    "length": 2
+  },
+  {
+    "indonesian": "Perusahaan",
+    "japanese": "かいしゃ",
+    "kanji": "会社",
+    "length": 2
+  },
+  {
+    "indonesian": "Telp",
+    "japanese": "でんわ",
+    "kanji": "電話",
+    "length": 2
+  },
+  {
+    "indonesian": "Tangga",
+    "japanese": "かいだん",
+    "kanji": "階段",
+    "length": 2
+  },
+  {
+    "indonesian": "Mungkin",
+    "japanese": "たぶん",
+    "kanji": "多分",
+    "length": 2
+  },
+  {
+    "indonesian": "Baru-baru ini, belakangan ini",
+    "japanese": "さいきん",
+    "kanji": "最近",
+    "length": 2
+  },
+  {
+    "indonesian": "transportasi, lalu lintas",
+    "japanese": "こうつう",
+    "kanji": "交通",
+    "length": 2
+  },
+  {
+    "indonesian": "Sia2, hambur",
+    "japanese": "むだ",
+    "kanji": "無駄",
+    "length": 2
+  },
+  {
+    "indonesian": "Pendapat",
+    "japanese": "いけん",
+    "kanji": "意見",
+    "length": 2
+  },
+  {
+    "indonesian": "permainan, pertandingan",
+    "japanese": "しあい",
+    "kanji": "試合",
+    "length": 2
+  },
+  {
+    "indonesian": "Politik",
+    "japanese": "せいじ",
+    "kanji": "政治",
+    "length": 2
+  },
+  {
+    "indonesian": "Dokter",
+    "japanese": "いしゃ",
+    "kanji": "医者",
+    "length": 2
+  },
+  {
+    "indonesian": "Karyawan perusahaan (dipakai Bersama nama perusahaan)",
+    "japanese": "しゃいん",
+    "kanji": "社員",
+    "length": 2
+  },
+  {
+    "indonesian": "Pelajar",
+    "japanese": "がくせい",
+    "kanji": "学生",
+    "length": 2
+  },
+  {
+    "indonesian": "Guru,dosen",
+    "japanese": "きょうし",
+    "kanji": "教師",
+    "length": 2
+  },
+  {
+    "indonesian": "Kemarin",
+    "japanese": "きのう",
+    "kanji": "昨日",
+    "length": 2
+  },
+  {
+    "indonesian": "p.m",
+    "japanese": "ごご",
+    "kanji": "午後",
+    "length": 2
+  },
+  {
+    "indonesian": "kimono (pakaian tradisional Jepang)",
+    "japanese": "きもの",
+    "kanji": "着物",
+    "length": 2
+  },
+  {
+    "indonesian": "harga komoditas",
+    "japanese": "ぶっか",
+    "kanji": "物価",
+    "length": 2
+  },
+  {
+    "indonesian": "Kosa kata",
+    "japanese": "ことば",
+    "kanji": "言葉",
+    "length": 2
+  },
+  {
+    "indonesian": "persiapan (~ し ま す: mempersiapkan)",
+    "japanese": "じゅんび",
+    "kanji": "準備",
+    "length": 2
+  },
+  {
+    "indonesian": "Bangunan",
+    "japanese": "たてもの",
+    "kanji": "建物",
+    "length": 2
+  },
+  {
+    "indonesian": "Lampu lalu lintas",
+    "japanese": "しんごう",
+    "kanji": "信号",
+    "length": 2
+  },
+  {
+    "indonesian": "Rusak (~ し ま す: merusak)",
+    "japanese": "こしょう",
+    "kanji": "故障",
+    "length": 2
+  },
+  {
+    "indonesian": "Mesin",
+    "japanese": "きかい",
+    "kanji": "機械",
+    "length": 2
+  },
+  {
+    "indonesian": "tentu saja",
+    "japanese": "もちろん",
+    "kanji": "勿論",
+    "length": 2
+  },
+  {
+    "indonesian": "Betulkah",
+    "japanese": "ほんとうに",
+    "kanji": "本当",
+    "length": 2
+  },
+  {
+    "indonesian": "gulat sumo",
+    "japanese": "すもう",
+    "kanji": "相撲",
+    "length": 2
+  },
+  {
+    "indonesian": "Kondisi",
+    "japanese": "ちょうし",
+    "kanji": "調子",
+    "length": 2
+  },
+  {
+    "indonesian": "Binatang",
+    "japanese": "どうぶつ",
+    "kanji": "動物",
+    "length": 2
+  },
+  {
+    "indonesian": "Direktur utama",
+    "japanese": "しゃちょう",
+    "kanji": "社長",
+    "length": 2
+  },
+  {
+    "indonesian": "Kepala bagian",
+    "japanese": "ぶちょう",
+    "kanji": "部長",
+    "length": 2
+  },
+  {
+    "indonesian": "Kepala seksi",
+    "japanese": "かちょう",
+    "kanji": "課長",
+    "length": 2
+  },
+  {
+    "indonesian": "Catatan harian",
+    "japanese": "にっき",
+    "kanji": "日記",
+    "length": 2
+  },
+  {
+    "indonesian": "Hobi",
+    "japanese": "しゅみ",
+    "kanji": "趣味",
+    "length": 2
+  },
+  {
+    "indonesian": "Perdana Menteri",
+    "japanese": "しゅしょう",
+    "kanji": "首相",
+    "length": 2
+  },
+  {
+    "indonesian": "Pos polisi",
+    "japanese": "こうばん",
+    "kanji": "交番",
+    "length": 2
+  },
+  {
+    "indonesian": "Taman",
+    "japanese": "こうえん",
+    "kanji": "公園",
+    "length": 2
+  },
+  {
+    "indonesian": "Kuil",
+    "japanese": "じんじゃ",
+    "kanji": "神社",
+    "length": 2
+  },
+  {
+    "indonesian": "Menu makanan",
+    "japanese": "ていしょく",
+    "kanji": "定食",
+    "length": 2
+  },
+  {
+    "indonesian": "Uang tunai",
+    "japanese": "げんきん",
+    "kanji": "現金",
+    "length": 2
+  },
+  {
+    "indonesian": "Pakaian dalam",
+    "japanese": "したぎ",
+    "kanji": "下着",
+    "length": 2
+  },
+  {
+    "indonesian": "Baju, jaket",
+    "japanese": "うわぎ",
+    "kanji": "上着",
+    "length": 2
+  },
+  {
+    "indonesian": "Sakit",
+    "japanese": "びょうき",
+    "kanji": "病気",
+    "length": 2
+  },
+  {
+    "indonesian": "Dilarang merokok",
+    "japanese": "きんえん",
+    "kanji": "禁煙",
+    "length": 2
+  },
+  {
+    "indonesian": "Kuil Sinto",
+    "japanese": "じんじゃ",
+    "kanji": "神社",
+    "length": 2
+  },
+  {
+    "indonesian": "Memastikan",
+    "japanese": "かくにん",
+    "kanji": "確認",
+    "length": 2
+  },
+  {
+    "indonesian": "Jumlah Uang",
+    "japanese": "きんがく",
+    "kanji": "金額",
+    "length": 2
+  },
+  {
+    "indonesian": "Bujangan",
+    "japanese": "どくしん",
+    "kanji": "独身",
+    "length": 2
+  },
+  {
+    "indonesian": "SMA",
+    "japanese": "こうこう",
+    "kanji": "高校",
+    "length": 2
+  },
+  {
+    "indonesian": "Bersulang",
+    "japanese": "かんぱい",
+    "kanji": "乾杯",
+    "length": 2
+  },
+  {
+    "indonesian": "Cuaca",
+    "japanese": "てんき",
+    "kanji": "天気",
+    "length": 2
+  },
+  {
+    "indonesian": "Musim",
+    "japanese": "きせつ",
+    "kanji": "季節",
+    "length": 2
+  },
+  {
+    "indonesian": "Ekonomi",
+    "japanese": "けいざい",
+    "kanji": "経済",
+    "length": 2
+  },
+  {
+    "indonesian": "Produk",
+    "japanese": "せいひん",
+    "kanji": "製品",
+    "length": 2
+  },
+  {
+    "indonesian": "Data, dokumen",
+    "japanese": "しりょう",
+    "kanji": "資料",
+    "length": 2
+  },
+  {
+    "indonesian": "Masalah, soal",
+    "japanese": "もんだい",
+    "kanji": "問題",
+    "length": 2
+  },
+  {
+    "indonesian": "Gula",
+    "japanese": "さとう",
+    "kanji": "砂糖",
+    "length": 2
+  },
+  {
+    "indonesian": "Peta",
+    "japanese": "ちず",
+    "kanji": "地図",
+    "length": 2
+  },
+  {
+    "indonesian": "Alamat",
+    "japanese": "じゅうしょ",
+    "kanji": "住所",
+    "length": 2
+  },
+  {
+    "indonesian": "Nama",
+    "japanese": "なまえ",
+    "kanji": "名前",
+    "length": 2
+  },
+  {
+    "indonesian": "Listrik",
+    "japanese": "でんき",
+    "kanji": "電気",
+    "length": 2
+  },
+  {
+    "indonesian": "Saudara",
+    "japanese": "きょうだい",
+    "kanji": "兄弟",
+    "length": 2
+  },
+  {
+    "indonesian": "Orang tua",
+    "japanese": "りょうしん",
+    "kanji": "両親",
+    "length": 2
+  },
+  {
+    "indonesian": "Amplop",
+    "japanese": "ふうとう",
+    "kanji": "封筒",
+    "length": 2
+  },
+  {
+    "indonesian": "Perangko",
+    "japanese": "きって",
+    "kanji": "切手",
+    "length": 2
+  },
+  {
+    "indonesian": "Akhir pekan",
+    "japanese": "しゅうまつ",
+    "kanji": "週末",
+    "length": 2
+  },
+  {
+    "indonesian": "Seni",
+    "japanese": "びじゅつ",
+    "kanji": "美術",
+    "length": 2
+  },
+  {
+    "indonesian": "Daun yang berubah warna jadi merah",
+    "japanese": "もみじ",
+    "kanji": "紅葉",
+    "length": 2
+  },
+  {
+    "indonesian": "Daging sapi",
+    "japanese": "ぎゅうにく",
+    "kanji": "牛肉",
+    "length": 2
+  },
+  {
+    "indonesian": "Daging ayam",
+    "japanese": "とりにく",
+    "kanji": "鶏肉",
+    "length": 2
+  },
+  {
+    "indonesian": "Daging babi",
+    "japanese": "ぶたにく",
+    "kanji": "豚肉",
+    "length": 2
+  },
+  {
+    "indonesian": "Dunia",
+    "japanese": "せかい",
+    "kanji": "世界",
+    "length": 2
+  },
+  {
+    "indonesian": "Bandara",
+    "japanese": "くうこう",
+    "kanji": "空港",
+    "length": 2
+  },
+  {
+    "indonesian": "Susu sapi",
+    "japanese": "ぎゅうにゅう",
+    "kanji": "牛乳",
+    "length": 2
+  },
+  {
+    "indonesian": "The hijau",
+    "japanese": "こうちゃ",
+    "kanji": "紅茶",
+    "length": 2
+  },
+  {
+    "indonesian": "Anak",
+    "japanese": "こども",
+    "kanji": "子供",
+    "length": 2
+  },
+  {
+    "indonesian": "Janji",
+    "japanese": "やくそく",
+    "kanji": "約束",
+    "length": 2
+  },
+  {
+    "indonesian": "Urusan",
+    "japanese": "ようじ",
+    "kanji": "用事",
+    "length": 2
+  },
+  {
+    "indonesian": "Waktu",
+    "japanese": "じかん",
+    "kanji": "時間",
+    "length": 2
+  },
+  {
+    "indonesian": "Musik",
+    "japanese": "おんがく",
+    "kanji": "音楽",
+    "length": 2
+  },
+  {
+    "indonesian": "Tamasya, wisata",
+    "japanese": "りょこう",
+    "kanji": "旅行",
+    "length": 2
+  },
+  {
+    "indonesian": "Masakan",
+    "japanese": "りょうり",
+    "kanji": "料理",
+    "length": 2
+  },
+  {
+    "indonesian": "Tidak pandai",
+    "japanese": "へた",
+    "kanji": "下手",
+    "length": 2
+  },
+  {
+    "indonesian": "Pintar, pandai",
+    "japanese": "じょうず",
+    "kanji": "上手",
+    "length": 2
+  },
+  {
+    "indonesian": "Kehidupan, Cara hidup, Kehidupan sehari-hari",
+    "japanese": "せいかつ",
+    "kanji": "生活",
+    "length": 2
+  },
+  {
+    "indonesian": "Taman",
+    "japanese": "こうえん",
+    "kanji": "公園",
+    "length": 2
+  },
+  {
+    "indonesian": "Baterai",
+    "japanese": "でんち",
+    "kanji": "電池",
+    "length": 2
+  },
+  {
+    "indonesian": "Sama sekali",
+    "japanese": "ぜんぜん",
+    "kanji": "全然",
+    "length": 2
+  },
+  {
+    "indonesian": "Luar negeri",
+    "japanese": "がいこく",
+    "kanji": "外国",
+    "length": 2
+  },
+  {
+    "indonesian": "Tahun ini",
+    "japanese": "ことし",
+    "kanji": "今年",
+    "length": 2
+  },
+  {
+    "indonesian": "Tahun kemarin",
+    "japanese": "きょねん",
+    "kanji": "去年",
+    "length": 2
+  },
+  {
+    "indonesian": "Bulan depan",
+    "japanese": "らいげつ",
+    "kanji": "来月",
+    "length": 2
+  },
+  {
+    "indonesian": "Bulan ini",
+    "japanese": "こんげつ",
+    "kanji": "今月",
+    "length": 2
+  },
+  {
+    "indonesian": "Bulan kemarin",
+    "japanese": "せんげつ",
+    "kanji": "先月",
+    "length": 2
+  },
+  {
+    "indonesian": "Minggu depan",
+    "japanese": "らいしゅう",
+    "kanji": "来週",
+    "length": 2
+  },
+  {
+    "indonesian": "Minggu ini",
+    "japanese": "こんしゅう",
+    "kanji": "今週",
+    "length": 2
+  },
+  {
+    "indonesian": "Minggu kemarin",
+    "japanese": "せんしゅう",
+    "kanji": "先週",
+    "length": 2
+  },
+  {
+    "indonesian": "Karcis",
+    "japanese": "きっぷ",
+    "kanji": "切符",
+    "length": 2
+  },
+  {
+    "indonesian": "Barang",
+    "japanese": "にもつ",
+    "kanji": "荷物",
+    "length": 2
+  },
+  {
+    "indonesian": "Pekerjaan rumah",
+    "japanese": "しゅくだい",
+    "kanji": "宿題",
+    "length": 2
+  },
+  {
+    "indonesian": "Foto",
+    "japanese": "しゃしん",
+    "kanji": "写真",
+    "length": 2
+  },
+  {
+    "indonesian": "Surat",
+    "japanese": "てがみ",
+    "kanji": "手紙",
+    "length": 2
+  },
+  {
+    "indonesian": "Film",
+    "japanese": "えいが",
+    "kanji": "映画",
+    "length": 2
+  },
+  {
+    "indonesian": "Rapat",
+    "japanese": "かいぎ",
+    "kanji": "会議",
+    "length": 2
+  },
+  {
+    "indonesian": "Ujian",
+    "japanese": "しけん",
+    "kanji": "試験",
+    "length": 2
+  },
+  {
+    "indonesian": "Malam ini",
+    "japanese": "こんばん",
+    "kanji": "今晩",
+    "length": 2
+  },
+  {
+    "indonesian": "Tadi pagi",
+    "japanese": "けさ",
+    "kanji": "今朝",
+    "length": 2
+  },
+  {
+    "indonesian": "Besok",
+    "japanese": "あした",
+    "kanji": "明日",
+    "length": 2
+  },
+  {
+    "indonesian": "Hari ini",
+    "japanese": "きょう",
+    "kanji": "今日",
+    "length": 2
+  },
+  {
+    "indonesian": "Buah buahan",
+    "japanese": "くだもの",
+    "kanji": "果物",
+    "length": 2
+  },
+  {
+    "indonesian": "Sayur",
+    "japanese": "やさい",
+    "kanji": "野菜",
+    "length": 2
+  },
+  {
+    "indonesian": "Ekspres",
+    "japanese": "きゅうこう",
+    "kanji": "急行",
+    "length": 2
+  },
+  {
+    "indonesian": "Tanggal berapa",
+    "japanese": "なんにち",
+    "kanji": "何日",
+    "length": 2
+  },
+  {
+    "indonesian": "Bulan berapa",
+    "japanese": "なんがつ",
+    "kanji": "何月",
+    "length": 2
+  },
+  {
+    "indonesian": "Tahun berapa",
+    "japanese": "なんねん",
+    "kanji": "何年",
+    "length": 2
+  },
+  {
+    "indonesian": "Tahun depan",
+    "japanese": "らいねん",
+    "kanji": "来年",
+    "length": 2
+  },
+  {
+    "indonesian": "Kamar",
+    "japanese": "へや",
+    "kanji": "部屋",
+    "length": 2
+  },
+  {
+    "indonesian": "Resepsionis",
+    "japanese": "うけつけ",
+    "kanji": "受付",
+    "length": 2
+  },
+  {
+    "indonesian": "Ruang makan,kantin",
+    "japanese": "しょくどう",
+    "kanji": "食堂",
+    "length": 2
+  },
+  {
+    "indonesian": "Ruang kelas",
+    "japanese": "きょうしつ",
+    "kanji": "教室",
+    "length": 2
+  },
+  {
+    "indonesian": "Keluarga",
+    "japanese": "かぞく",
+    "kanji": "家族",
+    "length": 2
+  },
+  {
+    "indonesian": "Dia (perempuan)",
+    "japanese": "かのじょ",
+    "kanji": "彼女",
+    "length": 2
+  },
+  {
+    "indonesian": "Teman",
+    "japanese": "ともだち",
+    "kanji": "友達",
+    "length": 2
+  },
+  {
+    "indonesian": "Kereta listrik",
+    "japanese": "でんしゃ",
+    "kanji": "電車",
+    "length": 2
+  },
+  {
+    "indonesian": "Sekolah",
+    "japanese": "がっこう",
+    "kanji": "学校",
+    "length": 2
+  },
+  {
+    "indonesian": "Setiap hari",
+    "japanese": "まいにち",
+    "kanji": "毎日",
+    "length": 2
+  },
+  {
+    "indonesian": "Setiap malam",
+    "japanese": "まいばん",
+    "kanji": "毎晩",
+    "length": 2
+  },
+  {
+    "indonesian": "Setiap pagi",
+    "japanese": "まいあさ",
+    "kanji": "毎朝",
+    "length": 2
+  },
+  {
+    "indonesian": "Sehat, Bersemangat, Enerjik",
+    "japanese": "げんき",
+    "kanji": "元気",
+    "length": 2
+  },
+  {
+    "indonesian": "Baik hati",
+    "japanese": "しんせつ",
+    "kanji": "親切",
+    "length": 2
+  },
+  {
+    "indonesian": "Terkenal",
+    "japanese": "ゆうめい",
+    "kanji": "有名",
+    "length": 2
+  },
+  {
+    "indonesian": "Transfer (~ し ま す: ditransfer ke kantor lain)",
+    "japanese": "てんきん",
+    "kanji": "転勤",
+    "length": 2
+  },
+  {
+    "indonesian": "pedesaan, kampung halaman",
+    "japanese": "いなか",
+    "kanji": "田舎",
+    "length": 2
+  },
+  {
+    "indonesian": "Semua",
+    "japanese": "ぜんぶ",
+    "kanji": "全部",
+    "length": 2
+  },
+  {
+    "indonesian": "Arti , maksud",
+    "japanese": "いみ",
+    "kanji": "意味",
+    "length": 2
+  },
+  {
+    "indonesian": "Bahasa inggris",
+    "japanese": "えいご",
+    "kanji": "英語",
+    "length": 2
+  },
+  {
+    "indonesian": "Guru,dosen,pengajar",
+    "japanese": "せんせい",
+    "kanji": "先生",
+    "length": 2
+  },
+  {
+    "indonesian": "keluar (II)",
+    "japanese": "でます",
+    "kanji": "出ます",
+    "length": 3
+  },
+  {
+    "indonesian": "Semuanya, bapak2, ibu2,sekalian",
+    "japanese": "みなさん",
+    "kanji": "皆さん",
+    "length": 3
+  },
+  {
+    "indonesian": "Ketika itu, saat itu",
+    "japanese": "あのあいだ",
+    "kanji": "あの間",
+    "length": 3
+  },
+  {
+    "indonesian": "kalah (II)",
+    "japanese": "まけます",
+    "kanji": "負ける",
+    "length": 3
+  },
+  {
+    "indonesian": "Keluar",
+    "japanese": "でます",
+    "kanji": "出ます",
+    "length": 3
+  },
+  {
+    "indonesian": "Terang",
+    "japanese": "あかるい",
+    "kanji": "明るい",
+    "length": 3
+  },
+  {
+    "indonesian": "Bahaya",
+    "japanese": "あぶない",
+    "kanji": "危ない",
+    "length": 3
+  },
+  {
+    "indonesian": "Berdoa",
+    "japanese": "おいのり",
+    "kanji": "お祈り",
+    "length": 3
+  },
+  {
+    "indonesian": "memeriksa, menyelidiki (II)",
+    "japanese": "しらべます",
+    "kanji": "調べる",
+    "length": 3
+  },
+  {
+    "indonesian": "Tamat",
+    "japanese": "おわり",
+    "kanji": "終わり",
+    "length": 3
+  },
+  {
+    "indonesian": "Sedikit (orang)",
+    "japanese": "すくない",
+    "kanji": "少ない",
+    "length": 3
+  },
+  {
+    "indonesian": "sejuk",
+    "japanese": "すずしい",
+    "kanji": "涼しい",
+    "length": 3
+  },
+  {
+    "indonesian": "Ingin",
+    "japanese": "ほしい",
+    "kanji": "欲しい",
+    "length": 3
+  },
+  {
+    "indonesian": "Gyudon (udon sapi)",
+    "japanese": "ぎゅうどん",
+    "kanji": "牛どん",
+    "length": 3
+  },
+  {
+    "indonesian": "Masing masing",
+    "japanese": "べつべつに",
+    "kanji": "別々に",
+    "length": 3
+  },
+  {
+    "indonesian": "Keluar",
+    "japanese": "でます",
+    "kanji": "出ます",
+    "length": 3
+  },
+  {
+    "indonesian": "Uang kembalian",
+    "japanese": "おつり",
+    "kanji": "お釣り",
+    "length": 3
+  },
+  {
+    "indonesian": "Menyenangkan, Seru",
+    "japanese": "たのしい",
+    "kanji": "楽しい",
+    "length": 3
+  },
+  {
+    "indonesian": "Istri",
+    "japanese": "おくさん",
+    "kanji": "奥さん",
+    "length": 3
+  },
+  {
+    "indonesian": "Melihat",
+    "japanese": "みます",
+    "kanji": "見ます",
+    "length": 3
+  },
+  {
+    "indonesian": "Besar",
+    "japanese": "おおきい",
+    "kanji": "大きい",
+    "length": 3
+  },
+  {
+    "indonesian": "Kecil",
+    "japanese": "ちいさい",
+    "kanji": "小さい",
+    "length": 3
+  },
+  {
+    "indonesian": "Baru",
+    "japanese": "あたらしい",
+    "kanji": "新しい",
+    "length": 3
+  },
+  {
+    "indonesian": "Dingin (suhu benda contoh es)",
+    "japanese": "つめたい",
+    "kanji": "冷たい",
+    "length": 3
+  },
+  {
+    "indonesian": "Sulit, susah",
+    "japanese": "むずかしい",
+    "kanji": "難しい",
+    "length": 3
+  },
+  {
+    "indonesian": "Mudah, gampang",
+    "japanese": "やさしい",
+    "kanji": "易しい",
+    "length": 3
+  },
+  {
+    "indonesian": "Sibuk",
+    "japanese": "いそがしい",
+    "kanji": "忙しい",
+    "length": 3
+  },
+  {
+    "indonesian": "Tidur",
+    "japanese": "ねます",
+    "kanji": "寝ます",
+    "length": 3
+  },
+  {
+    "indonesian": "Adik laki laki orang lain",
+    "japanese": "おとうとさん",
+    "kanji": "弟さん",
+    "length": 3
+  },
+  {
+    "indonesian": "Adik perempuan orang lain",
+    "japanese": "いもうとさん",
+    "kanji": "妹さん",
+    "length": 3
+  },
+  {
+    "indonesian": "Jalan kaki",
+    "japanese": "あるいて",
+    "kanji": "歩いて",
+    "length": 3
+  },
+  {
+    "indonesian": "Datang",
+    "japanese": "きます",
+    "kanji": "来ます",
+    "length": 3
+  },
+  {
+    "indonesian": "Orang laki laki",
+    "japanese": "おとこのひと",
+    "kanji": "男の人",
+    "length": 3
+  },
+  {
+    "indonesian": "Tempat jualan",
+    "japanese": "うりば",
+    "kanji": "売り場",
+    "length": 3
+  },
+  {
+    "indonesian": "Bersama sama",
+    "japanese": "いっしょに",
+    "kanji": "一緒に",
+    "length": 3
+  },
+  {
+    "indonesian": "Sendiri",
+    "japanese": "ひとりで",
+    "kanji": "一人で",
+    "length": 3
+  },
+  {
+    "indonesian": "Tempat naik/halte",
+    "japanese": "のりば",
+    "kanji": "乗り場",
+    "length": 3
+  },
+  {
+    "indonesian": "Anak perempuan",
+    "japanese": "おんなのこ",
+    "kanji": "女の子",
+    "length": 3
+  },
+  {
+    "indonesian": "Anak laik laki",
+    "japanese": "おとこのこ",
+    "kanji": "男の子",
+    "length": 3
+  },
+  {
+    "indonesian": "Orang perempuan",
+    "japanese": "おんなのひと",
+    "kanji": "女の人",
+    "length": 3
+  },
+  {
+    "indonesian": "Suami",
+    "japanese": "ごしゅじん",
+    "kanji": "ご主人",
+    "length": 3
+  },
+  {
+    "indonesian": "Minuman",
+    "japanese": "のみもの",
+    "kanji": "飲み物",
+    "length": 3
+  },
+  {
+    "indonesian": "Makanan",
+    "japanese": "たべもの",
+    "kanji": "食べ物",
+    "length": 3
+  },
+  {
+    "indonesian": "Cara baca",
+    "japanese": "よみかた",
+    "kanji": "読み方",
+    "length": 3
+  },
+  {
+    "indonesian": "Seni merangkai bunga",
+    "japanese": "いけばな",
+    "kanji": "生け花",
+    "length": 3
+  },
+  {
+    "indonesian": "semuanya",
+    "japanese": "ぜんぶで",
+    "kanji": "全部で",
+    "length": 3
+  },
+  {
+    "indonesian": "berkali-kali",
+    "japanese": "なんかいも",
+    "kanji": "何回も",
+    "length": 3
+  },
+  {
+    "indonesian": "Penting",
+    "japanese": "たいせつ",
+    "kanji": "大切な",
+    "length": 3
+  },
+  {
+    "indonesian": "Pestipal Salju",
+    "japanese": "ゆきまつり",
+    "kanji": "雪祭り",
+    "length": 3
+  },
+  {
+    "indonesian": "percuma",
+    "japanese": "むだ",
+    "kanji": "無駄な",
+    "length": 3
+  },
+  {
+    "indonesian": "Sendirian, diri sendiri",
+    "japanese": "じぶんで",
+    "kanji": "自分で",
+    "length": 3
+  },
+  {
+    "indonesian": "Istirahat siang",
+    "japanese": "ひるやすみ",
+    "kanji": "昼休み",
+    "length": 3
+  },
+  {
+    "indonesian": "Hari apa",
+    "japanese": "なんようび",
+    "kanji": "何曜日",
+    "length": 3
+  },
+  {
+    "indonesian": "Kereta bawah tanah",
+    "japanese": "ちかてつ",
+    "kanji": "地下鉄",
+    "length": 3
+  },
+  {
+    "indonesian": "Pesawat",
+    "japanese": "ひこうき",
+    "kanji": "飛行機",
+    "length": 3
+  },
+  {
+    "indonesian": "Perempatan",
+    "japanese": "こうさてん",
+    "kanji": "交差点",
+    "length": 3
+  },
+  {
+    "indonesian": "Toko elektronik",
+    "japanese": "でんきや",
+    "kanji": "電気屋",
+    "length": 3
+  },
+  {
+    "indonesian": "Pelajar asing",
+    "japanese": "りゅうがくせい",
+    "kanji": "留学生",
+    "length": 3
+  },
+  {
+    "indonesian": "Kampung halaman",
+    "japanese": "ふるさとう",
+    "kanji": "古佐藤",
+    "length": 3
+  },
+  {
+    "indonesian": "Dokter gigi",
+    "japanese": "はいしゃ",
+    "kanji": "歯医者",
+    "length": 3
+  },
+  {
+    "indonesian": "Presiden",
+    "japanese": "だいとうりょう",
+    "kanji": "大統領",
+    "length": 3
+  },
+  {
+    "indonesian": "Kedutaan",
+    "japanese": "たいしかん",
+    "kanji": "大使館",
+    "length": 3
+  },
+  {
+    "indonesian": "Parkir, parkir mobil",
+    "japanese": "ちゅうしゃじょう",
+    "kanji": "駐車場",
+    "length": 3
+  },
+  {
+    "indonesian": "Kulkas",
+    "japanese": "れいぞうこ",
+    "kanji": "冷蔵庫",
+    "length": 3
+  },
+  {
+    "indonesian": "Kedau kopi",
+    "japanese": "きっさてん",
+    "kanji": "喫茶店",
+    "length": 3
+  },
+  {
+    "indonesian": "Paling bawah",
+    "japanese": "いちばんした",
+    "kanji": "一番下",
+    "length": 3
+  },
+  {
+    "indonesian": "Kereta super cepat",
+    "japanese": "しんかんせん",
+    "kanji": "新幹線",
+    "length": 3
+  },
+  {
+    "indonesian": "Sepeda",
+    "japanese": "じてんしゃ",
+    "kanji": "自転車",
+    "length": 3
+  },
+  {
+    "indonesian": "Hari apa",
+    "japanese": "なんようび",
+    "kanji": "何曜日",
+    "length": 3
+  },
+  {
+    "indonesian": "Jadwal",
+    "japanese": "じこくひょう",
+    "kanji": "時刻表",
+    "length": 3
+  },
+  {
+    "indonesian": "Drama tradisional jepang",
+    "japanese": "かぶき",
+    "kanji": "歌舞伎",
+    "length": 3
+  },
+  {
+    "indonesian": "Ulang tahun",
+    "japanese": "たんじょうび",
+    "kanji": "誕生日",
+    "length": 3
+  },
+  {
+    "indonesian": "Museum",
+    "japanese": "はくぶつかん",
+    "kanji": "博物館",
+    "length": 3
+  },
+  {
+    "indonesian": "Kantor pos",
+    "japanese": "ゆうびんきょく",
+    "kanji": "郵便局",
+    "length": 3
+  },
+  {
+    "indonesian": "Kartu tahun baru",
+    "japanese": "ねんがじょう",
+    "kanji": "年賀状",
+    "length": 3
+  },
+  {
+    "indonesian": "Karyawan bank",
+    "japanese": "ぎんこういん",
+    "kanji": "銀行員",
+    "length": 3
+  },
+  {
+    "indonesian": "Kebun binatang",
+    "japanese": "どうぶつえん",
+    "kanji": "動物園",
+    "length": 3
+  },
+  {
+    "indonesian": "Kedutaan besar",
+    "japanese": "たいしかん",
+    "kanji": "大使館",
+    "length": 3
+  },
+  {
+    "indonesian": "Penjual sayuran",
+    "japanese": "やおや",
+    "kanji": "八百屋",
+    "length": 3
+  },
+  {
+    "indonesian": "Kemarin lusa",
+    "japanese": "おととい",
+    "kanji": "一昨日",
+    "length": 3
+  },
+  {
+    "indonesian": "Besok lusa",
+    "japanese": "あさって",
+    "kanji": "明後日",
+    "length": 3
+  },
+  {
+    "indonesian": "Peneliti",
+    "japanese": "けんきゅうしゃ",
+    "kanji": "研究者",
+    "length": 3
+  },
+  {
+    "indonesian": "Bahasa jepang",
+    "japanese": "にほんご",
+    "kanji": "日本語",
+    "length": 3
+  },
+  {
+    "indonesian": "Kantor",
+    "japanese": "じむしょ",
+    "kanji": "事務所",
+    "length": 3
+  },
+  {
+    "indonesian": "Ruang rapat",
+    "japanese": "かいぎしつ",
+    "kanji": "会議室",
+    "length": 3
+  },
+  {
+    "indonesian": "Perpustakaan",
+    "japanese": "としょかん",
+    "kanji": "図書館",
+    "length": 3
+  },
+  {
+    "indonesian": "Gedung kesenian",
+    "japanese": "びじゅつかん",
+    "kanji": "美術館",
+    "length": 3
+  },
+  {
+    "indonesian": "Karyawan perusahaan",
+    "japanese": "かいしゃいん",
+    "kanji": "会社員",
+    "length": 3
+  },
+  {
+    "indonesian": "Berjalan, jalan kaki (I)",
+    "japanese": "あるきます",
+    "kanji": "歩きます",
+    "length": 4
+  },
+  {
+    "indonesian": "menyebrangi [jembatan] (I)",
+    "japanese": "わたります［はしを～",
+    "kanji": "渡ります",
+    "length": 4
+  },
+  {
+    "indonesian": "mengirim (I)",
+    "japanese": "おくります",
+    "kanji": "送ります",
+    "length": 4
+  },
+  {
+    "indonesian": "berpikir, mempertimbangkan (II)",
+    "japanese": "かんがえます",
+    "kanji": "考えます",
+    "length": 4
+  },
+  {
+    "indonesian": "tiba [di stasiun] (I)",
+    "japanese": "つきます［えきに～］",
+    "kanji": "着きます",
+    "length": 4
+  },
+  {
+    "indonesian": "Mengambil (menjadi tua) (I)",
+    "japanese": "とります［としを～］",
+    "kanji": "取ります",
+    "length": 4
+  },
+  {
+    "indonesian": "Mengumpulkan",
+    "japanese": "あつめます",
+    "kanji": "集めます",
+    "length": 4
+  },
+  {
+    "indonesian": "Membuang",
+    "japanese": "すてます",
+    "kanji": "捨てます",
+    "length": 4
+  },
+  {
+    "indonesian": "Mengganti, menukar",
+    "japanese": "かえます",
+    "kanji": "換えます",
+    "length": 4
+  },
+  {
+    "indonesian": "Mendaki, panjat (I)",
+    "japanese": "のぼります",
+    "kanji": "登ります",
+    "length": 4
+  },
+  {
+    "indonesian": "baik untuk kesehatan seseorang",
+    "japanese": "からだにいい",
+    "kanji": "体にいい",
+    "length": 4
+  },
+  {
+    "indonesian": "bicara, bercerita",
+    "japanese": "［お］はなし",
+    "kanji": "［お］話",
+    "length": 4
+  },
+  {
+    "indonesian": "Bertanya/mendengarkan [guru] (I)",
+    "japanese": "ききます［せんせいに］",
+    "kanji": "聞きます",
+    "length": 4
+  },
+  {
+    "indonesian": "memutar (I)",
+    "japanese": "まわします",
+    "kanji": "回します",
+    "length": 4
+  },
+  {
+    "indonesian": "tarik (I)",
+    "japanese": "ひきます",
+    "kanji": "引きます",
+    "length": 4
+  },
+  {
+    "indonesian": "Turun",
+    "japanese": "おります",
+    "kanji": "降ります",
+    "length": 4
+  },
+  {
+    "indonesian": "Mandi",
+    "japanese": "あびます",
+    "kanji": "浴びます",
+    "length": 4
+  },
+  {
+    "indonesian": "Memasukan",
+    "japanese": "いれます",
+    "kanji": "入れます",
+    "length": 4
+  },
+  {
+    "indonesian": "Mengeluarkan/mengirim/menyerahkan",
+    "japanese": "だします",
+    "kanji": "出します",
+    "length": 4
+  },
+  {
+    "indonesian": "Perubahan,mengganti (II)",
+    "japanese": "かえます",
+    "kanji": "変えます",
+    "length": 4
+  },
+  {
+    "indonesian": "menyentuh (I)",
+    "japanese": "さわります",
+    "kanji": "触ります",
+    "length": 4
+  },
+  {
+    "indonesian": "bergerak, bekerja (I)",
+    "japanese": "うごきます",
+    "kanji": "動きます",
+    "length": 4
+  },
+  {
+    "indonesian": "Masuk",
+    "japanese": "はいります",
+    "kanji": "入ります",
+    "length": 4
+  },
+  {
+    "indonesian": "Menekan (tombol)",
+    "japanese": "おします",
+    "kanji": "押します",
+    "length": 4
+  },
+  {
+    "indonesian": "Minum",
+    "japanese": "のみます",
+    "kanji": "飲みます",
+    "length": 4
+  },
+  {
+    "indonesian": "Mengingat",
+    "japanese": "おぼえます",
+    "kanji": "覚えます",
+    "length": 4
+  },
+  {
+    "indonesian": "Lupa",
+    "japanese": "わすれます",
+    "kanji": "忘れます",
+    "length": 4
+  },
+  {
+    "indonesian": "Membayar",
+    "japanese": "はらいます",
+    "kanji": "払います",
+    "length": 4
+  },
+  {
+    "indonesian": "Mengembalikan",
+    "japanese": "かえします",
+    "kanji": "返します",
+    "length": 4
+  },
+  {
+    "indonesian": "Mencuci",
+    "japanese": "あらいます",
+    "kanji": "洗います",
+    "length": 4
+  },
+  {
+    "indonesian": "Bermain (untuk bermain alat music senar dan piano)",
+    "japanese": "ひきます",
+    "kanji": "弾きます",
+    "length": 4
+  },
+  {
+    "indonesian": "Menyanyi",
+    "japanese": "うたいます",
+    "kanji": "歌います",
+    "length": 4
+  },
+  {
+    "indonesian": "Memanggil",
+    "japanese": "よびます",
+    "kanji": "呼びます",
+    "length": 4
+  },
+  {
+    "indonesian": "Berbicara",
+    "japanese": "はなします",
+    "kanji": "話します",
+    "length": 4
+  },
+  {
+    "indonesian": "Memakai",
+    "japanese": "つかいます",
+    "kanji": "使います",
+    "length": 4
+  },
+  {
+    "indonesian": "Menghentikan, Memarkir",
+    "japanese": "とめます",
+    "kanji": "止めます",
+    "length": 4
+  },
+  {
+    "indonesian": "Memperlihatkan",
+    "japanese": "みせます",
+    "kanji": "見せます",
+    "length": 4
+  },
+  {
+    "indonesian": "Memberitahukan",
+    "japanese": "おしえます",
+    "kanji": "教えます",
+    "length": 4
+  },
+  {
+    "indonesian": "Duduk",
+    "japanese": "すわります",
+    "kanji": "座ります",
+    "length": 4
+  },
+  {
+    "indonesian": "Berdiri",
+    "japanese": "たちます",
+    "kanji": "立ちます",
+    "length": 4
+  },
+  {
+    "indonesian": "Masuk",
+    "japanese": "はいります",
+    "kanji": "入ります",
+    "length": 4
+  },
+  {
+    "indonesian": "Turun (hujan, salju)",
+    "japanese": "ふります",
+    "kanji": "降ります",
+    "length": 4
+  },
+  {
+    "indonesian": "Sedikit lagi",
+    "japanese": "もう    すこし",
+    "kanji": "もう少し",
+    "length": 4
+  },
+  {
+    "indonesian": "Membuat,Membangun",
+    "japanese": "つくります",
+    "kanji": "作ります",
+    "length": 4
+  },
+  {
+    "indonesian": "Menjual",
+    "japanese": "うります",
+    "kanji": "売ります",
+    "length": 4
+  },
+  {
+    "indonesian": "Mengetahui, Mengenal",
+    "japanese": "しります",
+    "kanji": "知ります",
+    "length": 4
+  },
+  {
+    "indonesian": "naik",
+    "japanese": "のります",
+    "kanji": "乗ります",
+    "length": 4
+  },
+  {
+    "indonesian": "Libur/istirahat",
+    "japanese": "やすみます",
+    "kanji": "休みます",
+    "length": 4
+  },
+  {
+    "indonesian": "Kakak laki laki orang lain",
+    "japanese": "おにいさん",
+    "kanji": "お兄さん",
+    "length": 4
+  },
+  {
+    "indonesian": "Buru – buru",
+    "japanese": "いそぎます",
+    "kanji": "急ぎます",
+    "length": 4
+  },
+  {
+    "indonesian": "Menunggu",
+    "japanese": "まちます",
+    "kanji": "待ちます",
+    "length": 4
+  },
+  {
+    "indonesian": "Membawa",
+    "japanese": "もちます",
+    "kanji": "持ちます",
+    "length": 4
+  },
+  {
+    "indonesian": "Mengambil",
+    "japanese": "とります",
+    "kanji": "取ります",
+    "length": 4
+  },
+  {
+    "indonesian": "Menghisap",
+    "japanese": "すいます",
+    "kanji": "吸います",
+    "length": 4
+  },
+  {
+    "indonesian": "Mendengar",
+    "japanese": "ききます",
+    "kanji": "聞きます",
+    "length": 4
+  },
+  {
+    "indonesian": "Membaca",
+    "japanese": "よみます",
+    "kanji": "読みます",
+    "length": 4
+  },
+  {
+    "indonesian": "Menulis",
+    "japanese": "かきます",
+    "kanji": "書きます",
+    "length": 4
+  },
+  {
+    "indonesian": "Kakak perempuan orang lain",
+    "japanese": "おねえさん",
+    "kanji": "お姉さん",
+    "length": 4
+  },
+  {
+    "indonesian": "Bermain",
+    "japanese": "あそびます",
+    "kanji": "遊びます",
+    "length": 4
+  },
+  {
+    "indonesian": "Berenang",
+    "japanese": "およぎます",
+    "kanji": "泳ぎます",
+    "length": 4
+  },
+  {
+    "indonesian": "Menjemput",
+    "japanese": "むかえます",
+    "kanji": "迎えます",
+    "length": 4
+  },
+  {
+    "indonesian": "Lelah/cape (melelahkan)",
+    "japanese": "つかれます",
+    "kanji": "疲れます",
+    "length": 4
+  },
+  {
+    "indonesian": "Mematikan, memadamkan",
+    "japanese": "けしま",
+    "kanji": "消します",
+    "length": 4
+  },
+  {
+    "indonesian": "Membuka",
+    "japanese": "あけます",
+    "kanji": "開けます",
+    "length": 4
+  },
+  {
+    "indonesian": "Menutup",
+    "japanese": "しめます",
+    "kanji": "閉めます",
+    "length": 4
+  },
+  {
+    "indonesian": "Bapak (Bapak orang lain,dan digunakan untuk Bapak kandung sendiri ketika memanggilnya)",
+    "japanese": "おとうさん",
+    "kanji": "お父さん",
+    "length": 4
+  },
+  {
+    "indonesian": "Ibu (ibu orang lain,dan digunakan untuk ibu kandung sendiri ketika memanggilnya)",
+    "japanese": "おかあさん",
+    "kanji": "お母さん",
+    "length": 4
+  },
+  {
+    "indonesian": "Membeli",
+    "japanese": "かいます",
+    "kanji": "買います",
+    "length": 4
+  },
+  {
+    "indonesian": "Mengambil [foto]",
+    "japanese": "とります",
+    "kanji": "撮ります",
+    "length": 4
+  },
+  {
+    "indonesian": "Bertemu",
+    "japanese": "あいます",
+    "kanji": "会います",
+    "length": 4
+  },
+  {
+    "indonesian": "Memotong",
+    "japanese": "きります",
+    "kanji": "切ります",
+    "length": 4
+  },
+  {
+    "indonesian": "Mengirim",
+    "japanese": "おくります",
+    "kanji": "送ります",
+    "length": 4
+  },
+  {
+    "indonesian": "Meminjamkan",
+    "japanese": "かします",
+    "kanji": "貸します",
+    "length": 4
+  },
+  {
+    "indonesian": "Meminjam",
+    "japanese": "かります",
+    "kanji": "借ります",
+    "length": 4
+  },
+  {
+    "indonesian": "Mengajar/memberitahu",
+    "japanese": "おしえます",
+    "kanji": "教えます",
+    "length": 4
+  },
+  {
+    "indonesian": "Belajar",
+    "japanese": "ならいます",
+    "kanji": "習います",
+    "length": 4
+  },
+  {
+    "indonesian": "Bangun",
+    "japanese": "おきます",
+    "kanji": "起きます",
+    "length": 4
+  },
+  {
+    "indonesian": "Bekerja",
+    "japanese": "はたらきます",
+    "kanji": "働きます",
+    "length": 4
+  },
+  {
+    "indonesian": "Libur",
+    "japanese": "やすみます",
+    "kanji": "休みます",
+    "length": 4
+  },
+  {
+    "indonesian": "Pergi",
+    "japanese": "いきます",
+    "kanji": "行きます",
+    "length": 4
+  },
+  {
+    "indonesian": "Pulang",
+    "japanese": "かえります",
+    "kanji": "帰ります",
+    "length": 4
+  },
+  {
+    "indonesian": "Makan",
+    "japanese": "たべます",
+    "kanji": "食べます",
+    "length": 4
+  },
+  {
+    "indonesian": "Minum",
+    "japanese": "のみます",
+    "kanji": "飲みます",
+    "length": 4
+  },
+  {
+    "indonesian": "Oleh oleh",
+    "japanese": "お    みやげ",
+    "kanji": "お 土産",
+    "length": 4
+  },
+  {
+    "indonesian": "Malam",
+    "japanese": "ばん（よる）",
+    "kanji": "晩（夜）",
+    "length": 4
+  },
+  {
+    "indonesian": "Sayang sekali",
+    "japanese": "ざんねんです",
+    "kanji": "残念です",
+    "length": 4
+  },
+  {
+    "indonesian": "Menelepon",
+    "japanese": "でんわします",
+    "kanji": "電話する",
+    "length": 4
+  },
+  {
+    "indonesian": "Perbaikan, service",
+    "japanese": "しゅうりします",
+    "kanji": "修理する",
+    "length": 4
+  },
+  {
+    "indonesian": "Suami",
+    "japanese": "おっと／しゅじん",
+    "kanji": "夫／主人",
+    "length": 4
+  },
+  {
+    "indonesian": "Istri",
+    "japanese": "つま／かない",
+    "kanji": "妻／家内",
+    "length": 4
+  },
+  {
+    "indonesian": "Tidak apa apa, tidak masalah",
+    "japanese": "だいじょうぶ",
+    "kanji": "大丈夫な",
+    "length": 4
+  },
+  {
+    "indonesian": "No PIN",
+    "japanese": "あんしょうばんごう",
+    "kanji": "暗証番号",
+    "length": 4
+  },
+  {
+    "indonesian": "Kamus elektronik",
+    "japanese": "でんしじしょ",
+    "kanji": "電子辞書",
+    "length": 4
+  },
+  {
+    "indonesian": "Selesai",
+    "japanese": "おわります",
+    "kanji": "終わります",
+    "length": 5
+  },
+  {
+    "indonesian": "Lelah",
+    "japanese": "つかれました",
+    "kanji": "疲れました",
+    "length": 5
+  },
+  {
+    "indonesian": "Mulai",
+    "japanese": "はじめます",
+    "kanji": "初めましす",
+    "length": 5
+  },
+  {
+    "indonesian": "Pergi keluar",
+    "japanese": "でかけます",
+    "kanji": "出かけます",
+    "length": 5
+  },
+  {
+    "indonesian": "Sejenak, beberapa saat",
+    "japanese": "しばらくですね。",
+    "kanji": "暫くですね",
+    "length": 5
+  },
+  {
+    "indonesian": "Benarkah?",
+    "japanese": "ほんとうですか",
+    "kanji": "本当ですか",
+    "length": 5
+  },
+  {
+    "indonesian": "Memesan",
+    "japanese": "よやくします",
+    "kanji": "予約します",
+    "length": 5
+  },
+  {
+    "indonesian": "Khawatir",
+    "japanese": "しんぱいします",
+    "kanji": "心配します",
+    "length": 5
+  },
+  {
+    "indonesian": "Menelpon",
+    "japanese": "でんわします",
+    "kanji": "電話します",
+    "length": 5
+  },
+  {
+    "indonesian": "Menikah",
+    "japanese": "けっこんします",
+    "kanji": "結婚します",
+    "length": 5
+  },
+  {
+    "indonesian": "Cepat",
+    "japanese": "はやい",
+    "kanji": "早い、遠い",
+    "length": 5
+  },
+  {
+    "indonesian": "menjelaskan (III)",
+    "japanese": "せつめいします",
+    "kanji": "説明します",
+    "length": 5
+  },
+  {
+    "indonesian": "menunjukkan sekitar, menunjukkan jalan (III)",
+    "japanese": "あんないします",
+    "kanji": "案内します",
+    "length": 5
+  },
+  {
+    "indonesian": "memperkenalkan (III)",
+    "japanese": "しょうかいします",
+    "kanji": "紹介します",
+    "length": 5
+  },
+  {
+    "indonesian": "Belajar",
+    "japanese": "べんきょうします",
+    "kanji": "勉強します",
+    "length": 5
+  },
+  {
+    "indonesian": "Menyetir",
+    "japanese": "うんてんします",
+    "kanji": "運転します",
+    "length": 5
+  },
+  {
+    "indonesian": "Dinas",
+    "japanese": "しゅっちょうします",
+    "kanji": "出張します",
+    "length": 5
+  },
+  {
+    "indonesian": "Hari Tahun Baru",
+    "japanese": "［お］しょうがつ",
+    "kanji": "［お］正月",
+    "length": 5
+  },
+  {
+    "indonesian": "ada dlm keadaan baik",
+    "japanese": "ちょうしがいい",
+    "kanji": "調子がいい",
+    "length": 5
+  },
+  {
+    "indonesian": "Latihan (III)",
+    "japanese": "れんしゅうします",
+    "kanji": "練習します",
+    "length": 5
+  },
+  {
+    "indonesian": "Mencuci (pakaian) (III)",
+    "japanese": "せんたくします",
+    "kanji": "洗濯します",
+    "length": 5
+  },
+  {
+    "indonesian": "membersihkan (ruang) (III)",
+    "japanese": "そうじします",
+    "kanji": "掃除します",
+    "length": 5
+  },
+  {
+    "indonesian": "Lembur (kerja)",
+    "japanese": "ざんぎょうします",
+    "kanji": "残業します",
+    "length": 5
+  },
+  {
+    "indonesian": "Panas",
+    "japanese": "あつい",
+    "kanji": "暑い、熱い",
+    "length": 5
+  },
+  {
+    "indonesian": "Mengunjungi",
+    "japanese": "けんがくします",
+    "kanji": "見学します",
+    "length": 5
+  },
+  {
+    "indonesian": "Meneliti",
+    "japanese": "けんきゅうします",
+    "kanji": "研究します",
+    "length": 5
+  },
+  {
+    "indonesian": "Membantu",
+    "japanese": "てつだいます",
+    "kanji": "手伝います",
+    "length": 5
+  },
+  {
+    "indonesian": "Berjalan jalan ditaman",
+    "japanese": "さんぽします",
+    "kanji": "散歩します",
+    "length": 5
+  },
+  {
+    "indonesian": "Makan",
+    "japanese": "しょくじします",
+    "kanji": "食事します",
+    "length": 5
+  },
+  {
+    "indonesian": "Semangat (I)",
+    "japanese": "がんばります",
+    "kanji": "頑張ります",
+    "length": 5
+  },
+  {
+    "indonesian": "belajar di luar negeri (III)",
+    "japanese": "りゅうがくします",
+    "kanji": "留学します",
+    "length": 5
+  },
+  {
+    "indonesian": "Bekal makan siang",
+    "japanese": "［お］べんとう",
+    "kanji": "［お］弁当",
+    "length": 5
+  },
+  {
+    "indonesian": "Kue, makanan ringan",
+    "japanese": "［お］かし",
+    "kanji": "［お］菓子",
+    "length": 5
+  },
+  {
+    "indonesian": "berada dalam kondisi buruk",
+    "japanese": "ちょうしがわるい",
+    "kanji": "調子が悪い",
+    "length": 5
+  },
+  {
+    "indonesian": "Kantor imigrasi",
+    "japanese": "にゅうこくかんりきょく",
+    "kanji": "入国管理局",
+    "length": 5
+  },
+  {
+    "indonesian": "Mesin penjual otomatis",
+    "japanese": "じどうはんばいき",
+    "kanji": "自動販売機",
+    "length": 5
+  },
+  {
+    "indonesian": "Hati-hati [awas mobil], perhatikan (II)",
+    "japanese": "きをつけます［くるまに～］",
+    "kanji": "気をつけます",
+    "length": 6
+  },
+  {
+    "indonesian": "Minuman keras jepang",
+    "japanese": "お  さけ",
+    "kanji": "お    酒",
+    "length": 6
+  },
+  {
+    "indonesian": "Mengerti",
+    "japanese": "わかりました",
+    "kanji": "分かりました",
+    "length": 6
+  },
+  {
+    "indonesian": "Uang receh",
+    "japanese": "こまかいおかね",
+    "kanji": "こまかいお金",
+    "length": 6
+  },
+  {
+    "indonesian": "Mengeluarkan/mengambil uang",
+    "japanese": "おろします",
+    "kanji": "下おろします",
+    "length": 6
+  },
+  {
+    "indonesian": "Berguna, bermanfaat (I)",
+    "japanese": "やくにたちます",
+    "kanji": "役に立ちます",
+    "length": 6
+  },
+  {
+    "indonesian": "Apakah Anda akan kembali ke negara Anda?",
+    "japanese": "くにへかえるの？",
+    "kanji": "国へ帰るの？",
+    "length": 6
+  },
+  {
+    "indonesian": "Membawa datang",
+    "japanese": "もってきます",
+    "kanji": "持って来ます",
+    "length": 6
+  },
+  {
+    "indonesian": "Ganti",
+    "japanese": "のりかえます",
+    "kanji": "乗り換えます",
+    "length": 6
+  },
+  {
+    "indonesian": "Teringat",
+    "japanese": "おもいだします",
+    "kanji": "思い出します",
+    "length": 6
+  },
+  {
+    "indonesian": "Belanja",
+    "japanese": "かいものします",
+    "kanji": "買い物します",
+    "length": 6
+  },
+  {
+    "indonesian": "Datang bersama (seseorang) (III)",
+    "japanese": "つれてきます",
+    "kanji": "連れて来ます",
+    "length": 6
+  },
+  {
+    "indonesian": "kartu pendaftaran orang asing",
+    "japanese": "がいこくじんとうろくしょう",
+    "kanji": "外国人登録証",
+    "length": 6
+  },
+  {
+    "indonesian": "Melihat bunga sakura",
+    "japanese": "お  はなみ",
+    "kanji": "お    花見",
+    "length": 7
+  },
+  {
+    "indonesian": "Pergi bersama (seseorang) (I)",
+    "japanese": "つれていきます",
+    "kanji": "連れて行きます",
+    "length": 7
+  },
+  {
+    "indonesian": "Pindahan (rumah) (III)",
+    "japanese": "ひっこしします",
+    "kanji": "引っ越しします",
+    "length": 7
+  },
+  {
+    "indonesian": "Membawa pergi",
+    "japanese": "もっていきます",
+    "kanji": "持って行きます",
+    "length": 7
+  },
+  {
+    "indonesian": "Tahun baru",
+    "japanese": "お       しょうがつ",
+    "kanji": "お    正月",
+    "length": 7
+  },
+  {
+    "indonesian": "Orang itu/beliau",
+    "japanese": "あの ひと/あの かた",
+    "kanji": "あの人／あの方",
+    "length": 7
+  },
+  {
+    "indonesian": "Hangat",
+    "japanese": "あたたかい",
+    "kanji": "暖かい、温かい",
+    "length": 7
+  },
+  {
+    "indonesian": "[kesehatan] kartu asuransi",
+    "japanese": "［けんこう］ほけんしょう",
+    "kanji": "［健康］保険証",
+    "length": 7
+  },
+  {
+    "indonesian": "Aku harus menontonnya.",
+    "japanese": "みないと。。。。",
+    "kanji": "見ないと。。。。",
+    "length": 8
+  },
+  {
+    "indonesian": "Bagaimana minum ~ atau sesuatu?",
+    "japanese": "～でものみませんか",
+    "kanji": "でも飲みませんか",
+    "length": 8
+  },
+  {
+    "indonesian": "[ -ga ] sakit",
+    "japanese": "［－が］いたいです",
+    "kanji": "［－が］痛いです",
+    "length": 8
+  },
+  {
+    "indonesian": "Semoga berhasil. (ketika perpisahan panjang)",
+    "japanese": "どうぞおげんきで。",
+    "kanji": "どうぞお元気で。",
+    "length": 8
+  },
+  {
+    "indonesian": "Mau Menarik uang?",
+    "japanese": "お    ひきだしですか。",
+    "kanji": "お引き出しですか",
+    "length": 8
+  },
+  {
+    "indonesian": "Mari kita bersama-sama minum.",
+    "japanese": "いっぱいのみましょう",
+    "kanji": "一杯飲みましょう",
+    "length": 8
+  },
+  {
+    "indonesian": "Minta dengan ini",
+    "japanese": "これでおねがいします",
+    "kanji": "これでお願いします",
+    "length": 9
+  },
+  {
+    "indonesian": "Itu menarik ya",
+    "japanese": "それはおもしろいですね",
+    "kanji": "それは面白いですね",
+    "length": 9
+  },
+  {
+    "indonesian": "Mau pesan apa?",
+    "japanese": "ご    ちゅうもん    は？",
+    "kanji": "ご注文    は？",
+    "length": 9
+  },
+  {
+    "indonesian": "Tunggu sebentar",
+    "japanese": "しょうしょう お まち ください",
+    "kanji": "少々 お 待ち ください",
+    "length": 12
+  },
+  {
+    "indonesian": "Terima kasih untuk segalanya yang telah Anda lakukan untuk saya. Mohon maaf telah banyak merepotkan",
+    "japanese": "［いろいろ］おせわになりました。",
+    "kanji": "［いろいろ］お世話になりました。",
+    "length": 16
+  }
+]

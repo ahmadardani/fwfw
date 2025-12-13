@@ -1,0 +1,128 @@
+    @font-face {
+        font-family: Nunito;
+        src: url('./Nunito-Reguler.ttf');
+    }
+    @font-face {
+        font-family: Nunito;
+        src: url('./Nunito-Bold.ttf');
+        font-weight: bold;
+    }
+    @font-face {
+        font-family: Nunito;
+        src: url('./Nunito-Italic.ttf');
+        font-style: italic;
+    }
+    @font-face {
+        font-family: Nunito;
+        src: url('./Nunito-BoldItalic.ttf');
+        font-style: italic;
+        font-weight: bold;
+    }
+    
+    body {
+        font-family: 'Nunito', sans-serif;
+        margin: 0;
+        background-color: #FFFFEE;
+        color: #000;
+        padding: 20px;
+    }
+    
+    * {
+        box-sizing: border-box;
+    }
+    
+    /* Kotak artikel seperti blog */
+    .blog-post {
+        border: 2px solid #000;
+        padding: 20px;
+        margin-bottom: 20px;
+        background-color: #ffffee;
+    }
+    
+    .blog-post h2 {
+        margin-top: 0;
+        font-size: 1.5em;
+        text-align: center;
+    }
+    
+    .blog-post h3 {
+        text-align: center;
+    }
+
+    .blog-post p {
+        margin-bottom: 0;
+        line-height: 1.5;
+    }
+    
+    /* Responsive container */
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    /*Link Style*/
+    a {
+        color: red; /* Default text color for all links */
+        background-color: transparent; /* Default background for all links */
+        text-decoration: none; /* No underline by default for all links */
+    }
+    
+    a:hover {
+        /* This rule will still apply if you hover, but if you want *only* on click, you might remove this or modify */
+        text-decoration: underline; /* Underline on hover (you can adjust this if not desired) */
+    }
+    
+    a:active {
+        text-decoration: underline; /* Underline when the link is being clicked */
+    }
+    
+    a:visited {
+        /* This applies to links that have already been clicked and visited */
+        color: red; /* Example: change color for visited links */
+        text-decoration: underline; /* Underline for visited links */
+    }
+
+    code {
+        font-family: 'Nunito', sans-serif;
+        padding: 2px 6px;
+        border-radius: 4px;
+        font-size: 0.95em;
+        color: red;
+    }
+
+    .kanji-grid {
+        display: grid;
+        grid-template-columns: repeat(10, 1fr);
+        gap: 10px;
+        padding: 1px;
+        text-align: center;
+        font-size: 2em;
+    }
+    
+    .kanji-grid span {
+        border: 1px solid #000;
+        padding: 10px;
+        background-color: #ffffee;
+    }
+    
+    .nav-line {
+        display: flex;
+        justify-content: space-between; /* Push items to left and right edges */
+        align-items: center;
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+    th, td {
+        border: 1px solid black;
+        padding: 10px;
+        vertical-align: top;
+    }
+    th {
+        background-color: #f2f2f2;
+        text-align: left;
+        width: 200px;
+    }

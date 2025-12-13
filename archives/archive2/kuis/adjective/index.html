@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kuis Adjektiva Jepang</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <h2>Kuis Adjektiva Jepang</h2>
+    <hr>
+
+    <div class="question">
+        <div id="question-counter"></div>
+        <div class="kanji" id="kanji-word"></div>
+        <p><b>Kata Sifatnya: </b> <span id="indonesian-word"></span></p>
+        <input type="text" id="answer" placeholder="Jawaban..." autocomplete="off">
+        <div class="result" id="result"></div>
+    </div>
+
+    <hr>
+    <button id="check-btn" onclick="checkAnswer()">Cek Jawaban</button>
+    <button id="next-btn" onclick="nextQuestion()">Soal Berikutnya</button>
+    <br><br>
+    <hr>
+
+    <button onclick="toggleOptions()">Tampilkan Mode Soal</button>
+
+    <div id="options-section" style="display: none;">
+
+        <!-- Filter Jenis Adjektiva -->
+        <div id="level-filters">
+            <p><b>Filter Jenis Adjektiva:</b></p>
+        </div>
+
+        <!-- Mode Soal -->
+        <div id="mode-options">
+            <p><b>Mode Soal:</b></p>
+            <div class="mode-choice">
+                <label><input type="radio" name="mode" value="random" checked> Acak</label>
+                <label><input type="radio" name="mode" value="ordered"> Urut</label>
+            </div>
+        </div>
+
+        <!-- Bentuk yang Diuji -->
+        <div id="form-options">
+            <p><b>Bentuk yang Diuji:</b></p>
+            <label><input type="radio" name="form" value="vocab" checked> Mode Kosakata</label><br>
+            <label><input type="radio" name="form" value="neg-present"> Bentuk Negatif sekarang (Plain)</label><br>
+            <label><input type="radio" name="form" value="past"> Bentuk Lampau (Plain)</label><br>
+            <label><input type="radio" name="form" value="neg-past"> Bentuk Negatif lampau (Plain)</label><br>
+            <label><input type="radio" name="form" value="copula"> Bentuk Copula だ (Hanya untuk Adjektif な)</label>
+        </div>
+
+        <!-- Opsi Tampilan -->
+        <div>
+            <p><b>Opsi Tampilan:</b></p>
+            <label><input type="checkbox" id="toggle-kanji" checked> Tampilkan Kanji</label>
+        </div>
+    </div>
+    <button id="show-mistakes-btn" onclick="toggleMistakeSection()">Tampilkan Kesalahan</button>
+
+    <div id="mistake-section" style="display: none; margin-top:10px;">
+        <b>Daftar Kesalahan</b>
+        <button onclick="startMistakeReview()">Ulangi Kesalahan</button>
+        <pre id="mistake-summary"></pre>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

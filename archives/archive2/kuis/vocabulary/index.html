@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kuis Kosakata Jepang</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h2>Kuis Kosakata Jepang</h2>
+    <hr>
+    <br>
+    <p id="question-number" style="font-weight: bold; margin-bottom: 10px;"></p>
+    <div id="kanji-word" class="kanji"></div>
+    <div class="question" id="question">Apa bahasa Jepangnya: <b id="indonesian-word"></b> ?</div>
+    <input type="text" id="answer" placeholder="Tulis dalam huruf Jepang (Kana)">
+    <div class="result" id="result"></div>
+    <br>
+    <hr>
+    <button onclick="checkAnswer()">Cek Jawaban</button>
+    <button onclick="nextQuestion()">Soal Berikutnya</button>
+
+    <br>
+    <br>
+    <hr>
+    <button id="toggle-filters" onclick="toggleLevelFilters()">Tampilkan Pilihan Level</button>
+    <div id="level-filters" style="display: none; margin-top: 10px;">
+        <p><b>Pilih Level:</b></p>
+        <!-- Checkbox akan di-generate oleh JS -->
+    </div>
+
+    <!-- Tambahkan ini -->
+    <button id="toggle-mode-options" onclick="toggleModeOptions()" style="margin-top: 10px;">Tampilkan Mode Soal</button>
+    <div id="mode-options" style="display: none; margin-top: 10px;">
+        <p><b>Mode Soal:</b></p>
+        <div class="mode-choice">
+            <label><input type="radio" name="mode" value="random" checked onchange="setQuestionMode(this.value)"> Acak</label>
+            <label><input type="radio" name="mode" value="ordered" onchange="setQuestionMode(this.value)"> Urut</label><br>
+        </div>
+        <p><b>Kanji:</b></p>
+    <label><input type="checkbox" id="toggle-kanji" checked onchange="nextQuestion()"> Lihat Kanji</label>
+        <p><b>Kosakata:</b></p>
+        <p><a href="table.html">Lihat Semua Kosakata</a></p>
+    </div>
+
+    
+    <button id="toggle-mistakes" onclick="toggleMistakeSection()">Tampilkan Daftar Kesalahan</button>
+
+        <div id="mistake-section" style="display: none; margin-top: 15px;">
+    <h3>Daftar Kesalahan</h3>
+    <pre id="mistake-summary"></pre>
+    <button onclick="startMistakeReview()">Ulangi Kata Salah</button>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

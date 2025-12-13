@@ -1,91 +1,154 @@
-/* Page background */
-html, body {
-  height: 100%;
-}
-
-body {
-  margin: 0;
-  background: #ffffee;            /* background color */
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
-  line-height: 1.6;
-  color: #222;
-}
-
-hr {
-  border-top: 2px dashed #c37f7f;
-}
-
-/* Simple layout spacing */
-.site-header, .site-footer, main {
-  padding-top: 16px;
-  padding-bottom: 16px;  /* sama dengan padding-top untuk vertikal seimbang */
-}
-/* Header di atas textbox */
-.textbox-header {
-  max-width: 800px;
-  margin: 24px auto 0 auto;
-  padding: 10px 20px;            /* header tetap tipis */
-  background: #ffeedd;       
-  color: #961f1d;            
-  border: 2px solid #c37f7f;   /* semua sisi termasuk bawah */
-}
-
-.textbox-header h2 {
-  margin: 0;
-  font-size: 1.4rem;
-  text-align: center;
-  line-height: 1.2;
-}
-
-/* Textbox */
-.textbox {
-  background: #ffffff;
-  max-width: 800px;
-  margin: 0 auto 24px auto;
-  padding: 10px 20px;           /* padding vertikal tinggi */
-  padding-bottom: 0px;
-  border-left: 2px solid #c37f7f;
-  border-right: 2px solid #c37f7f;
-  border-bottom: 2px solid #c37f7f;  /* atas tidak perlu */
-}
-
-/* Judul atau teks dalam textbox */
-.textbox h3 {
-  font-size: 1.3rem;
-  margin-top: 0;
-  margin-bottom: 12px;
-  color: #961f1d;   
-}
-
-.textbox h4 {
-  text-align: center;  
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-/* Links inside textbox */
-.textbox a {
-  color: red;
-  text-decoration: none;
-  font-weight: 600;
-}
-
-.textbox a:visited {
-  color: red;
-}
-
-.textbox a:hover,
-.textbox a:focus {
-  text-decoration: underline;
-  outline: none;
-}
-
-/* Links outside the textbox use default styling */
-a {
-  color: #0645ad;
-}
-
-a:hover, a:focus {
-  text-decoration: underline;
-}
-
+@font-face {
+    font-family: 'Nunito';
+    src: url('fonts/Nunito-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Nunito';
+    src: url('fonts/Nunito-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: 'Nunito';
+    src: url('fonts/Nunito-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Nunito';
+    src: url('fonts/Nunito-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFEE;
+    font-family: 'Nunito', Arial, Helvetica, sans-serif;
+    color: #000;
+  }
+  
+  .wrapper {
+    width: 760px;
+    margin: 40px auto;
+  }
+  
+  /* Reading page slightly narrower for comfort */
+  .reading-wrapper {
+    width: 700px;
+  }
+  
+  .container {
+    border: 2px solid #961F1D;
+    padding: 24px;
+    background-color: #FFF9DD;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0 0 16px 0;
+    font-size: 28px;
+    font-weight: bold;
+    color: #961F1D;
+    letter-spacing: 1px;
+  }
+  
+  .section-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #961F1D;
+    margin-bottom: 8px;
+  }
+  
+  .desc {
+    font-size: 14px;
+    font-style: italic;
+    color: #333;
+    margin: 16px 0;
+  }
+  
+  .divider {
+    border: none;
+    border-top: 2px solid #961F1D;
+    width: 80%;
+    margin: 20px auto;
+  }
+  
+  .image-box img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 12px auto;
+  }
+  
+  .nav a {
+    display: block;
+    margin: 8px 0;
+    font-size: 18px;
+    color: red;
+    text-decoration: none;
+  }
+  
+  .nav a:hover,
+  .nav a:active {
+    text-decoration: underline;
+    background-color: #FFE5E5;
+  }
+  
+  .sub-nav {
+    margin-left: 0;
+  }
+  
+  .footer {
+    margin-top: 32px;
+    font-size: 13px;
+  }
+  
+  .footer a {
+    color: #961F1D;
+    text-decoration: none;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  
+  @media (max-width: 800px) {
+    .wrapper,
+    .reading-wrapper {
+      width: 90%;
+      margin: 20px auto;
+    }
+  
+    h1 {
+      font-size: 24px;
+    }
+  
+    .section-title {
+      font-size: 16px;
+    }
+  
+    .nav a {
+      font-size: 17px;
+    }
+  }
+  .sentence-body {
+    display: none;
+    margin-top: 10px;
+    padding: 10px;
+    border-top: 1px dashed #961F1D;
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: left;
+  }
+  
+  /* ketika tombol Show diklik */
+  .sentence-body.show {
+    display: block;
+  }

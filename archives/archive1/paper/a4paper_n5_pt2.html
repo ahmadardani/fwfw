@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>Cut-Friendly Kanji Grid</title>
+  <style>
+    @page {
+      size: A4 landscape;
+      margin: 10mm;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      font-family: "Noto Sans JP", "Yu Mincho", serif;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(10, 1fr);
+      grid-template-rows: repeat(5, 1fr);
+      gap: 4mm; /* ✅ space between squares for cutting */
+      padding: 4mm; /* ✅ prevent edge overflow */
+      width: calc(100% - 8mm); /* account for padding */
+      height: calc(100% - 8mm);
+    }
+
+    .kanji {
+      border: 1px solid #000;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 42pt;
+      font-weight: 575;
+      background-color: #fff;
+    }
+
+    @media print {
+      .kanji {
+        font-size: 48pt;
+      }
+    }
+  </style>
+</head>
+<body>
+    <div class="grid">
+        <div class="kanji">間</div><div class="kanji">分</div><div class="kanji">半</div><div class="kanji">毎</div><div class="kanji">年</div>
+        <div class="kanji">前</div><div class="kanji">後</div><div class="kanji">午</div><div class="kanji">名</div><div class="kanji">車</div>
+      
+        <div class="kanji">天</div><div class="kanji">気</div><div class="kanji">電</div><div class="kanji">話</div><div class="kanji">食</div>
+        <div class="kanji">聞</div><div class="kanji">書</div><div class="kanji">読</div><div class="kanji">国</div><div class="kanji">外</div>
+      
+        <div class="kanji">語</div><div class="kanji">入</div><div class="kanji">出</div><div class="kanji">雨</div><div class="kanji">東</div>
+        <div class="kanji">西</div><div class="kanji">南</div><div class="kanji">北</div><div class="kanji">長</div><div class="kanji">高</div>
+      
+        <div class="kanji">口</div><div class="kanji">目</div><div class="kanji">手</div><div class="kanji">足</div><div class="kanji">近</div>
+        <div class="kanji">有</div><div class="kanji">花</div><div class="kanji">赤</div><div class="kanji">紙</div><div class="kanji">買</div>
+      
+        <div class="kanji">朝</div><div class="kanji">昼</div><div class="kanji">夕</div><div class="kanji">夜</div><div class="kanji">私</div>
+        <div class="kanji">家</div><div class="kanji">会</div><div class="kanji">社</div><div class="kanji">店</div><div class="kanji">飲</div>
+      </div>      
+</body>
+</html>
