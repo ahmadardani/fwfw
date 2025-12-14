@@ -4,99 +4,32 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>All Graded Kanji Sentences</title>
-  <link rel="stylesheet" href="/styles.css" />
+
+  <!-- CSS khusus halaman ini -->
+  <link rel="stylesheet" href="../styles/all-graded.css">
 </head>
 <body>
-  <div class="wrapper">
-    <div class="container">
+
+  <div class="page">
+    <header class="page-header">
       <h1>All Graded Kanji Sentences</h1>
-
-      <p class="intro">
-        Browse and search graded Japanese example sentences. Click the Show button to reveal reading and meaning.
+      <p class="subtitle">
+        Graded Japanese example sentences with reading and meaning
       </p>
+    </header>
 
+    <section class="search-section">
       <input
         type="text"
         id="searchInput"
-        placeholder="Search kanji or sentence..."
-      />
+        placeholder="Search kanji, sentence, or meaning..."
+      >
+    </section>
 
-      <div id="sentenceList" class="sentence-list"></div>
-    </div>
+    <section id="sentenceList" class="sentence-list"></section>
   </div>
 
-  <script>
-    const DATA_URL = '/reading/data/gradedfull.json';
-    const listEl = document.getElementById('sentenceList');
-    const searchInput = document.getElementById('searchInput');
-
-    let sentences = [];
-
-    fetch(DATA_URL)
-      .then(res => res.json())
-      .then(data => {
-        sentences = data;
-        renderList(sentences);
-      })
-      .catch(err => {
-        listEl.innerHTML = '<p class="error">Failed to load data.</p>';
-        console.error(err);
-      });
-
-    function renderList(data) {
-      listEl.innerHTML = '';
-
-      if (data.length === 0) {
-        listEl.innerHTML = '<p class="empty">No results found.</p>';
-        return;
-      }
-
-      data.forEach(item => {
-        const box = document.createElement('div');
-        box.className = 'sentence-box';
-
-        const header = document.createElement('div');
-        header.className = 'sentence-header';
-
-        const title = document.createElement('span');
-        title.textContent = item.example;
-
-        const btn = document.createElement('button');
-        btn.className = 'toggle-btn';
-        btn.textContent = 'Show';
-
-        header.appendChild(title);
-        header.appendChild(btn);
-
-        const body = document.createElement('div');
-        body.className = 'sentence-body';
-        body.textContent = item.read_meaning;
-
-        btn.addEventListener('click', (e) => {
-          e.stopPropagation();
-          body.classList.toggle('show');
-          btn.textContent = body.classList.contains('show')
-            ? 'Hide'
-            : 'Show';
-        });
-
-        box.appendChild(header);
-        box.appendChild(body);
-        listEl.appendChild(box);
-      });
-    }
-
-    searchInput.addEventListener('input', () => {
-      const q = searchInput.value.toLowerCase();
-
-      const filtered = sentences.filter(item =>
-        item.example.toLowerCase().includes(q) ||
-        item.kanji.toLowerCase().includes(q) ||
-        item.read_meaning.toLowerCase().includes(q)
-      );
-
-      renderList(filtered);
-    });
-  </script>
+  <!-- JS DIPISAH -->
+  <script src="../scripts/all-graded.js"></script>
 </body>
 </html>
