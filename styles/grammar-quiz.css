@@ -1,0 +1,144 @@
+/* --- 1. SETUP FONT LOKAL --- */
+@font-face {
+  font-family: 'Nunito';
+  src: url('../fonts/Nunito-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url('../fonts/Nunito-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url('../fonts/Nunito-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* --- 2. BASE STYLES --- */
+body {
+  margin: 0;
+  padding: 0;
+  background: #FFFFEE;
+  font-family: 'Nunito', Arial, sans-serif;
+}
+
+.wrapper {
+  width: 760px;
+  margin: 40px auto;
+}
+
+.container {
+  border: 2px solid #961F1D;
+  padding: 24px;
+  background: #FFFFEE; /* Warna sama dengan Body */
+  text-align: center;
+}
+
+.hidden {
+  display: none !important;
+}
+
+/* Typography */
+.section-title {
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #961F1D;
+}
+
+/* Progress Text (Indikator Soal) */
+.progress {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #961F1D;
+}
+
+.romaji {
+  font-style: italic;
+  margin-bottom: 12px;
+}
+
+/* Layout components */
+.answer-box {
+  min-height: 40px;
+  font-size: 24px;
+  margin: 16px 0;
+  border-bottom: 2px dashed #961F1D;
+  padding: 5px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* --- GRAMMAR MENU (VERTICAL) --- */
+#grammar-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.grammar-btn {
+  width: 100%;
+  text-align: center;
+}
+
+/* --- QUIZ BUTTONS LAYOUT --- */
+.buttons {
+  margin-top: 12px;
+  display: flex;
+  flex-wrap: wrap; /* Agar tombol turun ke bawah jika penuh */
+  gap: 8px;
+  justify-content: center;
+}
+
+/* --- 3. STYLE TOMBOL (SQUARE & WARNA STROKE) --- */
+.buttons button, .grammar-btn {
+  padding: 12px 18px;
+  font-size: 18px;
+  cursor: pointer;
+  
+  /* Bentuk Kotak Sempurna */
+  border-radius: 0px; 
+
+  /* Warna Normal (Background Krem, Border Merah) */
+  background-color: #FFFFEE; 
+  border: 1px solid #961F1D;
+  color: #961F1D;
+  
+  font-weight: bold;
+  transition: background-color 0.1s ease, color 0.1s ease, transform 0.1s ease;
+}
+
+/* --- 4. HOVER & FOCUSED STATE --- */
+/* Saat di-hover atau dipilih keyboard, warna jadi inverted (Background Merah) */
+.buttons button:hover, 
+.grammar-btn:hover, 
+.focused {
+  background-color: #961F1D !important; /* Background jadi Merah */
+  color: #FFFFEE !important; /* Teks jadi Krem */
+  outline: none;/* Sedikit efek naik */
+}
+
+/* --- 5. STATE SAAT TOMBOL DIKLIK (Logic Mendekat) --- */
+/* Class ini ditambahkan via JS saat tombol diklik */
+.buttons button.clicked {
+  display: none; /* Tombol hilang dari layout, tombol lain akan bergeser mengisi tempatnya */
+}
+
+/* Result Styles */
+.result {
+  margin-top: 16px;
+  white-space: pre-line;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.correct { color: green; }
+.wrong { color: red; }

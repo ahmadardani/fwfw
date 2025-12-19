@@ -1,0 +1,2104 @@
+[
+  {
+    "Grammar": "ちゃいけない・じゃいけない",
+    "Japanese": "寝る前にスマホを見ちゃダメよ。",
+    "Romaji": "neru mae ni sumaho o micha dame yo.",
+    "English": "You shouldn't look at your smartphone before going to bed.",
+    "Chunks": [
+      "寝る",
+      "前に",
+      "スマホを",
+      "見ちゃ",
+      "ダメよ",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "ちゃいけない・じゃいけない",
+    "Japanese": "ここはきけんなので、入っちゃダメだよ。",
+    "Romaji": "koko wa kiken nano de, haiccha dame da yo.",
+    "English": "This area is dangerous, so you're not allowed to enter.",
+    "Chunks": [
+      "ここは",
+      "きけんなので",
+      "、",
+      "入っちゃ",
+      "ダメだよ",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "ちゃいけない・じゃいけない",
+    "Japanese": "やっちゃいけないことをやっちゃった。",
+    "Romaji": "yaccha ikenai koto o yacchatta.",
+    "English": "I did something I shouldn't have...",
+    "Chunks": [
+      "やっちゃ",
+      "いけない",
+      "ことを",
+      "やっちゃった",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "ちゃいけない・じゃいけない",
+    "Japanese": "自信をなくしちゃいけません!",
+    "Romaji": "jishin o naku shicha ikemasen!",
+    "English": "You mustn't lose confidence!",
+    "Chunks": [
+      "自信を",
+      "なくしちゃ",
+      "いけません",
+      "!"
+    ]
+  },
+  {
+    "Grammar": "ちゃいけない・じゃいけない",
+    "Japanese": "そんなに授業をさぼっちゃダメよ。",
+    "Romaji": "sonna ni jugyou o saboccha dame yo.",
+    "English": "You shouldn't skip class so much.",
+    "Chunks": [
+      "そんなに",
+      "授業を",
+      "さぼっちゃ",
+      "ダメよ",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "ちゃいけない・じゃいけない",
+    "Japanese": "彼を信用しちゃいけない。",
+    "Romaji": "kare o shinyou shicha ikenai.",
+    "English": "We cannot trust him.",
+    "Chunks": [
+      "彼を",
+      "信用",
+      "しちゃ",
+      "いけない",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "ちゃいけない・じゃいけない",
+    "Japanese": "赤信号をむししちゃいけません!",
+    "Romaji": "aka shingou o mushi shicha ikemasen.",
+    "English": "You must not ignore red lights!",
+    "Chunks": [
+      "赤",
+      "信号を",
+      "むし",
+      "しちゃ",
+      "いけません",
+      "!"
+    ]
+  },
+  {
+    "Grammar": "ちゃいけない・じゃいけない",
+    "Japanese": "野菜を食べるまでデザートを食べちゃいけないよ。",
+    "Romaji": "yasai o taberu made dezaato o tabecha ikenai yo.",
+    "English": "No eating dessert until you finish eating your vegetables.",
+    "Chunks": [
+      "野菜を",
+      "食べるまで",
+      "デザートを",
+      "食べちゃ",
+      "いけないよ",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "ちゃいけない・じゃいけない",
+    "Japanese": "子どもの前に悪いことばを言っちゃいけません。",
+    "Romaji": "kodomo no mae ni warui kotoba o iccha ikemasen.",
+    "English": "We must not say bad words in front of children.",
+    "Chunks": [
+      "子どもの",
+      "前に",
+      "悪い",
+      "ことばを",
+      "言っちゃ",
+      "いけません",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "ちゃいけない・じゃいけない",
+    "Japanese": "20歳未満の人はお酒を飲んじゃいけません。",
+    "Romaji": "hatachi miman no hito wa osake o nonja ikemasen.",
+    "English": "People under the age of 20 cannot drink alcohol.",
+    "Chunks": [
+      "20",
+      "歳",
+      "未満の",
+      "人は",
+      "お",
+      "酒を",
+      "飲んじゃ",
+      "いけません",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だ・です",
+    "Japanese": "今日は暑いだね。",
+    "Romaji": "kyou wa atsui da ne.",
+    "English": "It's pretty hot today, right?",
+    "Chunks": [
+      "今日は",
+      "暑いだね",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だ・です",
+    "Japanese": "かれは私の友だちです。",
+    "Romaji": "kare wa watashi no tomodachi desu.",
+    "English": "He is my friend.",
+    "Chunks": [
+      "かれは",
+      "私の",
+      "友だちです",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だ・です",
+    "Japanese": "日本の文化が好きです。",
+    "Romaji": "nihon no bunka ga suki desu.",
+    "English": "I like Japanese culture.",
+    "Chunks": [
+      "日本の",
+      "文化が",
+      "好きです",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だ・です",
+    "Japanese": "昔はサッカーが趣味だったが、今はやっていない。",
+    "Romaji": "mukashi wa sakka- ga shumi datta ga, ima wa yatteinai.",
+    "English": "Soccer used to be my hobby, but I don't play anymore.",
+    "Chunks": [
+      "昔は",
+      "サッカーが",
+      "趣味だったが",
+      "、",
+      "今は",
+      "やって",
+      "いない",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だけ",
+    "Japanese": "私の持っているお金はこれだけだ。",
+    "Romaji": "watashi no motteiru okane wa kore dake da.",
+    "English": "This is all the money I have.",
+    "Chunks": [
+      "私の",
+      "持って",
+      "いる",
+      "お",
+      "金は",
+      "これだけだ",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だけ",
+    "Japanese": "ちょっと見ているだけです。",
+    "Romaji": "chotto miteiru dake desu.",
+    "English": "I'm just looking around.",
+    "Chunks": [
+      "ちょっと",
+      "見て",
+      "いるだけです",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だけ",
+    "Japanese": "好きじゃない食べ物はトマトだけだ。",
+    "Romaji": "suki janai tabemono wa tomato dake da.",
+    "English": "The only food I dislike are tomatoes.",
+    "Chunks": [
+      "好きじゃ",
+      "ない",
+      "食べ物は",
+      "トマトだけだ",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だけ",
+    "Japanese": "ただ話していただけです。",
+    "Romaji": "tada hanashiteita dake desu.",
+    "English": "I was just speaking.",
+    "Chunks": [
+      "ただ",
+      "話して",
+      "いただけです",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だけ",
+    "Japanese": "問題はそれだけだと思うかい?",
+    "Romaji": "mondai wa sore dake da to omou kai?",
+    "English": "You think that's all there is to this problem?",
+    "Chunks": [
+      "問題は",
+      "それだけだと",
+      "思うかい",
+      "?"
+    ]
+  },
+  {
+    "Grammar": "だけ",
+    "Japanese": "私は一人だけでできます。",
+    "Romaji": "watashi wa hitori dake de dekimasu.",
+    "English": "I can do it (just) by myself.",
+    "Chunks": [
+      "私は",
+      "一人だけで",
+      "できます",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だけ",
+    "Japanese": "出来るだけ新しい漢字を勉強したい。",
+    "Romaji": "dekiru dake atarashii kanji o benkyou shitai.",
+    "English": "I want to study as much new kanji as possible.",
+    "Chunks": [
+      "出来るだけ",
+      "新しい",
+      "漢字を",
+      "勉強",
+      "したい",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だけ",
+    "Japanese": "その女の子はただ泣くだけだった。",
+    "Romaji": "sono onna no ko wa tada naku dake datta.",
+    "English": "That little girl did nothing but cry.",
+    "Chunks": [
+      "その",
+      "女の子は",
+      "ただ",
+      "泣くだけだった",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だけ",
+    "Japanese": "彼女が信頼できるのは彼だけだ。",
+    "Romaji": "kanojo ga shinrai dekiru no wa kare dake da.",
+    "English": "He is the only one that she can trust.",
+    "Chunks": [
+      "彼女が",
+      "信頼",
+      "できるのは",
+      "彼だけだ",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だろう",
+    "Japanese": "彼はもうすぐ来るだろう。",
+    "Romaji": "kare wa mou sugu kuru darou.",
+    "English": "He should be coming any moment now.",
+    "Chunks": [
+      "彼は",
+      "もう",
+      "すぐ",
+      "来るだろう",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だろう",
+    "Japanese": "そうだろうと思ったよ。",
+    "Romaji": "sou darou to omotta.",
+    "English": "I thought (figured) as much.",
+    "Chunks": [
+      "そうだろうと",
+      "思ったよ",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だろう",
+    "Japanese": "明日はたぶん雨が降るだろう。空に雲がたくさんあるから。",
+    "Romaji": "ashita wa tabun ame ga furu darou. sora ni kumo ga takusan aru kara.",
+    "English": "It will likely rain tomorrow. There's a lot of clouds in the sky now.",
+    "Chunks": [
+      "明日は",
+      "たぶん",
+      "雨が",
+      "降るだろう",
+      "。",
+      "空に",
+      "雲が",
+      "たくさん",
+      "あるから",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だろう",
+    "Japanese": "間違いないだろう。",
+    "Romaji": "machigai nai darou.",
+    "English": "Surely there's no mistake.",
+    "Chunks": [
+      "間違い",
+      "ないだろう",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だろう",
+    "Japanese": "たぶんこの雨は1時間ぐらいでやむだろう。",
+    "Romaji": "tabun kono ame wa ichijikan gurai de yamu darou.",
+    "English": "This rain will probably be over in about an hour or so.",
+    "Chunks": [
+      "たぶん",
+      "この",
+      "雨は",
+      "1",
+      "時間ぐらいで",
+      "やむだろう",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だろう",
+    "Japanese": "あそこにいる人は誰だろう。",
+    "Romaji": "asoko ni iru hito wa dare darou.",
+    "English": "I wonder who that person is over there.",
+    "Chunks": [
+      "あそこに",
+      "いる",
+      "人は",
+      "誰だろう",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だろう",
+    "Japanese": "この肉は、もう食べないほうがいいだろう。もう悪くなってしまった。",
+    "Romaji": "kono niku wa, mou tabenai hou ga ii darou. mou waruku natte shimatta.",
+    "English": "It's probably best to not eat this meat. It's already gone bad.",
+    "Chunks": [
+      "この",
+      "肉は",
+      "、",
+      "もう",
+      "食べない",
+      "ほうが",
+      "いいだろう",
+      "。",
+      "もう",
+      "悪く",
+      "なって",
+      "しまった",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "だろう",
+    "Japanese": "どうして日本の夏はこんなに暑いんだろう。",
+    "Romaji": "doushite nihon no natsu wa konnani atsui n darou.",
+    "English": "Why is Summer in Japan so hot?",
+    "Chunks": [
+      "どう",
+      "して",
+      "日本の",
+      "夏は",
+      "こんなに",
+      "暑いんだろう",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "で",
+    "Japanese": "じてんしゃで行きます。",
+    "Romaji": "jitensha de ikimasu.",
+    "English": "I will go by bicycle.",
+    "Chunks": [
+      "じてん",
+      "しゃで",
+      "行きます",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "で",
+    "Japanese": "みんなで行こう!",
+    "Romaji": "minna de ikou!",
+    "English": "Let's go together with everyone!",
+    "Chunks": [
+      "みんなで",
+      "行こう",
+      "!"
+    ]
+  },
+  {
+    "Grammar": "で",
+    "Japanese": "たまに一人でカラオケに行きます。",
+    "Romaji": "tamani hitori de karaoke ni ikimasu.",
+    "English": "I sometimes go to sing karaoke by myself.",
+    "Chunks": [
+      "たまに",
+      "一人で",
+      "カラオケに",
+      "行きます",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "で",
+    "Japanese": "なにかの理由で彼は虫が怖いんだ。",
+    "Romaji": "nanika no riyuu de kare wa mushi ga kowai n da.",
+    "English": "For some reason, he is scared of bugs.",
+    "Chunks": [
+      "なにかの",
+      "理由で",
+      "彼は",
+      "虫が",
+      "怖いんだ",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "で",
+    "Japanese": "そのシャツどこで買いました?",
+    "Romaji": "sono shatsu doko de kaimashita?",
+    "English": "Where did you buy that shirt?",
+    "Chunks": [
+      "その",
+      "シャツ",
+      "どこで",
+      "買いました",
+      "?"
+    ]
+  },
+  {
+    "Grammar": "で",
+    "Japanese": "駅で会いましょうね。",
+    "Romaji": "eki de aimashou ne.",
+    "English": "Let's meet at the station.",
+    "Chunks": [
+      "駅で",
+      "会いましょうね",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "で",
+    "Japanese": "ここで電話しないでください.",
+    "Romaji": "koko de denwa shinai de kudasai.",
+    "English": "Please don't use your phone here.",
+    "Chunks": [
+      "ここで",
+      "電話",
+      "しないで",
+      "ください",
+      "."
+    ]
+  },
+  {
+    "Grammar": "で",
+    "Japanese": "どこで日本語を学びましたか?",
+    "Romaji": "doko de nihongo wo manabimashita ka?",
+    "English": "Where did you learn Japanese?",
+    "Chunks": [
+      "どこで",
+      "日本",
+      "語を",
+      "学びましたか",
+      "?"
+    ]
+  },
+  {
+    "Grammar": "で",
+    "Japanese": "YouTubeで日本語を勉強します。",
+    "Romaji": "youtube de nihongo wo benkyou shimasu.",
+    "English": "I study Japanese by watching YouTube.",
+    "Chunks": [
+      "YouTubeで",
+      "日本",
+      "語を",
+      "勉強",
+      "します",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "でも",
+    "Japanese": "私は魚が好きです。でも肉も好きです。",
+    "Romaji": "watashi wa sakana ga suki desu. demo niku mo suki desu.",
+    "English": "I like fish. But I also like meat too.",
+    "Chunks": [
+      "私は",
+      "魚が",
+      "好きです",
+      "。でも",
+      "肉も",
+      "好きです",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "でも",
+    "Japanese": "パン屋に行きました。でも、何も買いませんでした。",
+    "Romaji": "panya ni ikimashita. demo, nanimo kaimasen deshita.",
+    "English": "I went to the bakery, but didn't buy anything.",
+    "Chunks": [
+      "パン",
+      "屋に",
+      "行きました",
+      "。でも",
+      "、",
+      "何も",
+      "買いませんでした",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "でも",
+    "Japanese": "動物が好きです。底、犬が一ばん好きです。",
+    "Romaji": "doubutsu ga suki desu. demo, inu ga ichiban suki desu.",
+    "English": "I like animals. But I love dogs the most.",
+    "Chunks": [
+      "動物が",
+      "好きです",
+      "。",
+      "底",
+      "、",
+      "犬が",
+      "一ばん",
+      "好きです",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "でも",
+    "Japanese": "図書館に行きました。でも、集中できませんでした。",
+    "Romaji": "toshokan ni ikimashita. demo, shuuchuu dekimasen deshita.",
+    "English": "I went to the library. But I wasn't able to concentrate.",
+    "Chunks": [
+      "図書",
+      "館に",
+      "行きました",
+      "。でも",
+      "、",
+      "集中",
+      "できませんでした",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "でも",
+    "Japanese": "スーパーに行きました。でも、財布を忘れました!",
+    "Romaji": "suupaa ni ikimashita. demo, saifu wo wasuremashita.",
+    "English": "I went to the grocery store. But I forgot my wallet!",
+    "Chunks": [
+      "スーパーに",
+      "行きました",
+      "。でも",
+      "、",
+      "財布を",
+      "忘れました",
+      "!"
+    ]
+  },
+  {
+    "Grammar": "でも",
+    "Japanese": "今朝学校に行きました。でも、休みでした。",
+    "Romaji": "kesa gakkou ni ikimashita. demo, yasumi deshita.",
+    "English": "I went to school this morning. but it was closed.",
+    "Chunks": [
+      "今朝",
+      "学校に",
+      "行きました",
+      "。でも",
+      "、",
+      "休みでした",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "でも",
+    "Japanese": "日本人ともっと話したいです。でも、私の日本語はあまり上手ではありません。",
+    "Romaji": "nihonjin to motto hanashitai desu. demo, watashi no nihongo wa amari jouzu dewa arimasen.",
+    "English": "I want to speak to Japanese people more. But my Japanese is not so good.",
+    "Chunks": [
+      "日本",
+      "人と",
+      "もっと",
+      "話したいです",
+      "。でも",
+      "、",
+      "私の",
+      "日本",
+      "語は",
+      "あまり",
+      "上手では",
+      "ありません",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "でしょう",
+    "Japanese": "あの人は誰でしょう?",
+    "Romaji": "ano hito wa dare deshou?",
+    "English": "I wonder who that person is..",
+    "Chunks": [
+      "あの",
+      "人は",
+      "誰でしょう",
+      "?"
+    ]
+  },
+  {
+    "Grammar": "でしょう",
+    "Japanese": "いいでしょう。",
+    "Romaji": "ii deshou.",
+    "English": "That sounds/seems good.",
+    "Chunks": [
+      "いいでしょう",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "でしょう",
+    "Japanese": "この問題は簡単でしょう?",
+    "Romaji": "kono mondai wa kantan deshou?",
+    "English": "This problem is easy, right?",
+    "Chunks": [
+      "この",
+      "問題は",
+      "簡単でしょう",
+      "?"
+    ]
+  },
+  {
+    "Grammar": "でしょう",
+    "Japanese": "彼はもうすぐ来るでしょう。",
+    "Romaji": "kare wa mou sugu kuru deshou.",
+    "English": "He should be here any second.",
+    "Chunks": [
+      "彼は",
+      "もう",
+      "すぐ",
+      "来るでしょう",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "でしょう",
+    "Japanese": "頑張れば、いい大学に行けるでしょう。",
+    "Romaji": "ganbareba, ii daigaku ni ikeru deshou.",
+    "English": "If you work hard, you should be able to get into a good university.",
+    "Chunks": [
+      "頑張れば",
+      "、",
+      "いい",
+      "大学に",
+      "行けるでしょう",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "でしょう",
+    "Japanese": "今日の試合では、Aチームが勝つでしょう。",
+    "Romaji": "kyou no shiai de wa, A chiimu ga katsu deshou.",
+    "English": "In today's match, surely team A will win.",
+    "Chunks": [
+      "今日の",
+      "試合では",
+      "、",
+      "A",
+      "チームが",
+      "勝つでしょう",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "でしょう",
+    "Japanese": "この問題は、明日の試験に出るでしょうか。",
+    "Romaji": "kono mondai wa, ashita no shiken ni deru deshou ka.",
+    "English": "Will this question be on tomorrow's test?",
+    "Chunks": [
+      "この",
+      "問題は",
+      "、",
+      "明日の",
+      "試験に",
+      "出るでしょうか",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "どんな",
+    "Japanese": "ベトナムはどんな国ですか。",
+    "Romaji": "betonamu wa donna kuni desu ka.",
+    "English": "What kind of country is Vietnam?",
+    "Chunks": [
+      "ベトナムは",
+      "どんな",
+      "国ですか",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "どんな",
+    "Japanese": "どんな仕事をするのですか。",
+    "Romaji": "donna shigoto o suru no desu ka?",
+    "English": "What kind of work do you do?",
+    "Chunks": [
+      "どんな",
+      "仕事を",
+      "するのですか",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "どんな",
+    "Japanese": "どんな食べ物が好きですか。",
+    "Romaji": "donna tabemono ga suki desu ka.",
+    "English": "What kind of food do you like?",
+    "Chunks": [
+      "どんな",
+      "食べ物が",
+      "好きですか",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "どんな",
+    "Japanese": "どんなパソコンを持っていますか。",
+    "Romaji": "donna pasokon o motteimasu ka.",
+    "English": "What kind of computer do you have?",
+    "Chunks": [
+      "どんな",
+      "パソコンを",
+      "持って",
+      "いますか",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "どんな",
+    "Japanese": "どんな車に乗っていますか?",
+    "Romaji": "donna kuruma ni notteimasu ka?",
+    "English": "What kind of car do you drive?",
+    "Chunks": [
+      "どんな",
+      "車に",
+      "乗って",
+      "いますか",
+      "?"
+    ]
+  },
+  {
+    "Grammar": "どんな",
+    "Japanese": "今日はどんな天気ですか。",
+    "Romaji": "kyou wa donna tenki desu ka.",
+    "English": "How is the weather today?",
+    "Chunks": [
+      "今日は",
+      "どんな",
+      "天気ですか",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "どんな",
+    "Japanese": "新しい先生はどんな人ですか。",
+    "Romaji": "atarashii sensei wa donna hito desu ka.",
+    "English": "What is the new teacher like?",
+    "Chunks": [
+      "新しい",
+      "先生は",
+      "どんな",
+      "人ですか",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "どんな",
+    "Japanese": "禁煙するためにどんな方法を使いましたか。",
+    "Romaji": "kin'en suru tame ni donna houhou o tsukaimashita ka.",
+    "English": "What method did you use to give up smoking?",
+    "Chunks": [
+      "禁煙",
+      "する",
+      "ために",
+      "どんな",
+      "方法を",
+      "使いましたか",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "どうして",
+    "Japanese": "どうして来ないの?",
+    "Romaji": "doushite konai no?",
+    "English": "Why aren't you coming?",
+    "Chunks": [
+      "どう",
+      "して",
+      "来ないの",
+      "?"
+    ]
+  },
+  {
+    "Grammar": "どうして",
+    "Japanese": "どうしてそうなったの?",
+    "Romaji": "doushite sou natta no?",
+    "English": "How/why did that happen?",
+    "Chunks": [
+      "どう",
+      "して",
+      "そう",
+      "なったの",
+      "?"
+    ]
+  },
+  {
+    "Grammar": "どうして",
+    "Japanese": "どうしてそれを知っている?",
+    "Romaji": "doushite sore o shitteiru?",
+    "English": "How/why do you know that?",
+    "Chunks": [
+      "どう",
+      "して",
+      "それを",
+      "知って",
+      "いる",
+      "?"
+    ]
+  },
+  {
+    "Grammar": "どうして",
+    "Japanese": "どうして日本に来たんですか?",
+    "Romaji": "doushite nihon ni kitan desu ka?",
+    "English": "Why did you come to Japan?",
+    "Chunks": [
+      "どう",
+      "して",
+      "日本に",
+      "来たんですか",
+      "?"
+    ]
+  },
+  {
+    "Grammar": "どうして",
+    "Japanese": "どうして日本の夏はこんなに暑いんだろう。",
+    "Romaji": "doushite nihon no natsu wa konnani atsui n darou.",
+    "English": "Why is Summer in Japan so hot?",
+    "Chunks": [
+      "どう",
+      "して",
+      "日本の",
+      "夏は",
+      "こんなに",
+      "暑いんだろう",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "どうして",
+    "Japanese": "君はどうしてけがをしたか。",
+    "Romaji": "kimi wa doushite kega o shita ka.",
+    "English": "How did you get hurt?",
+    "Chunks": [
+      "君は",
+      "どう",
+      "して",
+      "けがを",
+      "したか",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "どうして",
+    "Japanese": "どうしてその事故が起こったのか。",
+    "Romaji": "doushite sono jiko ga okotta no ka.",
+    "English": "How did that accident come about?",
+    "Chunks": [
+      "どう",
+      "して",
+      "その",
+      "事故が",
+      "起こったのか",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "どうして",
+    "Japanese": "どうして彼女と知り合ったのですか。",
+    "Romaji": "doushite kanojo to shiriatta no desu ka?",
+    "English": "How did you get acquainted with her?",
+    "Chunks": [
+      "どう",
+      "して",
+      "彼女と",
+      "知り合ったのですか",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "どうやって",
+    "Japanese": "駅までどうやって行きますか。",
+    "Romaji": "eki made douyatte ikimasu ka.",
+    "English": "How can I get to the station?",
+    "Chunks": [
+      "駅まで",
+      "どう",
+      "やって",
+      "行きますか",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "どうやって",
+    "Japanese": "これはどうやって使いますか。",
+    "Romaji": "kore wa douyatte tsukaimasu ka.",
+    "English": "How do you use this?",
+    "Chunks": [
+      "これは",
+      "どう",
+      "やって",
+      "使いますか",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "どうやって",
+    "Japanese": "これはどうやって食べますか。",
+    "Romaji": "kore wa douyatte tabemasu ka.",
+    "English": "How do you eat this?",
+    "Chunks": [
+      "これは",
+      "どう",
+      "やって",
+      "食べますか",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "どうやって",
+    "Japanese": "リサさんは毎日どうやって学校へ来ますか。",
+    "Romaji": "risa san wa mainichi douyatte gakkou e kimasu ka.",
+    "English": "Lisa, how do you come to school every day?",
+    "Chunks": [
+      "リサ",
+      "さんは",
+      "毎日",
+      "どう",
+      "やって",
+      "学校へ",
+      "来ますか",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "どうやって",
+    "Japanese": "どうやって彼女と出会ったのですか。",
+    "Romaji": "douyatte kanojo to deatta no desu ka.",
+    "English": "How did you meet her?",
+    "Chunks": [
+      "どう",
+      "やって",
+      "彼女と",
+      "出会ったのですか",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "どうやって",
+    "Japanese": "あなたはどうやって漢字を覚えますか。",
+    "Romaji": "anata wa douyatte kanji o oboemasu ka.",
+    "English": "How do you memorize kanji?",
+    "Chunks": [
+      "あなたは",
+      "どう",
+      "やって",
+      "漢字を",
+      "覚えますか",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "どうやって",
+    "Japanese": "これはどうやって料理するのですか。",
+    "Romaji": "kore wa douyatte ryouri suru no desu ka.",
+    "English": "How do you cook this?",
+    "Chunks": [
+      "これは",
+      "どう",
+      "やって",
+      "料理",
+      "するのですか",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "どうやって",
+    "Japanese": "私は彼がどうやって一人でそれをやったのか知らない。",
+    "Romaji": "watashi wa kare ga douyatte hitori de sore o yatta no ka shiranai.",
+    "English": "I don't know how he did that all alone.",
+    "Chunks": [
+      "私は",
+      "彼が",
+      "どう",
+      "やって",
+      "一人で",
+      "それを",
+      "やったのか",
+      "知らない",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "が",
+    "Japanese": "明日は雨が降る。",
+    "Romaji": "ashita wa ame ga furu.",
+    "English": "It is going to rain tomorrow.",
+    "Chunks": [
+      "明日は",
+      "雨が",
+      "降る",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "が",
+    "Japanese": "仕方がない。",
+    "Romaji": "shikata ga nai.",
+    "English": "It cannot be helped.",
+    "Chunks": [
+      "仕方が",
+      "ない",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "が",
+    "Japanese": "コンビニが近くにあります。",
+    "Romaji": "",
+    "English": "There is a convenience store nearby.",
+    "Chunks": [
+      "コンビニが",
+      "近くに",
+      "あります",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "が",
+    "Japanese": "彼は借金がある。",
+    "Romaji": "kare wa shakkin ga aru.",
+    "English": "He is in debt.",
+    "Chunks": [
+      "彼は",
+      "借金が",
+      "ある",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "が",
+    "Japanese": "今日は、やることがたくさんある。",
+    "Romaji": "kyou wa, yaru koto ga takusan aru.",
+    "English": "There are a lot of things to do today.",
+    "Chunks": [
+      "今日は",
+      "、",
+      "やる",
+      "ことが",
+      "たくさん",
+      "ある",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "が",
+    "Japanese": "彼は金はあるが、バカな男だ。",
+    "Romaji": "kare wa kane wa aru ga, baka na otoko da.",
+    "English": "He has money, but he's a stupid man.",
+    "Chunks": [
+      "彼は",
+      "金は",
+      "あるが",
+      "、",
+      "バカな",
+      "男だ",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "が",
+    "Japanese": "私は日本語を話すことはできますが、読むことはできません。",
+    "Romaji": "watashi wa nihongo o hanasu koto wa dekimasu ga, yomu koto wa dekimasen.",
+    "English": "I can speak Japanese, but I am not able to read it.",
+    "Chunks": [
+      "私は",
+      "日本",
+      "語を",
+      "話す",
+      "ことは",
+      "できますが",
+      "、",
+      "読む",
+      "ことは",
+      "できません",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "が",
+    "Japanese": "このカメラを買いたいですがお金がない。",
+    "Romaji": "kono kamera o kaitai desu ga okane ga nai.",
+    "English": "I want to buy this camera, but I have no money.",
+    "Chunks": [
+      "この",
+      "カメラを",
+      "買いたいですが",
+      "お",
+      "金が",
+      "ない",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "が",
+    "Japanese": "恐れ入りますが、本日は満席です。",
+    "Romaji": "osore irimasu ga, honjitsu wa manseki desu.",
+    "English": "I deeply apologize, but today we have no more seats available.",
+    "Chunks": [
+      "恐れ入りますが",
+      "、",
+      "本日は",
+      "満席です",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "があります",
+    "Japanese": "人気がある。",
+    "Romaji": "ninki ga aru.",
+    "English": "to be popular.",
+    "Chunks": [
+      "人気が",
+      "ある",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "があります",
+    "Japanese": "先月お金がぜんぜんなかった。",
+    "Romaji": "sengetsu okane ga zenzen nakatta.",
+    "English": "Last month I had no money.",
+    "Chunks": [
+      "先月",
+      "お",
+      "金が",
+      "ぜんぜん",
+      "なかった",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "があります",
+    "Japanese": "へやにテレビがあります。",
+    "Romaji": "heya ni terebi ga arimasu.",
+    "English": "I have a TV in my room.",
+    "Chunks": [
+      "へやに",
+      "テレビが",
+      "あります",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "があります",
+    "Japanese": "日本の好きじゃないところはあります。",
+    "Romaji": "nihon no suki janai tokoro wa arimasu.",
+    "English": "There are some things I don't like about Japan.",
+    "Chunks": [
+      "日本の",
+      "好きじゃ",
+      "ない",
+      "ところは",
+      "あります",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "があります",
+    "Japanese": "このマンションにはへやが三つあります。",
+    "Romaji": "kono manshon niwa heya ga mitsu arimasu.",
+    "English": "There are three rooms in this apartment.",
+    "Chunks": [
+      "この",
+      "マンションには",
+      "へやが",
+      "三",
+      "つ",
+      "あります",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "があります",
+    "Japanese": "彼は金があるから新車が買える。",
+    "Romaji": "kare wa kane ga aru kara shinsha ga kaeru.",
+    "English": "He has money so he can buy a new car.",
+    "Chunks": [
+      "彼は",
+      "金が",
+      "あるから",
+      "新車が",
+      "買える",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "があります",
+    "Japanese": "今夜用事があるから行けない。",
+    "Romaji": "konya youji ga aru kara ikenai.",
+    "English": "I have things to do tonight so I can't go.",
+    "Chunks": [
+      "今夜",
+      "用事が",
+      "あるから",
+      "行けない",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "がほしい",
+    "Japanese": "もっとお金が欲しいです。",
+    "Romaji": "motto okane ga hoshii desu.",
+    "English": "I want more money.",
+    "Chunks": [
+      "もっと",
+      "お",
+      "金が",
+      "欲しいです",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "がほしい",
+    "Japanese": "彼女がほしい。",
+    "Romaji": "kanojo ga hoshii.",
+    "English": "I want a girlfriend.",
+    "Chunks": [
+      "彼女が",
+      "ほしい",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "がほしい",
+    "Japanese": "お金がたくさんほしい。",
+    "Romaji": "okane ga takusan hoshii.",
+    "English": "I want a lot of money.",
+    "Chunks": [
+      "お",
+      "金が",
+      "たくさん",
+      "ほしい",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "がほしい",
+    "Japanese": "何人子どもがほしいですか?",
+    "Romaji": "nan nin kodomo ga hoshii desu ka?",
+    "English": "How many children do you want to have?",
+    "Chunks": [
+      "何",
+      "人",
+      "子どもが",
+      "ほしいですか",
+      "?"
+    ]
+  },
+  {
+    "Grammar": "がほしい",
+    "Japanese": "新しいGoProカメラが欲しいです!",
+    "Romaji": "atarashii gopuro kamera ga hoshii desu!",
+    "English": "I want the new GoPro camera!",
+    "Chunks": [
+      "新しい",
+      "GoPro",
+      "カメラが",
+      "欲しいです",
+      "!"
+    ]
+  },
+  {
+    "Grammar": "がほしい",
+    "Japanese": "いつか自分の家が欲しいです。",
+    "Romaji": "itsuka jibun no ie ga hoshii desu.",
+    "English": "I want to have my own house one day.",
+    "Chunks": [
+      "いつか",
+      "自分の",
+      "家が",
+      "欲しいです",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "がほしい",
+    "Japanese": "私が欲しいものは自由です。",
+    "Romaji": "watashi ga hoshii mono wa jiyuu desu.",
+    "English": "What I want is freedom.",
+    "Chunks": [
+      "私が",
+      "欲しい",
+      "ものは",
+      "自由です",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "がほしい",
+    "Japanese": "日本で作られた車が欲しい。",
+    "Romaji": "nihon de tsukurareta kuruma ga hoshii.",
+    "English": "I want a car made in Japan.",
+    "Chunks": [
+      "日本で",
+      "作られた",
+      "車が",
+      "欲しい",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "がほしい",
+    "Japanese": "最近、仕事が忙しすぎてリラックスする時間が欲しい。",
+    "Romaji": "saikin, shigoto ga isogashi sugite rirakkusu suru jikan ga hoshii.",
+    "English": "Work is too busy lately, I want some time to relax.",
+    "Chunks": [
+      "最近",
+      "、",
+      "仕事が",
+      "忙し",
+      "すぎて",
+      "リラックス",
+      "する",
+      "時間が",
+      "欲しい",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "がほしい",
+    "Japanese": "彼が持っているみたいなパソコンが欲しい。",
+    "Romaji": "kare ga motteiru mitai na pasokon ga hoshii.",
+    "English": "I want a computer like the one he has.",
+    "Chunks": [
+      "彼が",
+      "持って",
+      "いる",
+      "みたいな",
+      "パソコンが",
+      "欲しい",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "がいます",
+    "Japanese": "テーブルの下に猫がいる。",
+    "Romaji": "teeburu no shita ni neko ga iru.",
+    "English": "There is a cat below the table.",
+    "Chunks": [
+      "テーブルの",
+      "下に",
+      "猫が",
+      "いる",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "がいます",
+    "Japanese": "あなたは彼氏がいるの?",
+    "Romaji": "anata wa kareshi ga iru no?",
+    "English": "Do you have a boyfriend?",
+    "Chunks": [
+      "あなたは",
+      "彼氏が",
+      "いるの",
+      "?"
+    ]
+  },
+  {
+    "Grammar": "がいます",
+    "Japanese": "私には兄弟がいないんだ。",
+    "Romaji": "watashi ni wa kyoudai ga inai nda.",
+    "English": "I don't have any siblings.",
+    "Chunks": [
+      "私には",
+      "兄弟が",
+      "いないんだ",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "がいます",
+    "Japanese": "弟一人妹一人がいます。",
+    "Romaji": "otouto hitori imouto hitori ga imasu.",
+    "English": "I have one younger brother and one younger sister.",
+    "Chunks": [
+      "弟",
+      "一人",
+      "妹",
+      "一人が",
+      "います",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "がいます",
+    "Japanese": "その部屋に犬がいる。",
+    "Romaji": "sono heya ni inu ga iru.",
+    "English": "There is a dog in that room.",
+    "Chunks": [
+      "その",
+      "部屋に",
+      "犬が",
+      "いる",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "がいます",
+    "Japanese": "今学校にだれもいません。",
+    "Romaji": "ima gakkou ni daremo imasen.",
+    "English": "There is no one at school right now.",
+    "Chunks": [
+      "今",
+      "学校に",
+      "だれも",
+      "いません",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "がいます",
+    "Japanese": "東京駅に観光者がいっぱいいる。",
+    "Romaji": "toukyou eki ni kankousha ga ippai iru.",
+    "English": "There are a lot of tourists in Tokyo station.",
+    "Chunks": [
+      "東京",
+      "駅に",
+      "観光",
+      "者が",
+      "いっぱい",
+      "いる",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "ほうがいい",
+    "Japanese": "疲れたら、早く寝たほうがいい。",
+    "Romaji": "tsukaretara, hayaku neta hou ga ii.",
+    "English": "If you're tired, it's best to go to bed early.",
+    "Chunks": [
+      "疲れたら",
+      "、",
+      "早く",
+      "寝た",
+      "ほうが",
+      "いい",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "ほうがいい",
+    "Japanese": "暑い日には、水をたくさん飲んだ方がいい。",
+    "Romaji": "atsui hi ni wa, mizu o takusan nonda hou ga ii.",
+    "English": "It's best to drink a lot of water on hot days.",
+    "Chunks": [
+      "暑い",
+      "日には",
+      "、",
+      "水を",
+      "たくさん",
+      "飲んだ",
+      "方が",
+      "いい",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "ほうがいい",
+    "Japanese": "寝る前に、スマホを使わない方がいい。",
+    "Romaji": "neru mae ni, sumaho o tsukawanai hou ga ii.",
+    "English": "Before going to bed, it's best to not use your smartphone.",
+    "Chunks": [
+      "寝る",
+      "前に",
+      "、",
+      "スマホを",
+      "使わない",
+      "方が",
+      "いい",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "ほうがいい",
+    "Japanese": "毎日日本語を練習した方がいいですよ。",
+    "Romaji": "mainichi nihongo o renshuu shita hou ga ii desu yo.",
+    "English": "You should practice Japanese every day.",
+    "Chunks": [
+      "毎日",
+      "日本",
+      "語を",
+      "練習",
+      "した",
+      "方が",
+      "いいですよ",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "ほうがいい",
+    "Japanese": "分からないとき、先生に聞いた方がいいですよ。",
+    "Romaji": "wakaranai toki, sensei ni kiita hou ga ii desu yo.",
+    "English": "When you don't understand, you're best off asking your teacher.",
+    "Chunks": [
+      "分からない",
+      "とき",
+      "、",
+      "先生に",
+      "聞いた",
+      "方が",
+      "いいですよ",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "ほうがいい",
+    "Japanese": "肉だけじゃなくて、野菜も食べたほうがいいですよ。",
+    "Romaji": "niku dake janakute, yasai mo tabeta hou ga ii desu yo.",
+    "English": "It's better to not just eat meat, but some vegetables as well.",
+    "Chunks": [
+      "肉だけじゃ",
+      "なくて",
+      "、",
+      "野菜も",
+      "食べた",
+      "ほうが",
+      "いいですよ",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "ほうがいい",
+    "Japanese": "ご飯の後で、⻭を磨いた方がいいですよ。",
+    "Romaji": "gohan no ato de, ha o migaita hou ga ii desu yo.",
+    "English": "It's best to brush your teeth after eating.",
+    "Chunks": [
+      "ご飯の",
+      "後で",
+      "、",
+      "⻭を",
+      "磨いた",
+      "方が",
+      "いいですよ",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "ほうがいい",
+    "Japanese": "20歳になっても、お酒を飲まない方がいいと思います。",
+    "Romaji": "hatachi ni nattemo, osake o nomanai hou ga ii to omoimasu.",
+    "English": "Even if you turn 20, I think it's best to not drink any alcohol.",
+    "Chunks": [
+      "20",
+      "歳に",
+      "なっても",
+      "、",
+      "お",
+      "酒を",
+      "飲まない",
+      "方が",
+      "いいと",
+      "思います",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "い-adjectives",
+    "Japanese": "今日はあついです。",
+    "Romaji": "kyou wa atsui desu.",
+    "English": "It is hot today.",
+    "Chunks": [
+      "今日は",
+      "あついです",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "い-adjectives",
+    "Japanese": "今日はあつくないです。",
+    "Romaji": "kyou wa atsukunai desu.",
+    "English": "It isn’t hot today.",
+    "Chunks": [
+      "今日は",
+      "あつく",
+      "ないです",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "い-adjectives",
+    "Japanese": "昨日はあつかった。",
+    "Romaji": "kinou wa atsukatta.",
+    "English": "It was hot yesterday.",
+    "Chunks": [
+      "昨日は",
+      "あつかった",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "い-adjectives",
+    "Japanese": "昨日はあつくなかった。",
+    "Romaji": "kinou wa atsukunakatta.",
+    "English": "It was not hot yesterday.",
+    "Chunks": [
+      "昨日は",
+      "あつく",
+      "なかった",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "一番",
+    "Japanese": "彼がいちばん働いた。",
+    "Romaji": "kare ga ichiban hataraita.",
+    "English": "He worked the hardest.",
+    "Chunks": [
+      "彼が",
+      "いちばん",
+      "働いた",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "一番",
+    "Japanese": "秋が一番好きな季節です。",
+    "Romaji": "aki ga ichiban suki na kisetsu desu.",
+    "English": "Fall is my favorite season.",
+    "Chunks": [
+      "秋が",
+      "一番",
+      "好きな",
+      "季節です",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "一番",
+    "Japanese": "私はブロッコリーが一番嫌いだ。",
+    "Romaji": "watashi wa burokkorii ga ichiban kirai da.",
+    "English": "I hate broccoli the most.",
+    "Chunks": [
+      "私は",
+      "ブロッコリーが",
+      "一番",
+      "嫌いだ",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "一番",
+    "Japanese": "午前中が一番調子がいい。",
+    "Romaji": "gozen chuu ga ichiban choushi ga ii.",
+    "English": "I feel best in the morning.",
+    "Chunks": [
+      "午前",
+      "中が",
+      "一番",
+      "調子が",
+      "いい",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "一番",
+    "Japanese": "一番前に座っている人は誰ですか?",
+    "Romaji": "ichiban mae ni suwatteiru hito wa dare desu ka?",
+    "English": "Who is that sitting in the very front?",
+    "Chunks": [
+      "一番",
+      "前に",
+      "座って",
+      "いる",
+      "人は",
+      "誰ですか",
+      "?"
+    ]
+  },
+  {
+    "Grammar": "一番",
+    "Japanese": "一番早く予約できる日はいつですか?",
+    "Romaji": "ichiban hayaku yoyaku dekiru hi wa itsu desu ka?",
+    "English": "When is the earliest day we can make a reservation?",
+    "Chunks": [
+      "一番",
+      "早く",
+      "予約",
+      "できる",
+      "日は",
+      "いつですか",
+      "?"
+    ]
+  },
+  {
+    "Grammar": "一番",
+    "Japanese": "一番美しい花が一番早くしおれる。",
+    "Romaji": "ichiban utsukushii hana ga ichiban hayaku shioreru.",
+    "English": "The most beautiful flowers are the first to fade.",
+    "Chunks": [
+      "一番",
+      "美しい",
+      "花が",
+      "一番",
+      "早く",
+      "し",
+      "おれる",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "一番",
+    "Japanese": "兄弟で誰が一番背が高いですか。",
+    "Romaji": "kyoudai de dare ga ichiban se ga takai desu ka?",
+    "English": "Who is the tallest among your siblings?",
+    "Chunks": [
+      "兄弟で",
+      "誰が",
+      "一番",
+      "背が",
+      "高いですか",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "一緒に",
+    "Japanese": "一緒に日本語を勉強しましょう。",
+    "Romaji": "isshoni nihongo o benkyou shimashou.",
+    "English": "Let's study Japanese together.",
+    "Chunks": [
+      "一緒に",
+      "日本",
+      "語を",
+      "勉強",
+      "しましょう",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "一緒に",
+    "Japanese": "今夜、カラオケに一緒に行こう。",
+    "Romaji": "konya, karaoke ni isshoni ikou.",
+    "English": "Let's go to karaoke together tonight.",
+    "Chunks": [
+      "今夜",
+      "、",
+      "カラオケに",
+      "一緒に",
+      "行こう",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "一緒に",
+    "Japanese": "ずっと彼と一緒にいたい。",
+    "Romaji": "zutto kare to issho ni itai.",
+    "English": "I want to be together with him forever.",
+    "Chunks": [
+      "ずっと",
+      "彼と",
+      "一緒に",
+      "いたい",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "一緒に",
+    "Japanese": "明日の朝、一緒にジムに行きませんか?",
+    "Romaji": "ashita no asa, issho ni jimu ni ikimasen ka?",
+    "English": "Do you want to go to the gym together tomorrow morning?",
+    "Chunks": [
+      "明日の",
+      "朝",
+      "、",
+      "一緒に",
+      "ジムに",
+      "行きませんか",
+      "?"
+    ]
+  },
+  {
+    "Grammar": "一緒に",
+    "Japanese": "今朝、友だちと一緒に図書館に行きました。",
+    "Romaji": "kesa, tomodachi to issho ni toshokan ni ikimashita.",
+    "English": "I went to the library together with my friend this morning.",
+    "Chunks": [
+      "今朝",
+      "、",
+      "友だちと",
+      "一緒に",
+      "図書",
+      "館に",
+      "行きました",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "一緒に",
+    "Japanese": "うちの犬と一緒に散歩するのが好きです。",
+    "Romaji": "uchi no inu to issho ni sanpo suru no ga suki desu.",
+    "English": "I like walking together with my family's dog.",
+    "Chunks": [
+      "うちの",
+      "犬と",
+      "一緒に",
+      "散歩",
+      "するのが",
+      "好きです",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "一緒に",
+    "Japanese": "来週、家族と一緒に富士山を見に行くんだ。",
+    "Romaji": "raishuu, kazoku to issho ni fuji san o mi ni ikunda.",
+    "English": "Next week I'm going together with my family to see Mt. Fuji.",
+    "Chunks": [
+      "来週",
+      "、",
+      "家族と",
+      "一緒に",
+      "富士",
+      "山を",
+      "見に",
+      "行くんだ",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "いつも",
+    "Japanese": "彼はいつも元気ですね。",
+    "Romaji": "kare wa itsumo genki desu ne.",
+    "English": "He is always energetic.",
+    "Chunks": [
+      "彼は",
+      "いつも",
+      "元気ですね",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "いつも",
+    "Japanese": "妹はいつも寝ている。",
+    "Romaji": "imouto wa itsumo neteiru.",
+    "English": "My younger sister is always sleeping.",
+    "Chunks": [
+      "妹は",
+      "いつも",
+      "寝て",
+      "いる",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "いつも",
+    "Japanese": "いつも夜10時に寝ます。",
+    "Romaji": "itsumo yoru juuji ni nemasu.",
+    "English": "I always go to bed at 10 o'clock.",
+    "Chunks": [
+      "いつも",
+      "夜",
+      "10",
+      "時に",
+      "寝ます",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "いつも",
+    "Japanese": "昼ご飯はいつも納豆を食べます。",
+    "Romaji": "hirugohan wa itsumo nattou o tabemasu.",
+    "English": "I always have natto (fermented soybeans) for lunch.",
+    "Chunks": [
+      "昼ご飯は",
+      "いつも",
+      "納豆を",
+      "食べます",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "いつも",
+    "Japanese": "仕事に行く前にいつもジムに行きます。",
+    "Romaji": "shigoto ni iku mae ni itsumo jimu ni ikimasu.",
+    "English": "I always go to the gym before going to work.",
+    "Chunks": [
+      "仕事に",
+      "行く",
+      "前に",
+      "いつも",
+      "ジムに",
+      "行きます",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "いつも",
+    "Japanese": "いつも自転車で学校に来ますが今日は歩きました。",
+    "Romaji": "itsumo jitensha de gakkou ni kimasu ga kyou wa arukimashita.",
+    "English": "I always go to school by bike, but today I walked.",
+    "Chunks": [
+      "いつも",
+      "自転",
+      "車で",
+      "学校に",
+      "来ますが",
+      "今日は",
+      "歩きました",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "いつも",
+    "Japanese": "今日はいつもと同じ一日だった。",
+    "Romaji": "kyou wa itsumo to onaji ichinichi datta.",
+    "English": "Today was a normal day as always.",
+    "Chunks": [
+      "今日は",
+      "いつもと",
+      "同じ",
+      "一日だった",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "いつも",
+    "Japanese": "君といつも一緒に居たい。",
+    "Romaji": "kimi to itsumo issho ni itai.",
+    "English": "I want to be together with you always.",
+    "Chunks": [
+      "君と",
+      "いつも",
+      "一緒に",
+      "居たい",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "じゃない・ではない",
+    "Japanese": "あなたは一人じゃない。",
+    "Romaji": "anata wa hitori janai.",
+    "English": "You are not alone.",
+    "Chunks": [
+      "あなたは",
+      "一人じゃ",
+      "ない",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "じゃない・ではない",
+    "Japanese": "危険じゃないの?",
+    "Romaji": "kiken janai no?",
+    "English": "Isn't it dangerous?",
+    "Chunks": [
+      "危険じゃ",
+      "ないの",
+      "?"
+    ]
+  },
+  {
+    "Grammar": "じゃない・ではない",
+    "Japanese": "そんなつもりじゃなかった。",
+    "Romaji": "sonna tsumori ja nakatta.",
+    "English": "That wasn't my plan/intention.",
+    "Chunks": [
+      "そんな",
+      "つもりじゃ",
+      "なかった",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "じゃない・ではない",
+    "Japanese": "ごめんなさい!わざとではありませんでした。",
+    "Romaji": "gomennasai! wazato dewa arimasen deshita.",
+    "English": "I'm so sorry! It wasn't intentional.",
+    "Chunks": [
+      "ごめん",
+      "なさい",
+      "!",
+      "わざとでは",
+      "ありませんでした",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "じゃない・ではない",
+    "Japanese": "肉はあまり好きじゃないです。",
+    "Romaji": "niku wa amari suki janai desu.",
+    "English": "I don't really like meat.",
+    "Chunks": [
+      "肉は",
+      "あまり",
+      "好きじゃ",
+      "ないです",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "じゃない・ではない",
+    "Japanese": "若いころはやさいが好きじゃなかった。",
+    "Romaji": "wakai koro wa yasai ga suki janakatta.",
+    "English": "I didn't like vegetables when I was younger.",
+    "Chunks": [
+      "若い",
+      "ころは",
+      "やさいが",
+      "好きじゃ",
+      "なかった",
+      "。"
+    ]
+  },
+  {
+    "Grammar": "じゃない・ではない",
+    "Japanese": "私は日本語が上手ではない。",
+    "Romaji": "watashi wa nihongo ga jouzu dewa nai.",
+    "English": "I am not good at Japanese (language).",
+    "Chunks": [
+      "私は",
+      "日本",
+      "語が",
+      "上手では",
+      "ない",
+      "。"
+    ]
+  }
+]
