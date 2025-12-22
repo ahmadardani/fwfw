@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kaishi Sentences</title>
+
+  <link rel="stylesheet" href="/styles/kaishi.css">
+</head>
+<body>
+
+  <div class="page">
+
+    <!-- HEADER -->
+    <header class="page-header">
+      <h1>Kaishi</h1>
+      <p class="subtitle">
+        Beginner Japanese sentences by lesson number
+      </p>
+    </header>
+
+    <!-- CONTROLS -->
+    <div class="controls">
+      <button id="backBtn" class="control-btn">Back</button>
+      <button id="fontBtn" class="control-btn">Change Font (U)</button>
+    </div>
+
+    <!-- FILTER -->
+    <section class="filter-section">
+      <select id="noSelect">
+        <option value="all">All Lessons</option>
+      </select>
+
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Search sentence or meaning..."
+      >
+    </section>
+
+    <!-- LIST -->
+    <section id="sentenceList" class="sentence-list"></section>
+
+  </div>
+
+  <script src="/scripts/kaishi.js"></script>
+</body>
+</html>

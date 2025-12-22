@@ -1,0 +1,146 @@
+@font-face {
+  font-family: 'Choumei';
+  src: url('../fonts/Choumei_v1.11.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url('../fonts/Nunito-Regular.ttf') format('truetype');
+}
+
+body {
+  margin: 0;
+  background-color: #FFFFEE;
+  font-family: 'Nunito', sans-serif;
+  color: #000;
+}
+
+.page {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+/* HEADER */
+.page-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.page-header h1 {
+  margin: 0;
+  color: #961F1D;
+  font-size: 32px;
+}
+
+.subtitle {
+  margin-top: 8px;
+  font-size: 16px;
+  color: #444;
+}
+
+/* CONTROLS */
+.controls {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.control-btn {
+  border: 1px solid #961F1D;
+  background: none;
+  color: #961F1D;
+  padding: 6px 14px;
+  cursor: pointer;
+}
+
+.control-btn:hover {
+  background-color: #961F1D;
+  color: #FFFFEE;
+}
+
+/* FILTER */
+.filter-section {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+#noSelect,
+#searchInput {
+  flex: 1;
+  padding: 12px 14px;
+  font-size: 16px;
+  border: 1px solid #961F1D;
+  background-color: #FFFFFF;
+}
+
+/* LIST */
+.sentence-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.sentence-card {
+  border: 1px solid #961F1D;
+  background-color: #FFFDE6;
+  padding: 14px 16px;
+}
+
+.sentence-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.sentence-example {
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.jp-font {
+  font-family: 'Choumei';
+}
+
+.toggle-btn {
+  background: none;
+  border: 1px solid #961F1D;
+  color: #961F1D;
+  padding: 4px 10px;
+  cursor: pointer;
+}
+
+.toggle-btn:hover {
+  background-color: #961F1D;
+  color: #FFFFEE;
+}
+
+.sentence-body {
+  display: none;
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px dashed #961F1D;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.sentence-body.show {
+  display: block;
+}
+
+.empty {
+  text-align: center;
+  color: #961F1D;
+}
+
+.sentence-card.active {
+  outline: 2px solid #961F1D;
+}
+
+@media (max-width: 600px) {
+  .filter-section {
+    flex-direction: column;
+  }
+}
