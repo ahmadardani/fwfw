@@ -89,15 +89,25 @@ body {
   padding: 14px 16px;
 }
 
+/* Updated: Removed justify-content, added gap */
 .sentence-header {
   display: flex;
-  justify-content: space-between;
   align-items: center;
+  gap: 12px;
 }
 
+/* New class for the number */
+.sentence-num {
+  font-weight: bold;
+  color: #961F1D;
+  min-width: 25px;
+}
+
+/* Updated: added flex: 1 to push button to the right */
 .sentence-example {
   font-size: 20px;
   line-height: 1.5;
+  flex: 1;
 }
 
 .jp-font {

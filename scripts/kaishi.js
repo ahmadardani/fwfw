@@ -51,12 +51,18 @@ function renderList(data) {
     return;
   }
 
-  data.slice(0, MAX_RENDER).forEach(item => {
+  // Updated: Added index to forEach
+  data.slice(0, MAX_RENDER).forEach((item, index) => {
     const card = document.createElement('div');
     card.className = 'sentence-card';
 
     const header = document.createElement('div');
     header.className = 'sentence-header';
+
+    // New: Number element
+    const num = document.createElement('span');
+    num.className = 'sentence-num';
+    num.textContent = `${index + 1}.`;
 
     const example = document.createElement('div');
     example.className = 'sentence-example';
@@ -80,7 +86,8 @@ function renderList(data) {
       btn.textContent = body.classList.contains('show') ? 'Hide' : 'Show';
     };
 
-    header.append(example, btn);
+    // Updated: Append num before example
+    header.append(num, example, btn);
     card.append(header, body);
     listEl.appendChild(card);
   });
@@ -172,4 +179,3 @@ document.addEventListener('keydown', e => {
     cards[currentIndex].scrollIntoView({ block: 'nearest' });
   }
 });
-
