@@ -5,9 +5,11 @@ const searchInput = document.getElementById('searchInput');
 const noSelect = document.getElementById('noSelect');
 const backBtn = document.getElementById('backBtn');
 const fontBtn = document.getElementById('fontBtn');
+const modeBtn = document.getElementById('modeBtn');
 
 let sentences = [];
 let useJapaneseFont = false;
+let useHiraganaMode = false;
 let currentIndex = -1;
 
 const MAX_RENDER = 150;
@@ -51,7 +53,6 @@ function renderList(data) {
     return;
   }
 
-  // Updated: Added index to forEach
   data.slice(0, MAX_RENDER).forEach((item, index) => {
     const card = document.createElement('div');
     card.className = 'sentence-card';
@@ -59,14 +60,15 @@ function renderList(data) {
     const header = document.createElement('div');
     header.className = 'sentence-header';
 
-    // New: Number element
     const num = document.createElement('span');
     num.className = 'sentence-num';
     num.textContent = `${index + 1}.`;
 
     const example = document.createElement('div');
     example.className = 'sentence-example';
-    example.textContent = item.sentence;
+    
+    // Logic: Jika mode hiragana aktif, tampilkan hiragana di judul, sebaliknya sentence
+    example.textContent = useHiraganaMode ? item.hiragana : item.sentence;
 
     if (useJapaneseFont) example.classList.add('jp-font');
 
@@ -76,8 +78,12 @@ function renderList(data) {
 
     const body = document.createElement('div');
     body.className = 'sentence-body';
+    
+    // Logic: Isi body menukar apa yang tidak ditampilkan di judul
+    const hiddenText = useHiraganaMode ? item.sentence : item.hiragana;
+    
     body.innerHTML = `
-      <div>${item.hiragana}</div>
+      <div>${hiddenText}</div>
       <div>${item.translation}</div>
     `;
 
@@ -86,7 +92,6 @@ function renderList(data) {
       btn.textContent = body.classList.contains('show') ? 'Hide' : 'Show';
     };
 
-    // Updated: Append num before example
     header.append(num, example, btn);
     card.append(header, body);
     listEl.appendChild(card);
@@ -126,8 +131,14 @@ backBtn.onclick = () => history.back();
 
 fontBtn.onclick = () => {
   useJapaneseFont = !useJapaneseFont;
-  document.querySelectorAll('.sentence-example')
-    .forEach(el => el.classList.toggle('jp-font', useJapaneseFont));
+  renderFiltered(); // Re-render to apply font class correctly if needed
+};
+
+// Event untuk tombol Mode
+modeBtn.onclick = () => {
+  useHiraganaMode = !useHiraganaMode;
+  modeBtn.textContent = useHiraganaMode ? 'Sentence Mode (S)' : 'Hiragana Mode (S)';
+  renderFiltered();
 };
 
 document.addEventListener('keydown', e => {
@@ -141,9 +152,12 @@ document.addEventListener('keydown', e => {
 
   /* Toggle font */
   if (e.key.toLowerCase() === 'u') {
-    useJapaneseFont = !useJapaneseFont;
-    document.querySelectorAll('.sentence-example')
-      .forEach(el => el.classList.toggle('jp-font', useJapaneseFont));
+    fontBtn.click();
+  }
+  
+  /* Toggle Mode (S) */
+  if (e.key.toLowerCase() === 's') {
+    modeBtn.click();
   }
 
   /* Lesson shortcut 1–9 */
