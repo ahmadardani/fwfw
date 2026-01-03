@@ -1,0 +1,42 @@
+* { box-sizing: border-box; }
+@font-face { font-family: 'Choumei'; src: url('../fonts/Choumei_v1.11.ttf') format('truetype'); }
+@font-face { font-family: 'Nunito'; src: url('../fonts/Nunito-Regular.ttf') format('truetype'); }
+
+body { margin: 0; background-color: #FFFFEE; font-family: 'Nunito', sans-serif; color: #000; }
+.page { max-width: 900px; margin: 20px auto; padding: 0 15px; text-align: center; }
+.page-header { display: flex; align-items: center; justify-content: center; position: relative; margin-bottom: 30px; }
+.back-btn { position: absolute; left: 0; }
+h1 { color: #961F1D; margin: 0; font-size: 24px; }
+
+.nav-container { display: flex; align-items: center; justify-content: center; gap: 10px; width: 100%; }
+.quiz-card { flex: 1; max-width: 500px; min-height: 250px; border: 3px solid #961F1D; background-color: #FFFDE6; display: flex; flex-direction: column; align-items: center; justify-content: center; cursor: pointer; padding: 20px; user-select: none; }
+
+.main-text { color: #961F1D; font-weight: bold; line-height: 1.4; padding: 0 10px; }
+.sub-text { margin-top: 15px; font-size: 28px; color: #444; font-family: 'Choumei', serif; }
+.nav-arrow { background: none; border: none; font-size: 32px; color: #961F1D; cursor: pointer; flex-shrink: 0; }
+
+.input-container { margin-top: 25px; max-width: 500px; margin-left: auto; margin-right: auto; }
+.input-group { display: flex; gap: 8px; }
+
+#answerInput { flex: 1; padding: 12px; font-size: 18px; border: 2px solid #961F1D; background-color: #FFF; outline: none; }
+#checkBtn { padding: 0 20px; font-weight: bold; }
+
+#answerInput.correct-input { border-color: #2e7d32; background-color: #f1f8e9; }
+#answerInput.wrong-input { border-color: #c62828; background-color: #ffebee; }
+
+.feedback { margin-top: 10px; font-weight: bold; height: 24px; }
+.feedback.correct { color: #2e7d32; }
+.feedback.wrong { color: #c62828; }
+
+.card-counter { margin-top: 20px; color: #961F1D; font-size: 14px; }
+.control-btn { border: 1px solid #961F1D; background: none; color: #961F1D; padding: 6px 14px; cursor: pointer; }
+.control-btn:hover { background-color: #961F1D; color: #FFFFEE; }
+
+.jp-font { font-family: 'Choumei', serif; }
+
+@media (max-width: 600px) {
+    .quiz-card { min-height: 200px; }
+    h1 { font-size: 20px; }
+    .input-group { flex-direction: column; }
+    #checkBtn { padding: 12px; }
+}
