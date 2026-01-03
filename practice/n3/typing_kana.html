@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>N3 Kana Quiz</title>
+    <link rel="stylesheet" href="../../styles/typing_kana.css">
+</head>
+<body>
+
+    <div class="page">
+        <header class="page-header">
+            <button class="control-btn back-btn" onclick="history.back()">Back</button>
+            <h1>N3 Kana Quiz</h1>
+        </header>
+
+        <main class="quiz-section">
+            <div class="nav-container">
+                <button class="nav-arrow" onclick="prevCard()">&lt;</button>
+                
+                <div class="quiz-card" id="quizCard" onclick="toggleDisplay()">
+                    <div id="cardMain" class="jp-font main-text"></div>
+                    <div id="cardSub" class="sub-text"></div>
+                </div>
+
+                <button class="nav-arrow" onclick="nextCard()">&gt;</button>
+            </div>
+
+            <div class="input-container">
+                <div class="input-group">
+                    <input type="text" id="answerInput" placeholder="Ketik kana..." autocomplete="off">
+                    <button id="checkBtn" class="control-btn">Check</button>
+                </div>
+                <div id="feedback" class="feedback"></div>
+            </div>
+
+            <div class="card-counter" id="cardCounter">0 / 0</div>
+        </main>
+    </div>
+
+    <script src="../../scripts/typing_kana.js"></script>
+</body>
+</html>

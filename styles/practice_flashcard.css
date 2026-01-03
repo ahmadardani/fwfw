@@ -1,0 +1,151 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Choumei';
+  src: url('../fonts/Choumei_v1.11.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url('../fonts/Nunito-Regular.ttf') format('truetype');
+}
+
+body {
+  margin: 0;
+  background-color: #FFFFEE;
+  font-family: 'Nunito', sans-serif;
+  color: #000;
+  overflow-x: hidden;
+}
+
+.page {
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 0 15px;
+  text-align: center;
+}
+
+.page-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  margin-bottom: 30px;
+  min-height: 50px;
+}
+
+.back-btn {
+  position: absolute;
+  left: 0;
+  font-size: 14px;
+}
+
+h1 {
+  color: #961F1D;
+  margin: 0;
+  font-size: 24px;
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+}
+
+.flashcard {
+  flex: 1;
+  max-width: 500px;
+  min-height: 280px;
+  border: 3px solid #961F1D;
+  background-color: #FFFDE6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  padding: 20px;
+  user-select: none;
+  box-shadow: 4px 4px 0px rgba(150, 31, 29, 0.1);
+}
+
+.main-text {
+  font-family: 'Choumei', serif;
+  color: #961F1D;
+  word-break: break-all;
+  line-height: 1.2;
+}
+
+.sub-text {
+  margin-top: 15px;
+  font-size: 18px;
+  color: #961F1D;
+  min-height: 40px;
+  line-height: 1.4;
+}
+
+.nav-arrow {
+  background: none;
+  border: none;
+  font-size: 32px;
+  color: #961F1D;
+  cursor: pointer;
+  padding: 5px;
+  flex-shrink: 0;
+  transition: transform 0.1s;
+}
+
+.nav-arrow:active {
+  transform: scale(0.9);
+}
+
+.card-counter {
+  margin-top: 20px;
+  color: #961F1D;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.control-btn {
+  border: 1px solid #961F1D;
+  background: none;
+  color: #961F1D;
+  padding: 6px 14px;
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .page {
+    margin: 10px auto;
+  }
+  
+  .flashcard {
+    min-height: 250px;
+  }
+
+  h1 {
+    font-size: 20px;
+  }
+
+  .back-btn {
+    padding: 4px 10px;
+  }
+}
+
+@media (max-width: 400px) {
+  .nav-container {
+    gap: 5px;
+  }
+  
+  .flashcard {
+    padding: 15px;
+    min-height: 220px;
+  }
+
+  .nav-arrow {
+    font-size: 28px;
+  }
+}
