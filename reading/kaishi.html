@@ -4,13 +4,11 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Kaishi Sentences</title>
-
   <link rel="stylesheet" href="/styles/kaishi.css">
 </head>
 <body>
 
   <div class="page">
-
     <header class="page-header">
       <h1>Kaishi</h1>
       <p class="subtitle">
@@ -22,6 +20,14 @@
       <button id="backBtn" class="control-btn">Back</button>
       
       <div class="controls-group">
+        <div class="options-wrapper">
+          <button id="optionsBtn" class="control-btn">Options</button>
+          <div id="optionsSubmenu" class="submenu hidden">
+            <button id="uploadMistakeBtn" class="control-btn">Upload Mistake</button>
+            <button id="chooseMistakeBtn" class="control-btn">Choose Mistake</button>
+          </div>
+        </div>
+        
         <button id="fontBtn" class="control-btn">Change Font (U)</button>
         <button id="modeBtn" class="control-btn">Hiragana Mode (S)</button>
       </div>
@@ -39,8 +45,11 @@
       >
     </section>
 
-    <section id="sentenceList" class="sentence-list"></section>
+    <button id="saveMistakeBtn" class="control-btn hidden save-full-width">
+      Save Selected Mistakes
+    </button>
 
+    <section id="sentenceList" class="sentence-list"></section>
   </div>
 
   <script src="/scripts/kaishi.js"></script>

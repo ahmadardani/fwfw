@@ -7,10 +7,22 @@ const backBtn = document.getElementById('backBtn');
 const fontBtn = document.getElementById('fontBtn');
 const modeBtn = document.getElementById('modeBtn');
 
+// New UI Elements
+const optionsBtn = document.getElementById('optionsBtn');
+const optionsSubmenu = document.getElementById('optionsSubmenu');
+const chooseMistakeBtn = document.getElementById('chooseMistakeBtn');
+const uploadMistakeBtn = document.getElementById('uploadMistakeBtn');
+const saveMistakeBtn = document.getElementById('saveMistakeBtn');
+
 let sentences = [];
+let mistakeData = JSON.parse(localStorage.getItem('kaishi_mistakes')) || [];
 let useJapaneseFont = false;
 let useHiraganaMode = false;
 let currentIndex = -1;
+
+// Selection State
+let isSelectionMode = false;
+let selectedIndices = new Set(); // Menyimpan teks unik kalimat yang dipilih
 
 const MAX_RENDER = 150;
 
@@ -29,21 +41,31 @@ fetch(DATA_URL)
   });
 
 /* =========================
-   POPULATE NO
+   POPULATE DROPDOWN
 ========================= */
 function populateNo() {
-  const uniqueNo = [...new Set(sentences.map(s => s.no))].sort((a, b) => a - b);
+  // Reset dan tambahkan "All Lessons"
+  noSelect.innerHTML = '<option value="all">All Lessons</option>';
 
+  const uniqueNo = [...new Set(sentences.map(s => s.no))].sort((a, b) => a - b);
   uniqueNo.forEach(no => {
     const opt = document.createElement('option');
     opt.value = no;
     opt.textContent = `Lesson ${no}`;
     noSelect.appendChild(opt);
   });
+
+  // Tambahkan Sesi Mistake jika ada data yang tersimpan
+  if (mistakeData.length > 0) {
+    const opt = document.createElement('option');
+    opt.value = 'mistakes';
+    opt.textContent = 'Mistake Session';
+    noSelect.appendChild(opt);
+  }
 }
 
 /* =========================
-   RENDER
+   RENDER LIST
 ========================= */
 function renderList(data) {
   listEl.innerHTML = '';
@@ -56,6 +78,11 @@ function renderList(data) {
   data.slice(0, MAX_RENDER).forEach((item, index) => {
     const card = document.createElement('div');
     card.className = 'sentence-card';
+    
+    // Status visual jika kartu dipilih
+    if (isSelectionMode && selectedIndices.has(item.sentence)) {
+      card.classList.add('selected');
+    }
 
     const header = document.createElement('div');
     header.className = 'sentence-header';
@@ -66,10 +93,7 @@ function renderList(data) {
 
     const example = document.createElement('div');
     example.className = 'sentence-example';
-    
-    // Logic: Jika mode hiragana aktif, tampilkan hiragana di judul, sebaliknya sentence
     example.textContent = useHiraganaMode ? item.hiragana : item.sentence;
-
     if (useJapaneseFont) example.classList.add('jp-font');
 
     const btn = document.createElement('button');
@@ -78,16 +102,24 @@ function renderList(data) {
 
     const body = document.createElement('div');
     body.className = 'sentence-body';
-    
-    // Logic: Isi body menukar apa yang tidak ditampilkan di judul
     const hiddenText = useHiraganaMode ? item.sentence : item.hiragana;
-    
-    body.innerHTML = `
-      <div>${hiddenText}</div>
-      <div>${item.translation}</div>
-    `;
+    body.innerHTML = `<div>${hiddenText}</div><div>${item.translation}</div>`;
 
-    btn.onclick = () => {
+    // LOGIK KLIK KARTU
+    card.onclick = () => {
+      if (isSelectionMode) {
+        if (selectedIndices.has(item.sentence)) {
+          selectedIndices.delete(item.sentence);
+          card.classList.remove('selected');
+        } else {
+          selectedIndices.add(item.sentence);
+          card.classList.add('selected');
+        }
+      }
+    };
+
+    btn.onclick = (e) => {
+      e.stopPropagation(); // Mencegah card.onclick terpicu
       body.classList.toggle('show');
       btn.textContent = body.classList.contains('show') ? 'Hide' : 'Show';
     };
@@ -107,7 +139,10 @@ function renderFiltered() {
 
   let filtered = sentences;
 
-  if (no !== 'all') {
+  // Jika Sesi Mistake dipilih
+  if (no === 'mistakes') {
+    filtered = mistakeData;
+  } else if (no !== 'all') {
     filtered = filtered.filter(s => String(s.no) === no);
   }
 
@@ -123,7 +158,70 @@ function renderFiltered() {
 }
 
 /* =========================
-   EVENTS
+   NEW FEATURE EVENTS
+========================= */
+
+// Toggle Dropdown Options
+optionsBtn.onclick = (e) => {
+  e.stopPropagation();
+  optionsSubmenu.classList.toggle('hidden');
+};
+
+// Tutup submenu jika klik di mana saja
+document.addEventListener('click', () => optionsSubmenu.classList.add('hidden'));
+
+// Mode Pilih (Choose Mistake)
+chooseMistakeBtn.onclick = () => {
+  isSelectionMode = !isSelectionMode;
+  if (isSelectionMode) {
+    chooseMistakeBtn.textContent = "Cancel Selection";
+    listEl.classList.add('selection-mode');
+    saveMistakeBtn.classList.remove('hidden');
+    selectedIndices.clear();
+  } else {
+    chooseMistakeBtn.textContent = "Choose Mistake";
+    listEl.classList.remove('selection-mode');
+    saveMistakeBtn.classList.add('hidden');
+  }
+  renderFiltered();
+};
+
+// Simpan Mistake
+saveMistakeBtn.onclick = () => {
+  const toSave = sentences.filter(s => selectedIndices.has(s.sentence));
+  
+  if (toSave.length === 0) {
+    alert("Please select some sentences first!");
+    return;
+  }
+
+  // Simpan ke memori browser
+  mistakeData = toSave;
+  localStorage.setItem('kaishi_mistakes', JSON.stringify(mistakeData));
+  
+  // Selesaikan mode pilih
+  isSelectionMode = false;
+  listEl.classList.remove('selection-mode');
+  saveMistakeBtn.classList.add('hidden');
+  chooseMistakeBtn.textContent = "Choose Mistake";
+  
+  alert("Mistakes saved to your session!");
+  populateNo(); // Refresh dropdown
+  renderFiltered();
+};
+
+// Upload/Lihat Mistake
+uploadMistakeBtn.onclick = () => {
+  if (mistakeData.length === 0) {
+    alert("No mistakes saved yet.");
+    return;
+  }
+  noSelect.value = 'mistakes';
+  renderFiltered();
+};
+
+/* =========================
+   ORIGINAL EVENTS
 ========================= */
 searchInput.addEventListener('input', renderFiltered);
 noSelect.addEventListener('change', renderFiltered);
@@ -131,60 +229,47 @@ backBtn.onclick = () => history.back();
 
 fontBtn.onclick = () => {
   useJapaneseFont = !useJapaneseFont;
-  renderFiltered(); // Re-render to apply font class correctly if needed
+  renderFiltered();
 };
 
-// Event untuk tombol Mode
 modeBtn.onclick = () => {
   useHiraganaMode = !useHiraganaMode;
   modeBtn.textContent = useHiraganaMode ? 'Sentence Mode (S)' : 'Hiragana Mode (S)';
   renderFiltered();
 };
 
+/* KEYBOARD NAVIGATION */
 document.addEventListener('keydown', e => {
   const cards = document.querySelectorAll('.sentence-card');
 
-  /* Focus search */
-  if (e.key === '/') {
-    e.preventDefault();
-    searchInput.focus();
-  }
+  if (e.key === '/') { e.preventDefault(); searchInput.focus(); }
+  if (e.key.toLowerCase() === 'u') fontBtn.click();
+  if (e.key.toLowerCase() === 's') modeBtn.click();
 
-  /* Toggle font */
-  if (e.key.toLowerCase() === 'u') {
-    fontBtn.click();
-  }
-  
-  /* Toggle Mode (S) */
-  if (e.key.toLowerCase() === 's') {
-    modeBtn.click();
-  }
-
-  /* Lesson shortcut 1–9 */
   if (/^[0-9]$/.test(e.key)) {
     const key = e.key === '0' ? 'all' : e.key;
-
     if (key === 'all' || [...noSelect.options].some(o => o.value === key)) {
       noSelect.value = key;
       renderFiltered();
     }
   }
 
-  /* Navigation */
   if (e.key === 'ArrowDown') {
     e.preventDefault();
     currentIndex = Math.min(currentIndex + 1, cards.length - 1);
   }
-
   if (e.key === 'ArrowUp') {
     e.preventDefault();
     currentIndex = Math.max(currentIndex - 1, 0);
   }
 
-  /* Toggle sentence */
   if (e.key === 'Enter' && currentIndex >= 0) {
-    const btn = cards[currentIndex].querySelector('.toggle-btn');
-    btn.click();
+    if (isSelectionMode) {
+      cards[currentIndex].click();
+    } else {
+      const btn = cards[currentIndex].querySelector('.toggle-btn');
+      btn.click();
+    }
   }
 
   cards.forEach(c => c.classList.remove('active'));
